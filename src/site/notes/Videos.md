@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos/","created":"2025-04-17T21:31:34.447+01:00","updated":"2025-04-17T21:50:06.927+01:00"}
+{"dg-publish":true,"permalink":"/videos/","created":"2025-04-17T21:31:34.447+01:00","updated":"2025-04-17T21:52:55.237+01:00"}
 ---
 
 # Videos
@@ -11,20 +11,18 @@ They are ordered from my favourite to least favourite. Please try to look past t
 ## Boris the Orange: An Unexpected Journey
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fPLRQYixluE?si=MjKK-iwt5UKcsaMn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-![Boris the Orange: An Unexpected Journey](https://youtu.be/fPLRQYixluE)
 ## Boris the Orange Outtakes
 
-![Boris the Orange Outtakes](https://youtu.be/mRpByHVqlEU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mRpByHVqlEU?si=SkMgsGZmBXnj9O1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Colin the Cactus
 
-![Colin the Cactus](https://youtu.be/vTPSQTtr7K0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vTPSQTtr7K0?si=19Zi3fyCNokQWnQi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Clone
 
-![Clone](https://youtu.be/yg23PpPC92s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yg23PpPC92s?si=8awUw0fRKI_M5W2h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Dubstep Egg
 
-![Dubstep Egg](https://youtu.be/iOUfkq4xAoo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOUfkq4xAoo?si=-3kmjoKk4DDAjgGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Eat Me
 
-![Eat Me](https://youtu.be/7MBvSkA57cA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7MBvSkA57cA?si=rW_KK9CT-EhXj5XR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
