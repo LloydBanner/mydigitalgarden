@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-8-31-01-2025/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:44:18.944+01:00","updated":"2025-04-17T23:12:09.087+01:00"}
+---
+
+# Whiterock Session 8 31-01-2025
+## Session Notes
+
+Stinkcat was let out of prison until the trail because they had know significant evidence that they did anything. Geog and Maia made their way to Whiterock in their own time and everyone happened to meet the Eadan the blacksmith's shop in Whiterock. There Maia comissioned a Ignid scale shield and both Maia and Stinkcat ordered Ignid tooth daggers. Eadan said these could be collected within a weeks time. They also discussed the illusionist guild who had taken over the town and how since then people had started to go missing in the lower docks. They also learnt about the arena tournaments that were taking place and that there were large rewards for winning them. 5000gp 1st place in the singles. 1000gp second, 500gp third. for doubles, triples and quadruples is was 2500gp for first, 500gp for second and 250gp for third if you survived. They then had a long discussion with Eadan about democracy, oligarchy, communism and other forms of governance.
+
+They started discussing off hand tactics to win in the arena so went to the hired room in the Gawping Cod to discuss this instead of doing it in the open. Inside they decided that Geog would enter the singles tournament and Stinkcat, Maia and Breadwig would do the triples. They also decided that they would do the fights legally since Stinkcat was only out on bail. On the way to the tournament the went to the enchanter's shop. Inside Ceana the small, old woman owner of the shop, which was stacked high with old books, told them about the enchantments she had on offer. Stinkcat had a homing enchantment and a silence enchantment applied to their bolas, Breadwig had is disintegration staff recharged and she agreed to give them a recharge crystal in exchange for time to study the enchantments on the sord Darkfire and the Disintegration staff after the tournament.
+
+With the bells chiming saying that it was only half an hour until the tournament the party rushed to enter the tournament. Geog was first fighting a powerful healer. His tactic was to throw a spear as he approached his opponent with Darkfire in defence mode and then switch Darkfire in to offence mode to fight his opponent. He missed many attacks while his living armour was too strong for the healer to penetrate. Eventually he swung around decapitating the healers head and killing him in one swoop. The arena announcer and crowd went wild. As Geog went to lift the head of the healer to encourage the crowd even more he slipped the healers wand up his sleave. Next up the rest of the party, who had given themselves the arena name Stagdo, was up against a trio of wood elf archer triplets. Stinkcat incapacitated one with their homing bolas, while Maia slung stones at the eye of another and Breadwig shot a poison dart which embeded itself in the third's chest. The one with the poison dart shot back at Breadwig landing a devastating blow. Maia used her light spell to blind everyone both in the crowd and her opponents but Stinkcat and Breadwig knew to look away. The triplets conceded.
+
+For Geog's next round he fought a well equipped ranger who had a sword, bow and many potions. Geog skimmed him with his spear, drawing blood but doing little damaged and he shot back but the arrow was very wide. Geog quickly closed the gap and chopped off the ranger's arm who dropped his weapons and conceded. Next Stagdo were fighting a mage, an archer and a fighter. As they approached Breadwig cast sleep dropping the fighter but eveyone else remained unaffected. Maia hit another with her slingshot knocking them over and Stinkcat convince them that it wasn't worth them continuing to fight.
+
+For the final round Geog fought a huge man called Davil the Destroyer. He had a huge axe coated in a purple corrosive poison. Geog went with his previous tactic and again missed with the spear. His first attacked missed resulting in Darkfire getting stuck in the sand. Davil swung at him but also missed. Geog switched Darkfire in to defence mode so it stopped melting into the ground swung it over and tried to hit Davil's behind but he was too well armoured at the attack was deflected. Davil spun completely overreaching, fell to the floor and dropped his axe. Geog picked it up and sliced down Davil's back corroding the armour. Geog threatened him into conceding and Davil was happy to do so, so he could get the antidote for his poison. The announcer proclaimed him Geog the Mighty. The final Match was Stagdo vs three tanks. As they ran towards Stagdo Breadwig used the disintegration staff melting the leaders armour and causing his skin to begin to melt. Seeing the devestation the opposing team instantly quit with a bit of persuasion from Stinkcat. They already had some prise money and didn't want to die for the rest.
+
+Geog won 5000gp and Stagdo won 2500gp which they split equally. Breadwig had put two 100gp bets one on Geog and another on their team to win so doubled his bet getting 400gp back. They went and collected the charging crystal from Ceana and gave their weapons over for study and then began thinking about what they were going to do to get their colleagues out of prison.
+
+##### XP
+7900 xp Tournament Winnings
+1000 xp Human kills
+8900 xp total
+2225 xp each
+
+| Character      | XP After Last Session | Current XP                                                                |
+| -------------- | --------------------- | ------------------------------------------------------------------------- |
+| Jatumal (WE2)  | 3942                  | 3942 (Still need to do Level Up!) (Need to get to 6000 xp to level up)    |
+| Breadwig (MU3) | 4173                  | 6398 (Level Up!) need to pick spell (Need to get to 10000 xp to level up) |
+| Stinkcat (M3)  | 3978                  | 6203 (Need to get to 7000 xp to level up)                                 |
+| Sphonyx (I2)   | 3340                  | 3340 (Still need to do Level Up!) (Need to get to 5000 xp to level up)    |
+| Maia (Dr2)     | 2920                  | 5145 (Level Up!) need to pick spell (Need to get to 8000 xp to level up)  |
+| Geog (D3)*     | 2282                  | 4507 (Level Up!) done (Need to get to 8800 xp to level up)                |
