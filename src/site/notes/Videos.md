@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos/","created":"2025-04-17T21:31:34.447+01:00","updated":"2025-04-17T21:36:25.222+01:00"}
+{"dg-publish":true,"permalink":"/videos/","created":"2025-04-17T21:31:34.447+01:00","updated":"2025-04-17T21:50:06.927+01:00"}
 ---
 
 # Videos
@@ -9,6 +9,8 @@ A long time ago I used to have a [Youtube Channel](https://youtube.com/@defeate
 They are ordered from my favourite to least favourite. Please try to look past the terrible acting of my 14 year old self.
 
 ## Boris the Orange: An Unexpected Journey
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fPLRQYixluE?si=MjKK-iwt5UKcsaMn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![Boris the Orange: An Unexpected Journey](https://youtu.be/fPLRQYixluE)
 ## Boris the Orange Outtakes
