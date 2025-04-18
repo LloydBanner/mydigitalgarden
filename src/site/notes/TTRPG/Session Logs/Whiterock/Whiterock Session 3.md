@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-3/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:20.845+01:00","updated":"2025-04-18T12:11:47.168+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-3/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:20.845+01:00","updated":"2025-04-18T12:24:10.579+01:00"}
 ---
 
 ## Session Notes
@@ -14,7 +14,7 @@ Next the party returned to the dinning hall of the keep to create makeshift shie
 
 After this they returned and carried on through the dungeon. Next they entered a lab and were attacked by possessed furniture. With Geog's fire sword and Sphonyx's holy water they made short work of these. Inside they found various magic potions and some research notes. There were experimented on skeletons in the room.
 
-Before proceeding, the group studied the map carefully deciding next to go after a staff guarded by living armour on the map. They saw that there was a rust monster in one of the corridors and a magic door that could be opened by chanting 'nepo' to get into the room. Breadwig, Jatumal and Maia experimented with the door finding that chanting 'esolc' closed the door since 'nepo' was 'open' backwards. Then Breadwig lured the rust monster into the room using iron spikes, letting it attack the living armour. While the armour was distracted Sphonyx ran for the staff dodging multiple strikes from the living armour who had not been eaten and who had been enchanted to protect the staff. The others began attacking the armour to cover Sphonyx while she returned. On the way she used the staff to turn one suit of armour to dust. They all ran through the magic door and chanted 'esolc' to close the door before resting in the lab.
+Before proceeding, the group studied the map carefully deciding next to go after a staff guarded by living armour on the map. They saw that there was a rust monster in one of the corridors and a magic door that could be opened by chanting 'nepo' to get into the room. Breadwig, Jatumal and Maia experimented with the door finding that chanting 'esolc' closed the door since 'nepo' was 'open' backwards. Then Breadwig lured the rust monster into the room using iron spikes, letting it attack the living armour. While the armour was distracted Sphonyx ran for the staff dodging multiple strikes from the living armour who had not been eaten and who had been enchanted to protect the staff. The others began attacking the armour to cover Sphonyx while she returned. On the way she used the staff to turn one suit of armour to dust. They all ran through the magic door and chanted 'esolc' to close the door before resting in the lab. 
 
 ##### XP
 Possessed Furniture * 6 300xp

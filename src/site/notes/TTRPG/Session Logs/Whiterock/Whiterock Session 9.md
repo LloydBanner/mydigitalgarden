@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-9/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:44:28.035+01:00","updated":"2025-04-18T12:11:23.668+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-9/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:44:28.035+01:00","updated":"2025-04-18T12:24:42.059+01:00"}
 ---
 
 ## Session Notes
- 
+  
 In this session we had the trial of Jatumal, Stinkcat and Sphonyx. Breadwig represented them as a lawyer. The group were brought before a court in the main tower of Whiterock. Judge Benson Wild ran the trial and a Lawyer called Veridia Blackwood lead the prosecution. The party were given some time to prepare their case before the trial began.
 
 To begin with they called Kaid the boat race organiser to the stand and asked if he had overheard them placing their bets with the gambling master before the race. He explained that he had heard them put a high bet on and the gambling master had offered them very high payback due to thinking they had low odds of winning, these were 10:1. He also noticed that the gambling master had packed up his stall and left before the party had gotten off of their boat. Veridia then asked about how the part won the race and if it was usual. Kaid explained that there were no rules in the race but the group had used so unexpected tactics. They had hypnotised some of the opposition and had used a sleep spell on one before killing him.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-4/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:34.408+01:00","updated":"2025-04-18T12:11:39.637+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-4/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:34.408+01:00","updated":"2025-04-18T12:24:30.769+01:00"}
 ---
 
 ## Session Notes
@@ -13,7 +13,7 @@ They were inside the painting a looked painted themselves. There was an easel wi
 Leaving the painting the group easily got back to the surface and brought the still sleeping Sphonyx and Geog back by putting them into the painting. After which they set up a sign stating 30 gold for a consultation and upset Uddik the man who had been appraising magic items for them by suggesting using a sign that would change price based on the amount of money someone had with them.
 
 Next they returned to the Terrible Toad tavern to speak to the miners about the mines after learning more about the Ignid from Sarzan. The miners were drunk and unhelpful but mentioned that one of their colleagues had gone missing. They then followed a trail up a cliff to find footprints turning in to demon prints before disappearing. Seeing two landmarks, one a series an ancient stones and another a large tower they decided to investigate.
-
+ 
 First they visited the tower which had new fortifications that had been recently erected. On top of the gate were two cultists with Acman's symbol on their chests. Jatumal and Maia decided to try to infiltrate the wall by using the cultist robes that Jatumal had taken from one on their last encounter. Jatumal put on the robes and Maia pretended to be a prisoner by covering herself in dirt. They reached the wall where Jatumal had a very unsuccessful attempt at persuading the cultists to let them in. The cultists the opened the gates releasing a horde of skeletons. The party then ran back towards Stagbrook and eventually the skeletons turned back.
 
 Next they tried the stones where a Lamassu, A lion with wings and the head of a man, landed in their path warning them not to go any further as it was the guardian of this place. It gave them an offer of gold to never go any further and was only interested in its one goal of protecting the stones. Not accepting the offer the group returned to Stagbrook and visited the miners again.

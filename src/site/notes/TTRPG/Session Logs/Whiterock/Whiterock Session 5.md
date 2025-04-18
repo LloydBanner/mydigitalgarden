@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-5/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:46.350+01:00","updated":"2025-04-18T12:11:36.464+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-5/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:46.350+01:00","updated":"2025-04-18T12:24:33.671+01:00"}
 ---
 
 ## Session Notes
@@ -7,7 +7,7 @@
 The party decided it was vital that they stopped Acman and the army he was creating. Initially, the party visited the church of Felheim in Stagbrook where they found to priests we would bless their gear and provide holy water. They were called Philistine and Badger. The group paid to get many of their weapons blessed and filled a barrel that they got from Rodger's shop with holy water. They also bought a mace, marbles, and two bellows from the shop after some haggling. After this, needing to wait for the blessings to be completed they went to the tavern where some gambling was done with the miners and they also met Sally hope, Barnaby the lawyer's wife, who Sphonyx bought a book from.
 
 When some time had passed they gathered their equipment and made their way to the tower. Sphonyx attempted to seduce the guards in to letting them in which failed rather quickly. But Stinkcat mimicked the voices of the guards on the wall to prevent them from sending the skeletons out. Sphonyx then used her hypnotism spell to persuade the guards to give them their robes, tell them all about Acman's lair and go and bathe in the pond of foresight. This meant three of the five now had cultist outfits. Entering the wooden walls around the tower they found another guard who they quickly took out to get another set of robes. Geog was the only one left without any robes so he carried the holy water barrel and acted as if he was a slave.  
-
+ 
 With these disguises they walk straight past the skeleton army and to the main tower. Using the secret pass code they were able to have the drawbridge over the moat of boiling blood lowered and enter the tower. On the ground floor they encountered a demon who wanted to know their business. They explained that they were bringing virgin blood to help Acman's transformation and wanted to go straight to him but the demon was not convinced so told them to take the barrel to the basement where the blood was usually kept while he checked. Inside the basement they set up a trap. They put a bucket of holy water on top of the door at the top of the stairs and threw blessed marbles all over the stairs.
 
 When the demon returned he was shocked by the water which caused him to begin to melt. Then he slipped on the marbles which became embedded in his skin as he slid down the stairs. When he reached the bottom they pummelled the demon and drenched it in holy water using the bellows until it melted in to a puddle of demon sludge which Sphonyx took a cup of. With the demon dead they made their way up the tower bringing the barrel of holy water with them. On the ground floor they found undead summoning circles which they sprinkled some holy water on.

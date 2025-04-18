@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-2/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:11.728+01:00","updated":"2025-04-18T12:11:50.600+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-2/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:11.728+01:00","updated":"2025-04-18T12:24:03.823+01:00"}
 ---
 
 ## Session Notes
@@ -21,7 +21,7 @@ Hearing about the pond Sphonyx stopped her retreat. The creature explained that 
 After these visions they began asking the creature who said his name was Zuchi about the pond. He explained that he needed to keep some water in his head to maintain his lifeforce and that the pond saw the future. He always saw himself swimming in the pond but often couldn't distinguish what was a vision and what was not because he was always in the same place.
 
 Jatumal and Breadwig attempted to shrink the boat again but made it even bigger by pressing the button. Then they pulled it causing it to shrink and were left with the model boat sat in the water. Zuchi thanked them for sharing a drink with him and healed Jatumal a little. Jatumal topped up his waterskin with some pond of foresight water and they left, catching up with Sphonyx. 
-
+ 
 At the mouth of the cliff path they found a wrecked cart with spilt supplies but no spices. There were footprints leading between a wood which the winds howled through and the mountain edge. The party made their way along this route hearing laughing and chatter behind a large cliff outcropping. Jatumal snuck through the wood to get a better view, spotting two bandits on the cliffs and three in a camp below.
 
 He returned and conveyed this to the others. They made a plan where Jatumal and Breadwig would climb in to the cliff to take shots at the others up there while they were unaware and Stinkcat and Sphonyx would take the three below. Jatumal and Breadwig easily climbed atop the cliff and Breadwig cast a sleep spell the caused the entire camp to fall asleep. Shocked by the effectiveness of the spell they all ran in and began looting as quickly as they could before the others took things. When they had done that, and Sphonyx had the spice, most of the party began messing with the bandits while Sphonyx left to go back to Stagbrook.

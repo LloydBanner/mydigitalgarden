@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-10/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:44:36.715+01:00","updated":"2025-04-18T12:11:19.267+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-10/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:44:36.715+01:00","updated":"2025-04-18T12:24:47.025+01:00"}
 ---
 
 ## Session Notes
@@ -7,7 +7,7 @@
 ![harbourCrawl.jpeg|300](/img/user/z_assets/TTRPG/Maps/harbourCrawl.jpeg)
  
 The party met back up in the Gawping Cod. Inside they overheard talk of eyeless red robed priests taking over the Obsidian Keep and some great battle happening there which ended in disaster. They also met a Beast Master called Derek who wanted to travel to the keep because he believed there was a giant seagull there who he could tame. He tagged along with the party although they were still a little unsure of him. Out in the town people were packing up from the recent celebrations. The party collected their ingnid weapons from Eadan the black smith and bought some new enchanted gear from Ceana the enchantress. Jatumal ordered 5 disintegration arrows for next time they were in town and Sphonyx ordered a disintegration staff and paralysis staff while buying an unstable first attempt disintegration wand from Ceana. Jatumal also bought some cupid arrows from Ceana and a exquisite bow from Harald the fletcher.
-
+ 
 After this the group set sail for the Obsidian Keep. along the way Derek tried unsuccessfully to tame some seagulls and the party questioned him about who he was and why he had come with them. He explained he was from a small island where he and his father used to farm seagulls and he wanted to find the largest seagull in the world, the king seagull. It wasn't long before the calm waters began to get rougher, the sky turned red and a great storm began. Through the storm the party could see a large island with sheer cliff faces on all sides apart from a small cover. They sailed the boat into the cove where a series of wrecks and ruins were strewn before them.
 
 They carefully made their way through the cove first coming across a capsized cutter with a woman sat upon it fishing. She explained her ship had been struck by red lightning and she had been stuck there for a few days and was just trying to survive. She was a maid named Rosetta. They invited her aboard. She explained there were some sword on the boat and tossed an ornate one with a coral handle to Geog who slipped. The sword fell into the cold waters below but Jatumal performed a perfect dive and retrieved the sword claiming it for himself. along the way to the next point of interest a bottle bobbed in the water, Stinkcat jumped in for it forgetting they couldn't swim but was fortunate that Jatumal tied a rope around their waste just before they decided to jump. The party were able to pull them back in with the bottle. It had a note inside from a man named Bruno telling his love to marry his brother because it didn't matter now since he was cling to a rock for his life.
