@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/end-of-an-empire/","tags":["creativeGraveyard","feed"],"created":"2025-04-18T12:52:07.405+01:00","updated":"2025-04-18T12:56:11.969+01:00"}
+---
+
+This was a summer project in 2022. I am a big fan of [[Star Wars\|Star Wars]], or at least some of it but let's not get into that. There are some great [[Star Wars\|Star Wars]] video games, which you can see more about in my recommendations, and I wanted to create some software that would unify the single player matches and modes from these games into one campaign a bit like Galactic Conquest in [[Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]]. The idea was that you could create spaceships and invade planets and when you did it would randomly select relevant locations, games and gamemodes for the encounter. I was quite happy with the results of the code that I wrote, I had planned to make a proper user interface rather than keeping it all command line but when I started playing it wasn't that fun. Some of the newer games took a long time to load, different games had more depth and others felt a bit random. I always had the most fun with [[Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]] and found a great mod that allowed you to add user created maps to Galactic Conquest in that game called [Choose your own Galactic Conquest](https://www.moddb.com/mods/choose-your-own-galactic-conquest/downloads/choose-your-own-galactic-conquest-2024-edition). This gave the variety I desired but it would still be nice to have some more variation in gamemodes.
+
+The other problem is that the codebase was becoming quite large and I don't think python was the best language to maintain this.
+
+[Code](https://github.com/LloydBanner/EndOfAnEmpire)
