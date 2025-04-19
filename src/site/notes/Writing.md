@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/writing/","created":"2025-04-18T09:32:42.745+01:00","updated":"2025-04-18T12:22:53.234+01:00"}
+{"dg-publish":true,"permalink":"/writing/","created":"2025-04-18T09:32:42.745+01:00","updated":"2025-04-19T15:19:26.256+01:00"}
 ---
 
 A page to collect all the things I have written. This will include, but is not limited to, books, short stories and ideas. 
@@ -10,4 +10,15 @@ A page to collect all the things I have written. This will include, but is not l
 - [[Crumbling World\|Crumbling World]]: September 2018
 
 { .block-language-dataview}
+## Short Stories
+- [[The Artificial World\|The Artificial World]]: 09-03-2013
+- [[Two of Me\|Two of Me]]: 21-06-2018
 
+{ .block-language-dataview}
+## Thoughts
+- [[Media Consumption\|Media Consumption]]: 19-04-2025
+
+{ .block-language-dataview}
+## Abandoned Projects
+- [[Astray in the Darkmounds\|Astray in the Darkmounds]]
+- [[Space Magic\|Space Magic]]
