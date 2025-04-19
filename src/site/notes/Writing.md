@@ -11,8 +11,8 @@ A page to collect all the things I have written. This will include, but is not l
 
 { .block-language-dataview}
 ## Short Stories
-- [[The Artificial World\|The Artificial World]]: 09-03-2013
 - [[Two of Me\|Two of Me]]: 21-06-2018
+- [[The Artificial World\|The Artificial World]]: 09-03-2013
 
 { .block-language-dataview}
 ## Thoughts
