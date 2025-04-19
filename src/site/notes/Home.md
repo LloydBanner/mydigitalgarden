@@ -1,21 +1,29 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-04-17T19:05:31.364+01:00","updated":"2025-04-18T12:55:52.374+01:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-04-17T19:05:31.364+01:00","updated":"2025-04-19T13:19:37.802+01:00"}
 ---
 
 # Home
 
 Welcome to my website! I'm Lloyd. I work as a software engineer, but also like to pursue different projects in my free time. This is my little corner of the internet which I will use to share things I have made, reviews, and other things I think are cool or interesting. I'm going to try to keep this site a positive place as I think there is too much negativity around these days.  
 
-**Things I have made:**
+**Things I have made**
 - [[Writing\|Writing]]
 - [[Videos\|Videos]]
 - [[University Projects\|University Projects]]
 - [[Creative Graveyard\|Creative Graveyard]]
 
-**My interests (recommendations, reviews and more):**
+**My interests (recommendations, reviews and more)**
 - [[TTRPG\|TTRPG]]
 
-**Feed (a bit of everything):**
+**Feed (a bit of everything)**
+- [[Blade and Sorcery\|Blade and Sorcery]]: 19-04-2025
+- [[Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]]: 18-04-2025
+- [[XCOM\|XCOM]]: 19-04-2025
+- [[XCOM 2\|XCOM 2]]: 19-04-2025
+- [[Jedi Fallen Order\|Jedi Fallen Order]]: 19-04-2025
+- [[Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]: 19-04-2025
+- [[Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]: 19-04-2025
+- [[Jedi Survivor\|Jedi Survivor]]: 19-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 4\|Whiterock Session 4]]: 18-04-2025
 - [[Pi Automated House Lights\|Pi Automated House Lights]]: 18-04-2025
 - [[End of an Empire\|End of an Empire]]: 18-04-2025

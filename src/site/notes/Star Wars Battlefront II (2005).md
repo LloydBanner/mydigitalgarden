@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/star-wars-battlefront-ii-2005/","tags":["theBest","videoGame","starWars"],"created":"2025-04-18T12:59:09.864+01:00","updated":"2025-04-18T13:05:47.570+01:00"}
+{"dg-publish":true,"permalink":"/star-wars-battlefront-ii-2005/","tags":["theBest","videoGame","starWars","feed"],"created":"2025-04-18T12:59:09.864+01:00","updated":"2025-04-19T13:20:02.651+01:00"}
 ---
 
 This game is the perfect turn your brain off and have fun [[Star Wars\|Star Wars]] game. There are three main ways to play, the campaign which follows the story of the clones (pre Disney canon), Galactic Conquest where you play as one of the factions in [[Star Wars \|Star Wars ]]and try to take over the galaxy and Instant Action which also you to select and play battles on the various maps throughout the game. All of these modes are well done and worth a go. my favourite is Galactic conquest.

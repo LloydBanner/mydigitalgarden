@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/","created":"2025-04-17T22:34:59.297+01:00","updated":"2025-04-18T12:20:03.267+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/","created":"2025-04-17T22:34:59.297+01:00","updated":"2025-04-19T13:18:54.918+01:00"}
 ---
 
 I like playing table top roleplaying games (TTRPGs), the most well known one is Dungeons and Dragons (D&D) but there are plenty of others. 
 
 Here I will host resources I have created for TTRPGs, session logs and reviews. I mostly play Old School Essentials ([[OSE\|OSE]]) but there may also be things for other systems here.
 
-**Session Logs Whiterock Campaign:**
+**Session Logs Whiterock Campaign**
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 10\|Whiterock Session 10]]: 29-03-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 9\|Whiterock Session 9]]: 08-03-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 8\|Whiterock Session 8]]: 31-01-2025

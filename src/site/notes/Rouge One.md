@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rouge-one/","tags":["starWars"],"created":"2025-04-18T13:10:06.284+01:00","updated":"2025-04-19T12:14:06.911+01:00"}
+{"dg-publish":true,"permalink":"/rouge-one/","tags":["starWars","film","fanEdit"],"created":"2025-04-18T13:10:06.284+01:00","updated":"2025-04-19T12:55:52.203+01:00"}
 ---
 
 The first in my watch order for [[Star Wars\|Star Wars]]. This may seem like a weird place to start for [[Star Wars\|Star Wars]] fans but I think watching the original trilogy first is the best way to go and Rouge One leads in very nicely to [[A New Hope\|A New Hope]].
