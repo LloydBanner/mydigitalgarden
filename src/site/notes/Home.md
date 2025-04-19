@@ -16,6 +16,8 @@ Welcome to my website! I'm Lloyd. I work as a software engineer, but also like t
 - [[TTRPG\|TTRPG]]
 
 **Feed (a bit of everything)**
+- [[Minecraft\|Minecraft]]: 19-04-2025
+- [[Mario Maker 2\|Mario Maker 2]]: 19-04-2025
 - [[Blade and Sorcery\|Blade and Sorcery]]: 19-04-2025
 - [[Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]]: 18-04-2025
 - [[XCOM\|XCOM]]: 19-04-2025
