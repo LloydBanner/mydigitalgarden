@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jedi-knight-ii-jedi-outcast/","tags":["starWars","theBest","videoGame","feed"],"created":"2025-04-19T12:47:07.750+01:00","updated":"2025-04-19T13:19:19.190+01:00"}
+{"dg-publish":true,"permalink":"/jedi-knight-ii-jedi-outcast/","tags":["starWars","theBest","videoGame","feed"],"created":"2025-04-19T12:47:07.750+01:00","updated":"2025-04-19T13:58:45.697+01:00"}
 ---
 
 This and its sequel [[Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]] are in my opinion the best games that make you feel like you are a Jedi. They have a massive variety of force powers, options to play as Sith or Jedi and follow on from the original trilogy very nicely in the story. The start of the game is more first person shooter focused and play like Doom or Quake but is still fun, when you get your force abilities the game really picks up though.
@@ -9,7 +9,6 @@ There are some fun multiplayer modes that can be played local splitscreen on Ori
 It is technically a sequel to another game that was essentially a Doom clone but you don't need to play that first.
 
 ## Review 17-05-2022
-
 I've recently played two [[Star Wars\|Star Wars]] games where the main focus was lightsaber and force combat for the first time. [[Jedi Fallen Order\|Jedi Fallen Order]] was one and the other Jedi Knight II: Jedi Outcast. Both Are good but one captured the feel of being a Jedi and progressing with your force abilities better than the other. The two games have quite a lot in common considering the 16 year gap in their releases.  
   
 Both games use gameplay to show a Jedi regaining their force powers after suppressing them for a time. In Jedi Fallen order Cal has suppressed his powers as remembering his lessons reminds him of hard times and in Jedi Outcast Kyle has suppressed his after feeling the draw to the darkside. Both plots work well around this idea but most of Fallen Order’s plot is just about this while this is more of a jumping off point for Jedi Outcast. In Outcast you go from no powers or lightsaber to taking on many dark jedi at a time with various force powers. In Fallen Order you begin with a lightsaber and progress to having a double bladed weapon and you force abilities grow but it never feels like they have the punch of Outcast. Both games start you out pretty weak, but by the end of one you feel like a master and by the end of the other you are still struggling with purge troopers.  

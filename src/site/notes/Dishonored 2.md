@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/dishonored-2/","tags":["theBest","videoGame","feed"],"created":"2025-04-19T13:53:16.135+01:00","updated":"2025-04-19T13:53:53.627+01:00"}
+---
+
+I like Dishonored 2 and it is a great follow on to the first game but I felt the setting of Karnaca wasn't quite as good as Dunwall. Other than that minor gripe I love this game and think it does a great job of expanding the lore and world of the first game. It keeps all the best elements from the first game and just adds more solidly made levels for you to play through.

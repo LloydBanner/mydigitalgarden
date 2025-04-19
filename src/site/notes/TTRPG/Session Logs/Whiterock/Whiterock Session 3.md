@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-3/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:20.845+01:00","updated":"2025-04-18T12:24:10.579+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-3/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:20.845+01:00","updated":"2025-04-19T14:01:18.087+01:00"}
 ---
 
 ## Session Notes
-
 The party met Titus Pick the pretentious mine owner. After finding out that he wanted to take the crystal heart from the mines without killing the ignid to make money from it they decided to leave him because they didn't think he was paying enough.
 
 Instead they went to explore Stagbrook Keep using Lucinda's map to find more magic items. Inside they encountered many traps. The first of which split the party, leaving half of them in a different corridor from the others. Luckily both areas were connected by a room and the remainder of the party were able to outsmart the moving wall trap that separated them by clever positioning. 

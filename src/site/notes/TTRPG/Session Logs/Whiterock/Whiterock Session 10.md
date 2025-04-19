@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-10/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:44:36.715+01:00","updated":"2025-04-18T12:24:47.025+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-10/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:44:36.715+01:00","updated":"2025-04-19T14:01:38.863+01:00"}
 ---
 
 ## Session Notes
-
 ![harbourCrawl.jpeg|300](/img/user/z_assets/TTRPG/Maps/harbourCrawl.jpeg)
  
 The party met back up in the Gawping Cod. Inside they overheard talk of eyeless red robed priests taking over the Obsidian Keep and some great battle happening there which ended in disaster. They also met a Beast Master called Derek who wanted to travel to the keep because he believed there was a giant seagull there who he could tame. He tagged along with the party although they were still a little unsure of him. Out in the town people were packing up from the recent celebrations. The party collected their ingnid weapons from Eadan the black smith and bought some new enchanted gear from Ceana the enchantress. Jatumal ordered 5 disintegration arrows for next time they were in town and Sphonyx ordered a disintegration staff and paralysis staff while buying an unstable first attempt disintegration wand from Ceana. Jatumal also bought some cupid arrows from Ceana and a exquisite bow from Harald the fletcher.

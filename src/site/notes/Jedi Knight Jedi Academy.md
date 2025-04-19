@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jedi-knight-jedi-academy/","tags":["starWars","theBest","videoGame","feed"],"created":"2025-04-19T12:50:39.876+01:00","updated":"2025-04-19T13:19:16.547+01:00"}
+{"dg-publish":true,"permalink":"/jedi-knight-jedi-academy/","tags":["starWars","theBest","videoGame","feed"],"created":"2025-04-19T12:50:39.876+01:00","updated":"2025-04-19T13:58:51.525+01:00"}
 ---
 
 This game expands on [[Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]] adding new abilities and features. It also has a non-linear level structure and more choices in the story but I think this makes the story weaker than Outcast while still being good. As with Outcast the Multiplayer and bot matches are fun with friends.
@@ -7,7 +7,6 @@ This game expands on [[Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]
 There is a mod that is a lot of fun for this one called: [Galactic Legacy](https://www.moddb.com/mods/swgl) which adds hundreds of maps, levels based on the films and other [[Star Wars\|Star Wars]] media, unites Academy and Outcast into one game if you own them both on PC, adds a sandbox mode where you can spawn enemies and fight them on different maps, and much more.
 
 ## Review 02-06-2022
-
 This game maintains the same great lightsaber and force combat of [[Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]] but adds in new powers and abilities. This gives the player more options and makes combat more varied. In addition, you get the choice of which powers to improve after each mission which means you can build your character how you want. The combat is easily the best lightsaber combat I've seen in a game; it is visceral, varied and fun.  
   
 Furthermore, the game is laid out in a way that makes it clear where you are supposed to go most of the time, other than in a few places, unlike Jedi Outcast. This removes some of the frustration and necessity for a guide which was required to make the game more smooth in the previous game. However, this more clear level design removes some of the complexity and can result in slightly less interesting levels. In addition, the chose a mission structure prevents the story developing in each mission and instead this only happens in specific missions. This makes the the chosen missions slightly less interesting. These missions are still good but they don't have the punch of Jedi Outcast's missions.  

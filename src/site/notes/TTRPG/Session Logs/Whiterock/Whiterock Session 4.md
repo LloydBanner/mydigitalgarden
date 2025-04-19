@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-4/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:34.408+01:00","updated":"2025-04-19T12:16:37.567+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-4/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:34.408+01:00","updated":"2025-04-19T14:01:20.246+01:00"}
 ---
 
 ## Session Notes
- 
 The party woke up in the lab in Stagbrook Keep. Sphonyx and Geog did not wake up, but everyone else decided to continue exploring. They returned to the room where the staff and living armour had been to find a sleeping rust monster. After looking at the map they had seen there were room nearby that had not direct route to reach on the map so began searching for hidden doors. After a short search they found what felt like a similar door to the one they had chanted "nepo" to open. They repeated this and opened the door.
 
 Inside was a room where all the walls were lined with paintings. One drew the group's attention. It was a landscape with a door that shone brightly in the middle. Jatumal shouted "nepo" at it from a distance but nothing happened. Then Breadwig poked his 10ft pole through it and it became a part of the painting. Stinkcat then threw a dead duck in to the painting and it lay there in the landscape. Jatumal tried to jump in to the painting knocking it off the wall and falling to the ground himself. Next they tried saying "nepo" and then entering the painting which worked.

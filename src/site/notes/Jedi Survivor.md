@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/jedi-survivor/","tags":["starWars","feed","theBest","videoGame"],"created":"2025-04-19T12:41:51.375+01:00","updated":"2025-04-19T13:19:14.016+01:00"}
+{"dg-publish":true,"permalink":"/jedi-survivor/","tags":["starWars","feed","theBest","videoGame"],"created":"2025-04-19T12:41:51.375+01:00","updated":"2025-04-19T13:58:56.591+01:00"}
 ---
 
 Now the bugs have been fixed this is a really good game. It follows on from [[Jedi Fallen Order\|Jedi Fallen Order]] both in story and gameplay. Pretty much all the abilities you had by the end of the first game are unlocked so Kal continues to become more powerful throughout the game. There are also more combat options in this game which allow you to choose the way you want to play a bit more. Still not quite as good as the Jedi Knight ([[Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]] and [[Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]) games though.
 
 ## Review 11-12-2023
-
 A lot of the performance issues seem to be fixed although in open areas there are slow downs and frame drops.  
   
 I'm still encountering small bugs like the charged shot not always working and the EA launcher breaking stopping me from running the game without reinstalling it.  
