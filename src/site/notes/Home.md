@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-04-17T19:05:31.364+01:00","updated":"2025-04-19T14:00:45.793+01:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-04-17T19:05:31.364+01:00","updated":"2025-04-19T14:16:04.370+01:00"}
 ---
 
 # Home
@@ -13,8 +13,10 @@ Welcome to my website! I'm Lloyd. I work as a software engineer, but also like t
 
 **My interests (recommendations, reviews and more)**
 - [[TTRPG\|TTRPG]]
+- [[Video Games\|Video Games]]
 
 **Feed (a bit of everything)**
+- [[My Favourite Video Games\|My Favourite Video Games]]: 19-04-2025
 - [[Prey (2017)\|Prey (2017)]]: 19-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 10\|Whiterock Session 10]]: 18-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 9\|Whiterock Session 9]]: 18-04-2025
