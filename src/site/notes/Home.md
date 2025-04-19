@@ -16,6 +16,9 @@ Welcome to my website! I'm Lloyd. I work as a software engineer, but also like t
 - [[Video Games\|Video Games]]
 
 **Feed (a bit of everything)**
+- [[Crumbling World\|Crumbling World]]: 18-04-2025
+- [[A Curse Upon Mistrun\|A Curse Upon Mistrun]]: 18-04-2025
+- [[Life is Better this Way\|Life is Better this Way]]: 18-04-2025
 - [[Media Consumption\|Media Consumption]]: 19-04-2025
 - [[Two of Me\|Two of Me]]: 19-04-2025
 - [[The Artificial World\|The Artificial World]]: 19-04-2025

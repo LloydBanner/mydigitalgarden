@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/crumbling-world/","tags":["bookByLloyd"],"created":"2025-04-18T09:58:34.090+01:00","updated":"2025-04-18T12:23:40.725+01:00"}
+{"dg-publish":true,"permalink":"/crumbling-world/","tags":["bookByLloyd","feed"],"created":"2025-04-18T09:58:34.090+01:00","updated":"2025-04-19T16:05:51.417+01:00"}
 ---
 
 Released: September 2018
