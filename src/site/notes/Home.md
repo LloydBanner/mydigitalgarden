@@ -16,6 +16,7 @@ Welcome to my website! I'm Lloyd. I work as a software engineer, but also like t
 - [[Video Games\|Video Games]]
 
 **Feed (a bit of everything)**
+- [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]: 19-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 11\|Whiterock Session 11]]: 20-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 10\|Whiterock Session 10]]: 19-04-2025
 - [[Crumbling World\|Crumbling World]]: 18-04-2025
@@ -48,7 +49,6 @@ Welcome to my website! I'm Lloyd. I work as a software engineer, but also like t
 - [[Sources/Minecraft\|Minecraft]]: 19-04-2025
 - [[Sources/Jedi Survivor\|Jedi Survivor]]: 19-04-2025
 - [[Sources/Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]: 19-04-2025
-- [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]: 19-04-2025
 - [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]: 19-04-2025
 - [[Sources/Hitman World of Assasination\|Hitman World of Assasination]]: 19-04-2025
 - [[Sources/Dishonored\|Dishonored]]: 19-04-2025

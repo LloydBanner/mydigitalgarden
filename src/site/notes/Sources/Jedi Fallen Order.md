@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/sources/jedi-fallen-order/","tags":["starWars","videoGame","theBest","feed"],"created":"2025-04-19T12:33:25.690+01:00","updated":"2025-04-19T13:58:49.170+01:00"}
+{"dg-publish":true,"permalink":"/sources/jedi-fallen-order/","tags":["starWars","videoGame","theBest","feed"],"created":"2025-04-19T12:33:25.690+01:00","updated":"2025-04-20T10:10:56.987+01:00"}
 ---
 
 I liked the idea and story of this game but while playing it I always felt the combat was much less fluid that the Jedi Knight games. When [[Sources/Jedi Survivor\|Jedi Survivor]] the sequel to this came out I realised that this may have been intentional. Kal is meant to be weak and slowly become a Jedi by the end of the game and this is presented through gameplay as well as story.
 
-I imagine Playing this and the Survivor afterwards flows very well.
+I imagine Playing this and then Survivor afterwards flows very well.
 
 ## Review 17-05-2022
 **Note: reading this back I think I may have been a bit harsh on this after playing [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]] just before.**

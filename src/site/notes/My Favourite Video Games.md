@@ -14,12 +14,12 @@ The unique element of video games is the interactivity. I tend to enjoy games th
 ## The List
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
+| [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
 | [[Sources/Prey (2017)\|Prey (2017)]]                                         |
 | [[Sources/Mario Maker 2\|Mario Maker 2]]                                     |
 | [[Sources/Minecraft\|Minecraft]]                                             |
 | [[Sources/Jedi Survivor\|Jedi Survivor]]                                     |
 | [[Sources/Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]               |
-| [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
 | [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]         |
 | [[Sources/Hitman World of Assasination\|Hitman World of Assasination]]       |
 | [[Sources/Dishonored\|Dishonored]]                                           |
