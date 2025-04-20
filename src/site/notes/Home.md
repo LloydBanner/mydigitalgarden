@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-04-17T19:05:31.364+01:00","updated":"2025-04-19T14:16:04.370+01:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-04-17T19:05:31.364+01:00","updated":"2025-04-20T12:03:06.876+01:00"}
 ---
 
 # Home
@@ -11,12 +11,15 @@ Welcome to my website! I'm Lloyd. I work as a software engineer, but also like t
 - [[University Projects\|University Projects]]
 - [[Creative Graveyard\|Creative Graveyard]]
 
-**My interests (recommendations, reviews and more)**
+**My Interests (recommendations, reviews and more)**
 - [[TTRPG\|TTRPG]]
 - [[Video Games\|Video Games]]
 
 **Feed (a bit of everything)**
-- [[Sources/XCOM\|XCOM]]: 19-04-2025
+- [[Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 20-04-2025
+- [[Why you Should Watch the Hal9000 Edits of the Star Wars Prequels\|Why you Should Watch the Hal9000 Edits of the Star Wars Prequels]]: 20-04-2025
+- [[The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]: 20-04-2025
+- [[Why you Should Watch Harmy's Despecialized Editions of Star Wars\|Why you Should Watch Harmy's Despecialized Editions of Star Wars]]: 20-04-2025
 - [[Reviews/Prey (2017) Mooncrash Review\|Prey (2017) Mooncrash Review]]: 20-04-2025
 - [[Reviews/Jedi Fallen Order Review\|Jedi Fallen Order Review]]: 20-04-2025
 - [[Reviews/Jedi Knight II Jedi Outcast Review\|Jedi Knight II Jedi Outcast Review]]: 20-04-2025
@@ -51,7 +54,6 @@ Welcome to my website! I'm Lloyd. I work as a software engineer, but also like t
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 2\|Whiterock Session 2]]: 18-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 1\|Whiterock Session 1]]: 18-04-2025
 - [[Space Magic\|Space Magic]]: 18-04-2025
-- [[Sources/XCOM 2\|XCOM 2]]: 19-04-2025
 - [[Pi Automated House Lights\|Pi Automated House Lights]]: 18-04-2025
 - [[End of an Empire\|End of an Empire]]: 18-04-2025
 - [[Minecraft Mining AI\|Minecraft Mining AI]]: 18-04-2025

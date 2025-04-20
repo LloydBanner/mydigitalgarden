@@ -14,11 +14,12 @@ The unique element of video games is the interactivity. I tend to enjoy games th
 ## The List
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
+| [[Sources/XCOM\|XCOM]]                                                       |
+| [[Sources/XCOM 2\|XCOM 2]]                                                   |
 | [[Sources/Minecraft\|Minecraft]]                                             |
 | [[Sources/Mario Maker 2\|Mario Maker 2]]                                     |
 | [[Sources/Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]               |
 | [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]         |
-| [[Sources/XCOM\|XCOM]]                                                       |
 | [[Sources/Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]] |
 | [[Sources/Prey (2017)\|Prey (2017)]]                                         |
 | [[Sources/Jedi Survivor\|Jedi Survivor]]                                     |
@@ -28,6 +29,5 @@ The unique element of video games is the interactivity. I tend to enjoy games th
 | [[Sources/Blade and Sorcery\|Blade and Sorcery]]                             |
 | [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
 | [[Sources/Celeste\|Celeste]]                                                 |
-| [[Sources/XCOM 2\|XCOM 2]]                                                   |
 
 { .block-language-dataview}
