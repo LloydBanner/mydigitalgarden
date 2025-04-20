@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-curse-upon-mistrun/","tags":["bookByLloyd","feed"],"created":"2025-04-18T09:59:38.210+01:00","updated":"2025-04-19T16:05:46.531+01:00"}
+{"dg-publish":true,"permalink":"/a-curse-upon-mistrun/","tags":["feed","lloydsBooks"],"created":"2025-04-18T09:59:38.210+01:00","updated":"2025-04-20T23:12:03.236+01:00"}
 ---
 
 Released: August 2021

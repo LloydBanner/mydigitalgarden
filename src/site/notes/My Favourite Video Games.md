@@ -14,6 +14,10 @@ The unique element of [[Video Games\|video games]] is the interactivity. I tend 
 ## The List
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
+| [[Sources/Morrowind\|Morrowind]]                                             |
+| [[Sources/Oblivion\|Oblivion]]                                               |
+| [[Sources/Skyrim\|Skyrim]]                                                   |
+| [[Sources/Jedi Survivor\|Jedi Survivor]]                                     |
 | [[Sources/Dishonored 2\|Dishonored 2]]                                       |
 | [[Sources/Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]] |
 | [[Sources/Prey (2017)\|Prey (2017)]]                                         |
@@ -24,7 +28,6 @@ The unique element of [[Video Games\|video games]] is the interactivity. I tend 
 | [[Sources/XCOM 2\|XCOM 2]]                                                   |
 | [[Sources/Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]               |
 | [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]         |
-| [[Sources/Jedi Survivor\|Jedi Survivor]]                                     |
 | [[Sources/Hitman World of Assasination\|Hitman World of Assasination]]       |
 | [[Sources/Dishonored\|Dishonored]]                                           |
 | [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |

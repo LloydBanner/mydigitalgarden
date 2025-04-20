@@ -1,36 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/star-wars/","created":"2025-04-18T13:02:35.430+01:00","updated":"2025-04-20T21:16:01.016+01:00"}
+{"dg-publish":true,"permalink":"/star-wars/","tags":["starWars"],"created":"2025-04-18T13:02:35.430+01:00","updated":"2025-04-20T21:59:03.145+01:00"}
 ---
 
-A very well known series but one that I have always loved. That is not to say I love every part of it though. See my recommendations below in the order I think you should watch them for Films and TV. For games I just have recommendations afterwards because they are often a lot longer and more contained experiences.
+A very well known series but one that I have always loved. That is not to say I love every part of it though. See [[My Star Wars Watch Order\|My Star Wars Watch Order]] for the films and TV shows I think are worth watching in the order I think you should watch them. 
 
 I think the best parts of Star Wars present a unique setting in a way that makes it feel believable even though it is fantastical. I would describe it as Science Fantasy rather than Sci-Fi because of various elements such as the force and the lack of any real hard physics based stuff.
 
-## Watch order
-- [[Sources/Rouge One\|Rouge One]]
-- [[Sources/A New Hope\|A New Hope]]
-- [[Sources/The Empire Strikes Back\|The Empire Strikes Back]]
-- [[Sources/Return of the Jedi\|Return of the Jedi]]
-- [[Sources/Tales of the Jedi\|Tales of the Jedi]] (EP1 + EP2)
-- [[Sources/The Phantom Menace\|The Phantom Menace]]
-- [[Sources/Tales of the Jedi\|Tales of the Jedi]] (EP4)
-- [[Sources/Attack of the Clones\|Attack of the Clones]]
-- [[Sources/The Clone Wars\|The Clone Wars]] (Apart from the last 4 episodes)
-- [[Sources/Revenge of the Sith\|Revenge of the Sith]]
-- [[Sources/The Clone Wars\|The Clone Wars]] (The last 4 episodes)
-
-So why the originals first? Well I think watching the prequels first spoils a few things and it is more fun to watch them as a kind of flash back after watching the originals.
-
-I can't fully recommend any of the other TV or films. Some I just don't like and others aren't finished yet or have open plot threads that need concluding before I would recommend them. The best of the ongoing shows are undoubtedly Andor and The Mandolorian and I would highly recommend them based on what has been produced so far. The Han Solo film was also pretty good as a prequel about the character but I don't think it is really needed.
-## The Best Star Wars Games
-|                                                                                 |
-| ------------------------------------------------------------------------------- |
-| [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
-| [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]         |
-| [[Sources/Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]               |
-| [[Sources/Jedi Survivor\|Jedi Survivor]]                                     |
-| [[Sources/Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]] |
-
-{ .block-language-dataview}
-
-This is a franchise which a lot of people love which has resulted in people converting other games into Star Wars games. My favourites are [Advent to Empire](https://steamcommunity.com/sharedfiles/filedetails/?id=1395522281) for [[Sources/XCOM 2\|XCOM 2]] and [The Outer Rim](https://www.nexusmods.com/bladeandsorcery/mods/528) with some other Star Wars Character mods for [[Sources/Blade and Sorcery\|Blade and Sorcery]].
+- [[My Star Wars Watch Order\|My Star Wars Watch Order]]
+- [[The Best Star Wars Games\|The Best Star Wars Games]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/two-of-me/","tags":["feed","shortStory"],"created":"2025-04-19T15:09:35.712+01:00","updated":"2025-04-19T16:03:36.246+01:00"}
+{"dg-publish":true,"permalink":"/two-of-me/","tags":["feed","lloydsShortStories"],"created":"2025-04-19T15:09:35.712+01:00","updated":"2025-04-20T23:15:05.219+01:00"}
 ---
 
 This is a short story I wrote not long after I finished my exams in my first year of university. The last modification date on it was **21-06-2018**. I made some grammatical corrections before posting it here. It was interesting reading this back, especially considering I wrote it before trained AIs really took off a few years later. I still think this is a possible way we might react if we had our minds uploaded into alternate bodies, but I wish I had spun this more in favour of staying human somehow. 
