@@ -12,22 +12,22 @@ The unique element of video games is the interactivity. I tend to enjoy games th
 - Player Agency
 
 ## The List
-|                                                                         |
-| ----------------------------------------------------------------------- |
-| [[Prey (2017)\|Prey (2017)]]                                         |
-| [[Mario Maker 2\|Mario Maker 2]]                                     |
-| [[Minecraft\|Minecraft]]                                             |
-| [[Jedi Survivor\|Jedi Survivor]]                                     |
-| [[Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]               |
-| [[Jedi Fallen Order\|Jedi Fallen Order]]                             |
-| [[Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]         |
-| [[Hitman World of Assasination\|Hitman World of Assasination]]       |
-| [[Dishonored\|Dishonored]]                                           |
-| [[Dishonored 2\|Dishonored 2]]                                       |
-| [[Celeste\|Celeste]]                                                 |
-| [[Blade and Sorcery\|Blade and Sorcery]]                             |
-| [[Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]] |
-| [[XCOM\|XCOM]]                                                       |
-| [[XCOM 2\|XCOM 2]]                                                   |
+|                                                                                 |
+| ------------------------------------------------------------------------------- |
+| [[Sources/Prey (2017)\|Prey (2017)]]                                         |
+| [[Sources/Mario Maker 2\|Mario Maker 2]]                                     |
+| [[Sources/Minecraft\|Minecraft]]                                             |
+| [[Sources/Jedi Survivor\|Jedi Survivor]]                                     |
+| [[Sources/Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]               |
+| [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
+| [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]         |
+| [[Sources/Hitman World of Assasination\|Hitman World of Assasination]]       |
+| [[Sources/Dishonored\|Dishonored]]                                           |
+| [[Sources/Dishonored 2\|Dishonored 2]]                                       |
+| [[Sources/Celeste\|Celeste]]                                                 |
+| [[Sources/Blade and Sorcery\|Blade and Sorcery]]                             |
+| [[Sources/Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]] |
+| [[Sources/XCOM\|XCOM]]                                                       |
+| [[Sources/XCOM 2\|XCOM 2]]                                                   |
 
 { .block-language-dataview}

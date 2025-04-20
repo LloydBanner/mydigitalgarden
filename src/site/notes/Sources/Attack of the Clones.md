@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/sources/attack-of-the-clones/","tags":["theBest","starWars","film","fanEdit"],"created":"2025-04-18T13:25:41.168+01:00","updated":"2025-04-19T12:57:00.989+01:00"}
+---
+
+I think this is where the prequel trilogy and the Clones Wars as a whole really gets going. The introduction of the Clones is great, I think Kamino is a really interesting planet and Obi-Wan is particularly good in this one. Again I recommend the [Hal9000](https://originaltrilogy.com/topic/Some-info-help-for-the-Hal-9000-Edits-of-the-Prequel-Sequel-Trilogies-more/id/60855) edit called: [The Approaching Storm](https://originaltrilogy.com/topic/Star-Wars-Episode-II-The-Approaching-Storm-Released/id/15720/page/1) for this one. It adds in some deleted scenes that make the love story feel more believable.
