@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-11/","tags":["feed","whiterockLog"],"created":"2025-04-20T07:52:41.209+01:00","updated":"2025-04-20T20:45:46.050+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-11/","tags":["feed","whiterockLog"],"created":"2025-04-20T07:52:41.209+01:00","updated":"2025-04-20T20:54:02.253+01:00"}
 ---
 
 ## Session Notes
@@ -80,3 +80,6 @@ Aldo (Mutant child): 1
 | Maia (Dr2)     | 5559                  | 7359 (Need to get to 8000 xp to level up)              |
 | Geog (D3)      | 4921                  | 6723 (Need to get to 8800 xp to level up)              |
 | Derek (BM2)    | 414                   | 2216 (Level up!) (Need to get to 3600 xp to level up)  |
+#### Published Content Used
+- [[OSE\|OSE]] (Classic and Advanced)
+- [[Sources/Raiding the Obsidian Keep\|Raiding the Obsidian Keep]]

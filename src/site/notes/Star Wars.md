@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/star-wars/","created":"2025-04-18T13:02:35.430+01:00","updated":"2025-04-19T13:13:20.759+01:00"}
+{"dg-publish":true,"permalink":"/star-wars/","created":"2025-04-18T13:02:35.430+01:00","updated":"2025-04-20T21:16:01.016+01:00"}
 ---
 
 A very well known series but one that I have always loved. That is not to say I love every part of it though. See my recommendations below in the order I think you should watch them for Films and TV. For games I just have recommendations afterwards because they are often a lot longer and more contained experiences.
@@ -15,8 +15,9 @@ I think the best parts of Star Wars present a unique setting in a way that makes
 - [[Sources/The Phantom Menace\|The Phantom Menace]]
 - [[Sources/Tales of the Jedi\|Tales of the Jedi]] (EP4)
 - [[Sources/Attack of the Clones\|Attack of the Clones]]
-- [[Sources/The Clone Wars\|The Clone Wars]]
+- [[Sources/The Clone Wars\|The Clone Wars]] (Apart from the last 4 episodes)
 - [[Sources/Revenge of the Sith\|Revenge of the Sith]]
+- [[Sources/The Clone Wars\|The Clone Wars]] (The last 4 episodes)
 
 So why the originals first? Well I think watching the prequels first spoils a few things and it is more fun to watch them as a kind of flash back after watching the originals.
 

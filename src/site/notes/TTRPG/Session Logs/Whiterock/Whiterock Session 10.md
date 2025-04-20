@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-10/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:44:36.715+01:00","updated":"2025-04-20T07:55:41.302+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-10/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:44:36.715+01:00","updated":"2025-04-20T20:54:13.799+01:00"}
 ---
 
 ## Session Notes
@@ -47,3 +47,6 @@ The final thing the party encountered before reaching the shore was a mass of ta
 | Maia (Dr2)     | 5145                  | 5559 (Need to get to 8000 xp to level up)   |
 | Geog (D3)      | 4507                  | 4921 (Need to get to 8800 xp to level up)   |
 | Derek (BM1)    | 0                     | 414 (Need to get to 1800 xp to level up)    |
+#### Published Content Used
+- [[OSE\|OSE]] (Classic and Advanced)
+- [[Sources/Raiding the Obsidian Keep\|Raiding the Obsidian Keep]]

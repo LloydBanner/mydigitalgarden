@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-1/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:42:59.730+01:00","updated":"2025-04-19T14:01:08.708+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-1/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:42:59.730+01:00","updated":"2025-04-20T20:54:54.861+01:00"}
 ---
 
 ## Session Notes
@@ -44,3 +44,5 @@ XP Total 2330xp
 | Breadwig | 583                            |
 | Stinkcat | 0 (not present for encounters) |
 | Emma     | 0 (Not present)                |
+#### Published Content Used
+- [[OSE\|OSE]] (Classic and Advanced)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-4/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:34.408+01:00","updated":"2025-04-19T14:01:20.246+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-4/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:34.408+01:00","updated":"2025-04-20T20:54:43.057+01:00"}
 ---
 
 ## Session Notes
@@ -33,3 +33,5 @@ XP Per person 250xp
 | Sphonyx   | 1008                  | 1008       |
 | Maia      | 1263                  | 1513       |
 | Geog      | 1263                  | 1263       |
+#### Published Content Used
+- [[OSE\|OSE]] (Classic and Advanced)

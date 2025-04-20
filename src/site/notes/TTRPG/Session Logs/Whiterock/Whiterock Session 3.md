@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-3/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:20.845+01:00","updated":"2025-04-19T14:01:18.087+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-3/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:20.845+01:00","updated":"2025-04-20T20:54:45.727+01:00"}
 ---
 
 ## Session Notes
@@ -31,3 +31,5 @@ Total/6 680xp
 | Sphonyx   | 328                   | 1008       |
 | Maia      | 583                   | 1263       |
 | Geog      | 583                   | 1263       |
+#### Published Content Used
+- [[OSE\|OSE]] (Classic and Advanced)

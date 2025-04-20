@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-6/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:55.564+01:00","updated":"2025-04-19T14:01:23.667+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-6/","tags":["whiterockLog","feed"],"created":"2025-04-17T22:43:55.564+01:00","updated":"2025-04-20T20:54:35.885+01:00"}
 ---
 
 ## Session Notes
@@ -29,3 +29,5 @@ Back in Stagbrook everyone agreed it was time to go to the pub. As they entered 
 | Sphonyx (I1)   | 2027                  | 2027 (Need to get to 2500 xp to level up) |
 | Maia (Dr1)     | 2532                  | 2920 (Need to get to 4000 xp to level up) |
 | Geog (D2)*     | 2282                  | 2282 (Need to get to 3000 xp to level up) |
+#### Published Content Used
+- [[OSE\|OSE]] (Classic and Advanced)

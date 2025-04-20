@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/jedi-knight-jedi-academy-review/","tags":["feed","starWars","review"],"created":"2025-04-20T11:21:10.501+01:00","updated":"2025-04-20T11:30:25.595+01:00"}
+{"dg-publish":true,"permalink":"/reviews/jedi-knight-jedi-academy-review/","tags":["feed","starWars","review"],"created":"2025-04-20T11:21:10.501+01:00","updated":"2025-04-20T21:21:27.755+01:00"}
 ---
 
 Written: 02-06-2022
@@ -12,4 +12,4 @@ The story is a direct continuation of Jedi Outcast but you don't need to have pl
   
 All in all a great game and an excellent sequel to Jedi Outcast. Combat is improved from the previous game and level design is more clear. In general, this is more accessible than Outcast and is an improvement in most ways but I think I still enjoyed Outcast more. I 100% recommend this and Outcast. If you like [[Star Wars\|Star Wars]] and haven't played these you should. The graphics are a little dated but look really good for the time.  
   
-As an aside, I also found a really cool mod for this game called Galactic Legacy. This allows you to make custom scenarios from basically any [[Star Wars\|Star Wars]] time period. People have made models for the Clone Wars, Knights of The Old Republic, the Original trilogy and basically anything else you can think of. There are also maps to fit all these time periods. When you load in you can spawn any characters you like and set their teams and then fight them or watch them fight each other. It also has some battles replicating scenes from the films and some others the mod authors added for fun. A massive mod that is still being worked on and allows you to do tonnes more with the great combat system in the game. I'm going to go and play some more of that now.
+As an aside, I also found a really cool mod for this game called Galactic Legacy. This allows you to make custom scenarios from basically any [[Star Wars\|Star Wars]] time period. People have made models for [[Sources/The Clone Wars\|the Clone Wars]], Knights of The Old Republic, the Original trilogy and basically anything else you can think of. There are also maps to fit all these time periods. When you load in you can spawn any characters you like and set their teams and then fight them or watch them fight each other. It also has some battles replicating scenes from the films and some others the mod authors added for fun. A massive mod that is still being worked on and allows you to do tonnes more with the great combat system in the game. I'm going to go and play some more of that now.

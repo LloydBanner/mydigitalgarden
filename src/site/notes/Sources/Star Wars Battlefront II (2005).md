@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/sources/star-wars-battlefront-ii-2005/","tags":["theBest","videoGame","starWars"],"created":"2025-04-18T12:59:09.864+01:00","updated":"2025-04-20T11:35:04.337+01:00"}
+{"dg-publish":true,"permalink":"/sources/star-wars-battlefront-ii-2005/","tags":["theBest","videoGame","starWars"],"created":"2025-04-18T12:59:09.864+01:00","updated":"2025-04-20T21:14:04.597+01:00"}
 ---
 
 This game is the perfect turn your brain off and have fun [[Star Wars\|Star Wars]] game. There are three main ways to play, the campaign which follows the story of the clones (pre Disney canon), Galactic Conquest where you play as one of the factions in [[Star Wars \|Star Wars ]]and try to take over the galaxy and Instant Action which also you to select and play battles on the various maps throughout the game. All of these modes are well done and worth a go. my favourite is Galactic conquest.
 
 There is still online multiplayer for the Instant Action mode too which is worth a go. If you play the Original Xbox or PS2 versions you also get splitscreen and all the modes work in splitscreen and are fun to play this way.
 
-If you play on PC you have access to the huge number of fan made maps that people have made over the years and can up the unit count considerably for more chaotic battles. Here is a [Google Doc](https://docs.google.com/spreadsheets/d/1sWJsWOKsqIyI8zFJONtVZJSRA3nkDDsi/edit?pli=1&gid=764459100#gid=764459100) which archives most of the Battlefront II maps made by the community. Give some a go and see what you like, you can add maps individually even if they are in packs. This is a great way to customise the game to exactly how you like it. There is also this incredible mode called: [Choose your own Galactic Conquest](https://www.moddb.com/mods/choose-your-own-galactic-conquest/downloads/choose-your-own-galactic-conquest-2024-edition) that allows you to create your own Galactic Conquest modes using maps other people have made which is well worth a go if you want some more variety there. Some of these maps and mods can be a little buggy at times so I would recommend just removing any that cause crashes.
-
-A while ago I used to speedrun this one too. I was in the top 15 in the world at one point, I think, but have moved down quite a bit in the ranking now. There are some [videos](https://www.youtube.com/playlist?list=PLTR9cNeZAgrr0MZAUx3kVxi-NR6IdDQC6) of this and you can see [me](https://www.speedrun.com/users/Insane_Cheese) on the current leaderboard.
-
 Battlefront I was also good but this game improved on that in practically every way so I'm going to recommend you just play this.
+
+- [[The Best Star Wars Battlefront II Mods and Maps\|The Best Star Wars Battlefront II Mods and Maps]]
+- [[My Battlefront II Speedrunning Career\|My Battlefront II Speedrunning Career]]
+
+
