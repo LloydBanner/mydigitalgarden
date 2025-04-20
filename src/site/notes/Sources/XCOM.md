@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/sources/xcom/","tags":["videoGame","theBest","feed"],"created":"2025-04-19T13:15:28.892+01:00","updated":"2025-04-19T13:19:50.811+01:00"}
+{"dg-publish":true,"permalink":"/sources/xcom/","tags":["videoGame","theBest","feed"],"created":"2025-04-19T13:15:28.892+01:00","updated":"2025-04-20T11:36:01.160+01:00"}
 ---
 
-The XCOM games are turn based tactics games where you play as a small group defending Earth against malicious alien invaders. They are really well made and have a great element of making you make difficult decisions about which things are more important than others. Giving each of your soldiers names makes you care about them an makes their deaths have a greater impact.
+The XCOM games are turn based tactics games where you play as a small group defending Earth against malicious alien invaders. They are really well made and have a great element of making you make difficult decisions about which things are more important than others. Giving each of your soldiers names makes you care about them and makes their deaths have a greater impact.
 
 The 2012 XCOM is the first one I played, I haven't tried the older ones but have heard they are also pretty good. This is just an all around solid turn based tactics game. Well worth a go. Be sure to name your soldiers though.

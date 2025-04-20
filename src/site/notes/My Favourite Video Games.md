@@ -14,20 +14,20 @@ The unique element of video games is the interactivity. I tend to enjoy games th
 ## The List
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
-| [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
-| [[Sources/Prey (2017)\|Prey (2017)]]                                         |
-| [[Sources/Mario Maker 2\|Mario Maker 2]]                                     |
 | [[Sources/Minecraft\|Minecraft]]                                             |
-| [[Sources/Jedi Survivor\|Jedi Survivor]]                                     |
+| [[Sources/Mario Maker 2\|Mario Maker 2]]                                     |
 | [[Sources/Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]               |
 | [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]         |
-| [[Sources/Hitman World of Assasination\|Hitman World of Assasination]]       |
-| [[Sources/Dishonored\|Dishonored]]                                           |
-| [[Sources/Dishonored 2\|Dishonored 2]]                                       |
-| [[Sources/Celeste\|Celeste]]                                                 |
-| [[Sources/Blade and Sorcery\|Blade and Sorcery]]                             |
-| [[Sources/Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]] |
 | [[Sources/XCOM\|XCOM]]                                                       |
+| [[Sources/Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]] |
+| [[Sources/Prey (2017)\|Prey (2017)]]                                         |
+| [[Sources/Jedi Survivor\|Jedi Survivor]]                                     |
+| [[Sources/Hitman World of Assasination\|Hitman World of Assasination]]       |
+| [[Sources/Dishonored 2\|Dishonored 2]]                                       |
+| [[Sources/Dishonored\|Dishonored]]                                           |
+| [[Sources/Blade and Sorcery\|Blade and Sorcery]]                             |
+| [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
+| [[Sources/Celeste\|Celeste]]                                                 |
 | [[Sources/XCOM 2\|XCOM 2]]                                                   |
 
 { .block-language-dataview}

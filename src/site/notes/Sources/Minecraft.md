@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sources/minecraft/","tags":["videoGame","theBest","feed"],"created":"2025-04-19T13:28:04.676+01:00","updated":"2025-04-19T13:59:10.794+01:00"}
+{"dg-publish":true,"permalink":"/sources/minecraft/","tags":["videoGame","theBest"],"created":"2025-04-19T13:28:04.676+01:00","updated":"2025-04-20T11:36:24.972+01:00"}
 ---
 
-Minecraft is a game that I played back when it was still in beta. I started playing in 2011 probably not long after beta 1.7 was released. This may be my most played game ever. At its core it is a sandbox survival game but its customisability allows it to be so much more than that. People have made custom maps with stories, mods that transform the game in to fantasy RPGs or technical automation games, and there are also many servers all with their own themes and settings. I will use this page to review Minecraft at different times when I revisit it with different versions and mods. It has changed a lot through the years and it is a fundamentally different game from when I first played it now.
+Minecraft is a game that I played back when it was still in beta. I started playing in 2011 probably not long after beta 1.7 was released. This may be my most played game ever. At its core it is a sandbox survival game but its customisability allows it to be so much more than that. People have made custom maps with stories, mods that transform the game into fantasy RPGs or technical automation games, and there are also many servers all with their own themes and settings. I will use this page to review Minecraft at different times when I revisit it with different versions and mods. It has changed a lot through the years and it is a fundamentally different game from when I first played it now.
 
 ## Modded Server
 So after planning to play some more singleplayer Minecraft I got chatting to some friends and we said we should all play together. After some discussion we decided we should play modded and have made our own [Mod Pack](https://modrinth.com/modpack/packofmods/) it has been a lot of fun so far. We have a nice small set of mods that fit well together. There is a small group of us and having a proximity chat mod has made this work really well. Give the pack a go if you are interested, there is also a server version if you want to host your own server.
@@ -15,11 +15,11 @@ I found a tool called [MCA Selector](https://github.com/Querz/mcaselector) whi
 I am having a lot of fun with this so far. I started in version 1.21.4 and I'm really enjoying the new caves/world generation and music some of which is made by Lena Raine the creator of the music for [[Sources/Celeste\|Celeste]]!
 
 ## Survival Island Java 1.17-1.18
-During the Covid lockdowns I started a new Minecraft world. I couldn't be bothered with going hunting for everything and wanted to keep things simple so I found a world with an island at the spawn, cheated to spawn in a few items, put an end portal deep underground on the island and a skeleton spawner. This was a DIY survival island which used to be a popular survival challenge where you couldn't leave the island.
+During the Covid lockdowns I started a new Minecraft world. I couldn't be bothered with going hunting for everything and wanted to keep things simple, so I found a world with an island at the spawn, cheated to spawn in a few items, put an end portal deep underground on the island, and add a skeleton spawner to the caves. This was a DIY survival island which used to be a popular survival challenge where you couldn't leave the island.
 
 This challenge meant I interacted a lot with new mechanics but very little with the new world generation. I had a lot of fun and manged to automate farming for a lot of resources. The most annoying thing was the new phantom mobs that had been added since the last time I played but these were not a major issue after I made my large pyramid base. I would highly recommend giving this sort of challenge a go in any version of Minecraft.
 
-When I got bored of the island I used that fact that distance is shorter in the nether to create a quick access to the mainland because I wanted to see things from the new caves update but never really got around to exploring properly.
+When I got bored of the island I used that fact that distance is shorter in the nether to create a quick access to the mainland. I wanted to see things from the new caves update but never really got around to exploring properly.
 
 [World Download](https://drive.google.com/file/d/1Zt-1MR2uF_5LNSVY-udi_PJM_6B_fNA5/view?usp=drive_link)
 
