@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/the-phantom-menace/","tags":["starWars","film","fanEdit"],"created":"2025-04-18T13:18:38.507+01:00","updated":"2025-04-19T12:56:50.368+01:00"}
----
-
-This is probably my least favourite of the Star Wars films that I still recommend watching. I find this film to have bad pacing, the Gungans are annoying and many elements don't really matter that much to the wider story. However, there is an interesting story of a Jedi who doesn't entirely agree with the order doing what he believes is right here. I highly recommend the [Hal9000](https://originaltrilogy.com/topic/Some-info-help-for-the-Hal-9000-Edits-of-the-Prequel-Sequel-Trilogies-more/id/60855) fan edits for all of the prequels but I think The Phantom Menace one called: [Cloak of Deception](https://originaltrilogy.com/topic/Star-Wars-Episode-I-Cloak-Of-Deception-Released/id/15663) helps most and made this film a lot more enjoyable for me. It removes the Gungan city section and tightens up the pacing a lot.
