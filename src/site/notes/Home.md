@@ -16,6 +16,7 @@ Welcome to my website! I'm Lloyd. I work as a software engineer, but also like t
 - [[Video Games\|Video Games]]
 
 **Feed (a bit of everything)**
+- [[The Artificial World\|The Artificial World]]: 19-04-2025
 - [[Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 20-04-2025
 - [[Why you Should Watch the Hal9000 Edits of the Star Wars Prequels\|Why you Should Watch the Hal9000 Edits of the Star Wars Prequels]]: 20-04-2025
 - [[The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]: 20-04-2025
@@ -34,7 +35,6 @@ Welcome to my website! I'm Lloyd. I work as a software engineer, but also like t
 - [[Life is Better this Way\|Life is Better this Way]]: 18-04-2025
 - [[Media Consumption\|Media Consumption]]: 19-04-2025
 - [[Two of Me\|Two of Me]]: 19-04-2025
-- [[The Artificial World\|The Artificial World]]: 19-04-2025
 - [[Eat Me\|Eat Me]]: 19-04-2025
 - [[Dubstep Egg\|Dubstep Egg]]: 19-04-2025
 - [[Clone\|Clone]]: 19-04-2025
