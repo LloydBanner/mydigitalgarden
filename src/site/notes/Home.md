@@ -18,6 +18,7 @@ Welcome to my [[Website\|Website]]! I'm Lloyd. I work as a software engineer, bu
 - [[Video Games\|Video Games]]
 
 **Feed (a bit of everything) (sorted by last update)**
+- [[Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 21-04-2025
 - [[My OSE Monsters\|My OSE Monsters]]: 21-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 10\|Whiterock Session 10]]: 21-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 8\|Whiterock Session 8]]: 21-04-2025
