@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg-session-logs/","tags":["developing"],"created":"2025-04-19T14:36:28.176+01:00","updated":"2025-04-21T11:34:53.451+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg-session-logs/","tags":["developing"],"created":"2025-04-19T14:36:28.176+01:00","updated":"2025-04-21T20:50:58.004+01:00"}
 ---
 
 Session logs from my [[TTRPG\|TTRPG]] games.
 
-**Session Logs Whiterock Campaign**
+**Session Logs Whiterock Campaign (sorted by session date)**
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 11\|Whiterock Session 11]]: 19-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 10\|Whiterock Session 10]]: 29-03-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 9\|Whiterock Session 9]]: 08-03-2025
