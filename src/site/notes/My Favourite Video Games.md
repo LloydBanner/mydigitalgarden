@@ -14,6 +14,9 @@ The unique element of [[Video Games\|video games]] is the interactivity. I tend 
 ## The List
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
+| [[Sources/Skyrim\|Skyrim]]                                                   |
+| [[Sources/Dark Souls\|Dark Souls]]                                           |
+| [[Sources/Elden Ring\|Elden Ring]]                                           |
 | [[Sources/Mount and Blade Bannerlord\|Mount and Blade Bannerlord]]           |
 | [[Sources/Mount and Blade Warband\|Mount and Blade Warband]]                 |
 | [[Sources/Middle Earth Shadow of War\|Middle Earth Shadow of War]]           |
@@ -25,7 +28,6 @@ The unique element of [[Video Games\|video games]] is the interactivity. I tend 
 | [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |
 | [[Sources/Morrowind\|Morrowind]]                                             |
 | [[Sources/Oblivion\|Oblivion]]                                               |
-| [[Sources/Skyrim\|Skyrim]]                                                   |
 | [[Sources/Jedi Survivor\|Jedi Survivor]]                                     |
 | [[Sources/Dishonored 2\|Dishonored 2]]                                       |
 | [[Sources/Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]] |

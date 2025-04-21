@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/getting-into-morrowind/","tags":["feed","elderScrolls","mod","developing"],"created":"2025-04-20T22:48:31.279+01:00","updated":"2025-04-21T11:32:37.772+01:00"}
+{"dg-publish":true,"permalink":"/getting-into-morrowind/","tags":["feed","elderScrolls","mod","developing"],"created":"2025-04-20T22:48:31.279+01:00","updated":"2025-04-21T20:23:58.916+01:00"}
 ---
 
 It took me a few attempts to get into [[Sources/Morrowind\|Morrowind]] so here is my guide on how to do it.
@@ -12,5 +12,6 @@ First there are a few quality of life mods that I think are essential, for most 
 -  [Official Plugins](https://www.nexusmods.com/morrowind/mods/43931) - Some official Mods released by Bethesda.  
 - [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096) - A patch that fixes a lot of issues while remaining true to the original game.  
 -  [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588) - Stops the high level DLC enemies from attacking you until later in the game.
+(I used the first 5 of these on my first playthrough but I think the others are also fixes that will improve the experience)
 
-So now you have some essential mods I recommend deciding what type of character you want to play such as a mage, a thief or a warrior and looking up a build. The most important thing is starting you character without them being too weak as attacks are based on dice rolls and if you have a bad build you won't get anywhere. After you have built the character and got going don't look the build up too much just use it as a starting point. You will probably still miss a lot to begin with but as you level your skills this will become less of an issue. Now all you have to do is stick with it.
+So now you have some essential mods I recommend deciding what type of character you want to play such as a mage, a thief, or a warrior and looking up a build. The most important thing is starting you character without them being too weak as attacks are based on dice rolls and if you have a bad build you won't get anywhere. After you have built the character and got going don't look the build up too much just use it as a starting point. You will probably still miss a lot to begin with but as you level your skills this will become less of an issue. Now all you have to do is stick with it.

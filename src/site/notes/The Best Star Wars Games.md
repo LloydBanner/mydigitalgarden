@@ -16,7 +16,7 @@
 ## Mods for Other Games
 |                                                                                                         |
 | ------------------------------------------------------------------------------------------------------- |
-| [[Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]                       |
 | [[Blade and Sorcery is the Best VR Star Wars Game\|Blade and Sorcery is the Best VR Star Wars Game]] |
+| [[Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]                       |
 
 { .block-language-dataview}

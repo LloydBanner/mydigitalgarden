@@ -18,6 +18,10 @@ Welcome to my [[Website\|Website]]! I'm Lloyd. I work as a software engineer, bu
 - [[Video Games\|Video Games]]
 
 **Feed (a bit of everything) (sorted by last update)**
+- [[Elden Ring Review\|Elden Ring Review]]: 21-04-2025
+- [[Getting into Morrowind\|Getting into Morrowind]]: 21-04-2025
+- [[Elden Ring Shadow of The Erdtree Review\|Elden Ring Shadow of The Erdtree Review]]: 21-04-2025
+- [[Video Games/Starfield/Starfield Review\|Starfield Review]]: 21-04-2025
 - [[Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 21-04-2025
 - [[My OSE Monsters\|My OSE Monsters]]: 21-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 10\|Whiterock Session 10]]: 21-04-2025
@@ -50,7 +54,6 @@ Welcome to my [[Website\|Website]]! I'm Lloyd. I work as a software engineer, bu
 - [[Morrowind's Biggest Mods\|Morrowind's Biggest Mods]]: 20-04-2025
 - [[Minecraft Mining AI\|Minecraft Mining AI]]: 18-04-2025
 - [[Hobbit Fan Edits Condense the Trilogy into One Film\|Hobbit Fan Edits Condense the Trilogy into One Film]]: 21-04-2025
-- [[Getting into Morrowind\|Getting into Morrowind]]: 20-04-2025
 - [[End of an Empire\|End of an Empire]]: 20-04-2025
 - [[Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game\|Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game]]: 20-04-2025
 - [[Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 20-04-2025
