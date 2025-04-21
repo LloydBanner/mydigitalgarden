@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-you-should-watch-the-hal9000-edits-of-the-star-wars-prequels/","tags":["feed","fanEdit","starWars"],"created":"2025-04-20T11:49:37.354+01:00","updated":"2025-04-20T11:59:28.198+01:00"}
+{"dg-publish":true,"permalink":"/why-you-should-watch-the-hal9000-edits-of-the-star-wars-prequels/","tags":["feed","fanEdit","starWars","developing"],"created":"2025-04-20T11:49:37.354+01:00","updated":"2025-04-21T11:35:55.383+01:00"}
 ---
 
 [Hal9000](https://originaltrilogy.com/topic/Some-info-help-for-the-Hal-9000-Edits-of-the-Prequel-Sequel-Trilogies-more/id/60855) makes some great fan edits of various films, but I think his [[Sources/Star Wars\|Star Wars]] prequels edits are the best way to watch that trilogy.

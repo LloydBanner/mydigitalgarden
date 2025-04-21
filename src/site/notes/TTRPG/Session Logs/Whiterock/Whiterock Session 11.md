@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-11/","tags":["feed","whiterockLog"],"created":"2025-04-20T07:52:41.209+01:00","updated":"2025-04-20T20:54:02.253+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-11/","tags":["feed","whiterockLog","developed"],"created":"2025-04-20T07:52:41.209+01:00","updated":"2025-04-21T12:25:56.936+01:00"}
 ---
 
 ## Session Notes

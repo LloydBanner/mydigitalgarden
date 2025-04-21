@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blade-and-sorcery-is-the-best-vr-star-wars-game/","tags":["feed","mod","starWars","totalConversion"],"created":"2025-04-20T20:57:14.038+01:00","updated":"2025-04-20T21:44:57.742+01:00"}
+{"dg-publish":true,"permalink":"/blade-and-sorcery-is-the-best-vr-star-wars-game/","tags":["feed","mod","starWars","totalConversion","draft"],"created":"2025-04-20T20:57:14.038+01:00","updated":"2025-04-21T11:32:00.985+01:00"}
 ---
 
 I love the base game of [[Sources/Blade and Sorcery\|Blade and Sorcery]] but I love [The Outer Rim](https://www.nexusmods.com/bladeandsorcery/mods/528) mod more. It adds practically every [[Sources/Star Wars\|Star Wars]] weapon you can imagine to the game and waves of enemies with lightsabers. It even gives you the ability to use the force. As far as I am concerned, this is more fun than any [[Sources/Star Wars\|Star Wars]] VR game although there are a few good ones. Add this and a few mods that add different [[Sources/Star Wars\|Star Wars]] enemy waves and you will have a blast.

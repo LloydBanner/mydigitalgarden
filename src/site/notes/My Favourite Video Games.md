@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/my-favourite-video-games/","tags":["feed"],"created":"2025-04-19T14:07:11.371+01:00","updated":"2025-04-20T21:24:46.371+01:00"}
+{"dg-publish":true,"permalink":"/my-favourite-video-games/","tags":["feed","developing"],"created":"2025-04-19T14:07:11.371+01:00","updated":"2025-04-21T11:33:20.299+01:00"}
 ---
 
 The unique element of [[Video Games\|video games]] is the interactivity. I tend to enjoy games that have more interactivity and have a greater gameplay focus than story focus. I also mostly play singleplayer games. There are a few things that will really take me out of a game like when control is taken away from the player especially when it is done often so I usually avoid games like this.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cooking-recipes/tomato-based-stew-recipe/","tags":["lloydsCookingRecipes","feed"],"created":"2025-04-21T11:00:57.688+01:00","updated":"2025-04-21T11:09:48.711+01:00"}
+{"dg-publish":true,"permalink":"/cooking-recipes/tomato-based-stew-recipe/","tags":["lloydsCookingRecipes","feed","developing"],"created":"2025-04-21T11:00:57.688+01:00","updated":"2025-04-21T11:27:53.950+01:00"}
 ---
 
 Serves 3

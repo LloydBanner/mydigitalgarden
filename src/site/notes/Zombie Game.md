@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zombie-game/","tags":["feed"],"created":"2025-04-19T14:22:19.773+01:00","updated":"2025-04-19T14:23:04.844+01:00"}
+{"dg-publish":true,"permalink":"/zombie-game/","tags":["feed","developed"],"created":"2025-04-19T14:22:19.773+01:00","updated":"2025-04-21T11:36:15.526+01:00"}
 ---
 
 A major project I worked on at university was a game that was written in Java as a group project. This was in my second year of university 2018-2019.

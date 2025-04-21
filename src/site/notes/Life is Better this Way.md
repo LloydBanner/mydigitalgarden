@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/life-is-better-this-way/","tags":["feed","lloydsBooks"],"created":"2025-04-18T09:59:51.582+01:00","updated":"2025-04-20T23:12:28.643+01:00"}
+{"dg-publish":true,"permalink":"/life-is-better-this-way/","tags":["feed","lloydsBooks","developed"],"created":"2025-04-18T09:59:51.582+01:00","updated":"2025-04-21T11:28:20.076+01:00"}
 ---
 
 Released: December 2023

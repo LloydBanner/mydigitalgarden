@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cooking-recipes/chicken-pilaf-recipe/","tags":["lloydsCookingRecipes","feed"],"created":"2025-04-21T10:47:17.149+01:00","updated":"2025-04-21T10:59:31.420+01:00"}
+{"dg-publish":true,"permalink":"/cooking-recipes/chicken-pilaf-recipe/","tags":["lloydsCookingRecipes","feed","developed"],"created":"2025-04-21T10:47:17.149+01:00","updated":"2025-04-21T11:28:01.557+01:00"}
 ---
 
 Serves 2

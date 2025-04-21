@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/are-the-lotr-films-good-adaptations-of-the-books/","tags":["lordOfTheRings","feed"],"created":"2025-04-21T09:41:33.464+01:00","updated":"2025-04-21T09:42:42.838+01:00"}
+{"dg-publish":true,"permalink":"/are-the-lotr-films-good-adaptations-of-the-books/","tags":["lordOfTheRings","feed","draft"],"created":"2025-04-21T09:41:33.464+01:00","updated":"2025-04-21T11:31:48.741+01:00"}
 ---
 
 One thing came up in discussion with a colleague of mine was if [[Sources/The Lord of the Rings\|The Lord of the Rings]] films are good adaptations of the source material. I read the books, apart from the hobbit, after watching the films many times. What I see in the films is a retelling of the same story with some tweaks to make it work better for the medium of film and the removal of some of the weirder and I think worse plotlines. I also do not disagree with a tale being recreated with a different vision as long as it is told well. These films are an incredible retelling if you ask me.
