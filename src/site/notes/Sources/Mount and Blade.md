@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/sources/mount-and-blade/","tags":["mountAndBlade"],"created":"2025-04-21T10:11:19.596+01:00","updated":"2025-04-21T10:12:22.909+01:00"}
+---
+
+Mount and Blade is a series of historical simulation sandbox games. They allow you to play as a general in an army and command your forces in battles. These battles include sieges, open plains battles and infiltrations. Outside of combat you manage your army and can even gain favour with nobles or other influential figures. This is a fun and highly moddable series of games.

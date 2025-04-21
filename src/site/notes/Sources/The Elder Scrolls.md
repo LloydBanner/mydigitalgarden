@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/sources/the-elder-scrolls/","tags":["elderScrolls"],"created":"2025-04-20T21:57:32.560+01:00","updated":"2025-04-20T23:11:02.695+01:00"}
+---
+
+Another one of my all time favourite series. A fantasy open world RPG series that always pulls me in. I love the setting, the lore, and the gameplay. Some might call these games basic or simple, but I think the simplicity allows for the variety in quests and the great exploration we see in these games. I also think the worlds are incredibly detailed for their scale which really allows you to get into the role of your character.
+
+## Games
+- [[Sources/Skyrim\|Skyrim]]
+- [[Sources/Oblivion\|Oblivion]]
+- [[Sources/Morrowind\|Morrowind]]
+- [[Sources/Daggerfall\|Daggerfall]]
+
+## Other Stuff
+- [[Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game\|Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game]]

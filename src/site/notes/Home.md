@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-04-17T19:05:31.364+01:00","updated":"2025-04-20T12:03:06.876+01:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2025-04-17T19:05:31.364+01:00","updated":"2025-04-21T11:12:21.062+01:00"}
 ---
 
 # Home
@@ -7,15 +7,25 @@ Welcome to my website! I'm Lloyd. I work as a software engineer, but also like t
 
 **Things I have made**
 - [[Writing\|Writing]]
-- [[Videos\|Videos]]
 - [[University Projects\|University Projects]]
+- [[Cooking Recipes\|Cooking Recipes]]
+- [[Art\|Art]]
+- [[Videos\|Videos]]
 - [[Creative Graveyard\|Creative Graveyard]]
 
-**My Interests (recommendations, reviews and more)**
+**My Interests (recommendations, reviews, and more)**
 - [[TTRPG\|TTRPG]]
 - [[Video Games\|Video Games]]
 
 **Feed (a bit of everything)**
+- [[Cooking Recipes/Tomato Based Stew Recipe\|Tomato Based Stew Recipe]]: 21-04-2025
+- [[Cooking Recipes/Chicken Pilaf Recipe\|Chicken Pilaf Recipe]]: 21-04-2025
+- [[Cooking Recipes/Chicken and Bulgar Wheat Recipe\|Chicken and Bulgar Wheat Recipe]]: 21-04-2025
+- [[Sources/Middle Earth Shadow of Mordor Review\|Middle Earth Shadow of Mordor Review]]: 21-04-2025
+- [[Hobbit Fan Edits Condense the Trilogy into One Film\|Hobbit Fan Edits Condense the Trilogy into One Film]]: 21-04-2025
+- [[Are the LOTR Films Good Adaptations of the Books\|Are the LOTR Films Good Adaptations of the Books]]: 21-04-2025
+- [[Reviews/Jedi Knight II Jedi Outcast Review\|Jedi Knight II Jedi Outcast Review]]: 20-04-2025
+- [[Reviews/Jedi Fallen Order Review\|Jedi Fallen Order Review]]: 20-04-2025
 - [[Two of Me\|Two of Me]]: 19-04-2025
 - [[The Artificial World\|The Artificial World]]: 20-04-2025
 - [[Eat Me\|Eat Me]]: 19-04-2025
@@ -39,8 +49,6 @@ Welcome to my website! I'm Lloyd. I work as a software engineer, but also like t
 - [[Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game\|Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game]]: 20-04-2025
 - [[My Favourite Video Games\|My Favourite Video Games]]: 19-04-2025
 - [[Space Magic\|Space Magic]]: 19-04-2025
-- [[Reviews/Jedi Knight II Jedi Outcast Review\|Jedi Knight II Jedi Outcast Review]]: 20-04-2025
-- [[Reviews/Jedi Fallen Order Review\|Jedi Fallen Order Review]]: 20-04-2025
 - [[The Clone Wars Refocused Cuts all of the Filler\|The Clone Wars Refocused Cuts all of the Filler]]: 20-04-2025
 - [[Reviews/Jedi Knight Jedi Academy Review\|Jedi Knight Jedi Academy Review]]: 20-04-2025
 - [[My Minecraft Worlds and Maps\|My Minecraft Worlds and Maps]]: 20-04-2025

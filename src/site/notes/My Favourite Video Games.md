@@ -14,6 +14,15 @@ The unique element of [[Video Games\|video games]] is the interactivity. I tend 
 ## The List
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
+| [[Sources/Mount and Blade Bannerlord\|Mount and Blade Bannerlord]]           |
+| [[Sources/Mount and Blade Warband\|Mount and Blade Warband]]                 |
+| [[Sources/Middle Earth Shadow of War\|Middle Earth Shadow of War]]           |
+| [[Sources/Middle Earth Shadow of Mordor\|Middle Earth Shadow of Mordor]]     |
+| [[Sources/Bioshock\|Bioshock]]                                               |
+| [[Sources/Halo Reach\|Halo Reach]]                                           |
+| [[Sources/Halo ODST\|Halo ODST]]                                             |
+| [[Sources/Halo 3\|Halo 3]]                                                   |
+| [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |
 | [[Sources/Morrowind\|Morrowind]]                                             |
 | [[Sources/Oblivion\|Oblivion]]                                               |
 | [[Sources/Skyrim\|Skyrim]]                                                   |

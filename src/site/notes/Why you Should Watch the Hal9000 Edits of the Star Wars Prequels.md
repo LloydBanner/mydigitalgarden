@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/why-you-should-watch-the-hal9000-edits-of-the-star-wars-prequels/","tags":["feed","fanEdit","starWars"],"created":"2025-04-20T11:49:37.354+01:00","updated":"2025-04-20T11:59:28.198+01:00"}
 ---
 
-[Hal9000](https://originaltrilogy.com/topic/Some-info-help-for-the-Hal-9000-Edits-of-the-Prequel-Sequel-Trilogies-more/id/60855) makes some great fan edits of various films, but I think his [[Star Wars\|Star Wars]] prequels edits are the best way to watch that trilogy.
+[Hal9000](https://originaltrilogy.com/topic/Some-info-help-for-the-Hal-9000-Edits-of-the-Prequel-Sequel-Trilogies-more/id/60855) makes some great fan edits of various films, but I think his [[Sources/Star Wars\|Star Wars]] prequels edits are the best way to watch that trilogy.
 
 ## [[Sources/The Phantom Menace\|The Phantom Menace]]
 I think [[Sources/The Phantom Menace\|The Phantom Menace]] edit called: [Cloak of Deception](https://originaltrilogy.com/topic/Star-Wars-Episode-I-Cloak-Of-Deception-Released/id/15663) helps the most and made this film a lot more enjoyable for me. It removes the gungan city section and tightens up the pacing a lot.
