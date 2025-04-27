@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/main-notes/pi-automated-house-lights/","tags":["creativeGraveyard","feed","developed"],"created":"2025-04-18T12:45:12.214+01:00","updated":"2025-04-21T11:33:47.849+01:00"}
+---
+
+Some people may call it laziness but I call in convenience. I really like the idea of automating simple tasks in your life so you can focus on more important things. The first time I tried to do this was with automated lights for my room in my second year of university in 2019. I used a Raspberry Pi and two PIR sensors and the idea was that by using two sensors you could sense direction rather than just motion. With this you could count the people in the room and only have the lights go off when no one was there. I had had enough of annoying lights that would go off while you were still in the room. This worked kind of well but the sensors were somewhat unresponsive and if multiple people came in at once it wouldn't always count them. I now use home assistant for automation and find mmWave sensors such as the [EP1](https://shop.everythingsmart.io/products/everything-presence-one-kit) or [EP Lite](https://shop.everythingsmart.io/products/everything-presence-lite) are much better for detecting presence.
+
+[Code](https://github.com/LloydBanner/AutomaticHouseLights/tree/master)

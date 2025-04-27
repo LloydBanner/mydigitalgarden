@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-3/","tags":["whiterockLog","feed","developed"],"created":"2025-04-17T22:43:20.845+01:00","updated":"2025-04-21T13:04:16.573+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-3/","tags":["whiterockLogs","feed","developed"],"created":"2025-04-17T22:43:20.845+01:00","updated":"2025-04-22T17:36:36.870+01:00"}
 ---
 
 ## Session Notes
@@ -32,4 +32,4 @@ Total/6 680xp
 | Maia      | 583                   | 1263       |
 | Geog      | 583                   | 1263       |
 #### Published Content Used
-- [[OSE\|OSE]] (Classic and Advanced)
+- [[Main Notes/OSE\|OSE]] (Classic and Advanced)

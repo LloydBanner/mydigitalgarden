@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-films/","tags":["lordOfTheRings"],"created":"2025-04-21T09:45:12.428+01:00","updated":"2025-04-21T09:58:54.165+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-films/","tags":["lordOfTheRings","sources"],"created":"2025-04-21T09:45:12.428+01:00","updated":"2025-04-22T17:55:34.252+01:00"}
 ---
 
 I have watched the trilogy countless times and know many of the words before they are spoken. I can see these films as nothing but masterpieces.
@@ -10,7 +10,7 @@ The extended versions of the trilogy are how I would recommend watching them. Th
 - [[Sources/The Two Towers (film)\|The Two Towers (film)]]
 - [[Sources/The Return of the King (film)\|The Return of the King (film)]]
 ## Other Films
-- [[Hobbit Fan Edits Condense the Trilogy into One Film\|Hobbit Fan Edits Condense the Trilogy into One Film]]
+- [[Main Notes/Hobbit Fan Edits Condense the Trilogy into One Film\|Hobbit Fan Edits Condense the Trilogy into One Film]]
 
 --- 
 ## See Also

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-5/","tags":["whiterockLog","feed","developed"],"created":"2025-04-17T22:43:46.350+01:00","updated":"2025-04-21T11:59:59.391+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-5/","tags":["whiterockLogs","feed","developed"],"created":"2025-04-17T22:43:46.350+01:00","updated":"2025-04-22T17:36:37.366+01:00"}
 ---
 
 ## Session Notes
@@ -35,5 +35,5 @@ Everyone gathered as much treasure as they could carry from the tower, and they 
 | Maia      | 1513                  | 2532 (Need to get to 4000 xp to level up)                                                             |
 | Geog      | 1263                  | 2282 Level Up!                                                                                        |
 #### Published Content Used
-- [[OSE\|OSE]] (Classic and Advanced)
+- [[Main Notes/OSE\|OSE]] (Classic and Advanced)
 - The Monster Overhaul

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/middle-earth-shadow-of-mordor-review/","tags":["feed","review","lordOfTheRings","developed"],"created":"2025-04-21T10:05:40.284+01:00","updated":"2025-04-21T11:31:28.207+01:00"}
+{"dg-publish":true,"permalink":"/reviews/middle-earth-shadow-of-mordor-review/","tags":["feed","reviews","lordOfTheRings","developed"],"created":"2025-04-21T10:05:40.284+01:00","updated":"2025-04-22T17:36:28.336+01:00"}
 ---
 
 Written: 12-03-2024

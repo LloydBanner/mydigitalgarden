@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-11/","tags":["feed","whiterockLog","developed"],"created":"2025-04-20T07:52:41.209+01:00","updated":"2025-04-21T12:25:56.936+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-11/","tags":["feed","whiterockLogs","developed"],"created":"2025-04-20T07:52:41.209+01:00","updated":"2025-04-22T17:36:36.315+01:00"}
 ---
 
 ## Session Notes
@@ -81,5 +81,5 @@ Aldo (Mutant child): 1
 | Geog (D3)      | 4921                  | 6723 (Need to get to 8800 xp to level up)              |
 | Derek (BM2)    | 414                   | 2216 (Level up!) (Need to get to 3600 xp to level up)  |
 #### Published Content Used
-- [[OSE\|OSE]] (Classic and Advanced)
+- [[Main Notes/OSE\|OSE]] (Classic and Advanced)
 - [[Sources/Raiding the Obsidian Keep\|Raiding the Obsidian Keep]]

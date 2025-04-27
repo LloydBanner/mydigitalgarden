@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-phantom-menace/","tags":["starWars","film","fanEdit"],"created":"2025-04-18T13:18:38.507+01:00","updated":"2025-04-20T21:24:01.641+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-phantom-menace/","tags":["starWars","films","fanEdits","sources"],"created":"2025-04-18T13:18:38.507+01:00","updated":"2025-04-22T17:55:59.743+01:00"}
 ---
 
 This is probably my least favourite of the [[Sources/Star Wars\|Star Wars]] films that I still recommend watching. I find this film to have bad pacing, the gungans are annoying and many elements don't really matter that much to the wider story. However, there is an interesting story of a Jedi who doesn't entirely agree with the order doing what he believes is right here. 
 
-- [[Why you Should Watch the Hal9000 Edits of the Star Wars Prequels\|Why you Should Watch the Hal9000 Edits of the Star Wars Prequels]]
+- [[Main Notes/Why you Should Watch the Hal9000 Edits of the Star Wars Prequels\|Why you Should Watch the Hal9000 Edits of the Star Wars Prequels]]

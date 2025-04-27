@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/celeste/","tags":["videoGame","theBest"],"created":"2025-04-19T13:25:50.629+01:00","updated":"2025-04-20T11:13:33.326+01:00"}
+{"dg-publish":true,"permalink":"/sources/celeste/","tags":["videoGames","theBest","sources"],"created":"2025-04-19T13:25:50.629+01:00","updated":"2025-04-22T17:51:43.114+01:00"}
 ---
 
 A pixel art 2D indie platformer with incredibly tight mechanics and near perfect design. An absolute must play if you like platformer games. It isn't easy but when you die you respawn only a few jumps away from where you died so you are always straight back in the action. New mechanics and ideas are introduced throughout the game at just the right rate and there is a bunch of fun side content if you want more after finishing the game. Play this game!

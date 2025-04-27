@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/my-monsters/ignid/","tags":["lloydsOSEMonsters"],"created":"2025-04-21T12:26:20.074+01:00","updated":"2025-04-21T12:58:55.913+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/my-monsters/ignid/","tags":["lloydsOSEMonsters","developed"],"created":"2025-04-21T12:26:20.074+01:00","updated":"2025-04-21T21:11:10.015+01:00"}
 ---
 
 This was a monster that I made for my Whiterock campaign, you can read about it in action in [[TTRPG/Session Logs/Whiterock/Whiterock Session 6\|Whiterock Session 6]], ignid tooth daggers have also been used by my players since then. This was a really fun encounter I recommend giving it a go in your own games. It was generated with help from the [Random Esoteric Creature Generator](https://www.drivethrurpg.com/en/product/58916/Random-Esoteric-Creature-Generator-for-Classic-Fantasy-RolePlaying-Games-and-their-Modern-Simulacra).

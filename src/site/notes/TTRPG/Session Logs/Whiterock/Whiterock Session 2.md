@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-2/","tags":["whiterockLog","feed","developed"],"created":"2025-04-17T22:43:11.728+01:00","updated":"2025-04-21T11:59:29.324+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-2/","tags":["whiterockLogs","feed","developed"],"created":"2025-04-17T22:43:11.728+01:00","updated":"2025-04-22T17:36:36.568+01:00"}
 ---
 
 ## Session Notes
@@ -57,4 +57,4 @@ Divided by 4 people 327.5xp each
 | Maia      | 583                   | 583        |
 | Geog      | 583                   | 583        |
 #### Published Content Used
-- [[OSE\|OSE]] (Classic and Advanced)
+- [[Main Notes/OSE\|OSE]] (Classic and Advanced)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-8/","tags":["whiterockLog","feed","developed"],"created":"2025-04-17T22:44:18.944+01:00","updated":"2025-04-21T13:04:59.868+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-8/","tags":["whiterockLogs","feed","developed"],"created":"2025-04-17T22:44:18.944+01:00","updated":"2025-04-22T17:36:38.193+01:00"}
 ---
 
 ## Session Notes
@@ -30,4 +30,4 @@ Geog won 5000 gp and Stagdo won 2500 gp, which they split equally. Breadwig had 
 | Maia (Dr2)     | 2920                  | 5145 (Level Up!) need to pick spell (Need to get to 8000 xp to level up)  |
 | Geog (D3)*     | 2282                  | 4507 (Level Up!) done (Need to get to 8800 xp to level up)                |
 #### Published Content Used
-- [[OSE\|OSE]] (Classic and Advanced)
+- [[Main Notes/OSE\|OSE]] (Classic and Advanced)

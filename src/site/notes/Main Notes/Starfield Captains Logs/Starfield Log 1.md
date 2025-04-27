@@ -1,0 +1,25 @@
+---
+{"dg-publish":true,"permalink":"/main-notes/starfield-captains-logs/starfield-log-1/","created":"2025-04-21T19:16:01.678+01:00","updated":"2025-04-21T19:53:56.284+01:00"}
+---
+
+[Captains Logs](Starfield%20Captains%20Logs.md)
+
+I was lying low doing some mining jobs, since I had some heat, when I found an artefact. It gave me a nice little light show when I touched it, and when I woke up, a man had arrived asking me to take it to a group called Constellation. He lent his ship with some protocols to avoid me using it for anything else, so I could take the artefact to this Constellation while he cleaned up a mess he had made bringing pirates to the mining outpost. 
+
+The artefact took me to New Atlantis on the planet Jameson. A nice city, capital of the UC, but I was worried I could still be being hunted. Constellation paid well, and gave me a place to stay, and no one found me, so I did a few jobs with them. After they put the artefact with some others, they all started spinning. They want to find the rest, and I’ve helped them find a few now, to see what happens when they’re all together. It could be interesting, but I’m not expecting anything too galaxy-changing. They’ve given me a ship to look for artefacts and more or less free rein with it. The CEO of the shipbuilding company Straud-Ekland is funding them, so they’re pretty loose with giving out their valuables as long as they’re making discoveries about the universe.
+
+Being in New Atlantis, I also signed up with the UC Vanguard. They’re like a mercenary fleet that the UC uses for protection and odd jobs. It has netted me some money so far, and I’ve ended up doing more of their jobs than Constellation’s at this point. There was a bit more urgency with one job in particular, so I decided to focus on that. 
+
+When I was helping out with some repairs on an outpost, terrormorphs attacked. I’d heard of them before, but they are terrifying in person. We managed to kill them, but the outpost was practically lost. That was when I met Hadrian Sanon. She was the only other survivor of the attack and had a great deal of terrormorph knowledge. The attack was highly unusual. It had happened years before anyone thought possible. Terrormorph attacks usually happened only after a planet had been inhabited for around a hundred years, but this planet had been inhabited for only a very short time.
+
+We had a long investigation, in the middle of which there was a terrormorph attack on New Atlantis. Which we had to stop personally since the UC guards were useless at fighting them. 
+
+I also met Hadrian’s war criminal genetic father, Vae Victis (Latin for woe to the vanquished), as part of finding some information we needed. It turned out they used is DNA spliced with various other biological samples to create Hadrian, but the UC hadn’t told anyone he was alive after they “executed” him for his crimes in the colony war.
+
+In the end, we went to Londinion on Toliman, the terrormorph home planet, to find a way to stop them. In the past, Vae Victis had bombed the city of Londinion during the colony war, killing thousands. It became clear while we were there that the reason was that evidence had been found to accelerate terrormorph growth, and he wanted to stop it from getting out. They grow from the heat leaches that suck the power from ships on practically every planet in the galaxy. The sudden and quick attacks meant the only possible person who could have caused them was Vae Victis, but practically no one knew he was alive, and I didn’t tell them.
+
+Instead, I went to Vae Victis, we worked out a way to frame someone for setting it up. He’d wanted his “daughter”, Hadrian, to be able to have a good position in society and had orchestrated the whole thing since Hadrian was the only person who really had the knowledge to solve the problem. Vae Victis is a very smart man, and he’s offered me opportunities for future employment which could be mutually beneficial. His first plan resulted in me getting a penthouse in Mercury Tower in New Atlantis and plenty of cash since we stopped the terrormorph threat, so I’m happy to follow along when he contacts me again.
+
+Things are getting a bit too high profile on Jameson now, though. Everyone knows that me, Hadrian and her research team saved New Atlantis and have stopped the threat. They’ve also founded the TMD, a terrormorph defence force and offered me more work. I declined for now since their solution to reintroduce a predator for the terrormorphs called the aceles seems to be pretty effective, and it’s a bonus that they’re pretty passive creatures to humans. I want to lay low again. I have a feeling my name may have been heard by the people I’m trying to avoid.
+
+I’ve gained enough resources, credits and a ship. My plan is to head to a nice planet with a breathable atmosphere and good views, and set up a small base. Maybe I could do some automated mining to make a little money on the side. Either way, it’ll be a holiday compared to what I’ve been doing and the mining outpost before that. In fact, I’m looking forward to it.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-7/","tags":["whiterockLog","feed","developed"],"created":"2025-04-17T22:44:10.324+01:00","updated":"2025-04-21T12:12:10.965+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-7/","tags":["whiterockLogs","feed","developed"],"created":"2025-04-17T22:44:10.324+01:00","updated":"2025-04-22T17:36:37.923+01:00"}
 ---
 
 ## Session Notes
@@ -37,4 +37,4 @@ Two Whiterock guards in shining plate armour appeared behind Sphonyx, and anothe
 | Maia (Dr1)     | 2920                  | 2920 (Need to get to 4000 xp to level up)             |
 | Geog (D2)*     | 2282                  | 2282 (Need to get to 3000 xp to level up)             |
 #### Published Content Used
-- [[OSE\|OSE]] (Classic and Advanced)
+- [[Main Notes/OSE\|OSE]] (Classic and Advanced)

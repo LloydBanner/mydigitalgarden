@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-9/","tags":["whiterockLog","feed","developed"],"created":"2025-04-17T22:44:28.035+01:00","updated":"2025-04-21T12:19:22.816+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-9/","tags":["whiterockLogs","feed","developed"],"created":"2025-04-17T22:44:28.035+01:00","updated":"2025-04-22T17:36:38.464+01:00"}
 ---
 
 ## Session Notes
@@ -35,4 +35,4 @@ Jatumal, Sphonyx and Stinkcat tried to sneak after Veridia as she stormed away. 
 | Maia (Dr2)     | 5145                  | 5145 need to pick spell (Need to get to 8000 xp to level up)           |
 | Geog (D3)*     | 4507                  | 4507 (Need to get to 8800 xp to level up)                              |
 #### Published Content Used
-- [[OSE\|OSE]] (Classic and Advanced)
+- [[Main Notes/OSE\|OSE]] (Classic and Advanced)

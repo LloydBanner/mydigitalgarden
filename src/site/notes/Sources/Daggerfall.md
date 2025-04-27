@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/daggerfall/","tags":["elderScrolls","videoGame"],"created":"2025-04-20T23:09:30.703+01:00","updated":"2025-04-20T23:10:18.170+01:00"}
+{"dg-publish":true,"permalink":"/sources/daggerfall/","tags":["elderScrolls","videoGames","sources"],"created":"2025-04-20T23:09:30.703+01:00","updated":"2025-04-22T17:51:52.559+01:00"}
 ---
 
 I really want to play Daggerfall at some point as I have heard it is great when you get past some of the more dated elements. There is a [port in to the unity](https://www.dfworkshop.net/) engine which I have heard fixes a lot of the bugs and issues.

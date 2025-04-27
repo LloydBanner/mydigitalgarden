@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cooking-recipes/chicken-pilaf-recipe/","tags":["lloydsCookingRecipes","feed","developed"],"created":"2025-04-21T10:47:17.149+01:00","updated":"2025-04-21T11:28:01.557+01:00"}
+{"dg-publish":true,"permalink":"/cooking-recipes/chicken-pilaf-recipe/","tags":["lloydsCookingRecipes","feed","developed"],"created":"2025-04-26T00:09:31.239+01:00","updated":"2025-04-26T00:09:31.239+01:00"}
 ---
 
 Serves 2
@@ -7,8 +7,7 @@ Cooking Time 30-45 mins
 
 Another of my all time favourites. Not too difficult to cook, only needs one pot and is pretty cheap too.
 
-![chickenPilaf.png](/img/user/z_assets/Cooking/chickenPilaf.png)
-
+![chickenPilaf2.jpeg](/img/user/z_assets/Cooking/chickenPilaf2.jpeg)
 ## Ingredients
 - Cooking Oil
 - 2 chicken Breasts

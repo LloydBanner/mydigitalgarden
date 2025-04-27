@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-1/","tags":["whiterockLog","feed","developed"],"created":"2025-04-17T22:42:59.730+01:00","updated":"2025-04-21T11:59:24.898+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-1/","tags":["whiterockLogs","feed","developed"],"created":"2025-04-17T22:42:59.730+01:00","updated":"2025-04-22T17:36:35.808+01:00"}
 ---
 
 ## Session Notes
@@ -44,4 +44,4 @@ XP Total 2330xp
 | Stinkcat | 0 (not present for encounters) |
 | Emma     | 0 (Not present)                |
 #### Published Content Used
-- [[OSE\|OSE]] (Classic and Advanced)
+- [[Main Notes/OSE\|OSE]] (Classic and Advanced)

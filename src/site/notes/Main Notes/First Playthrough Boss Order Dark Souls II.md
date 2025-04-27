@@ -1,0 +1,33 @@
+---
+{"dg-publish":true,"permalink":"/main-notes/first-playthrough-boss-order-dark-souls-ii/","created":"2025-04-21T20:32:27.604+01:00","updated":"2025-04-21T20:32:54.131+01:00"}
+---
+
+- The Last Giant
+- The Pursuer 
+- Ruin Sentinel (x3)
+- The Last Sinner 
+- Old Dragonslayer
+- Dragonrider
+- Flexile Sentry 
+- Belfry Gargoyles 
+- Scorpioness Najaka 
+- Royal Rat Authority 
+- Prowling Magus and Congregation
+- The Duke’s Dear Freja 
+- Skeleton Lords
+- Covetous Demon
+- Mytha the Baneful Queen
+- Smelter Demon 
+- Old Iron King
+- The Rotten
+- Royal Rat Vanguard
+- Executioners Chariot
+- Dragonrider (x2)
+- Looking Glass Knight 
+- Demon of Song
+- Velstad
+- Throne Watcher and Throne Defender 
+- Guardian Dragon
+- Ancient Dragon
+- Giant Lord
+- Nashandra
