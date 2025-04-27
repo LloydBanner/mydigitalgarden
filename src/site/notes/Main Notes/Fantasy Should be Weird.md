@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/fantasy-should-be-weird/","tags":["thoughts","draft","fantasy","feed"],"created":"2025-04-27T08:44:39.495+01:00","updated":"2025-04-27T18:59:35.575+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/fantasy-should-be-weird/","tags":["thoughts","draft","fantasy","feed"],"created":"2025-04-27T08:44:39.495+01:00","updated":"2025-04-27T19:45:17.013+01:00"}
 ---
 
-I think what separates fantasy from most other genres is its ability to be weird. Some fantasy such as [[Terry Prachett\|Terry Pratchett's]] [[Discworld\|Discworld]] take this to its extreme going so far as to make absurdist comedy out of them (I will never forget the hydrophobic wizards). A lot of recent fantasy tries to make the world feel gritty and realistic though, the most well known of the probably being [[Game of Thrones\|Game of Thrones]]. I think there is a place for these sorts of settings but I think they also lose something for being too realistic in places.
+I think what separates fantasy from most other genres is its ability to be weird. Some fantasy such as [[Terry Pratchett\|Terry Pratchett's]] [[Discworld\|Discworld]] take this to its extreme going so far as to make absurdist comedy out of them (I will never forget the hydrophobic wizards). A lot of recent fantasy tries to make the world feel gritty and realistic though, the most well known of the probably being [[Game of Thrones\|Game of Thrones]]. I think there is a place for these sorts of settings but I think they also lose something for being too realistic in places.
 
 That isn't to say I don't like cohesion. [[Game of Thrones\|Game of Thrones]] is very cohesive for the most part but that is not because of its realism. [[Sources/The Lord of the Rings\|The Lord of the Rings]] is, almost definitely, more cohesive but has its weird elements like Tom Bombadil, Pipin and Merry growing from drinking Entwash and magic that has no clear rules. I think these aspects add to the story making it both more enjoyable and lighthearted.
 
@@ -35,4 +35,4 @@ Bellow is a summary of the ways I think you can make fantasy weird.
 - [[Sources/The Hobbit (book)\|The Hobbit (book)]]
 - [[The Edge Chronicles\|The Edge Chronicles]]
 - [[Sources/Skyrim\|Skyrim]]
-- [[The Wizard of Earthsea\|The Wizard of Earthsea]]
+- [[A Wizard of Earthsea\|A Wizard of Earthsea]]
