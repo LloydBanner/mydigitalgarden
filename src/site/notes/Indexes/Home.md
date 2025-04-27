@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2025-04-17T19:05:31.364+01:00","updated":"2025-04-27T19:05:51.984+01:00"}
+{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2025-04-17T19:05:31.364+01:00","updated":"2025-04-27T20:31:20.639+01:00"}
 ---
 
 # Home
@@ -22,7 +22,6 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Hobbit Fan Edits Condense the Trilogy into One Film\|Hobbit Fan Edits Condense the Trilogy into One Film]]: 22-04-2025
 - [[Main Notes/Making Magic Magical\|Making Magic Magical]]: 27-04-2025
 - [[Main Notes/Two of Me\|Two of Me]]: 21-04-2025
-- [[z_templates/Template Recipe\|Template Recipe]]: 26-04-2025
 - [[Cooking Recipes/Chicken Pilaf Recipe\|Chicken Pilaf Recipe]]: 25-04-2025
 - [[Main Notes/Skyrim Modding Recommendations\|Skyrim Modding Recommendations]]: 22-04-2025
 - [[Reviews/Morrowind Review\|Morrowind Review]]: 22-04-2025
@@ -48,6 +47,7 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 3\|Whiterock Session 3]]: 21-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 2\|Whiterock Session 2]]: 21-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 11\|Whiterock Session 11]]: 21-04-2025
+- [[TTRPG/Session Logs/Whiterock/Whiterock Session 10\|Whiterock Session 10]]: 21-04-2025
 
 { .block-language-dataview}
 [[Main Notes/Complete Feed\|Complete Feed]] 

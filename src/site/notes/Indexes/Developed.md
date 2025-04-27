@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/developed/","created":"2025-04-27T19:07:02.627+01:00","updated":"2025-04-27T19:10:27.987+01:00"}
+{"dg-publish":true,"permalink":"/indexes/developed/","created":"2025-04-27T19:07:02.627+01:00","updated":"2025-04-27T20:32:05.111+01:00"}
 ---
 
 This is the feed of all my developed pages that I thought were feed worthy. If you only want to see pages at certain levels of development, which are defined on my [[Main Notes/Website\|Website]] page, use the links below.
