@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/my-battlefront-ii-speedrunning-career/","tags":["draft"],"created":"2025-04-20T21:13:29.579+01:00","updated":"2025-04-21T11:33:14.240+01:00"}
----
-
-A while ago I used to speedrun [[Sources/Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]]. I was in the top 15 in the world at one point, I think, but have moved down quite a bit in the ranking now. There are some [videos](https://www.youtube.com/playlist?list=PLTR9cNeZAgrr0MZAUx3kVxi-NR6IdDQC6) of this and you can see [me](https://www.speedrun.com/users/Insane_Cheese) on the current leaderboard.
