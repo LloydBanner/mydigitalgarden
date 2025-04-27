@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2025-04-17T19:05:31.364+01:00","updated":"2025-04-27T20:37:44.692+01:00"}
+{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2025-04-17T19:05:31.364+01:00","updated":"2025-04-27T20:38:35.849+01:00"}
 ---
 
 # Home
@@ -14,7 +14,7 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Creative Graveyard\|Creative Graveyard]]
 
 **My Interests (recommendations, reviews, and more)**
-- [[Main Notes/TTRPG\|TTRPG]]
+- [[Main Notes/TTRPG\|TTRPGs]]
 - [[Main Notes/Video Games\|Video Games]]
 
 **Feed (a bit of everything) (sorted by last update)**
