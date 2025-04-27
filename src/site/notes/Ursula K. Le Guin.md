@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ursula-k-le-guin/","tags":["authors","sources"],"created":"2025-04-27T19:47:08.883+01:00","updated":"2025-04-27T19:47:14.787+01:00"}
+{"dg-publish":true,"permalink":"/ursula-k-le-guin/","tags":["authors","sources"],"created":"2025-04-27T19:47:08.883+01:00","updated":"2025-04-27T20:03:06.826+01:00"}
 ---
 
-
+**Ursula Kroeber Le Guin** was an American author.
 ## Book Series
 - [[Earthsea Cycle\|Earthsea Cycle]]
 
