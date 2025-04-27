@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/the-hobbit-book/","tags":["books","sources","fantasy","lordOfTheRings"],"created":"2025-04-22T18:29:42.388+01:00","updated":"2025-04-27T20:06:18.912+01:00"}
 ---
 
-Author: [[J. R. R. Tolkien\|J. R. R. Tolkien]]
+Author: [[Sources/J. R. R. Tolkien\|J. R. R. Tolkien]]
 released: 21-09-1937
 First Read: `= this.first`
 Last Read: `= this.last`

@@ -50,5 +50,5 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 11\|Whiterock Session 11]]: 21-04-2025
 
 { .block-language-dataview}
-[[Complete Feed\|Complete Feed]] 
+[[Main Notes/Complete Feed\|Complete Feed]] 
 
