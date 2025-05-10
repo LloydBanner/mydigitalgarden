@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/main-notes/revenge-of-the-sith-review-2025/","tags":["reviews","starWars","feed"],"created":"2025-05-06T22:22:09.214+01:00","updated":"2025-05-06T22:22:09.214+01:00"}
+---
+
+Written 06-05-2025
+
+**Warning: Reasonably heavy spoilers throughout**
+
+On 25-04-25 I went to watch [[Sources/Revenge of the Sith\|Revenge of the Sith]] in cinema for the 20th anniversary. [[Sources/Revenge of the Sith\|Revenge of the Sith]] is one of the first films I ever remember watching in the cinema, I would have been 6 then and am now 26. This review is absolutely biased.
+
+I sat down in the cinema and very shortly the opening crawl began, a grin spread across my face as the film cut into the space battle over Coruscant. The intro to this film is perfect. Obi-Wan and Anakin working together to infiltrate a droid battleship. It really shows the relationship between these two characters at it's peak before the inevitable downfall at the end of the film.
+
+Shortly after we get the great sequence of Obi-Wan and Anakin trying to save the chancellor and the battle with Count Dooku. All of this works really well and for the most part the lines aren't too bad in this section. That is something I noticed throughout this rewatch though, in some places the writing is good, but in some places it is just plain bad. The battles are good, the stakes feel right and everything fits together well.
+
+Then we start to see Anakin turn to the darkside. I think this film struggles with this because it tries to show Anakin's turn in such a short space of time, but it doesn't a good job with what it has. Hayden Christensen does an excellent job of showing Anakin's internal battle with just his facial expressions, but I think this is a section where the writing could definitely have been improved. It is also mildly annoying that Anakin's character doesn't follow on as well as it could from [[Sources/The Clone Wars\|The Clone Wars]], that isn't an issue with [[Sources/Revenge of the Sith\|Revenge of the Sith]] but more the [[Sources/Star Wars\|Star Wars]] chronology as a whole. Anakin feels a little too angry to begin with in [[Sources/Revenge of the Sith\|Revenge of the Sith]] coming off [[Sources/The Clone Wars\|The Clone Wars]]. This is unfortunate because I think [[Sources/The Clone Wars\|The Clone Wars]] makes order 66 hit much harder because many of the characters who die have had their character's developed.
+
+Obi-Wan then goes to Utapu while Anakin stays on Coruscant to contemplate Padme's potential death. I can't decide if Palpatine's plan to turn Anakin to the darkside is brilliant or stupid. Some of it feels like he is giving himself away, but because Anakin is so set in saving Padme it feels believable that he would turn just to save her. Then when he becomes Vader he has little other options because he has killed all of the Jedi. I am much less conflicted on the Utapu section, Ewan McGregor does a great job as Obi-Wan, the Grievous battle is great and the planet is interesting. 
+
+Then there's Anakin's betrayal and Order 66. At this point Anakin feels completely believable, I think his turn is done incredibly and still hits really hard. Palpatine knows exactly what he is doing as he zaps himself with lightning. Order 66 hits hard and has the perfect tone for the downfall of the Jedi. Obi-Wan and Yoda return to Coruscant to find out what as happened and each decide they must take on Anakin and Palpatine respectively.
+
+Yoda's fight with Palpatine felt a little lacking to me. It felt like Yoda gave up when he still seemed to have some fight left in him. It was fun to watch and I know they needed to tie it into the original trilogy but they could have had Yoda lose more significantly or have some clones come in causing Yoda to be outnumbered. It was just missing something.
+
+On the other hand, the Obi-Wan and Anakin section is nearly perfect. I do find it hilarious how Obi-Wan is just stood there with his hands on his hips as Anakin is getting progressively more angry at Padme though. There are also some terrible lines in this section and some laughably over the top fight choreography. It's all fun though, Mustafar is a great setting for a final battle, and the battle moves through some great locations.
+
+Finally, Obi-Wan and Yoda retreat into hiding and also hide Anakin and Padme's children. I think if they had said they planned to train the children or something along those lines it would feel a bit less like they were just giving up. They do say they will wait until the time is right but that feels too vague. Something just doesn't quite tie into [[Sources/A New Hope\|A New Hope]] quite as well as it could. Both Yoda and Obi-Wan barely have a scratch though and they retreat, I know there is the clone army but Obi-Wan and Yoda make short work of them at the Jedi Temple. It works but it could be better.
+
+Throughout the film I realised more than I ever had before that the John Williams score really makes this film, and the other [[Sources/Star Wars\|Star Wars]] films, way better. They are good anyway but the John Williams music is just perfect. It amplifies all of the highs and lows and improves the film immeasurably. I also noticed that the FX have aged surprisingly well. Probably not as well as [[Sources/The Lord of the Rings Films\|The Lord of the Rings Films]] but still very well for how CGI heavy they are.
+
+Overall I still love this film. It has its rough bits but it is a lot of fun. The battles are great, order 66 is executed excellently and the writing has some good highs. This film also works perfectly as an end to a cohesive trilogy unlike the sequel trilogy, although it could tie in better to the originals. I think a few areas like dialogue could have been improved but this is still a great [[Sources/Star Wars\|Star Wars]] film.
