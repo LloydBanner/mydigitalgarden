@@ -7,8 +7,9 @@ If you only want to see pages at certain levels of development, which are define
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a bit of everything) (sorted by last update)
-- [[Main Notes/Revenge of the Sith Review 2025\|Revenge of the Sith Review 2025]]: 06-05-2025
 - [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 28-04-2025
+- [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 21-04-2025
+- [[Main Notes/Revenge of the Sith Review 2025\|Revenge of the Sith Review 2025]]: 06-05-2025
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 27-04-2025
 - [[Main Notes/Hobbit Fan Edits Condense the Trilogy into One Film\|Hobbit Fan Edits Condense the Trilogy into One Film]]: 22-04-2025
 - [[Main Notes/Making Magic Magical\|Making Magic Magical]]: 27-04-2025
@@ -66,7 +67,6 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/The Artificial World\|The Artificial World]]: 21-04-2025
 - [[Main Notes/Crumbling World\|Crumbling World]]: 21-04-2025
 - [[Main Notes/A Curse Upon Mistrun\|A Curse Upon Mistrun]]: 20-04-2025
-- [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 21-04-2025
 - [[Cooking Recipes/Tomato Based Stew Recipe\|Tomato Based Stew Recipe]]: 21-04-2025
 - [[Cooking Recipes/Chicken and Bulgar Wheat Recipe\|Chicken and Bulgar Wheat Recipe]]: 21-04-2025
 - [[Main Notes/Eat Me\|Eat Me]]: 20-04-2025

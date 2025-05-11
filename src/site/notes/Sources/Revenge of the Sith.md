@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/revenge-of-the-sith/","tags":["theBest","starWars","films","sources"],"created":"2025-05-06T22:22:09.298+01:00","updated":"2025-05-06T22:22:09.298+01:00"}
 ---
 
-Director: [[George Lucas\|George Lucas]]
+Director: [[Sources/George Lucas\|George Lucas]]
 Released: 22-04-2005
 First Watched: 25-04-2025
 Last Watched: 25-04-2005

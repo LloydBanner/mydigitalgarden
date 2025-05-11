@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/the-complete-chronicles-of-conan/","tags":["books","compilations","fantasy","sources"],"created":"2025-05-08T22:35:41.019+01:00","updated":"2025-05-08T22:35:41.019+01:00"}
 ---
 
-Author: [[Robert E. Howard\|Robert E. Howard]]
+Author: [[Sources/Robert E. Howard\|Robert E. Howard]]
 released: 19-01-2006
 First Read: 22-04-2025
 Last Read: 08-05-2025

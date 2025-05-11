@@ -6,6 +6,8 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Developed Feed (sorted by last update)
+- [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 21-04-2025
+- [[Main Notes/Revenge of the Sith Review 2025\|Revenge of the Sith Review 2025]]: 06-05-2025
 - [[Main Notes/Two of Me\|Two of Me]]: 21-04-2025
 - [[Cooking Recipes/Chicken Pilaf Recipe\|Chicken Pilaf Recipe]]: 25-04-2025
 - [[Reviews/Morrowind Review\|Morrowind Review]]: 22-04-2025
@@ -38,7 +40,6 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 - [[Main Notes/The Artificial World\|The Artificial World]]: 21-04-2025
 - [[Main Notes/Crumbling World\|Crumbling World]]: 21-04-2025
 - [[Main Notes/A Curse Upon Mistrun\|A Curse Upon Mistrun]]: 20-04-2025
-- [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 21-04-2025
 - [[Cooking Recipes/Chicken and Bulgar Wheat Recipe\|Chicken and Bulgar Wheat Recipe]]: 21-04-2025
 
 { .block-language-dataview}
