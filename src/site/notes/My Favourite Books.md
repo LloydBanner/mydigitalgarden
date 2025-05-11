@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/my-favourite-books/","created":"2025-05-11T18:15:56.992+01:00","updated":"2025-05-11T18:16:42.224+01:00"}
+{"dg-publish":true,"permalink":"/my-favourite-books/","created":"2025-05-11T18:15:56.992+01:00","updated":"2025-05-11T21:03:22.882+01:00"}
 ---
 
 |                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------- |
 | [[Sources/Words of Radiance\|Words of Radiance]]                                                         |
-| [[Sources/The Stormlight Archive\|The Stormlight Archive]]                                               |
 | [[Sources/The Way of Kings\|The Way of Kings]]                                                           |
 | [[Sources/The Hero of Ages\|The Hero of Ages]]                                                           |
 | [[Sources/The Well of Ascension\|The Well of Ascension]]                                                 |

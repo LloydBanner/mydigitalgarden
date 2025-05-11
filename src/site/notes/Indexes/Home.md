@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2025-04-17T19:05:31.364+01:00","updated":"2025-04-27T20:48:23.964+01:00"}
+{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2025-04-17T19:05:31.364+01:00","updated":"2025-05-11T21:03:47.234+01:00"}
 ---
 
 # Home
@@ -16,6 +16,7 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 **My Interests (recommendations, reviews, and more)**
 - [[Main Notes/TTRPG\|TTRPGs]]
 - [[Main Notes/Video Games\|Video Games]]
+- [[Books\|Books]]
 
 **Feed (a bit of everything) (sorted by last update)**
 - [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 28-04-2025
