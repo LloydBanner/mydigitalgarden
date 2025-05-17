@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/recommended-ttrpg-resources/","tags":["developing","feed"],"created":"2025-04-21T13:48:18.081+01:00","updated":"2025-04-21T14:38:03.856+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/recommended-ttrpg-resources/","tags":["developing","feed"],"created":"2025-04-21T13:48:18.081+01:00","updated":"2025-05-17T14:12:28.016+01:00"}
 ---
 
 The best resources I have come across for running and playing [[Main Notes/TTRPG\|TTRPGs]] mostly [[Main Notes/OSE\|OSE]] but a lot of these are system neutral too. 
@@ -23,5 +23,5 @@ I mostly make my own stuff for games in this department but there are a few good
 
 # Youtubers
 - [Bob World Builder](https://www.youtube.com/bobworldbuilder) - has a bunch of good videos and ideas about running [[Main Notes/TTRPG\|TTRPGs]] generally
-- [Ginny di](https://www.youtube.com/@GinnyDi) - More good videos and ideas about running [[Main Notes/TTRPG\|TTRPGs]]
+- [Ginny Di](https://www.youtube.com/@GinnyDi) - More good videos and ideas about running [[Main Notes/TTRPG\|TTRPGs]]
 - [Questing Beast](https://www.youtube.com/@QuestingBeast) - Reviews for OSR [[Main Notes/TTRPG\|TTRPG]] content, he also has a good [newsletter](https://questingbeast.substack.com/).

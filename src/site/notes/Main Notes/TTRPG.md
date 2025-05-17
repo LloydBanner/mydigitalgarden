@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/ttrpg/","created":"2025-04-17T22:34:59.297+01:00","updated":"2025-04-21T13:48:38.694+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/ttrpg/","created":"2025-04-17T22:34:59.297+01:00","updated":"2025-05-17T14:12:02.587+01:00"}
 ---
 
 I like playing table top roleplaying games (TTRPGs), the most well known one is Dungeons and Dragons (D&D) but there are plenty of others. 
@@ -7,6 +7,6 @@ I like playing table top roleplaying games (TTRPGs), the most well known one is 
 Here I will host resources I have created for TTRPGs, session logs, and reviews. I mostly play Old School Essentials ([[Main Notes/OSE\|OSE]]) but there may also be things for other systems here.
 
 - [[Main Notes/TTRPG Session Logs\|TTRPG Session Logs]]
-- [[Main Notes/My OSE Resources\|My OSE Resources]]
+- [[Main Notes/My TTRPG Resources\|My TTRPG Resources]]
 - [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]
 - [[Main Notes/Appendix N\|Appendix N]]

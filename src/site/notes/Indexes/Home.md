@@ -16,9 +16,10 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 **My Interests (recommendations, reviews, and more)**
 - [[Main Notes/TTRPG\|TTRPGs]]
 - [[Main Notes/Video Games\|Video Games]]
-- [[Books\|Books]]
+- [[Main Notes/Books\|Books]]
 
 **Feed (a bit of everything) (sorted by last update)**
+- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 21-04-2025
 - [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 28-04-2025
 - [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 21-04-2025
 - [[Main Notes/Revenge of the Sith Review 2025\|Revenge of the Sith Review 2025]]: 06-05-2025
@@ -48,7 +49,6 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 6\|Whiterock Session 6]]: 21-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 5\|Whiterock Session 5]]: 21-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 4\|Whiterock Session 4]]: 21-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 3\|Whiterock Session 3]]: 21-04-2025
 
 { .block-language-dataview}
 

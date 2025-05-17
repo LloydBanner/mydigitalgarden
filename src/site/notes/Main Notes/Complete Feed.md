@@ -7,6 +7,7 @@ If you only want to see pages at certain levels of development, which are define
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a bit of everything) (sorted by last update)
+- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 21-04-2025
 - [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 28-04-2025
 - [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 21-04-2025
 - [[Main Notes/Revenge of the Sith Review 2025\|Revenge of the Sith Review 2025]]: 06-05-2025
@@ -51,7 +52,6 @@ If you only want to see pages at certain levels of development, which are define
 - [[Reviews/Jedi Fallen Order Review\|Jedi Fallen Order Review]]: 21-04-2025
 - [[Main Notes/Elden Ring Shadow of The Erdtree Review\|Elden Ring Shadow of The Erdtree Review]]: 22-04-2025
 - [[Main Notes/Elden Ring Review\|Elden Ring Review]]: 22-04-2025
-- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 21-04-2025
 - [[Main Notes/Zombie Game\|Zombie Game]]: 21-04-2025
 - [[Main Notes/The Best Star Wars Games\|The Best Star Wars Games]]: 21-04-2025
 - [[Main Notes/Astray in the Darkmounds\|Astray in the Darkmounds]]: 21-04-2025
