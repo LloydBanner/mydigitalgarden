@@ -19,6 +19,7 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Books\|Books]]
 
 **Feed (a bit of everything) (sorted by last update)**
+- [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 18-05-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 12\|Whiterock Session 12]]: 18-05-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 11\|Whiterock Session 11]]: 17-05-2025
 - [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 21-04-2025
@@ -48,7 +49,6 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 9\|Whiterock Session 9]]: 21-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 8\|Whiterock Session 8]]: 21-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 7\|Whiterock Session 7]]: 21-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 6\|Whiterock Session 6]]: 21-04-2025
 
 { .block-language-dataview}
 

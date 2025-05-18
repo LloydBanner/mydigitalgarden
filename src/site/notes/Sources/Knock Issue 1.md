@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/knock-issue-1/","tags":["books","sources"],"created":"2025-05-14T23:00:02.009+01:00","updated":"2025-05-18T16:11:38.906+01:00"}
+{"dg-publish":true,"permalink":"/sources/knock-issue-1/","tags":["books","sources"],"created":"2025-05-14T23:00:02.009+01:00","updated":"2025-05-18T16:59:41.222+01:00"}
 ---
 
 Author: Various
@@ -134,8 +134,6 @@ How to improve:
 
 ## I Eat the Body pg 131
 - Tables of effects when eating different human body parts
-
-## 12 Magic Blades pg 133
 
 ## Sewers of Misery pg134-140
 - Really detailed sewer generator 
