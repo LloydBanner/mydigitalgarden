@@ -4,4 +4,4 @@
 
 I think books are a gateway into new worlds, a way to experience new ideas and a way to see different perspectives. This is true of [[Films\|Films]], [[TV\|TV]], [[Main Notes/Video Games\|Video Games]] and most other media too. The unique thing about though is that they are usually just one person's ideas. This means they are often more varied and unique than other media.
 
-[[My Favourite Books\|My Favourite Books]]
+[[Main Notes/My Favourite Books\|My Favourite Books]]

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-12/","tags":["feed","whiterockLogs","developed"],"created":"2025-05-18T11:09:32.689+01:00","updated":"2025-05-18T11:09:32.689+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-12/","tags":["feed","whiterockLogs","developed"],"created":"2025-05-18T11:09:40.455+01:00","updated":"2025-05-18T11:26:42.099+01:00"}
 ---
 
 ## Session Notes
 
 ### Level 1
 
-![IMG_1738.jpeg](/img/user/z_assets/TTRPG/Maps/IMG_1738.jpeg)
+![obsidianKeepLevel1.jpeg](/img/user/z_assets/TTRPG/Maps/obsidianKeepLevel1.jpeg)
 
 After leaving the keep dungeons and having some time to think, the group of sailors began questioning why they had a vampire with them. The sailors decided it was either them or the vampire, and the party were unsuccessful in persuading them otherwise. Pavnutia, the vampire, said she wanted blood to return to full strength. Sphonyx used her hypnotism to force three sailors to offer themselves to Pavnutia. They did, but were instantly knocked out of it by the bites. The sailors began calling Sphonyx a witch and were unhappy with the vampire drawing their cutlasses. Breadwig used sleep on the sailors putting ten to sleep. Pavnutia began draining and killing the sailors until she was satisfied, and then thanked them. Many in the party were unsure about this action and weren’t entirely happy about the outcome. Breadwig had not intended for the vampire to kill the sailors. The awake sailors ran, and the party let them go. Rosetta, the maid, and Gerturde, the old woman, were unsettled. Aldo, the child, hid behind Jatumal’s leg, and Vertex seemed unfazed. Some of the party agreed with Pavnutia that she would make them vampires after they left the keep. Sphonyx and Jatumal consoled the child. Sphonyx began asking the child about the keep and any cool things he had seen around. He said he liked playing in the ballroom and that there were many cool hidden passages around.
 
@@ -14,7 +14,7 @@ After the chaos had subsided, the party moved north from the stairs, entering a 
 
 ### Level 2
 
-![IMG_1736.jpeg](/img/user/z_assets/TTRPG/Maps/IMG_1736.jpeg)
+![obsidianKeepLevel2Session12.jpeg](/img/user/z_assets/TTRPG/Maps/obsidianKeepLevel2Session12.jpeg)
 
 After leaving the council chamber, the group ascended to the second level of the keep, having decided to make a rush for the top level of the keep, collect what they could, possibly stop Vermesh, the worm god who had corrupted the island, and then leave. On the second level, they began making their way through the corridors and sighted four scavengers coming the other way with full sacks. Initially, the party shouted, asking the scavengers to leave their things, but the scavengers believed they could take them on and prepared for a fight. Combat broke out with Stinkcat using their bolas to trip and tie one of the scavengers, and then Derek and Geog rushed in while the others used ranged attacks to varying degrees of success. One of the scavengers pulled a grenade from their belt and chucked it toward the ranged attackers of the party. Jatumal dived upon it with his ignid scaled shield. He was unable to shield himself from the blast but was able to dampen the blow for the others. Everyone was badly wounded by the attack, and Gertude was blown to pieces. Rosetta was knocked into the wall by the blast and fell to the floor. The other scavengers fought Derek and Geog with melee attacks, and Pavnutia the vampire attempted to bite them unsuccessfully. Vertex ran away.
 
@@ -26,7 +26,7 @@ After the brief respite in the suite, the party returned to the secret passages,
 
 ### Level 3
 
-![IMG_1739.jpeg](/img/user/z_assets/TTRPG/Maps/IMG_1739.jpeg)
+![ObsidianKeepLevel3Session12.jpeg](/img/user/z_assets/TTRPG/Maps/ObsidianKeepLevel3Session12.jpeg)
 
 In the corridor, they saw Helena, the muscular woman they had freed from the dungeons, chopping up a red priest. She asked if they had seen any because she wanted to kill more. They said they hadn’t left any alive, but told her to scratch out any runes she saw. She said she would before running off. Knowing where all the rooms on the top floor were after speaking to the two nobles in the council chamber, the party decided to go to Princess Bianca’s room first. The circlet that Maia wore disarmed the traps on the door.
 
