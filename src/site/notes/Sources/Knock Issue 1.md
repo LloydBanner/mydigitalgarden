@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/knock-issue-1/","tags":["books","sources"],"created":"2025-05-14T23:00:02.009+01:00","updated":"2025-05-14T23:00:02.233+01:00"}
+{"dg-publish":true,"permalink":"/sources/knock-issue-1/","tags":["books","sources"],"created":"2025-05-14T23:00:02.009+01:00","updated":"2025-05-18T16:11:38.906+01:00"}
 ---
 
 Author: Various
@@ -50,8 +50,6 @@ How to improve:
 - Something the part can interact with 
 - extra details about how it got there aren't useful in the moment 
 - Good example pg41
-
-## 20 Gunpowders pg46
 
 ## Expose Your Prep pg49
 - Provide blank map without room info or secrets - If they ask the right questions they may learn more, have details noted on map etc
@@ -123,8 +121,6 @@ How to improve:
 ## Why the F*** did you Enter the Goblin caves
 - pg 103 - d20 adventure hooks
 
-## D20 Magic Helmets pg 104
-
 ## Liven up those Corridors 
 - If you have maze like corridors, add flavour to them otherwise it is just wasting time 
 
@@ -132,9 +128,6 @@ How to improve:
 - Good list of traps
 - A good trap should have: A visible part, br interactable and investigatable 
 - Have impactful consequences 
-
-## d300 Useless Magic Loot
-- great list
 
 ## EffectS of Monster DERaNgement Syndrome 
 - d12 weird effects on dungeon inhabitants 
