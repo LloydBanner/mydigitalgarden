@@ -5,6 +5,8 @@
 Session logs from my [[Main Notes/TTRPG\|TTRPG]] games.
 
 **Session Logs Whiterock Campaign (sorted by session date)**
+- [[TTRPG/Session Logs/Whiterock/Whiterock Session 12\|Whiterock Session 12]]: 17-05-2025
+- [[z_templates/Template TTRPG Session Log\|Template TTRPG Session Log]]: {{date}}
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 11\|Whiterock Session 11]]: 19-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 10\|Whiterock Session 10]]: 29-03-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 9\|Whiterock Session 9]]: 08-03-2025

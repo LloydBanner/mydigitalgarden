@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-11/","tags":["feed","whiterockLogs","developed"],"created":"2025-04-20T07:52:41.209+01:00","updated":"2025-04-22T17:36:36.315+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/whiterock/whiterock-session-11/","tags":["feed","whiterockLogs","developed"],"created":"2025-05-17T21:15:25.381+01:00","updated":"2025-05-17T21:15:25.381+01:00"}
 ---
 
 ## Session Notes
@@ -9,7 +9,7 @@
 
 The party rested on The Kraken with their new party members: Rosetta the maid, and sailors Ivano, Donato, Antony, Leo, Marco and Paul. After the night, they travelled to a cave which had a fully intact boat sheltered inside. They met a man and his daughter who were braiding ropes in preparation to leave the island. The man was a fisherman who was helpful but didn’t know too much, but his daughter and young child saw the adventurers and wanted to hear stories about monsters. The party happily obliged and started explaining about the lich they had defeated before her father told them that they would scare her. They did find out that there was a secret entrance into the castle that the children used to play near, but Nora, the girl, didn’t hang around with those kids.
 
-They next sailed over to a hut on stilts in the water, which had an old man spearfishing off the side. Maia asked if he was Oskar. He was surprised they knew who he was. They offered him the toy boat, and he was sad his family had left without him. He had been passed out drunk during the storm and their escape. As a result, he decided to give up drinking and gave the rest of his very strong rum supply to them. Sphonyx pocketed it.
+They next sailed over to a hut on stilts in the water, which had an old man spearfishing off the side. Maia asked if he was Oskar. He was surprised they knew who he was. They offered him the toy boat, and he was sad his family had left without him. He had been passed out drunk during the storm and their escape. As a result, he decided to give up drinking and gave the rest of his very strong rum supply to them. Sphonyx pocketed it. 
 
 Now the party observed the beach properly. They saw the shacks and tents strewn across and the lava stream dividing the beach in two and decided to split up. Breadwig, Geog and Rosetta took the right side, because Geog wanted to see the filthy tent, and everyone else wanted to go on the left. Before they left, Maia lent her levitation boots to Breadwig so they could travel back across if needed. The left group first came across a dinghy on two driftwood poles as a makeshift shelter. Inside was an enthusiastic man who wanted a sail to attach to the dinghy to get away. He said he would provide them with useful information to get into the keep if they did.
 

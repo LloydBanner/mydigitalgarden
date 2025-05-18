@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/sources/raiding-the-obsidian-keep/","tags":["ttrpgResources","sources","books","fantasy"],"created":"2025-04-20T20:50:15.153+01:00","updated":"2025-05-17T15:54:45.786+01:00"}
+{"dg-publish":true,"permalink":"/sources/raiding-the-obsidian-keep/","tags":["ttrpgResources","sources","books","fantasy"],"created":"2025-05-17T16:53:48.611+01:00","updated":"2025-05-17T16:53:48.611+01:00"}
 ---
 
 Author: Joseph R. Lewis
-released: 2021+
+released: 2023
 First Read: 17-05-2025
 Last Read: 01-01-2025
 Link: https://www.themerrymushmen.com/product/raiding-the-obsidian-keep/

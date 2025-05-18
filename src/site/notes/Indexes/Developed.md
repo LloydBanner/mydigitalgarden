@@ -6,6 +6,8 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Developed Feed (sorted by last update)
+- [[TTRPG/Session Logs/Whiterock/Whiterock Session 12\|Whiterock Session 12]]: 18-05-2025
+- [[TTRPG/Session Logs/Whiterock/Whiterock Session 11\|Whiterock Session 11]]: 17-05-2025
 - [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 21-04-2025
 - [[Main Notes/Revenge of the Sith Review 2025\|Revenge of the Sith Review 2025]]: 06-05-2025
 - [[Main Notes/Two of Me\|Two of Me]]: 21-04-2025
@@ -19,7 +21,6 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 4\|Whiterock Session 4]]: 21-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 3\|Whiterock Session 3]]: 21-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 2\|Whiterock Session 2]]: 21-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 11\|Whiterock Session 11]]: 21-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 10\|Whiterock Session 10]]: 21-04-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 1\|Whiterock Session 1]]: 21-04-2025
 - [[Reviews/Prey (2017) Review\|Prey (2017) Review]]: 21-04-2025
