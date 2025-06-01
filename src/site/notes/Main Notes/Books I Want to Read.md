@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/main-notes/books-i-want-to-read/","tags":["books","developing"],"created":"2025-06-01T12:52:16.490+01:00","updated":"2025-06-01T13:16:47.788+01:00"}
+---
+
+- More of [[Sources/Stephen Fry\|Stephen Fry's]] Books
+- More of The [[Sources/Remembrance of Earth's Past\|Remembrance of Earth's Past]] Series (Sci-Fi)
+- More [[Sources/Discworld\|Discworld]] (Fantasy)
+- Conan Stories (Pulp Fantasy)
+- Fafhrd and the Gray Mouser (Pulp Fantasy)
+- Lyonesse Series (Fantasy, [[Sources/Jack Vance\|Jack Vance]])
+- More of The [[Sources/Earthsea Cycle\|Earthsea Cycle]] (Fantasy, [[Sources/Ursula K. Le Guin\|Ursula K. Le Guin]])
+- More of [[Sources/The Dying Earth Books\|The Dying Earth Books]] (Pulp Fantasy, [[Sources/Jack Vance\|Jack Vance]])
+- The Gulag Archipelago (History)
+- More of The Song of Fire and Ice Series (Fantasy)
+- Essentialism (Psychology/Minimalism)
+- Lord of the flies (Classic Literature)
+- Don Quixiote (Central historical Literary Work)
+- The Bible (Religion)
+- The Iliad (Mythology)
+- Being and time (Philosophy)
+- Relativity the special and general theory (Physics, Einstein)
+- Cosmos (Physics)
+- Meditations (Psychology/Stoicism)
+- Syntactic structures (Computer Science)
+- The Vedas (Religion)
+- There is no Antimemetics Division (Horror)
+- Atomic Habits (Self-Help)
+- Piranesi (Fantasy/Mythology)
+- Vagabonding (Travel)
+- A New Earth (Psychology/Minimalism)
+- Time Enough for Love (Sci-fi)
