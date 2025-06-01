@@ -8,7 +8,7 @@ The author was born in 1916 and educated at the University of California, first 
 
 { .block-language-dataview}
 ## Books
-- [[Sources/The Dying Earth\|The Dying Earth]]
 - [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]
+- [[Sources/The Dying Earth\|The Dying Earth]]
 
 { .block-language-dataview}

@@ -4,6 +4,7 @@
 
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]                                                                             |
 | [[Sources/Norse Mythology\|Norse Mythology]]                                                                                                 |
 | [[Sources/The Shortest History of War\|The Shortest History of War]]                                                                         |
 | [[Sources/Spark Joy\|Spark Joy]]                                                                                                             |
@@ -20,7 +21,6 @@
 | [[Sources/The Art of War\|The Art of War]]                                                                                                   |
 | [[Sources/Sapiens\|Sapiens]]                                                                                                                 |
 | [[Sources/The Dying Earth\|The Dying Earth]]                                                                                                 |
-| [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]                                                                             |
 | [[Sources/Words of Radiance\|Words of Radiance]]                                                                                             |
 | [[Sources/The Way of Kings\|The Way of Kings]]                                                                                               |
 | [[Sources/The Hero of Ages\|The Hero of Ages]]                                                                                               |

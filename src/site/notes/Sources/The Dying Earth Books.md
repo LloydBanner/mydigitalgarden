@@ -4,7 +4,7 @@
 
 Author: [[Sources/Jack Vance\|Jack Vance]]
 ## Books
-- [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]
 - [[Sources/The Dying Earth\|The Dying Earth]]
+- [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]
 
 { .block-language-dataview}

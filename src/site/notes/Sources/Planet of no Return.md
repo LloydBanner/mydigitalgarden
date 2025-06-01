@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/planet-of-no-return/","tags":["books","sources"],"created":"2025-05-11T20:55:25.705+01:00","updated":"2025-05-11T20:57:32.988+01:00"}
+{"dg-publish":true,"permalink":"/sources/planet-of-no-return/","tags":["books","sources"],"created":"2025-05-11T20:55:25.705+01:00","updated":"2025-06-01T13:44:24.537+01:00"}
 ---
 
 Author: [[Sources/Poul Anderson\|Poul Anderson]]
@@ -8,4 +8,4 @@ First Read: 11-03-2025
 Last Read: 11-03-2025
 Link: https://www.goodreads.com/book/show/16108419-planet-of-no-return-star-guard?ac=1
 
-It felt like not much was happening for a while in the middle but the twist at the end paid off, and put a lot of things that you weren't quite sure about for the rest of the book in context. I liked it and it had a bit of a unique idea of how two species would meet in space. It was only short but took me a while to read because I couldn't quite get into it.
+It felt like not much was happening for a while in the middle, but the twist at the end paid off, and put a lot of things that you weren't quite sure about for the rest of the book into context. I liked it and it had a bit of a unique idea of how two species would meet in space. It was only short but took me a while to read because I couldn't quite get into it.
