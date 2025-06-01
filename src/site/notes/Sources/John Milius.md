@@ -8,6 +8,6 @@
 
 { .block-language-dataview}
 ## Films
-- [[Sources/Conan the  Barbarian\|Conan the  Barbarian]]
+- [[Sources/Conan the Barbarian\|Conan the Barbarian]]
 
 { .block-language-dataview}

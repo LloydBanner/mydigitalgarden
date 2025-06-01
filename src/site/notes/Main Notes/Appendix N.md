@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/appendix-n/","tags":["ttrpgs","developing"],"created":"2025-05-31T16:52:32.022+01:00","updated":"2025-05-31T16:52:32.022+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/appendix-n/","tags":["ttrpgs","developing"],"created":"2025-05-31T20:54:28.092+01:00","updated":"2025-06-01T11:53:33.800+01:00"}
 ---
 
 In the original publishing of Advanced Dungeons and Dragons, 'Appendix N: Inspirational and Educational Reading' was a list of authors and works that were identified by Gary Gygax, the writer of Dungeons and Dragons, as the source of many concepts, tropes, spells, and monsters that were used in the development of D&D.
@@ -16,7 +16,7 @@ Many [[Main Notes/TTRPG\|TTRPGs]] reference their own Appendix N or have an insp
 - [[Sources/Dark Souls\|Dark Souls]]
 - [[Sources/Elden Ring\|Elden Ring]]
 - Zelda
-- Stephen Fry's Greek mythology books (Mythos, Heroes, Troy, [[Odyssey\|Odyssey]])
+- [[Sources/Stephen Fry's Great Mythology Series\|Stephen Fry's Great Mythology Series]] ([[Sources/Mythos - The Greek Myths Retold\|Mythos]], [[Sources/Heroes - Mortals and Monsters, Quests and Adventures\|Heroes]], [[Sources/Troy\|Troy]], [[Sources/Odyssey\|Odyssey]])
 - Adventure Time
-- [[Sources/Conan the  Barbarian\|Conan the  Barbarian]]
+- [[Sources/Conan the Barbarian\|Conan the Barbarian]]
 - [[Sources/The Dying Earth Books\|The Dying Earth Books]]

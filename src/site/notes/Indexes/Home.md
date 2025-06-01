@@ -19,6 +19,7 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Books\|Books]]
 
 **Feed (a bit of everything) (sorted by last update)**
+- [[Main Notes/Media Consumption\|Media Consumption]]: 01-06-2025
 - [[Main Notes/Good Words\|Good Words]]: 27-05-2025
 - [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 18-05-2025
 - [[TTRPG/Session Logs/Whiterock/Whiterock Session 12\|Whiterock Session 12]]: 18-05-2025
@@ -35,7 +36,6 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Skyrim Modding Recommendations\|Skyrim Modding Recommendations]]: 22-04-2025
 - [[Reviews/Morrowind Review\|Morrowind Review]]: 22-04-2025
 - [[Main Notes/My Favourite Video Games\|My Favourite Video Games]]: 22-04-2025
-- [[Main Notes/Media Consumption\|Media Consumption]]: 22-04-2025
 - [[Main Notes/Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 22-04-2025
 - [[Main Notes/Blade and Sorcery is the Best VR Star Wars Game\|Blade and Sorcery is the Best VR Star Wars Game]]: 22-04-2025
 - [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-04-2025
