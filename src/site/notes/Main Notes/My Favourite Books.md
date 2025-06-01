@@ -4,8 +4,8 @@
 
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]                                                                             |
 | [[Sources/Norse Mythology\|Norse Mythology]]                                                                                                 |
+| [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]                                                                             |
 | [[Sources/The Shortest History of War\|The Shortest History of War]]                                                                         |
 | [[Sources/Spark Joy\|Spark Joy]]                                                                                                             |
 | [[Sources/Ten Arguments for Deleting Your Social Media Accounts Right Now\|Ten Arguments for Deleting Your Social Media Accounts Right Now]] |
