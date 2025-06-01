@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sources/game-of-thrones-tv/","tags":["TV","sources","fantasy"],"created":"2025-04-27T20:16:54.594+01:00","updated":"2025-04-27T20:22:15.758+01:00"}
+{"dg-publish":true,"permalink":"/sources/game-of-thrones-tv/","tags":["TV","sources","fantasy"],"created":"2025-05-31T16:52:32.035+01:00","updated":"2025-05-31T16:52:32.035+01:00"}
 ---
 
-Director: [[Benioff and Weiss\|Benioff and Weiss]]
+Creators: [[Sources/Benioff and Weiss\|Benioff and Weiss]]
 released: 17-04-2011 - 19-05-2019
 First Watched: 2016
 Last Watched: 2024

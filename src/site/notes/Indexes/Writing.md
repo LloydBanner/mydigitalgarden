@@ -16,6 +16,8 @@ A page to collect all the things I have written. This will include, but is not l
 
 { .block-language-dataview}
 ## Thoughts (sorted by last update)
+- [[Notes While Consuming\|Notes While Consuming]]: 30-05-2025
+- [[Main Notes/Good Words\|Good Words]]: 27-05-2025
 - [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 28-04-2025
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 27-04-2025
 - [[Main Notes/Making Magic Magical\|Making Magic Magical]]: 27-04-2025
