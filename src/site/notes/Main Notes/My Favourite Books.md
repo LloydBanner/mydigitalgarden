@@ -4,10 +4,14 @@
 
 |                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/The Walker's Guide to Outdoor Cues and Signs\|The Walker's Guide to Outdoor Cues and Signs]]                 |
+| [[Sources/A Brief History of Time\|A Brief History of Time]]                                                           |
+| [[Sources/Heroes - Mortals and Monsters, Quests and Adventures\|Heroes - Mortals and Monsters, Quests and Adventures]] |
 | [[Sources/Odyssey\|Odyssey]]                                                                                           |
 | [[Sources/Troy\|Troy]]                                                                                                 |
 | [[Sources/Mythos - The Greek Myths Retold\|Mythos - The Greek Myths Retold]]                                           |
-| [[Sources/Heroes - Mortals and Monsters, Quests and Adventures\|Heroes - Mortals and Monsters, Quests and Adventures]] |
+| [[Sources/12 Rules for Life\|12 Rules for Life]]                                                                       |
+| [[Sources/How to Win Friend's and Influence People\|How to Win Friend's and Influence People]]                         |
 | [[Sources/Digital Minimalism\|Digital Minimalism]]                                                                     |
 | [[Sources/The Art of War\|The Art of War]]                                                                             |
 | [[Sources/Sapiens\|Sapiens]]                                                                                           |
@@ -41,10 +45,14 @@
 
 |                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/The Walker's Guide to Outdoor Cues and Signs\|The Walker's Guide to Outdoor Cues and Signs]]                  |
+| [[Sources/A Brief History of Time\|A Brief History of Time]]                                                            |
+| [[Sources/Heroes - Mortals and Monsters, Quests and Adventures\|Heroes - Mortals and Monsters, Quests and Adventures]]  |
 | [[Sources/Odyssey\|Odyssey]]                                                                                            |
 | [[Sources/Troy\|Troy]]                                                                                                  |
 | [[Sources/Mythos - The Greek Myths Retold\|Mythos - The Greek Myths Retold]]                                            |
-| [[Sources/Heroes - Mortals and Monsters, Quests and Adventures\|Heroes - Mortals and Monsters, Quests and Adventures]]  |
+| [[Sources/12 Rules for Life\|12 Rules for Life]]                                                                        |
+| [[Sources/How to Win Friend's and Influence People\|How to Win Friend's and Influence People]]                          |
 | [[Sources/Digital Minimalism\|Digital Minimalism]]                                                                      |
 | [[Sources/The Art of War\|The Art of War]]                                                                              |
 | [[Sources/Sapiens\|Sapiens]]                                                                                            |

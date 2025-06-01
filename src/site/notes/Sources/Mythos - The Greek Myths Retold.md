@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sources/mythos-the-greek-myths-retold/","tags":["books","sources","history","theBest"],"created":"2025-06-01T11:34:30.313+01:00","updated":"2025-06-01T11:46:29.966+01:00"}
+{"dg-publish":true,"permalink":"/sources/mythos-the-greek-myths-retold/","tags":["books","sources","history","theBest"],"created":"2025-06-01T11:34:30.313+01:00","updated":"2025-06-01T12:06:13.260+01:00"}
 ---
 
-Author: [[Sources/Steven Fry\|Steven Fry]]
+Author: [[Sources/Stephen Fry\|Stephen Fry]]
 released: 02-11-2017
 Part of: [[Sources/Stephen Fry's Great Mythology Series\|Stephen Fry's Great Mythology Series]]
 First Read: 2018

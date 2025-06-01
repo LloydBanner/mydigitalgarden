@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sources/odyssey/","tags":["books","sources","history","theBest"],"created":"2025-06-01T11:48:58.003+01:00","updated":"2025-06-01T11:51:46.141+01:00"}
+{"dg-publish":true,"permalink":"/sources/odyssey/","tags":["books","sources","history","theBest"],"created":"2025-06-01T11:48:58.003+01:00","updated":"2025-06-01T12:06:13.694+01:00"}
 ---
 
-Author: [[Sources/Steven Fry\|Steven Fry]]
+Author: [[Sources/Stephen Fry\|Stephen Fry]]
 released: 26-09-2024
 Part of: [[Sources/Stephen Fry's Great Mythology Series\|Stephen Fry's Great Mythology Series]]
 First Read: 2024

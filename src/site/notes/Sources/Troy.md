@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sources/troy/","tags":["books","sources","history","theBest"],"created":"2025-06-01T11:46:21.263+01:00","updated":"2025-06-01T11:48:51.809+01:00"}
+{"dg-publish":true,"permalink":"/sources/troy/","tags":["books","sources","history","theBest"],"created":"2025-06-01T11:46:21.263+01:00","updated":"2025-06-01T12:06:13.529+01:00"}
 ---
 
-Author: [[Sources/Steven Fry\|Steven Fry]]
+Author: [[Sources/Stephen Fry\|Stephen Fry]]
 released: 29-10-2020
 Part of: [[Sources/Stephen Fry's Great Mythology Series\|Stephen Fry's Great Mythology Series]]
 First Read: 2020
