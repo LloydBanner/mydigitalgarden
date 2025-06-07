@@ -6,7 +6,7 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Draft Feed (a bit of everything) (sorted by last update)
-- [[Main Notes/Good Words\|Good Words]]: 27-05-2025
+- [[Main Notes/Good Words\|Good Words]]: 06-06-2025
 - [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 18-05-2025
 - [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 28-04-2025
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 27-04-2025

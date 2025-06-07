@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/books-i-want-to-read/","tags":["books","developing"],"created":"2025-06-01T12:52:16.490+01:00","updated":"2025-06-01T13:16:47.788+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/books-i-want-to-read/","tags":["books","developing"],"created":"2025-06-01T20:06:43.030+01:00","updated":"2025-06-01T20:06:43.954+01:00"}
 ---
 
+- The Weirdest People in the World
 - More of [[Sources/Stephen Fry\|Stephen Fry's]] Books
 - More of The [[Sources/Remembrance of Earth's Past\|Remembrance of Earth's Past]] Series (Sci-Fi)
 - More [[Sources/Discworld\|Discworld]] (Fantasy)

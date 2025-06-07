@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"2025-05-31T16:52:32.022+01:00","updated":"2025-05-31T16:52:32.022+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"2025-06-06T22:47:02.282+01:00","updated":"2025-06-06T22:47:02.282+01:00"}
 ---
 
 A collection of good words for writing that I have discovered. Wanting to write more fantasy, I am collecting them to better describe different situations.
@@ -15,6 +15,10 @@ A collection of good words for writing that I have discovered. Wanting to write 
 - Apposite = A reply in opposition to another. From [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]
 - Imprecation = Curse or swear word. From [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]
 - Coruscated = To flash or sparkle. From [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]
+- Lasciviously = Feeling or revealing an overtly sexual desire. From [[Sources/Swords and Deviltry\|Swords and Deviltry]]
+- Languorous - Pleasurable tiredness or inactivity. OR oppressive stillness. From [[Sources/Swords and Deviltry\|Swords and Deviltry]]
+- Malodorous - Smelling very unpleasant. From [[Sources/Swords and Deviltry\|Swords and Deviltry]]
+- 
 
 ## You May Also Like
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]

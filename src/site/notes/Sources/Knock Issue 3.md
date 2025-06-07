@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/knock-issue-3/","tags":["books","sources"],"created":"2025-05-17T08:17:30.143+01:00","updated":"2025-05-17T08:17:30.182+01:00"}
+{"dg-publish":true,"permalink":"/sources/knock-issue-3/","tags":["books","sources"],"created":"2025-05-17T08:17:30.182+01:00","updated":"2025-05-17T08:17:30.182+01:00"}
 ---
 
 Author: Various
