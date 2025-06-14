@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/books-i-want-to-read/","tags":["books","developing"],"created":"2025-06-01T20:06:43.030+01:00","updated":"2025-06-01T20:06:43.954+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/books-i-want-to-read/","tags":["books","developing"],"created":"2025-06-14T10:51:14.082+01:00","updated":"2025-06-14T10:51:14.890+01:00"}
 ---
 
 - The Weirdest People in the World
@@ -11,7 +11,6 @@
 - Lyonesse Series (Fantasy, [[Sources/Jack Vance\|Jack Vance]])
 - More of The [[Sources/Earthsea Cycle\|Earthsea Cycle]] (Fantasy, [[Sources/Ursula K. Le Guin\|Ursula K. Le Guin]])
 - More of [[Sources/The Dying Earth Books\|The Dying Earth Books]] (Pulp Fantasy, [[Sources/Jack Vance\|Jack Vance]])
-- The Gulag Archipelago (History)
 - More of The Song of Fire and Ice Series (Fantasy)
 - Essentialism (Psychology/Minimalism)
 - Lord of the flies (Classic Literature)
@@ -25,8 +24,5 @@
 - Syntactic structures (Computer Science)
 - The Vedas (Religion)
 - There is no Antimemetics Division (Horror)
-- Atomic Habits (Self-Help)
 - Piranesi (Fantasy/Mythology)
 - Vagabonding (Travel)
-- A New Earth (Psychology/Minimalism)
-- Time Enough for Love (Sci-fi)

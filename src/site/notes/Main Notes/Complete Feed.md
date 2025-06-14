@@ -7,6 +7,7 @@ If you only want to see pages at certain levels of development, which are define
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a bit of everything) (sorted by last update)
+- [[Main Notes/Skyrim Modding Recommendations\|Skyrim Modding Recommendations]]: 11-06-2025
 - [[Main Notes/Good Words\|Good Words]]: 06-06-2025
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 01-06-2025
 - [[Main Notes/Media Consumption\|Media Consumption]]: 01-06-2025
@@ -22,7 +23,6 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/Making Magic Magical\|Making Magic Magical]]: 27-04-2025
 - [[Main Notes/Two of Me\|Two of Me]]: 21-04-2025
 - [[Cooking Recipes/Chicken Pilaf Recipe\|Chicken Pilaf Recipe]]: 25-04-2025
-- [[Main Notes/Skyrim Modding Recommendations\|Skyrim Modding Recommendations]]: 22-04-2025
 - [[Reviews/Morrowind Review\|Morrowind Review]]: 22-04-2025
 - [[Main Notes/My Favourite Video Games\|My Favourite Video Games]]: 22-04-2025
 - [[Main Notes/Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 22-04-2025
