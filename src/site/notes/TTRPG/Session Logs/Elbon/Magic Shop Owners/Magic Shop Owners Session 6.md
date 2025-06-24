@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-6/","tags":["whiterockLogs","feed","developed"],"created":"2025-04-17T22:43:55.564+01:00","updated":"2025-04-22T17:36:37.628+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-6/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:43:55.564+01:00","updated":"2025-06-24T20:49:28.860+01:00"}
 ---
 
 ## Session Notes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/dragon-hunters-one-shot/dragon-hunters-session-notes-one-shot/","tags":["feed","whiterockLogs","developed"],"created":"2025-06-23T06:18:58.833+01:00","updated":"2025-06-24T19:35:02.930+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/dragon-hunters-one-shot/dragon-hunters-session-notes-one-shot/","tags":["feed","elbonLogs","developed"],"created":"2025-06-23T06:18:58.833+01:00","updated":"2025-06-24T20:49:21.366+01:00"}
 ---
 
 ## Session Notes
