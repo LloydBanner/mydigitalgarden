@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/my-monsters/pigman/","tags":["ttrpgResources","OSEMonsters","lloydsOSEMonsters","developing"],"created":"2025-06-12T22:06:59.280+01:00","updated":"2025-06-12T22:06:59.931+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/my-monsters/pigman/","tags":["ttrpgResources","OSEMonsters","lloydsOSEMonsters","developing"],"created":"2025-06-13T12:13:12.716+01:00","updated":"2025-06-22T11:31:58.700+01:00"}
 ---
 
 # Pigman
@@ -16,9 +16,9 @@ Pigmen are brutish humanoids with bloated, pig-like heads, yellowed tusks, and b
 | ---------------- | ------------------------------------ |
 | Hit Dice         | 2 (8 hp)                             |
 | Attacks          | 1 × weapon (Cleaver, spear, axe 1d6) |
-| THAC0            | 8 [+11]                              |
+| THAC0            | 19 [0]                               |
 | Movement         | 120’ (40’)                           |
-| Saving Throws    | D2 W3 P4 B3 S6                       |
+| Saving Throws    | D12 W13 P14 B15 S16 (1)              |
 | Morale           | 9 (11 if leader)                     |
 | Alignment        | Chaotic                              |
 | XP               | 20                                   |

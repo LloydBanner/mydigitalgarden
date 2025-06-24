@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/sources/rouge-one/","tags":["starWars","films","fanEdits","sources"],"created":"2025-04-18T13:10:06.284+01:00","updated":"2025-04-22T17:54:29.656+01:00"}
+{"dg-publish":true,"permalink":"/sources/rouge-one/","tags":["starWars","films","fanEdits","sources","theBest"],"created":"2025-06-22T18:31:30.056+01:00","updated":"2025-06-22T18:31:30.967+01:00"}
 ---
 
-The first in my watch order for [[Sources/Star Wars\|Star Wars]]. This may seem like a weird place to start for [[Sources/Star Wars\|Star Wars]] fans but I think watching the original trilogy first is the best way to go and Rouge One leads in very nicely to [[Sources/A New Hope\|A New Hope]].
+Directors: [[Sources/Gareth Edwards\|Gareth Edwards]],[[Sources/Tony Gilroy\|Tony Gilroy]]
+Released: 13-12-2016
+First Watched: 2016
+Last Watched: 14-06-2025
+Link: https://m.imdb.com/title/tt3748528/
 
-This is a excellent film that has good stakes, introduces some key characters to the original trilogy very well and feels great to watch.
+This is an excellent film that has good stakes, introduces some key characters to the original trilogy very well and feels great to watch. I think watching [[Sources/Andor\|Andor]] before this really elevates the film and adds to the stakes.
 
 - [[Main Notes/The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]
 

@@ -14,6 +14,7 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 ## The List
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
+| [[Sources/Plants Vs Zombies\|Plants Vs Zombies]]                             |
 | [[Sources/Oblivion\|Oblivion]]                                               |
 | [[Sources/XCOM 2\|XCOM 2]]                                                   |
 | [[Sources/XCOM\|XCOM]]                                                       |

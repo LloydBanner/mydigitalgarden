@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-star-wars-watch-order/","tags":["starWars","feed","developing"],"created":"2025-04-20T21:35:59.215+01:00","updated":"2025-04-21T11:33:42.344+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-star-wars-watch-order/","tags":["starWars","feed","developing"],"created":"2025-06-22T18:31:30.534+01:00","updated":"2025-06-22T18:31:30.534+01:00"}
 ---
 
+- [[Sources/Andor\|Andor]]
 - [[Sources/Rouge One\|Rouge One]]
 - [[Sources/A New Hope\|A New Hope]]
 - [[Sources/The Empire Strikes Back\|The Empire Strikes Back]]

@@ -19,13 +19,16 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Books\|Books]]
 
 **Feed (a bit of everything) (sorted by last update)**
+- [[TTRPG/Session Logs/Elbon/Dragon Hunters (One Shot)/Dragon Hunters Session Notes (One Shot)\|Dragon Hunters Session Notes (One Shot)]]: 22-06-2025
+- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 1\|Cursed Ones Session 1]]: 24-06-2025
+- [[Main Notes/My Star Wars Watch Order\|My Star Wars Watch Order]]: 22-06-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 12\|Magic Shop Owners Session 12]]: 18-05-2025
 - [[Main Notes/Skyrim Modding Recommendations\|Skyrim Modding Recommendations]]: 11-06-2025
 - [[Main Notes/Good Words\|Good Words]]: 06-06-2025
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 01-06-2025
 - [[Main Notes/Media Consumption\|Media Consumption]]: 01-06-2025
 - [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 18-05-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 12\|Whiterock Session 12]]: 18-05-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 11\|Whiterock Session 11]]: 17-05-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 11\|Magic Shop Owners Session 11]]: 17-05-2025
 - [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 21-04-2025
 - [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 28-04-2025
 - [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 21-04-2025
@@ -46,9 +49,6 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game\|Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game]]: 22-04-2025
 - [[Main Notes/Why you Should Watch the Hal9000 Edits of the Star Wars Prequels\|Why you Should Watch the Hal9000 Edits of the Star Wars Prequels]]: 22-04-2025
 - [[Main Notes/Why you Should Watch Harmy's Despecialized Editions of Star Wars\|Why you Should Watch Harmy's Despecialized Editions of Star Wars]]: 22-04-2025
-- [[Main Notes/The Clone Wars Refocused Cuts all of the Filler\|The Clone Wars Refocused Cuts all of the Filler]]: 22-04-2025
-- [[Main Notes/The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]: 22-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 9\|Whiterock Session 9]]: 21-04-2025
 
 { .block-language-dataview}
 

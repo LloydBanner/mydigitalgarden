@@ -1,21 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/ttrpg-session-logs/","tags":["developing"],"created":"2025-04-19T14:36:28.176+01:00","updated":"2025-05-18T11:14:08.941+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/ttrpg-session-logs/","tags":["developing"],"created":"2025-06-22T18:31:30.410+01:00","updated":"2025-06-22T18:31:30.410+01:00"}
 ---
 
 Session logs from my [[Main Notes/TTRPG\|TTRPG]] games.
 
-**Session Logs Whiterock Campaign (sorted by session date)**
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 12\|Whiterock Session 12]]: 17-05-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 11\|Whiterock Session 11]]: 19-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 10\|Whiterock Session 10]]: 29-03-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 9\|Whiterock Session 9]]: 08-03-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 8\|Whiterock Session 8]]: 31-01-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 7\|Whiterock Session 7]]: 29-11-2024
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 6\|Whiterock Session 6]]: 11-10-2024
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 5\|Whiterock Session 5]]: 13-9-2024
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 4\|Whiterock Session 4]]: 09-08-2024
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 3\|Whiterock Session 3]]: 06-07-2024
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 2\|Whiterock Session 2]]: 31-05-2024
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 1\|Whiterock Session 1]]: 17-05-2024
+**Session Logs Elbon Campaign Setting (sorted by session date)**
+- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 1\|Cursed Ones Session 1]]: 24-06-2025
+- [[TTRPG/Session Logs/Elbon/Dragon Hunters (One Shot)/Dragon Hunters Session Notes (One Shot)\|Dragon Hunters Session Notes (One Shot)]]: 13-06-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 12\|Magic Shop Owners Session 12]]: 17-05-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 11\|Magic Shop Owners Session 11]]: 19-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 29-03-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 9\|Magic Shop Owners Session 9]]: 08-03-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 8\|Magic Shop Owners Session 8]]: 31-01-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 7\|Magic Shop Owners Session 7]]: 29-11-2024
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 6\|Magic Shop Owners Session 6]]: 11-10-2024
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 5\|Magic Shop Owners Session 5]]: 13-9-2024
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 09-08-2024
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 3\|Magic Shop Owners Session 3]]: 06-07-2024
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 2\|Magic Shop Owners Session 2]]: 31-05-2024
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 17-05-2024
 
 { .block-language-dataview}

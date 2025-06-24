@@ -7,13 +7,16 @@ If you only want to see pages at certain levels of development, which are define
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a bit of everything) (sorted by last update)
+- [[TTRPG/Session Logs/Elbon/Dragon Hunters (One Shot)/Dragon Hunters Session Notes (One Shot)\|Dragon Hunters Session Notes (One Shot)]]: 22-06-2025
+- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 1\|Cursed Ones Session 1]]: 24-06-2025
+- [[Main Notes/My Star Wars Watch Order\|My Star Wars Watch Order]]: 22-06-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 12\|Magic Shop Owners Session 12]]: 18-05-2025
 - [[Main Notes/Skyrim Modding Recommendations\|Skyrim Modding Recommendations]]: 11-06-2025
 - [[Main Notes/Good Words\|Good Words]]: 06-06-2025
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 01-06-2025
 - [[Main Notes/Media Consumption\|Media Consumption]]: 01-06-2025
 - [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 18-05-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 12\|Whiterock Session 12]]: 18-05-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 11\|Whiterock Session 11]]: 17-05-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 11\|Magic Shop Owners Session 11]]: 17-05-2025
 - [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 21-04-2025
 - [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 28-04-2025
 - [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 21-04-2025
@@ -36,16 +39,16 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/Why you Should Watch Harmy's Despecialized Editions of Star Wars\|Why you Should Watch Harmy's Despecialized Editions of Star Wars]]: 22-04-2025
 - [[Main Notes/The Clone Wars Refocused Cuts all of the Filler\|The Clone Wars Refocused Cuts all of the Filler]]: 22-04-2025
 - [[Main Notes/The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]: 22-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 9\|Whiterock Session 9]]: 21-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 8\|Whiterock Session 8]]: 21-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 7\|Whiterock Session 7]]: 21-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 6\|Whiterock Session 6]]: 21-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 5\|Whiterock Session 5]]: 21-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 4\|Whiterock Session 4]]: 21-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 3\|Whiterock Session 3]]: 21-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 2\|Whiterock Session 2]]: 21-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 10\|Whiterock Session 10]]: 21-04-2025
-- [[TTRPG/Session Logs/Whiterock/Whiterock Session 1\|Whiterock Session 1]]: 21-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 9\|Magic Shop Owners Session 9]]: 21-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 8\|Magic Shop Owners Session 8]]: 21-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 7\|Magic Shop Owners Session 7]]: 21-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 6\|Magic Shop Owners Session 6]]: 21-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 5\|Magic Shop Owners Session 5]]: 21-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 21-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 3\|Magic Shop Owners Session 3]]: 21-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 2\|Magic Shop Owners Session 2]]: 21-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 21-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 21-04-2025
 - [[Reviews/Starfield Review\|Starfield Review]]: 21-04-2025
 - [[Reviews/Prey (2017) Review\|Prey (2017) Review]]: 21-04-2025
 - [[Reviews/Prey (2017) Mooncrash Review\|Prey (2017) Mooncrash Review]]: 21-04-2025
@@ -62,7 +65,6 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/Space Magic\|Space Magic]]: 21-04-2025
 - [[Main Notes/Rubik's Cube Solver\|Rubik's Cube Solver]]: 21-04-2025
 - [[Main Notes/Pi Automated House Lights\|Pi Automated House Lights]]: 21-04-2025
-- [[Main Notes/My Star Wars Watch Order\|My Star Wars Watch Order]]: 21-04-2025
 - [[Main Notes/My Minecraft Worlds and Maps\|My Minecraft Worlds and Maps]]: 21-04-2025
 - [[Main Notes/My Mario Maker 2 levels\|My Mario Maker 2 levels]]: 21-04-2025
 - [[Main Notes/Minecraft Mining AI\|Minecraft Mining AI]]: 21-04-2025

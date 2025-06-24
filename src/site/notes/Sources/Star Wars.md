@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/star-wars/","tags":["starWars","sources","filmSeries"],"created":"2025-05-18T20:25:47.135+01:00","updated":"2025-05-18T20:25:47.879+01:00"}
+{"dg-publish":true,"permalink":"/sources/star-wars/","tags":["starWars","sources","filmSeries"],"created":"2025-06-22T18:31:31.055+01:00","updated":"2025-06-22T18:31:31.055+01:00"}
 ---
 
 A very well known series but one that I have always loved. That is not to say I love every part of it though. See [[Main Notes/My Star Wars Watch Order\|My Star Wars Watch Order]] for the films and TV shows I think are worth watching in the order I think you should watch them. 
