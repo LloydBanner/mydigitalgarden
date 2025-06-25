@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-1/","tags":["feed","elbonLogs","developed"],"created":"2025-06-24T19:27:21.333+01:00","updated":"2025-06-24T20:50:28.410+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-1/","tags":["feed","elbonLogs","developed"],"created":"2025-06-24T19:27:21.333+01:00","updated":"2025-06-25T17:39:32.442+01:00"}
 ---
 
 ## Session Notes
@@ -15,7 +15,7 @@
 - Robin was unable to cut himself free but Ferdinand helped
 - There others began hacking at vines and the tree that supported them
 - Croak used his acid breath of the stump of the tree making a large hole
-- Ferdinand shot an arrow to try to free Lorell and killed him, luckily there was another bard called lorell in the party
+- Ferdinand shot an arrow to try to free Lorell and killed him, luckily there was another bard called Lorell in the party
 - Everyone was taking a lot of damage, Robin lost his daggers then Mr WizardPants hypnotised the tree and convinced it not to attack
 - The party gathered their things and quickly moved on
 - In a clearing not too far away they encountered a Ghoul-Stag
@@ -33,7 +33,29 @@
 - Danny approached but Robin noticed one pulling a dagger. They made short work of the bandits who had stuffed their packs to make it look like they had items for sale.
 
 ## Whiterock
-...
+![Whiterock.jpg](/img/user/z_assets/TTRPG/Place%20Pictures/Whiterock/Whiterock.jpg)
+- The party quickly made their way to Whiterock after leaving the woods
+- The pilgrims paid them some money for helping to escort them
+- Reinfart wanted to visit a church. The only one they could find was abandoned. 
+- Inside they found a tome. The church was for Saleth a spider god
+- Reinfart added money to a tithing box, Robin robed the box when he wasn't looking and split the money with Lorell
+- Ferdinand investigated the tower and his prospects of climbing it
+- The group did some shopping. 
+- They met Eadan the blacksmith who had [[TTRPG/My Monsters/Ignid\|Ignid]] tooth daggers for sale and was questioning the illusionists in charge of the city. Robin tried to rob a dagger unsuccessfully. He explained that the illusionists had overthrown the nobles but were just as bad. Reinfart believed this was unlawful.
+- Next they visited Ceana the Enchantress. She laughed at the wand of grilling that Mr WizardPants had picked up in the woods. They bought some scrolls and potions.
+- They also visited Harald the Fletcher who mentioned people had been going missing in the lower docks. He also said there were some nobles who were now beggars.
+- Croak encouraged everyone to go the Gawping Cod. The Tavern and get a drink and a rest. Inside the met and old man called Faldek who Robin told about the curse. Faldek seemed worried about it but Robin shrugged it off.
+- After a rest everyone headed down to the lower docks. Along the way they searched for nobles. They found one that was cautious at first but then explained the illusionist take over and how they had executed most of the nobles.
+- They also found a sailor who had recently lost his nephew. He said the disappearances started about two years ago when the illusionists showed up.
+- Next they visited the Illusionists council. Mr WizardPants wanted to become an apprentice. He tried to convince the guards that he was a new illusionist but they did not believe him.
+- Due to having previous issues with adventurers the illusionist council arranged a meeting at noon the next day with the party
+- Along the way the had heard of the Swordfish a club/pub where the Thieves Guild were known to frequent. Many of the party wanted to visit
+- To get to the Swordfish they had to head down an alley. Roguish types surrounded them in the alley and 'escorted' them in
+- Mr WizardPants claimed he was seeing the illusionist council tomorrow and would report them
+- Inside they were encouraged to sit down and an older rouge came over
+- He proposed the party have their meeting with the illusionists tomorrow but steal their orb of power that was enhancing their illusionist abilities allowing them to be used all over Whiterock. He also offered to buy anything else they stole. If they didn't then the Thieves Guild would have problems with them.
+- Everyone agreed although Reinfart was unsure but forced into it. The Guild wanted the orb either broken with proof or delivered to them. The illusionists had been causing them too much trouble.
+- The party left and returned to the Gawping Cod
 
 ##### XP
 1000 xp = Treasure

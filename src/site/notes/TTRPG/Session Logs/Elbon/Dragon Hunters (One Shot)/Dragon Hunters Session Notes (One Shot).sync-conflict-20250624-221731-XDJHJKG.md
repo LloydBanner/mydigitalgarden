@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/dragon-hunters-one-shot/dragon-hunters-session-notes-one-shot/","tags":["feed","whiterockLogs","developed"],"created":"2025-06-24T22:17:30.161+01:00","updated":"2025-06-24T22:17:30.871+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/dragon-hunters-one-shot/dragon-hunters-session-notes-one-shot-sync-conflict-20250624-221731-xdjhjkg/","tags":["feed","elbonLogs","developed"],"created":"2025-06-23T06:18:58.833+01:00","updated":"2025-06-24T20:49:21.366+01:00"}
 ---
 
 ## Session Notes
@@ -16,7 +16,7 @@
 ![Cellar of Grolf.png](/img/user/z_assets/TTRPG/Place%20Pictures/Hazelmond/Cellar%20of%20Grolf.png)
 - They opened the cellar door and Malvec threw a torch down to see. It banged loudly and the two [[TTRPG/My Monsters/Pigman\|Pigmen]] attackers returned 
 - The party tried to run but tumbled over each other on the stairs and the [[TTRPG/My Monsters/Pigman\|Pigmen]] got some attacks on them while they recovered
-- Malvec ran up the stairs while everyone else fought 
+- Malvec ran up the stairs while everyone else fights
 - They made short work of the [[TTRPG/My Monsters/Pigman\|Pigmen]] with a sleep spell and tied them up, then put them in a cupboard for later
 - In the next room were many bones piled up. Dalgurin poured water and found a pressure plate
 - Nymeria used her wooden pole to press it and 3 skeletons formed from the bones and attacked
