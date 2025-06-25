@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-8/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:44:18.944+01:00","updated":"2025-06-24T20:49:29.408+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-8/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:44:18.944+01:00","updated":"2025-06-25T19:22:33.545+01:00"}
 ---
 
 ## Session Notes
+
+**Calendar Date:** 11-3-569
+
 Stinkcat was let out of prison until the trial because they had know significant evidence that they did anything. Geog and Maia made their way to Whiterock in their own time, and everyone happened to meet in Eadan the blacksmith's shop in Whiterock. There, Maia commissioned an [[TTRPG/My Monsters/Ignid\|ignid]] scale shield, and both Maia and Stinkcat ordered [[TTRPG/My Monsters/Ignid\|ignid]] tooth daggers. Eadan said these could be collected within a week's time. They also discussed the illusionist guild that had taken over the town and how, since then, people had started to go missing in the lower docks. They also learnt about the arena tournaments that were taking place and that there were large rewards for winning them. 5000gp 1st place in the singles. 1000gp second, 500gp third. For doubles, triples, and quadruples, it was 2500gp for first, 500gp for second and 250gp for third if you survived. They then had a long discussion with Eadan about democracy, oligarchy, communism and other forms of governance.
 
 They started discussing off-hand tactics to win in the arena, so they went to the hired room in the Gawping Cod to discuss this instead of doing it in the open. Inside, they decided that Geog would enter the singles tournament and Stinkcat, Maia, and Breadwig would do the triples. They also decided that they would do the fights legally since Stinkcat was only out on bail. On the way to the tournament, they went to the enchanter's shop. Inside Ceana, the small, old woman owner of the shop, which was stacked high with old books, told them about the enchantments she had on offer. Stinkcat had a homing enchantment and a silence enchantment applied to their bolas, Breadwig had is disintegration staff recharged, and she agreed to give them a recharge crystal in exchange for time to study the enchantments on the sword Darkfire and the Disintegration staff after the tournament.

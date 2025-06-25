@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-1/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:42:59.730+01:00","updated":"2025-06-24T20:49:21.663+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-1/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:42:59.730+01:00","updated":"2025-06-25T19:20:36.885+01:00"}
 ---
 
 ## Session Notes
+
+**Calendar Date:** 2-3-569
+
 Everyone arrived in Stagbrook after receiving a letter looking for Barnaby Hope at roughly late morning. All were cautiously observing the goings on around the village until Geog, a dwarf, began shouting for Barnaby at the top of his lungs. He let out three great bellows. On the second, a villager carrying a basket of eggs began to approach him, and the third was directly in her face. She kindly explained where Barnaby lived and sold Geog 10 eggs for 1gp. 
 
 Geog approached Barnaby's house with the others, hearing the whole thing, following closely behind. There is no answer to the door, so they all began looking around the house. In this process, they all realise they are in Stagbrook for the same thing and make a pact. They will work together for the inheritance, but if anyone else comes for it, then they will deal with them. The group noticed an open window with a candle flickering. Geog and Jatumal decide to throw an egg through it while Stinkcat and Maia begin climbing up. The egg hits Stinkcat, and they and Maia climb into the room.

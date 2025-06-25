@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/ttrpg-session-logs/","tags":["developing"],"created":"2025-06-23T06:19:00.051+01:00","updated":"2025-06-24T20:49:56.104+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/ttrpg-session-logs/","tags":["developing"],"created":"2025-06-23T06:19:00.051+01:00","updated":"2025-06-25T18:31:27.911+01:00"}
 ---
 
 Session logs from my [[Main Notes/TTRPG\|TTRPG]] games.
+
+[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Elbon Calendar]]
 
 **Session Logs Elbon Campaign Setting (sorted by session date)**
 - [[TTRPG/Session Logs/Elbon/Dragon Hunters (One Shot)/Dragon Hunters Session Notes (One Shot)\|Dragon Hunters Session Notes (One Shot)]]: 13-06-2025

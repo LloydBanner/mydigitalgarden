@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-11/","tags":["feed","elbonLogs","developed"],"created":"2025-05-17T21:15:25.381+01:00","updated":"2025-06-24T20:49:22.263+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-11/","tags":["feed","elbonLogs","developed"],"created":"2025-05-17T21:15:25.381+01:00","updated":"2025-06-25T19:23:30.327+01:00"}
 ---
 
 ## Session Notes
 
+**Calendar Date:** 14-3-569
 ### Survivor Beach
 ![survivorBeach.png|300](/img/user/z_assets/TTRPG/Maps/survivorBeach.png)
 

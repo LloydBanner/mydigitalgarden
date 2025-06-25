@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/dragon-hunters-one-shot/dragon-hunters-session-notes-one-shot/","tags":["feed","developed","elbonLogs"],"created":"2025-06-24T22:17:57.760+01:00","updated":"2025-06-25T17:47:44.338+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/dragon-hunters-one-shot/dragon-hunters-session-notes-one-shot/","tags":["feed","developed","elbonLogs"],"created":"2025-06-24T22:17:57.760+01:00","updated":"2025-06-25T19:23:42.622+01:00"}
 ---
 
 ## Session Notes
+
+**Calendar Date:** 14-3-569
 
 ![Hazelmond.png](/img/user/z_assets/TTRPG/Place%20Pictures/Hazelmond/Hazelmond.png)
 - The adventures arrived in Hazelmond after hearing of a reward for killing a nearby baby blue dragon 

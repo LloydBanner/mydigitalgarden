@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-12/","tags":["feed","elbonLogs","developed"],"created":"2025-05-18T11:09:40.455+01:00","updated":"2025-06-24T20:49:22.603+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-12/","tags":["feed","elbonLogs","developed"],"created":"2025-05-18T11:09:40.455+01:00","updated":"2025-06-25T19:24:26.291+01:00"}
 ---
 
 ## Session Notes
+
+**Calendar Date:** 15-3-569 - 16-3-596
 
 ### Level 1
 

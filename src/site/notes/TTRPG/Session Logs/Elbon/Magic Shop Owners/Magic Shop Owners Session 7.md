@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-7/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:44:10.324+01:00","updated":"2025-06-24T20:49:29.166+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-7/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:44:10.324+01:00","updated":"2025-06-25T19:22:12.421+01:00"}
 ---
 
 ## Session Notes
+
+**Calendar Date:** 8-3-569 - 10-3-569
+
 Breadwig has learnt how to do surge pricing from Sarzan between sessions. It tested this out at the start of the session. When he had 100 gold in his pocket, the price for a consultation with Sarzan on the sign was 70 gold. The players also managed to hire Sam the Slow to run their shop while they were away for 10 gold a day. They said he could bake in the shop while they were gone. He also gave them some useful information about the route to Whiterock, saying they should be careful not to stray from the path in the Howling Woods. He also asked if they could keep an eye out for goolgeek a rare spice he wanted to use in his cooking. While they were there, they also collected the mushroom brownies that Sam had baked for them, each eating some before they began the journey. They agreed and thanked Sam for the information. Jatumal and Sphonyx both kissed him on the cheek. Each collected money and stored it in Jatumal's magic boat, which, when shrunk, made the gold practically weightless.
 
 After this, they began their journey to Whiterock, stopping at the pond of foresight along the way. There, they spoke to Zuchi and each drank from the pond apart from Sphonyx. Jatumal saw visions of vines moving like snakes, Breadwig saw a town made of white brick, and Stinkcat saw the path leading up to the Howling Woods. Meanwhile, Sphonyx quizzed Zuchi about Sally Hope's fiction at the pond. It seemed like Zuchi and Sally might be having an affair. Not long after that, they reached the entrance to the woods at the point when the mushroom brownies seemed to be kicking in. They saw the sign to Whiterock pointing down the path and continued into the woods. The brownies caused shapes to distort and colours to have much higher contrasts. The woods were dark from the thick canopy, but there were purple glowing crystal-like objects glistening just off the path. 

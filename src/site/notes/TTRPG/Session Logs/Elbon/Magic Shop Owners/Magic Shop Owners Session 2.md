@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-2/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:43:11.728+01:00","updated":"2025-06-24T20:49:22.885+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-2/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:43:11.728+01:00","updated":"2025-06-25T19:20:52.885+01:00"}
 ---
 
 ## Session Notes
+
+**Calendar Date:** 3-3-569
+
 After the defeat from Acman and the stealing of most of the stock of the magic shop the most of the party woke up and went to do various things about the village. Maia and Geog overslept and then decided to look after the shop.
 
 Stinkcat met Sphonyx, an illusionist in the Terrible Toad Tavern who had also come to claim the inheritance while the others were down in the keep below Stagbrook. She was agreeing to take a job for the town baker, Sam the Slow. A tortoise man. His spice shipment had not arrived, and he believed the merchant must have been ambushed on his way from Whiterock. The two set off down the road in that direction.

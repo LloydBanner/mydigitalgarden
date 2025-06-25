@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-3/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:43:20.845+01:00","updated":"2025-06-24T20:49:27.956+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-3/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:43:20.845+01:00","updated":"2025-06-25T19:21:03.626+01:00"}
 ---
 
 ## Session Notes
+
+**Calendar Date:** 4-3-569
+
 The party met Titus Pick, the pretentious mine owner. After finding out that he wanted to take the crystal heart from the mines without killing the [[TTRPG/My Monsters/Ignid\|ignid]] to make money from it, they decided to leave him because they didn't think he was paying enough.
 
 Instead, they went to explore Stagbrook Keep using Lucinda's map to find more magic items. Inside, they encountered many traps. The first of which split the party, leaving half of them in a different corridor from the others. Luckily, both areas were connected by a room, and the remainder of the party were able to outsmart the moving wall trap that separated them by clever positioning. 

@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-10/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:44:36.715+01:00","updated":"2025-06-24T20:49:22.003+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-10/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:44:36.715+01:00","updated":"2025-06-25T19:23:17.938+01:00"}
 ---
 
 ## Session Notes
+
+**Calendar Date:** 13-3-569
+
 ![harbourCrawl.jpeg|300](/img/user/z_assets/TTRPG/Maps/harbourCrawl.jpeg)
 
 The party met back up in the Gawping Cod. Inside, they overheard talk of eyeless red-robed priests taking over the Obsidian Keep and some great battle happening there, which ended in disaster. They also met a Beast Master called Derek, who wanted to travel to the keep because he believed there was a giant seagull there that he could tame. He tagged along with the party, although they were still a little unsure of him. Out in the town, people were packing up from the recent celebrations. The party collected their [[TTRPG/My Monsters/Ignid\|ignid]] weapons from Eadan the blacksmith and bought some new enchanted gear from Ceana the enchantress. Jatumal ordered 5 disintegration arrows for next time they were in town, and Sphonyx ordered a disintegration staff and a paralysis staff while buying an unstable first attempt disintegration wand from Ceana. Jatumal also bought some cupid arrows from Ceana and an exquisite bow from Harald the fletcher.

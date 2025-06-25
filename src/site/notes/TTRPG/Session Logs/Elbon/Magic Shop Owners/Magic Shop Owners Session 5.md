@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-5/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:43:46.350+01:00","updated":"2025-06-24T20:49:28.562+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-5/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:43:46.350+01:00","updated":"2025-06-25T19:21:26.797+01:00"}
 ---
 
 ## Session Notes
+
+**Calendar Date:** 6-3-569
+
 The party decided it was vital that they stop Acman and the army he was creating. Initially, the party visited the church of Felheim in Stagbrook, where they found two priests who would bless their gear and provide holy water. They were called Philistine and Badger. The group paid to get many of their weapons blessed and filled a barrel that they got from Rodger's shop with holy water. They also bought a mace, marbles, and two bellows from the shop after some haggling. After this, needing to wait for the blessings to be completed, they went to the tavern where some gambling was done with the miners, and they also met Sally Hope, Barnaby the lawyer's wife, whom Sphonyx bought a book from.
 
 When some time had passed, they gathered their equipment and made their way to the tower. Sphonyx attempted to seduce the guards into letting them in, which failed rather quickly. But Stinkcat mimicked the voices of the guards on the wall to prevent them from sending the skeletons out. Sphonyx then used her hypnotism spell to persuade the guards to give them their robes, tell them all about Acman's lair and go and bathe in the pond of foresight. This meant three of the five now had cultist outfits. Entering the wooden walls around the tower, they found another guard whom they quickly took out to get another set of robes. Geog was the only one left without any robes, so he carried the holy water barrel and acted as if he were a slave.  

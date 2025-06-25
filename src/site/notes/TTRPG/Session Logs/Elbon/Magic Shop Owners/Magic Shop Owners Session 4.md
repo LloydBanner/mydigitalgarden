@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-4/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:43:34.408+01:00","updated":"2025-06-24T20:49:28.236+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-4/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:43:34.408+01:00","updated":"2025-06-25T19:21:14.843+01:00"}
 ---
 
 ## Session Notes
+
+**Calendar Date:** 5-3-569
+
 The party woke up in the lab in Stagbrook Keep. Sphonyx and Geog did not wake up, but everyone else decided to continue exploring. They returned to the room where the staff and living armour had been to find a sleeping rust monster. After looking at the map, they saw there were rooms nearby that had no direct route to reach on the map, so they began searching for hidden doors. After a short search, they found what felt like a similar door to the one they had chanted "nepo" to open. They repeated this and opened the door.
 
 Inside was a room where all the walls were lined with paintings. One drew the group's attention. It was a landscape with a door that shone brightly in the middle. Jatumal shouted "nepo" at it from a distance, but nothing happened. Then Breadwig poked his ten foot pole through it, and it became a part of the painting. Stinkcat then threw a dead duck into the painting, and it lay there in the landscape. Jatumal tried to jump into the painting, knocking it off the wall and falling to the ground himself. Next, they tried saying "nepo" and then entering the painting, which worked.
