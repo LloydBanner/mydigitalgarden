@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-1/","tags":["feed","elbonLogs","developed"],"created":"2025-06-24T19:27:21.333+01:00","updated":"2025-06-25T17:39:32.442+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-1/","tags":["feed","elbonLogs","developed"],"created":"2025-06-24T19:27:21.333+01:00","updated":"2025-06-25T17:44:16.909+01:00"}
 ---
 
 ## Session Notes
@@ -52,7 +52,7 @@
 - Along the way the had heard of the Swordfish a club/pub where the Thieves Guild were known to frequent. Many of the party wanted to visit
 - To get to the Swordfish they had to head down an alley. Roguish types surrounded them in the alley and 'escorted' them in
 - Mr WizardPants claimed he was seeing the illusionist council tomorrow and would report them
-- Inside they were encouraged to sit down and an older rouge came over
+- Inside they were encouraged to sit down and an older rouge came over 
 - He proposed the party have their meeting with the illusionists tomorrow but steal their orb of power that was enhancing their illusionist abilities allowing them to be used all over Whiterock. He also offered to buy anything else they stole. If they didn't then the Thieves Guild would have problems with them.
 - Everyone agreed although Reinfart was unsure but forced into it. The Guild wanted the orb either broken with proof or delivered to them. The illusionists had been causing them too much trouble.
 - The party left and returned to the Gawping Cod
@@ -79,3 +79,4 @@
 
 #### Published Content Used
 - [[Main Notes/OSE\|OSE]] (Classic and Advanced)
+- [[Sources/Knock Issue 1\|Knock Issue 1]]

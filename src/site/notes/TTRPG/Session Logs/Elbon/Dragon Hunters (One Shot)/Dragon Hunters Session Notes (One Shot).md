@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/dragon-hunters-one-shot/dragon-hunters-session-notes-one-shot/","tags":["feed","whiterockLogs","developed"],"created":"2025-06-24T22:17:30.161+01:00","updated":"2025-06-24T22:17:30.871+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/dragon-hunters-one-shot/dragon-hunters-session-notes-one-shot/","tags":["feed","developed","elbonLogs"],"created":"2025-06-24T22:17:57.760+01:00","updated":"2025-06-25T17:47:00.420+01:00"}
 ---
 
 ## Session Notes
@@ -60,3 +60,4 @@
 
 #### Published Content Used
 - [[Main Notes/OSE\|OSE]] (Classic and Advanced)
+- [[Sources/Knock Issue 1\|Knock Issue 1]]
