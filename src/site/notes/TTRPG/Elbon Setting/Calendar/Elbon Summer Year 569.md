@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/calendar/elbon-summer-year-569/","tags":["ttrpgs","draft"],"created":"2025-06-25T18:39:45.819+01:00","updated":"2025-06-25T19:17:25.465+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/calendar/elbon-summer-year-569/","tags":["ttrpgs","draft"],"created":"2025-06-25T18:39:45.819+01:00","updated":"2025-06-25T19:28:07.138+01:00"}
 ---
 
 MS = Magic Shop Owners
@@ -95,4 +95,3 @@ DH = Dragon Hunters
 87) 
 88) 
 89) 
-90) 
