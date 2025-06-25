@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/dragon-hunters-one-shot/dragon-hunters-session-notes-one-shot/","tags":["feed","developed","elbonLogs"],"created":"2025-06-24T22:17:57.760+01:00","updated":"2025-06-25T17:47:00.420+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/dragon-hunters-one-shot/dragon-hunters-session-notes-one-shot/","tags":["feed","developed","elbonLogs"],"created":"2025-06-24T22:17:57.760+01:00","updated":"2025-06-25T17:47:44.338+01:00"}
 ---
 
 ## Session Notes
@@ -39,6 +39,7 @@
 - They explained that they had stopped Grolf who wanted Scaelith dead
 - Scaelith was thankful and gave them some of her gold for preventing her trouble in the future 
 - They returned to Hazelmond
+![Scaeliths Lair.png](/img/user/z_assets/TTRPG/Place%20Pictures/Hazelmond/Scaeliths%20Lair.png)
 ##### XP
 1750 xp = Treasure
 40 xp = 2 x [[TTRPG/My Monsters/Pigman\|Pigmen]]
