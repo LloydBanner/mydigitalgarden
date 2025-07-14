@@ -14,6 +14,7 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 ## The List
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
+| [[Sources/Hitman World of Assasination\|Hitman World of Assasination]]       |
 | [[Sources/Plants Vs Zombies\|Plants Vs Zombies]]                             |
 | [[Sources/Oblivion\|Oblivion]]                                               |
 | [[Sources/XCOM 2\|XCOM 2]]                                                   |
@@ -32,7 +33,6 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]               |
 | [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]         |
 | [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
-| [[Sources/Hitman World of Assasination\|Hitman World of Assasination]]       |
 | [[Sources/Halo Reach\|Halo Reach]]                                           |
 | [[Sources/Halo ODST\|Halo ODST]]                                             |
 | [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |

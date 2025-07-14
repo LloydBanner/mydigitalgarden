@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/sources/hitman-world-of-assasination/","tags":["videoGames","theBest","sources"],"created":"2025-04-19T13:54:22.471+01:00","updated":"2025-04-22T17:52:51.444+01:00"}
+{"dg-publish":true,"permalink":"/sources/hitman-world-of-assasination/","tags":["videoGames","theBest","sources"],"created":"2025-06-29T00:04:55.715+01:00","updated":"2025-06-29T00:04:55.715+01:00"}
 ---
+
+- [[Hitman Elusive Targets\|Elusive Targets]]
+- [[Hitman Maps\|Maps]]
 
 This is the most recent Hitman trilogy compiled into one game with a much smaller file size. I think this is the best way to play Hitman and this plays better than almost all the old games.
 

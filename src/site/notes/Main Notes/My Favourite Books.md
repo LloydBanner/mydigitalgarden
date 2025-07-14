@@ -4,6 +4,7 @@
 
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Raiding the Obsidian Keep\|Raiding the Obsidian Keep]]                                                                             |
 | [[Sources/Algorithms to Live By\|Algorithms to Live By]]                                                                                     |
 | [[Sources/Norse Mythology\|Norse Mythology]]                                                                                                 |
 | [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]                                                                             |
