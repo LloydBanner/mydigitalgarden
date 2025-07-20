@@ -6,6 +6,7 @@ I have always and probably will always enjoy video games. I think the interactiv
 
 - [[Main Notes/My Favourite Video Games\|My Favourite Video Games]]
 ## Video Game Writing (sorted by last update)
+- [[Main Notes/Permadeath In Games\|Permadeath In Games]]: 16-07-2025
 - [[Main Notes/Oblivion is an Absurdist Masterpiece\|Oblivion is an Absurdist Masterpiece]]: 27-04-2025
 
 { .block-language-dataview}
