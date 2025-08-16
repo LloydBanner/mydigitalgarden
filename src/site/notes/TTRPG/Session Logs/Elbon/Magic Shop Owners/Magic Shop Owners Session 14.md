@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-14/","tags":["feed","elbonLogs","developed"],"created":"2025-08-14T20:35:52.501+01:00","updated":"2025-08-16T11:29:22.368+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-14/","tags":["feed","elbonLogs","developed"],"created":"2025-08-14T20:35:52.501+01:00","updated":"2025-08-16T11:38:56.610+01:00"}
 ---
 
 **[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 20-3-569 - 23-3-596
 ## Session Notes
 ![Elbon.png](/img/user/z_assets/TTRPG/Place%20Pictures/Elbon.png)
+
 - The Party arrived in Whiterock and quickly decided to leave and head back to Stagbrook
 - To do this they once again had to travel through the Howling Woods
 - At the entrance to the Howling Woods a Snatching Serpent took the goolgeek from Sphonyx's pack. Derek sent his cat after the serpent which fell out of the tree damaging its leg. He then sent his seagull which was able to catch the serpent
@@ -26,7 +27,9 @@
 - The party then visited their shop which had been ransacked. The painting with Sarzan had been stolen along with many items. Sam the Slow hadn’t been able to catch the goblins as they robbed. He was very apologetic and accepted a small payment for minding the shop of 10gp. He had made about 1000gp while they were gone which he had managed to hold onto 
 - The party returned to the Terrible Toad where most of the village were gathered and Geog made a speech about fighting the goblins in the cliffs, the ruins and the fields. The locals were stirred
 - The goblins were coming every few days and had only been the night before so the party trained the villagers and made defenses in a training montage while also making a plan of attack
+
 ![StagbrookBattlePlan.jpeg](/img/user/z_assets/TTRPG/Place%20Pictures/Stagbrook/StagbrookBattlePlan.jpeg)
+
 - On the night 17 goblins came. They had eight villagers who were average at archery and 8 who were okay fighters. These were posted around the village. Jatumal prepared his boat to grow at one exit to block the goblin escape while the others hid behind ruined walls or bushes
 - The village elder lead the goblins to the tribute in front of the church. Along the way they walked over a spike trap a few fell in, while others were bombarded by canon balls from the ship painting from the keep
 - Breadwig cast an illusionary ignid but it was ineffective and did not scare the goblins. 
