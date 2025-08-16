@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-13/","tags":["feed","elbonLogs","developed"],"created":"2025-07-10T17:07:12.441+01:00","updated":"2025-07-10T17:07:12.441+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-13/","tags":["feed","elbonLogs","developed"],"created":"2025-07-10T18:51:06.628+01:00","updated":"2025-08-16T11:25:06.768+01:00"}
 ---
 
 ## Session Notes
 
-**Calendar Date:** 17-3-569 - 19-3-596
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 17-3-569 - 19-3-596
 
 ## Facing Vermesh
 ![ObsidianKeepLevel3.jpeg](/img/user/z_assets/TTRPG/Place%20Pictures/Obsidian%20Keep/ObsidianKeepLevel3.jpeg)

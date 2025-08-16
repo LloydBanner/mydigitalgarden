@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-2/","tags":["feed","elbonLogs","developed"],"created":"2025-07-31T08:46:05.466+01:00","updated":"2025-08-10T11:00:24.854+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-2/","tags":["feed","elbonLogs","developed"],"created":"2025-08-14T20:35:52.550+01:00","updated":"2025-08-16T11:25:54.513+01:00"}
 ---
 
-**Calendar Date:** 18-3-569
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 18-3-569
 ## Session Notes
 
 - A few members of the party woke early in the Gawping Cod Tavern in Whiterock. They were Danny Rolex, Ferdinand de Dupiazza, Lorell Efferwesse and Reinfart
@@ -48,7 +48,7 @@
 | Lorell Efferwesse (Bard1)        | 191                   | 386 (Need to get to 2000 xp to level up) |
 | Reinfart (Barbarian1)            | 191                   | 386 (Need to get to 2500 xp to level up) |
 | Danny Rolex (Fighter1)           | 191                   | 386 (Need to get to 2000 xp to level up) |
-| Ferdinand de Dupiazza (Acrobat1) | 191                   | 386 (Need to get to 2500 xp to level up) |
+| Ferdinand de Dupiazza (Acrobat1) | 191                   | 386 (Need to get to 1500 xp to level up) |
 | Robin Houses (Thief1)            | 191                   | 191 (Need to get to 1200 xp to level up) |
 
 

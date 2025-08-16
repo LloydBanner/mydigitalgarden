@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-9/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:44:28.035+01:00","updated":"2025-06-25T19:22:55.794+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-9/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:44:28.035+01:00","updated":"2025-08-16T11:25:17.269+01:00"}
 ---
 
 ## Session Notes
 
-**Calendar Date:** 12-3-569
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 12-3-569
 
 In this session, we had the trial of Jatumal, Stinkcat and Sphonyx. Breadwig represented them as a lawyer. The group were brought before a court in the main tower of Whiterock. Judge Benson Wild ran the trial, and a Lawyer called Veridia Blackwood led the prosecution. The party was given some time to prepare their case before the trial began.
 

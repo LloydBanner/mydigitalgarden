@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-8/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:44:18.944+01:00","updated":"2025-06-25T19:22:33.545+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-8/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:44:18.944+01:00","updated":"2025-08-16T11:25:19.680+01:00"}
 ---
 
 ## Session Notes
 
-**Calendar Date:** 11-3-569
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 11-3-569
 
 Stinkcat was let out of prison until the trial because they had know significant evidence that they did anything. Geog and Maia made their way to Whiterock in their own time, and everyone happened to meet in Eadan the blacksmith's shop in Whiterock. There, Maia commissioned an [[TTRPG/My Monsters/Ignid\|ignid]] scale shield, and both Maia and Stinkcat ordered [[TTRPG/My Monsters/Ignid\|ignid]] tooth daggers. Eadan said these could be collected within a week's time. They also discussed the illusionist guild that had taken over the town and how, since then, people had started to go missing in the lower docks. They also learnt about the arena tournaments that were taking place and that there were large rewards for winning them. 5000gp 1st place in the singles. 1000gp second, 500gp third. For doubles, triples, and quadruples, it was 2500gp for first, 500gp for second and 250gp for third if you survived. They then had a long discussion with Eadan about democracy, oligarchy, communism and other forms of governance.
 

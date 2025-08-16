@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-1/","tags":["feed","elbonLogs","developed"],"created":"2025-06-26T19:27:37.335+01:00","updated":"2025-06-26T19:27:37.335+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-1/","tags":["feed","elbonLogs","developed"],"created":"2025-08-14T20:35:52.444+01:00","updated":"2025-08-16T11:25:51.826+01:00"}
 ---
 
 ## Session Notes
 
-**Calendar Date:** 16-3-569 - 17-3-569
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 16-3-569 - 17-3-569
 
 ## Opening Monologue
 > You are travelling through the Howling Woods an ever dark forest filled with dangers and weirdness. It has taken many days of travel but your party believe you are almost through this vile place and near your goal of Whiterock. You set out with a group of around forty but now number in the teens. You were told never to leave the path, but the path had been reclaimed by the woods and now its dangers pile upon you. You are the only capable fighters left, the others are pilgrims, merchants, or have other non-fighting expertise you don't yet understand. Your reason for being here is your own, maybe you were hired to guard the party, maybe you thought it would be safer to travel in numbers. Either way, along the journey you have gotten to know your travelling companions. 
@@ -75,7 +75,7 @@
 | Lorell Efferwesse (Bard1)        | 0                     | 191 (Need to get to 2000 xp to level up) |
 | Reinfart (Paladin1)              | 0                     | 191 (Need to get to 2750 xp to level up) |
 | Danny Rolex (Fighter1)           | 0                     | 191 (Need to get to 2000 xp to level up) |
-| Ferdinand de Dupiazza (Acrobat1) | 0                     | 191 (Need to get to 2500 xp to level up) |
+| Ferdinand de Dupiazza (Acrobat1) | 0                     | 191 (Need to get to 1500 xp to level up) |
 | Robin Houses (Thief1)            | 0                     | 191 (Need to get to 1200 xp to level up) |
 
 

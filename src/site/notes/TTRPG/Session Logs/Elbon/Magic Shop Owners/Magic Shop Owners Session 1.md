@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-1/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:42:59.730+01:00","updated":"2025-06-25T19:20:36.885+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-1/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:42:59.730+01:00","updated":"2025-08-16T11:25:41.257+01:00"}
 ---
 
 ## Session Notes
 
-**Calendar Date:** 2-3-569
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 2-3-569
 
 Everyone arrived in Stagbrook after receiving a letter looking for Barnaby Hope at roughly late morning. All were cautiously observing the goings on around the village until Geog, a dwarf, began shouting for Barnaby at the top of his lungs. He let out three great bellows. On the second, a villager carrying a basket of eggs began to approach him, and the third was directly in her face. She kindly explained where Barnaby lived and sold Geog 10 eggs for 1gp. 
 

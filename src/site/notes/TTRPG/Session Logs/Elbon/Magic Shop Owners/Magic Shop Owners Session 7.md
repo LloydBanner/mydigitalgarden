@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-7/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:44:10.324+01:00","updated":"2025-06-25T19:22:12.421+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-7/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:44:10.324+01:00","updated":"2025-08-16T11:25:22.723+01:00"}
 ---
 
 ## Session Notes
 
-**Calendar Date:** 8-3-569 - 10-3-569
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 8-3-569 - 10-3-569
 
 Breadwig has learnt how to do surge pricing from Sarzan between sessions. It tested this out at the start of the session. When he had 100 gold in his pocket, the price for a consultation with Sarzan on the sign was 70 gold. The players also managed to hire Sam the Slow to run their shop while they were away for 10 gold a day. They said he could bake in the shop while they were gone. He also gave them some useful information about the route to Whiterock, saying they should be careful not to stray from the path in the Howling Woods. He also asked if they could keep an eye out for goolgeek a rare spice he wanted to use in his cooking. While they were there, they also collected the mushroom brownies that Sam had baked for them, each eating some before they began the journey. They agreed and thanked Sam for the information. Jatumal and Sphonyx both kissed him on the cheek. Each collected money and stored it in Jatumal's magic boat, which, when shrunk, made the gold practically weightless.
 

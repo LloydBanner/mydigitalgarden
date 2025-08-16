@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-3/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:43:20.845+01:00","updated":"2025-06-25T19:21:03.626+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-3/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:43:20.845+01:00","updated":"2025-08-16T11:25:34.202+01:00"}
 ---
 
 ## Session Notes
 
-**Calendar Date:** 4-3-569
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 4-3-569
 
 The party met Titus Pick, the pretentious mine owner. After finding out that he wanted to take the crystal heart from the mines without killing the [[TTRPG/My Monsters/Ignid\|ignid]] to make money from it, they decided to leave him because they didn't think he was paying enough.
 

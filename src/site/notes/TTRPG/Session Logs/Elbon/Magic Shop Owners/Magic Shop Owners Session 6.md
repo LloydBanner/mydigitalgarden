@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-6/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:43:55.564+01:00","updated":"2025-06-25T19:21:37.477+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-6/","tags":["elbonLogs","feed","developed"],"created":"2025-04-17T22:43:55.564+01:00","updated":"2025-08-16T11:25:25.196+01:00"}
 ---
 
 ## Session Notes
 
-**Calendar Date:** 7-3-569
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 7-3-569
 
 With everyone back in Stagbrook, the party checked in on the shop where Jatumal had made 360g from the Sarzan painting. They then decided to return to Acman's tower to collect what was left of the loot. Along the way, they found a ghost who was trying to dig up his half-buried body, called Fredrick. They agreed to take his body to the nearby graveyard and bury him with his ancestors. While Stinkcat dug the grave, three bandits came to the graveyard with a dead comrade. Maia and Jatumal prepared sneak attacks, hiding behind tombstones, while Breadwig and Stinkcat hid in a bush and the grave, respectively. Jatumal missed his attack, but Maia hit one in the temple with her sling, taking him out. Breadwig used his newly learnt magic missile spell to weaken another, while Stinkcat shot an arrow that embedded itself in the dirt of the grave they were in. One bandit charged Jatumal while the other shot at Maia. The attack on Jatumal glanced off the tombstone he was hidden behind, but the shot a Maia was a hard blow to the shoulder. Jatumal took out the bandit closest to him with his sword while Breadwig threw a dagger at the other. They then dumped the bandit bodies off a cliff and finished burying Fred, who gave them the ring from his body and faded away.
 
