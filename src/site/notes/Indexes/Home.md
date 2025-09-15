@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2025-09-14T14:46:21.634+01:00","updated":"2025-09-14T14:46:21.634+01:00"}
+{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2025-09-14T14:46:23.019+01:00","updated":"2025-09-15T11:19:05.053+01:00"}
 ---
 
 # Home
@@ -17,6 +17,7 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/TTRPG\|TTRPGs]]
 - [[Main Notes/Video Games\|Video Games]]
 - [[Main Notes/Books\|Books]]
+- [[Main Notes/Films\|Films]]
 
 **Feed (a bit of everything) (sorted by last update)**
 - [[Sources/Flowers for Algernon\|Flowers for Algernon]]: 15-09-2025
