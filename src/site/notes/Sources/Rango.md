@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/rango/","tags":["films","sources","western","fantasy","theBest","animated"],"created":"2025-06-03T21:06:16.869+01:00","updated":"2025-06-03T21:11:49.653+01:00"}
+{"dg-publish":true,"permalink":"/sources/rango/","tags":["films","sources","western","fantasy","theBest","animated"],"created":"2025-09-14T14:45:02.757+01:00","updated":"2025-09-14T14:45:02.757+01:00"}
 ---
 
 Director: [[Sources/Gore Verbinski\|Gore Verbinski]]

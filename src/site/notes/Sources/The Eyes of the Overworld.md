@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-eyes-of-the-overworld/","tags":["theBest","sources","fantasy","Sci-Fi","books"],"created":"2025-05-31T20:54:28.002+01:00","updated":"2025-06-01T13:43:54.815+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-eyes-of-the-overworld/","tags":["theBest","sources","fantasy","Sci-Fi","books"],"created":"2025-09-14T14:45:20.502+01:00","updated":"2025-09-14T14:45:20.502+01:00"}
 ---
 
 Author: [[Sources/Jack Vance\|Jack Vance]]

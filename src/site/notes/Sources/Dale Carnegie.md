@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/dale-carnegie/","tags":["authors","sources"],"created":"2025-06-01T11:59:00.513+01:00","updated":"2025-06-01T11:59:31.081+01:00"}
+{"dg-publish":true,"permalink":"/sources/dale-carnegie/","tags":["authors","sources"],"created":"2025-09-14T14:44:54.828+01:00","updated":"2025-09-14T14:44:54.828+01:00"}
 ---
 
 

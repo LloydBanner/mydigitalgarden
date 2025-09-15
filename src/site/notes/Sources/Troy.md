@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/troy/","tags":["books","sources","history","theBest"],"created":"2025-06-01T11:46:21.263+01:00","updated":"2025-06-01T12:06:13.529+01:00"}
+{"dg-publish":true,"permalink":"/sources/troy/","tags":["books","sources","history","theBest"],"created":"2025-09-14T14:45:58.183+01:00","updated":"2025-09-14T14:45:58.785+01:00"}
 ---
 
 Author: [[Sources/Stephen Fry\|Stephen Fry]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/getting-into-morrowind/","tags":["feed","elderScrolls","mods","developing"],"created":"2025-04-20T22:48:31.279+01:00","updated":"2025-04-22T17:37:03.708+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/getting-into-morrowind/","tags":["feed","elderScrolls","mods","developing"],"created":"2025-09-14T14:44:13.338+01:00","updated":"2025-09-14T14:44:13.338+01:00"}
 ---
 
 It took me a few attempts to get into [[Sources/Morrowind\|Morrowind]] so here is my guide on how to do it.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/recommended-ttrpg-resources/","tags":["developing","feed"],"created":"2025-04-21T13:48:18.081+01:00","updated":"2025-05-17T14:12:28.016+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/recommended-ttrpg-resources/","tags":["developing","feed"],"created":"2025-09-14T14:44:54.225+01:00","updated":"2025-09-15T11:09:13.689+01:00"}
 ---
 
 The best resources I have come across for running and playing [[Main Notes/TTRPG\|TTRPGs]] mostly [[Main Notes/OSE\|OSE]] but a lot of these are system neutral too. 
@@ -20,6 +20,7 @@ I love monsters and like to use a variety in my games so things don't get stale 
 I mostly make my own stuff for games in this department but there are a few good ones I have used.
 - [[Sources/Raiding the Obsidian Keep\|Raiding the Obsidian Keep]] - A fun slightly weird [[Main Notes/OSE\|OSE]] adventure that is easy to run straight from the book.
 - Veins of the Earth - A creepy subterranean setting which has loads of creativity but doesn't seem to be officially available anymore.
+- [[tenfootpole\|Tenfootpole's]] blog - Has a good list of the best old school adventures that he has played that are almost always excellent.
 
 # Youtubers
 - [Bob World Builder](https://www.youtube.com/bobworldbuilder) - has a bunch of good videos and ideas about running [[Main Notes/TTRPG\|TTRPGs]] generally

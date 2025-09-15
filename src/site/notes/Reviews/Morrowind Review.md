@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/morrowind-review/","tags":["feed","reviews","elderScrolls","developed"],"created":"2025-04-20T22:41:49.018+01:00","updated":"2025-04-22T18:38:30.921+01:00"}
+{"dg-publish":true,"permalink":"/reviews/morrowind-review/","tags":["feed","reviews","elderScrolls","developed"],"created":"2025-09-14T14:45:32.908+01:00","updated":"2025-09-14T14:45:32.908+01:00"}
 ---
 
 Written: 29-03-2021

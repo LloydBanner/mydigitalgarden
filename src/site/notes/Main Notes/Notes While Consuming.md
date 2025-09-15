@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/notes-while-consuming/","tags":["thoughts","developing"],"created":"2025-05-31T16:52:32.035+01:00","updated":"2025-05-31T16:52:32.035+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/notes-while-consuming/","tags":["thoughts","developing"],"created":"2025-09-14T14:44:36.144+01:00","updated":"2025-09-14T14:44:36.144+01:00"}
 ---
 
 I like to create notes while I consume different media. This makes me think about them more and allows me to form my ideas better. It also allows me to expand on different thoughts I had about various things that came to mind while experiencing this media. These notes are usually quite rough and can take many forms based on how I feel at the time.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/jedi-knight-jedi-academy-review/","tags":["feed","starWars","reviews","developed"],"created":"2025-04-20T11:21:10.501+01:00","updated":"2025-04-22T17:36:27.849+01:00"}
+{"dg-publish":true,"permalink":"/reviews/jedi-knight-jedi-academy-review/","tags":["feed","starWars","reviews","developed"],"created":"2025-09-14T14:46:23.305+01:00","updated":"2025-09-14T14:46:23.305+01:00"}
 ---
 
 Written: 02-06-2022

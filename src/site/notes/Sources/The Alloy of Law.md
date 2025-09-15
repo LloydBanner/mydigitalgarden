@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-alloy-of-law/","tags":["books","sources","fantasy"],"created":"2025-05-11T20:22:14.206+01:00","updated":"2025-05-11T20:25:49.659+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-alloy-of-law/","tags":["books","sources","fantasy"],"created":"2025-09-14T14:45:06.482+01:00","updated":"2025-09-14T14:45:06.482+01:00"}
 ---
 
 Author: [[Sources/Brandon Sanderson\|Brandon Sanderson]]

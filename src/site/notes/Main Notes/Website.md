@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/website/","tags":["developing"],"created":"2025-04-21T11:13:00.700+01:00","updated":"2025-04-27T19:09:32.793+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/website/","tags":["developing"],"created":"2025-09-14T14:44:11.705+01:00","updated":"2025-09-14T14:44:11.705+01:00"}
 ---
 
 My website follows the [Digital Garden](https://maggieappleton.com/garden-history/) philosophy. It is a place that is constantly evolving and growing. This allows more free form thinking and learning than traditional blogs. Most pages are not final and will change over time as I learn. On each page there are two timestamps, the first when the page was created, and the second when it was last updated. 

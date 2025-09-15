@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"2025-06-06T22:47:02.282+01:00","updated":"2025-06-06T22:47:02.282+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"2025-09-14T14:44:19.049+01:00","updated":"2025-09-14T14:44:19.049+01:00"}
 ---
 
 A collection of good words for writing that I have discovered. Wanting to write more fantasy, I am collecting them to better describe different situations.
@@ -18,7 +18,8 @@ A collection of good words for writing that I have discovered. Wanting to write 
 - Lasciviously = Feeling or revealing an overtly sexual desire. From [[Sources/Swords and Deviltry\|Swords and Deviltry]]
 - Languorous - Pleasurable tiredness or inactivity. OR oppressive stillness. From [[Sources/Swords and Deviltry\|Swords and Deviltry]]
 - Malodorous - Smelling very unpleasant. From [[Sources/Swords and Deviltry\|Swords and Deviltry]]
-- 
+- Florid - Flowery. From [[Cugel's Saga\|Cugel's Saga]]
+- Assiduous - Diligent. From [[Cugel's Saga\|Cugel's Saga]]
 
 ## You May Also Like
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]

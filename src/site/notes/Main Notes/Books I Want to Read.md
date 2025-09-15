@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/books-i-want-to-read/","tags":["books","developing"],"created":"2025-06-14T10:51:14.082+01:00","updated":"2025-06-14T10:51:14.890+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/books-i-want-to-read/","tags":["books","developing"],"created":"2025-09-14T14:44:07.339+01:00","updated":"2025-09-14T14:44:07.339+01:00"}
 ---
 
 - The Weirdest People in the World
@@ -7,7 +7,6 @@
 - More of The [[Sources/Remembrance of Earth's Past\|Remembrance of Earth's Past]] Series (Sci-Fi)
 - More [[Sources/Discworld\|Discworld]] (Fantasy)
 - Conan Stories (Pulp Fantasy)
-- Fafhrd and the Gray Mouser (Pulp Fantasy)
 - Lyonesse Series (Fantasy, [[Sources/Jack Vance\|Jack Vance]])
 - More of The [[Sources/Earthsea Cycle\|Earthsea Cycle]] (Fantasy, [[Sources/Ursula K. Le Guin\|Ursula K. Le Guin]])
 - More of [[Sources/The Dying Earth Books\|The Dying Earth Books]] (Pulp Fantasy, [[Sources/Jack Vance\|Jack Vance]])

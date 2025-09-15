@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/calendar/elbon-calendar/","tags":["ttrpgs","draft"],"created":"2025-07-10T17:07:13.156+01:00","updated":"2025-07-10T17:07:13.156+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/calendar/elbon-calendar/","tags":["ttrpgs","draft"],"created":"2025-09-14T14:45:21.528+01:00","updated":"2025-09-14T14:45:21.528+01:00"}
 ---
 
 This is the calendar for Elbon the setting of my [[Main Notes/OSE\|OSE]] games. I have links of days when different sessions happened with the Seasons.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/art/","tags":["developing"],"created":"2025-04-21T10:17:51.530+01:00","updated":"2025-04-21T11:31:39.907+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/art/","tags":["developing"],"created":"2025-09-14T14:44:33.143+01:00","updated":"2025-09-14T14:44:33.143+01:00"}
 ---
 
 I used to do quite a bit of art but haven't done so much recently. A few of my favourites are below. This is something I am think about picking back up.

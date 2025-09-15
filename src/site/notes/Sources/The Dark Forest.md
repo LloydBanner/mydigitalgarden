@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-dark-forest/","tags":["books","sources","Sci-Fi"],"created":"2025-04-26T11:03:55.112+01:00","updated":"2025-04-27T19:53:18.492+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-dark-forest/","tags":["books","sources","Sci-Fi"],"created":"2025-09-14T14:45:53.059+01:00","updated":"2025-09-14T14:45:53.059+01:00"}
 ---
 
 Author: [[Sources/Cixin Liu\|Cixin Liu]]

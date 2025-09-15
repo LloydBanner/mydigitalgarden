@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-author/","tags":["authors","sources"],"created":"2025-04-27T19:16:48.899+01:00","updated":"2025-04-27T19:36:49.323+01:00"}
+{"dg-publish":true,"permalink":"/z-templates/template-author/","tags":["authors","sources"],"created":"2025-09-14T14:45:11.011+01:00","updated":"2025-09-14T14:45:11.627+01:00"}
 ---
 
 

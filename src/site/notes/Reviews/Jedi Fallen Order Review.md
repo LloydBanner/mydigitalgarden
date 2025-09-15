@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/jedi-fallen-order-review/","tags":["reviews","feed","starWars","developed"],"created":"2025-04-20T11:14:54.837+01:00","updated":"2025-04-22T17:36:27.319+01:00"}
+{"dg-publish":true,"permalink":"/reviews/jedi-fallen-order-review/","tags":["reviews","feed","starWars","developed"],"created":"2025-09-14T14:45:37.332+01:00","updated":"2025-09-14T14:45:37.599+01:00"}
 ---
 
 Written: 17-05-2022

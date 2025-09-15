@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/a-curse-upon-mistrun/","tags":["feed","lloydsBooks","developed"],"created":"2025-04-18T09:59:38.210+01:00","updated":"2025-04-21T11:28:26.798+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/a-curse-upon-mistrun/","tags":["feed","lloydsBooks","developed"],"created":"2025-09-14T14:44:22.448+01:00","updated":"2025-09-14T14:44:22.448+01:00"}
 ---
 
 Released: August 2021

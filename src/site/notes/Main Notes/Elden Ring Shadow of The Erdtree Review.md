@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/elden-ring-shadow-of-the-erdtree-review/","tags":["feed","reviews"],"created":"2025-04-21T20:02:49.010+01:00","updated":"2025-04-22T17:36:27.047+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/elden-ring-shadow-of-the-erdtree-review/","tags":["feed","reviews"],"created":"2025-09-14T14:44:01.667+01:00","updated":"2025-09-14T14:44:01.667+01:00"}
 ---
 
 Written 25-06-2024

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-fellowship-of-the-ring-book/","tags":["books","sources","theBest","fantasy","lordOfTheRings"],"created":"2025-05-11T19:10:42.912+01:00","updated":"2025-05-11T19:22:33.737+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-fellowship-of-the-ring-book/","tags":["books","sources","theBest","fantasy","lordOfTheRings"],"created":"2025-09-14T14:44:59.575+01:00","updated":"2025-09-14T14:44:59.575+01:00"}
 ---
 
 Author: [[Sources/J. R. R. Tolkien\|J. R. R. Tolkien]]

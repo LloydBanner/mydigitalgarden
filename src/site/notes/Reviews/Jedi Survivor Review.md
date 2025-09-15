@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/jedi-survivor-review/","tags":["feed","reviews","starWars","developed"],"created":"2025-04-20T11:22:35.166+01:00","updated":"2025-04-22T17:36:28.112+01:00"}
+{"dg-publish":true,"permalink":"/reviews/jedi-survivor-review/","tags":["feed","reviews","starWars","developed"],"created":"2025-09-14T14:45:37.153+01:00","updated":"2025-09-14T14:45:37.153+01:00"}
 ---
 
 Written: 11-12-2023

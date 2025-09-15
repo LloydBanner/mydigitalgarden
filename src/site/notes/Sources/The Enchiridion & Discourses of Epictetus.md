@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-enchiridion-and-discourses-of-epictetus/","tags":["books","sources","history","non-fiction","philosophy"],"created":"2025-06-01T13:30:03.740+01:00","updated":"2025-06-01T13:33:32.099+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-enchiridion-and-discourses-of-epictetus/","tags":["books","sources","history","non-fiction","philosophy"],"created":"2025-09-14T14:45:18.538+01:00","updated":"2025-09-14T14:45:18.538+01:00"}
 ---
 
 Author: [[Sources/Epictetus\|Epictetus]]

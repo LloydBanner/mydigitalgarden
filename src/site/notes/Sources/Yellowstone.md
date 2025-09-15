@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/yellowstone/","tags":["TV","sources","western"],"created":"2025-05-31T16:52:32.035+01:00","updated":"2025-05-31T16:52:32.035+01:00"}
+{"dg-publish":true,"permalink":"/sources/yellowstone/","tags":["TV","sources","western"],"created":"2025-09-14T14:45:58.151+01:00","updated":"2025-09-14T14:45:58.785+01:00"}
 ---
 
 Creator: [[Sources/Taylor Sheridan\|Taylor Sheridan]]
