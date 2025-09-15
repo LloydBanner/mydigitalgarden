@@ -7,6 +7,7 @@ If you only want to see pages at certain levels of development, which are define
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a bit of everything) (sorted by last update)
+- [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 07-09-2025
 - [[Sources/Flowers for Algernon\|Flowers for Algernon]]: 15-09-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 15-09-2025
 - [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 17-05-2025
@@ -59,7 +60,6 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/Rubik's Cube Solver\|Rubik's Cube Solver]]: 21-04-2025
 - [[Main Notes/My Mario Maker 2 levels\|My Mario Maker 2 levels]]: 21-04-2025
 - [[Main Notes/The Clone Wars Refocused Cuts all of the Filler\|The Clone Wars Refocused Cuts all of the Filler]]: 22-04-2025
-- [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 07-09-2025
 - [[Main Notes/Astray in the Darkmounds\|Astray in the Darkmounds]]: 21-04-2025
 - [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-04-2025
 - [[Main Notes/Colin the Cactus\|Colin the Cactus]]: 20-04-2025
