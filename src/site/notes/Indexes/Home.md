@@ -19,11 +19,11 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Books\|Books]]
 
 **Feed (a bit of everything) (sorted by last update)**
+- [[Sources/Flowers for Algernon\|Flowers for Algernon]]: 15-09-2025
 - [[Values I Live By\|Values I Live By]]: 13-09-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 15-09-2025
 - [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 17-05-2025
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 15-09-2025
-- [[Sources/Flowers for Algernon\|Flowers for Algernon]]: 26-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 16-08-2025
 - [[Reviews/Jedi Knight Jedi Academy Review\|Jedi Knight Jedi Academy Review]]: 22-04-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 8\|Magic Shop Owners Session 8]]: 16-08-2025

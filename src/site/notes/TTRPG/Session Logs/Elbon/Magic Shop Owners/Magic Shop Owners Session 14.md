@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-14/","tags":["feed","elbonLogs","developed"],"created":"2025-08-14T20:35:52.501+01:00","updated":"2025-08-16T11:38:56.610+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-14/","tags":["feed","elbonLogs","developed"],"created":"2025-09-14T14:44:56.134+01:00","updated":"2025-09-14T14:44:56.134+01:00"}
 ---
 
 **[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 20-3-569 - 23-3-596

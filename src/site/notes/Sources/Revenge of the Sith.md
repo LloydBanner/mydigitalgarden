@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/revenge-of-the-sith/","tags":["theBest","starWars","films","sources"],"created":"2025-05-06T22:22:09.298+01:00","updated":"2025-05-06T22:22:09.298+01:00"}
+{"dg-publish":true,"permalink":"/sources/revenge-of-the-sith/","tags":["theBest","starWars","films","sources"],"created":"2025-09-14T14:45:41.789+01:00","updated":"2025-09-14T14:45:41.789+01:00"}
 ---
 
 Director: [[Sources/George Lucas\|George Lucas]]

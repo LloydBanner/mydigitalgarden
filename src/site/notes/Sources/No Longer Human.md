@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/no-longer-human/","tags":["books","sources","theBest"],"created":"2025-05-11T19:51:36.944+01:00","updated":"2025-05-11T19:56:16.485+01:00"}
+{"dg-publish":true,"permalink":"/sources/no-longer-human/","tags":["books","sources","theBest"],"created":"2025-09-14T14:45:10.271+01:00","updated":"2025-09-14T14:45:10.271+01:00"}
 ---
 
 Author: [[Sources/Osamu Dazai\|Osamu Dazai]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-walker-s-guide-to-outdoor-cues-and-signs/","tags":["books","sources","non-fiction","theBest"],"created":"2025-06-01T12:12:07.269+01:00","updated":"2025-06-01T12:15:50.741+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-walker-s-guide-to-outdoor-cues-and-signs/","tags":["books","sources","non-fiction","theBest"],"created":"2025-09-14T14:45:04.166+01:00","updated":"2025-09-14T14:45:04.166+01:00"}
 ---
 
 Author: [[Sources/Tristan Gooley\|Tristan Gooley]]

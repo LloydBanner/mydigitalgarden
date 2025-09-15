@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/halo-odst/","tags":["videoGames","halo","theBest","sources"],"created":"2025-04-21T09:24:29.735+01:00","updated":"2025-04-22T17:52:43.624+01:00"}
+{"dg-publish":true,"permalink":"/sources/halo-odst/","tags":["videoGames","halo","theBest","sources"],"created":"2025-09-14T14:44:59.367+01:00","updated":"2025-09-14T14:44:59.367+01:00"}
 ---
 
 This one is just a campaign and a firefight mode. Getting it when it came out also gave you all the DLC maps for [[Sources/Halo 3\|Halo 3]] but they are all included in [[Sources/The Master Chief Collection\|The Master Chief Collection]] now.

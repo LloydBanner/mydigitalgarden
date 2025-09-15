@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-return-of-the-king-book/","tags":["books","sources","theBest","fantasy","lordOfTheRings"],"created":"2025-05-11T19:23:30.575+01:00","updated":"2025-05-11T19:27:09.060+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-return-of-the-king-book/","tags":["books","sources","theBest","fantasy","lordOfTheRings"],"created":"2025-09-14T14:45:43.228+01:00","updated":"2025-09-14T14:45:43.228+01:00"}
 ---
 
 Author: [[Sources/J. R. R. Tolkien\|J. R. R. Tolkien]]

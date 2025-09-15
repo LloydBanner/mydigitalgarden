@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/cixin-liu/","tags":["authors","sources"],"created":"2025-04-27T19:37:25.469+01:00","updated":"2025-04-27T19:38:13.823+01:00"}
+{"dg-publish":true,"permalink":"/sources/cixin-liu/","tags":["authors","sources"],"created":"2025-09-14T14:45:57.285+01:00","updated":"2025-09-14T14:45:57.285+01:00"}
 ---
 
 Cixin Liu is a Chinese computer engineer and science fiction writer.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/tales-of-the-jedi/","tags":["starWars","theBest","TV","sources"],"created":"2025-04-18T13:15:24.319+01:00","updated":"2025-04-22T17:54:50.509+01:00"}
+{"dg-publish":true,"permalink":"/sources/tales-of-the-jedi/","tags":["starWars","theBest","TV","sources"],"created":"2025-09-14T14:45:53.872+01:00","updated":"2025-09-14T14:45:53.872+01:00"}
 ---
 
 The Tales of the Jedi series is possibly one of the best [[Sources/Star Wars\|Star Wars]] series released by Disney. It is an animated show but fills in some gaps for different Characters. We Get to see Count Dooku and Qui-Gon before [[Sources/The Phantom Menace\|the phantom menace]] and Ahsoka's origins and fill in a few other gaps in her story. 

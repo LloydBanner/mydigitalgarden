@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/reservoir-dogs/","tags":["films","sources","crime","theBest","thriller"],"created":"2025-06-01T17:05:24.017+01:00","updated":"2025-06-01T17:05:24.791+01:00"}
+{"dg-publish":true,"permalink":"/sources/reservoir-dogs/","tags":["films","sources","crime","theBest","thriller"],"created":"2025-09-14T14:46:23.271+01:00","updated":"2025-09-14T14:46:23.271+01:00"}
 ---
 
 Director: [[Sources/Quentin Tarantino\|Quentin Tarantino]]

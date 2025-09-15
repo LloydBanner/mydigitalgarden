@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-two-towers-book/","tags":["books","sources","theBest","lordOfTheRings","fantasy"],"created":"2025-05-11T19:20:41.469+01:00","updated":"2025-05-11T19:22:53.273+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-two-towers-book/","tags":["books","sources","theBest","lordOfTheRings","fantasy"],"created":"2025-09-14T14:44:53.055+01:00","updated":"2025-09-14T14:44:53.055+01:00"}
 ---
 
 Author: [[Sources/J. R. R. Tolkien\|J. R. R. Tolkien]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/planet-of-no-return/","tags":["books","sources"],"created":"2025-05-11T20:55:25.705+01:00","updated":"2025-06-01T13:44:24.537+01:00"}
+{"dg-publish":true,"permalink":"/sources/planet-of-no-return/","tags":["books","sources"],"created":"2025-09-14T14:45:43.228+01:00","updated":"2025-09-14T14:45:43.228+01:00"}
 ---
 
 Author: [[Sources/Poul Anderson\|Poul Anderson]]

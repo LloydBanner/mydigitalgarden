@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/paul-stewart/","tags":["authors","sources"],"created":"2025-04-27T20:15:35.038+01:00","updated":"2025-04-27T20:16:39.481+01:00"}
+{"dg-publish":true,"permalink":"/sources/paul-stewart/","tags":["authors","sources"],"created":"2025-09-14T14:45:13.914+01:00","updated":"2025-09-14T14:45:13.914+01:00"}
 ---
 
 **Paul Stewart** (born June 1955) is an English author.

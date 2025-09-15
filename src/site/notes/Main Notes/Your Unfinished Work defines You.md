@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/your-unfinished-work-defines-you/","tags":["developing"],"created":"2025-04-18T12:42:22.514+01:00","updated":"2025-04-21T11:36:08.651+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/your-unfinished-work-defines-you/","tags":["developing"],"created":"2025-09-14T14:44:28.079+01:00","updated":"2025-09-14T14:44:28.958+01:00"}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_LqGCEL3ZSQ?si=BNWcO7Gr3t1jan-T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

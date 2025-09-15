@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/shadows-of-self/","tags":["books","sources","fantasy"],"created":"2025-05-11T20:25:54.312+01:00","updated":"2025-05-11T20:28:45.644+01:00"}
+{"dg-publish":true,"permalink":"/sources/shadows-of-self/","tags":["books","sources","fantasy"],"created":"2025-09-14T14:46:28.102+01:00","updated":"2025-09-14T14:46:28.102+01:00"}
 ---
 
 Author: [[Sources/Brandon Sanderson\|Brandon Sanderson]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/rhythm-of-war/","tags":["books","sources","fantasy"],"created":"2025-05-11T20:41:40.164+01:00","updated":"2025-05-11T20:47:09.358+01:00"}
+{"dg-publish":true,"permalink":"/sources/rhythm-of-war/","tags":["books","sources","fantasy"],"created":"2025-09-14T14:45:56.264+01:00","updated":"2025-09-14T14:45:56.264+01:00"}
 ---
 
 Author: [[Sources/Brandon Sanderson\|Brandon Sanderson]]

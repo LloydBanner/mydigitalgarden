@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/stephen-hawking/","tags":["authors","sources"],"created":"2025-06-01T12:09:48.342+01:00","updated":"2025-06-01T12:11:43.236+01:00"}
+{"dg-publish":true,"permalink":"/sources/stephen-hawking/","tags":["authors","sources"],"created":"2025-09-14T14:45:17.738+01:00","updated":"2025-09-14T14:45:17.738+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/norse-mythology/","tags":["books","sources","history","theBest"],"created":"2025-06-01T12:45:06.814+01:00","updated":"2025-06-01T13:58:08.451+01:00"}
+{"dg-publish":true,"permalink":"/sources/norse-mythology/","tags":["books","sources","history","theBest"],"created":"2025-09-14T14:45:49.117+01:00","updated":"2025-09-14T14:45:49.117+01:00"}
 ---
 
 Author: [[Sources/Neil Gaiman\|Neil Gaiman]]

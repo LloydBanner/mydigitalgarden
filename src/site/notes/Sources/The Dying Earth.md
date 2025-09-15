@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-dying-earth/","tags":["books","sources","fantasy","Sci-Fi","theBest"],"created":"2025-05-31T16:52:32.036+01:00","updated":"2025-05-31T16:52:32.036+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-dying-earth/","tags":["books","sources","fantasy","Sci-Fi","theBest"],"created":"2025-09-14T14:45:57.383+01:00","updated":"2025-09-14T14:45:57.383+01:00"}
 ---
 
 Author: [[Sources/Jack Vance\|Jack Vance]]

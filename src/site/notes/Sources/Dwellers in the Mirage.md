@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/dwellers-in-the-mirage/","tags":["books","sources","fantasy","horror"],"created":"2025-05-11T20:49:58.388+01:00","updated":"2025-05-11T20:55:22.113+01:00"}
+{"dg-publish":true,"permalink":"/sources/dwellers-in-the-mirage/","tags":["books","sources","fantasy","horror"],"created":"2025-09-14T14:44:57.358+01:00","updated":"2025-09-14T14:44:57.358+01:00"}
 ---
 
 Author: [[Sources/A. Merritt\|A. Merritt]]

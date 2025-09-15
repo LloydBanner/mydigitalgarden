@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-fifth-science/","tags":["books","sources","theBest","Sci-Fi"],"created":"2025-05-11T20:07:04.582+01:00","updated":"2025-05-11T20:09:54.642+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-fifth-science/","tags":["books","sources","theBest","Sci-Fi"],"created":"2025-09-14T14:45:40.381+01:00","updated":"2025-09-14T14:45:40.381+01:00"}
 ---
 
 Author: [[Sources/Exurb1a\|Exurb1a]]

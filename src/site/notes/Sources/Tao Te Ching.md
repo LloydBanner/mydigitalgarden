@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/tao-te-ching/","tags":["books","sources","philosophy","history","non-fiction"],"created":"2025-06-01T13:20:41.004+01:00","updated":"2025-06-01T13:31:01.781+01:00"}
+{"dg-publish":true,"permalink":"/sources/tao-te-ching/","tags":["books","sources","philosophy","history","non-fiction"],"created":"2025-09-14T14:46:16.016+01:00","updated":"2025-09-14T14:46:16.744+01:00"}
 ---
 
 Author: [[Sources/Lao Tzu\|Lao Tzu]]

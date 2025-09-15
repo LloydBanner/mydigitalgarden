@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/joe-haldeman/","tags":["authors","sources"],"created":"2025-05-11T19:38:59.283+01:00","updated":"2025-05-11T19:39:53.317+01:00"}
+{"dg-publish":true,"permalink":"/sources/joe-haldeman/","tags":["authors","sources"],"created":"2025-09-14T14:44:55.359+01:00","updated":"2025-09-14T14:44:55.359+01:00"}
 ---
 
 Haldeman is the author of 20 novels and five collections. The Forever War won the Nebula, Hugo and Ditmar Awards for best science fiction novel in 1975. Other notable titles include Camouflage, The Accidental Time Machine and Marsbound as well as the short works "Graves," "Tricentennial" and "The Hemingway Hoax."

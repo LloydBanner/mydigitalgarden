@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/batman-arkham-asylum/","tags":["videoGames","sources"],"created":"2025-07-16T23:04:38.243+01:00","updated":"2025-07-16T23:04:38.916+01:00"}
+{"dg-publish":true,"permalink":"/sources/batman-arkham-asylum/","tags":["videoGames","sources"],"created":"2025-09-14T14:45:22.276+01:00","updated":"2025-09-14T14:45:22.276+01:00"}
 ---
 
 Developer: Rocksteady

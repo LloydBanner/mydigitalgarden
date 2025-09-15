@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/words-of-radiance/","tags":["books","sources","fantasy","theBest"],"created":"2025-05-11T20:36:03.668+01:00","updated":"2025-05-11T20:37:25.747+01:00"}
+{"dg-publish":true,"permalink":"/sources/words-of-radiance/","tags":["books","sources","fantasy","theBest"],"created":"2025-09-14T14:45:36.158+01:00","updated":"2025-09-14T14:45:36.158+01:00"}
 ---
 
 Author: [[Sources/Brandon Sanderson\|Brandon Sanderson]]

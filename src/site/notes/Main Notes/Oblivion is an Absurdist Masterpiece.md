@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/oblivion-is-an-absurdist-masterpiece/","tags":["thoughts","draft","videoGames","elderScrolls","fantasy"],"created":"2025-04-27T18:42:15.578+01:00","updated":"2025-04-27T18:59:13.890+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/oblivion-is-an-absurdist-masterpiece/","tags":["thoughts","draft","videoGames","elderScrolls","fantasy"],"created":"2025-09-14T14:44:40.502+01:00","updated":"2025-09-14T14:44:40.502+01:00"}
 ---
 
 

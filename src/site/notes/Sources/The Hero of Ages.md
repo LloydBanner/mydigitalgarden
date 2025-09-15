@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-hero-of-ages/","tags":["books","sources","theBest","fantasy"],"created":"2025-05-11T20:20:05.720+01:00","updated":"2025-05-11T20:22:02.725+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-hero-of-ages/","tags":["books","sources","theBest","fantasy"],"created":"2025-09-14T14:45:32.671+01:00","updated":"2025-09-14T14:45:32.671+01:00"}
 ---
 
 Author: [[Sources/Brandon Sanderson\|Brandon Sanderson]]

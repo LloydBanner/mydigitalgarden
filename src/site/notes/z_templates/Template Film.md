@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-film/","tags":["films","sources"],"created":"2025-06-22T18:31:30.534+01:00","updated":"2025-06-22T18:31:30.534+01:00"}
+{"dg-publish":true,"permalink":"/z-templates/template-film/","tags":["films","sources"],"created":"2025-09-14T14:44:52.727+01:00","updated":"2025-09-14T14:44:52.727+01:00"}
 ---
 
 Directors: `= this.directors`
