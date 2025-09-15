@@ -16,7 +16,6 @@ A page to collect all the things I have written. This will include, but is not l
 
 { .block-language-dataview}
 ## Thoughts (sorted by last update)
-- [[Values I Live By\|Values I Live By]]: 13-09-2025
 - [[Main Notes/Media Consumption\|Media Consumption]]: 01-06-2025
 - [[Main Notes/Notes While Consuming\|Notes While Consuming]]: 30-05-2025
 - [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 11-05-2025

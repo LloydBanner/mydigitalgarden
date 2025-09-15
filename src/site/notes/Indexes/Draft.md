@@ -6,7 +6,6 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Draft Feed (a bit of everything) (sorted by last update)
-- [[Values I Live By\|Values I Live By]]: 13-09-2025
 - [[Main Notes/Are the LOTR Films Good Adaptations of the Books\|Are the LOTR Films Good Adaptations of the Books]]: 21-04-2025
 - [[Main Notes/Hobbit Fan Edits Condense the Trilogy into One Film\|Hobbit Fan Edits Condense the Trilogy into One Film]]: 27-04-2025
 - [[Main Notes/Blade and Sorcery is the Best VR Star Wars Game\|Blade and Sorcery is the Best VR Star Wars Game]]: 22-04-2025
