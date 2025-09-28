@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/calendar/elbon-summer-year-569/","tags":["ttrpgs","draft"],"created":"2025-09-14T14:46:23.305+01:00","updated":"2025-09-14T14:46:23.305+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/calendar/elbon-summer-year-569/","tags":["ttrpgs","draft"],"created":"2025-09-14T14:46:25.172+01:00","updated":"2025-09-28T11:51:26.575+01:00"}
 ---
 
 MS = Magic Shop Owners
@@ -29,8 +29,8 @@ DH = Dragon Hunters
 21) [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|MS14]]
 22) [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|MS14]]
 23) [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|MS14]]
-24) 
-25) 
+24) [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|MS15]]
+25) [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|MS15]]
 26) 
 27) 
 28) 

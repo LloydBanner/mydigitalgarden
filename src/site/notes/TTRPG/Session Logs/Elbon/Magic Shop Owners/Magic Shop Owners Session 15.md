@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-15/","tags":["feed","elbonLogs","developed"],"created":"2025-09-15T10:48:35.015+01:00","updated":"2025-09-15T12:00:10.313+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-15/","tags":["feed","elbonLogs","developed"],"created":"2025-09-15T10:48:35.015+01:00","updated":"2025-09-28T11:51:04.006+01:00"}
 ---
 
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 24-3-569 - 25-3-596
 ## Session Notes
 
 - Breadwig asked Havana to focus first on defences and people to defend the town with his investment
@@ -21,7 +22,29 @@
 - They sent Derek's cat into the cave to check it did in fact lead to Stonehell. It did and the cave was empty apart from some abandoned crates
 - Lighting Breadwig's lantern the party made their way into Stonehell
 
-Still Need to write what happened inside
+#### Inside Stonehell
+- The party inspected the corridors finding one which zigzagged to the north and one to the west which they could hear faint goblin chatter through
+- The party decided to take on the hobgoblins
+- Stinkcat climbed above the arch of the door and Derek used his cat to attract one of the goblins to the door. After this Stinkcat dropped down upon the goblin at the door killing him with then crystal knife and then ran over and quickly dispatched the other hobgoblin guard
+- The group were in a small armoury and guard room, to the north was a long corridor with many doors coming off it
+- They listened at the first door in the corridor and overheard a goblin captain talking with Halstrea the succubus. It seemed they planned to take over the land and were going to force Sarzan to extract knowledge from the demon tome to resurrect Acman using his eye
+- Derek kicked down the door, inside were the captain, Halstrea and two hobgoblin guards
+- Sphonyx used here illusions and convinced the two guards that they were stuck in quicksand. They frantically tried to escape
+- The captain blew his horn sounding the alarm. Hobgoblins came running out of many of the rooms down the corridor.
+- Jatumal sent the goblins they had convinced to follow them to deal with the hobgoblins
+- Everyone else quickly tried to deal with Halstrea and the goblin captain
+- There were many missed attacks before Stinkcat was able to chop the goblin captains head off and stop him from calling further reinforcements
+- Then the party realised that they may be able to use Maia's anti-corruption staff to return Halstrea to normal. It took many attempts due to Halstrea's agility but eventually they managed to hit her with the staff and she returned to her pre-demon form.
+- Geog went out into the corridors carrying the head of the goblin captain. Three of the allied goblins had died and the fight still raged. Geog began a monologue about how the Hobgoblin leaders were dead and how by changing Stonehell into Stonehaven they could create far more profitable luxury apartments. It took some convincing and the goblins didn't entirely understand the capitalistic concepts at first but they were eventually swayed.
+- Gunther, Ginger and Galdon had died, so Giles was appointed as the project manager of Stonehaven, then Gibbo as deputy and Gary was made a runner to report progress back to Stagbrook. The hobgoblins at first resisted these appointments until Sphonyx gave Giles a disintegration wand.
+- Back on the table in the war room where Halstrea and the captain had been planning the party found and took Acman's eye, various papers and the Sarzan painting.
+- Jatumal made sure Halstrea was okay and escorted her back to Stagbrook carrying the painting while everyone else hopped inside and had a chat with Sarzan
+- Sarzan was happy to see everyone and had built vaults for their treasure, a small house for himself and an altar to read the demon book
+- He explained that the book had various summoning rituals and that they were going to use Acman's eye to bring him back. There wasn't much that could destroy Acman's eye as a part of his soul had been embedded inside it. Stinkcat's crystal dagger would work but that would destroy the dagger. He agreed to do some research to see if there was anything else he could find that could destroy it
+- Maia also used her boots to fly through the door inside the painting. It led to the clouds above an isolated island. It had many stone structures with prominent pillars among them
+- Sarzan explain that this could the Siblet people who were believed to live forever. He had been researching them and other methods for eternal life, or at least the other him had when he created the painting and trapped a part of himself here
+- That had been what all of Stagbrook keep had been devoted to. Researching and discovering ways to have eternal life without straying to darker and less moral methods. At least that was as far as the Sarzan in the painting had known. perhaps the other version of him had strayed too far.
+
 ##### XP
 228 xp = 12 x Wall Goblin
 250 xp = 1 x Succubus 

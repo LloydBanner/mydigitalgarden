@@ -20,7 +20,7 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Films\|Films]]
 
 **Feed (a bit of everything) (sorted by last update)**
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 15-09-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 28-09-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|Magic Shop Owners Session 14]]: 16-08-2025
 - [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 07-09-2025
 - [[Sources/Flowers for Algernon\|Flowers for Algernon]]: 15-09-2025
