@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/my-magic-items/sapphire-necklace-of-waterfeeding/","tags":["ttrpgResources","oseMagicItems","developed","lloydsOSEMagicItems"],"created":"2025-09-14T14:46:16.744+01:00","updated":"2025-09-14T14:46:16.744+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/my-magic-items/sapphire-necklace-of-waterfeeding/","tags":["ttrpgResources","oseMagicItems","developed","lloydsOSEMagicItems"],"created":"2025-10-02T02:11:38.268+01:00","updated":"2025-10-02T02:11:38.842+01:00"}
 ---
 
 Rarity: uncommon

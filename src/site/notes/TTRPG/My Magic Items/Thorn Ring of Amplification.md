@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/my-magic-items/thorn-ring-of-amplification/","tags":["ttrpgResources","oseMagicItems","developed","lloydsOSEMagicItems"],"created":"2025-09-14T14:46:23.305+01:00","updated":"2025-09-14T14:46:23.305+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/my-magic-items/thorn-ring-of-amplification/","tags":["ttrpgResources","oseMagicItems","developed","lloydsOSEMagicItems"],"created":"2025-10-02T02:09:09.557+01:00","updated":"2025-10-02T02:09:09.725+01:00"}
 ---
 
 Rarity: rare

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software-tools/godot/","tags":["sources"],"created":"2025-09-14T14:45:49.922+01:00","updated":"2025-09-14T14:45:49.922+01:00"}
+{"dg-publish":true,"permalink":"/software-tools/godot/","tags":["sources"],"created":"2025-10-02T02:09:09.263+01:00","updated":"2025-10-02T02:09:09.448+01:00"}
 ---
 
 Godot is a free open source game engine which allows 2D and 3D development. It uses a language called [[Software Tools/GDScript\|GDScript]] for scripting which is a language built for Godot to be able to make lightweight scripts. C Sharp can also be used.

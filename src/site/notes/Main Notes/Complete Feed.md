@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/complete-feed/","created":"2025-09-14T14:44:43.075+01:00","updated":"2025-09-14T14:44:43.850+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/complete-feed/","created":"2025-10-04T10:51:56.397+01:00","updated":"2025-10-04T11:43:40.760+01:00"}
 ---
 
 This is the feed of all the information that I thought was feed worthy.
@@ -7,88 +7,89 @@ If you only want to see pages at certain levels of development, which are define
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a bit of everything) (sorted by last update)
+- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 3\|Cursed Ones Session 3]]: 04-10-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 28-09-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|Magic Shop Owners Session 14]]: 16-08-2025
-- [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 07-09-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|Magic Shop Owners Session 14]]: 15-09-2025
 - [[Sources/Flowers for Algernon\|Flowers for Algernon]]: 15-09-2025
-- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 17-05-2025
+- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 15-09-2025
+- [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 15-09-2025
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 15-09-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 16-08-2025
-- [[Reviews/Jedi Knight Jedi Academy Review\|Jedi Knight Jedi Academy Review]]: 22-04-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 8\|Magic Shop Owners Session 8]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 2\|Magic Shop Owners Session 2]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 11\|Magic Shop Owners Session 11]]: 16-08-2025
-- [[Reviews/Middle Earth Shadow of Mordor Review\|Middle Earth Shadow of Mordor Review]]: 22-04-2025
+- [[Main Notes/Permadeath In Games\|Permadeath In Games]]: 03-09-2025
+- [[Main Notes/Good Words\|Good Words]]: 29-08-2025
 - [[Sources/The Courage to be Disliked\|The Courage to be Disliked]]: 26-08-2025
-- [[Reviews/Starfield Review\|Starfield Review]]: 22-04-2025
-- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 2\|Cursed Ones Session 2]]: 16-08-2025
-- [[Reviews/Jedi Knight II Jedi Outcast Review\|Jedi Knight II Jedi Outcast Review]]: 22-04-2025
-- [[Reviews/Jedi Fallen Order Review\|Jedi Fallen Order Review]]: 22-04-2025
-- [[Reviews/Jedi Survivor Review\|Jedi Survivor Review]]: 22-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 9\|Magic Shop Owners Session 9]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 8\|Magic Shop Owners Session 8]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 7\|Magic Shop Owners Session 7]]: 16-08-2025
-- [[Reviews/Morrowind Review\|Morrowind Review]]: 22-04-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 12\|Magic Shop Owners Session 12]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 6\|Magic Shop Owners Session 6]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 5\|Magic Shop Owners Session 5]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 3\|Magic Shop Owners Session 3]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 1\|Cursed Ones Session 1]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 2\|Magic Shop Owners Session 2]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 13\|Magic Shop Owners Session 13]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 9\|Magic Shop Owners Session 9]]: 16-08-2025
-- [[Reviews/Prey (2017) Mooncrash Review\|Prey (2017) Mooncrash Review]]: 22-04-2025
-- [[Reviews/Prey (2017) Review\|Prey (2017) Review]]: 22-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 12\|Magic Shop Owners Session 12]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Dragon Hunters (One Shot)/Dragon Hunters Session Notes (One Shot)\|Dragon Hunters Session Notes (One Shot)]]: 16-08-2025
-- [[Main Notes/The Best Star Wars Battlefront II Mods and Maps\|The Best Star Wars Battlefront II Mods and Maps]]: 22-04-2025
-- [[Cooking Recipes/Chicken Pilaf Recipe\|Chicken Pilaf Recipe]]: 25-04-2025
-- [[Main Notes/Skyrim Modding Recommendations\|Skyrim Modding Recommendations]]: 11-06-2025
-- [[Main Notes/Are the LOTR Films Good Adaptations of the Books\|Are the LOTR Films Good Adaptations of the Books]]: 21-04-2025
-- [[Main Notes/Recommended Mario Maker 2 Levels\|Recommended Mario Maker 2 Levels]]: 20-04-2025
-- [[Cooking Recipes/Tomato Based Stew Recipe\|Tomato Based Stew Recipe]]: 21-04-2025
-- [[Cooking Recipes/Chicken and Bulgar Wheat Recipe\|Chicken and Bulgar Wheat Recipe]]: 21-04-2025
-- [[Main Notes/Morrowind's Biggest Mods\|Morrowind's Biggest Mods]]: 22-04-2025
-- [[Main Notes/Minecraft Mining AI\|Minecraft Mining AI]]: 21-04-2025
-- [[Main Notes/Media Consumption\|Media Consumption]]: 01-06-2025
-- [[Main Notes/Permadeath In Games\|Permadeath In Games]]: 03-09-2025
-- [[Main Notes/Hobbit Fan Edits Condense the Trilogy into One Film\|Hobbit Fan Edits Condense the Trilogy into One Film]]: 27-04-2025
-- [[Main Notes/Blade and Sorcery is the Best VR Star Wars Game\|Blade and Sorcery is the Best VR Star Wars Game]]: 22-04-2025
-- [[Main Notes/Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 22-04-2025
-- [[Main Notes/Boris the Orange Outtakes\|Boris the Orange Outtakes]]: 20-04-2025
-- [[Main Notes/Crumbling World\|Crumbling World]]: 21-04-2025
-- [[Main Notes/Zombie Game\|Zombie Game]]: 21-04-2025
-- [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 11-05-2025
-- [[Main Notes/Rubik's Cube Solver\|Rubik's Cube Solver]]: 21-04-2025
-- [[Main Notes/My Mario Maker 2 levels\|My Mario Maker 2 levels]]: 21-04-2025
-- [[Main Notes/The Clone Wars Refocused Cuts all of the Filler\|The Clone Wars Refocused Cuts all of the Filler]]: 22-04-2025
-- [[Main Notes/Astray in the Darkmounds\|Astray in the Darkmounds]]: 21-04-2025
-- [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-04-2025
-- [[Main Notes/Colin the Cactus\|Colin the Cactus]]: 20-04-2025
-- [[Main Notes/The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]: 22-04-2025
-- [[Main Notes/End of an Empire\|End of an Empire]]: 21-04-2025
-- [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 27-04-2025
-- [[Main Notes/Clone\|Clone]]: 20-04-2025
-- [[Main Notes/Revenge of the Sith Review 2025\|Revenge of the Sith Review 2025]]: 10-05-2025
-- [[Main Notes/The Artificial World\|The Artificial World]]: 21-04-2025
-- [[Main Notes/Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game\|Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game]]: 22-04-2025
-- [[Main Notes/My Favourite Video Games\|My Favourite Video Games]]: 22-04-2025
-- [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 18-05-2025
-- [[Main Notes/A Curse Upon Mistrun\|A Curse Upon Mistrun]]: 21-04-2025
-- [[Main Notes/Why you Should Watch the Hal9000 Edits of the Star Wars Prequels\|Why you Should Watch the Hal9000 Edits of the Star Wars Prequels]]: 22-04-2025
-- [[Main Notes/Space Magic\|Space Magic]]: 21-04-2025
-- [[Main Notes/Boris the Orange An Unexpected Journey\|Boris the Orange An Unexpected Journey]]: 20-04-2025
-- [[Main Notes/Good Words\|Good Words]]: 29-08-2025
+- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 2\|Cursed Ones Session 2]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 1\|Cursed Ones Session 1]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 11\|Magic Shop Owners Session 11]]: 16-08-2025
 - [[Main Notes/My Star Wars Watch Order\|My Star Wars Watch Order]]: 22-06-2025
-- [[Main Notes/Why you Should Watch Harmy's Despecialized Editions of Star Wars\|Why you Should Watch Harmy's Despecialized Editions of Star Wars]]: 22-04-2025
-- [[Main Notes/Elden Ring Review\|Elden Ring Review]]: 22-04-2025
-- [[Main Notes/Eat Me\|Eat Me]]: 20-04-2025
-- [[Main Notes/Getting into Morrowind\|Getting into Morrowind]]: 22-04-2025
-- [[Main Notes/My Minecraft Worlds and Maps\|My Minecraft Worlds and Maps]]: 21-04-2025
+- [[Main Notes/Skyrim Modding Recommendations\|Skyrim Modding Recommendations]]: 11-06-2025
+- [[Main Notes/Media Consumption\|Media Consumption]]: 01-06-2025
+- [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 18-05-2025
+- [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 11-05-2025
 - [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 11-05-2025
-- [[Main Notes/Dubstep Egg\|Dubstep Egg]]: 20-04-2025
-- [[Main Notes/The Best Star Wars Games\|The Best Star Wars Games]]: 21-04-2025
-- [[Main Notes/Pi Automated House Lights\|Pi Automated House Lights]]: 21-04-2025
+- [[Main Notes/Revenge of the Sith Review 2025\|Revenge of the Sith Review 2025]]: 10-05-2025
 - [[Main Notes/Two of Me\|Two of Me]]: 27-04-2025
 - [[Main Notes/Making Magic Magical\|Making Magic Magical]]: 27-04-2025
+- [[Main Notes/Hobbit Fan Edits Condense the Trilogy into One Film\|Hobbit Fan Edits Condense the Trilogy into One Film]]: 27-04-2025
+- [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 27-04-2025
+- [[Cooking Recipes/Chicken Pilaf Recipe\|Chicken Pilaf Recipe]]: 25-04-2025
+- [[Reviews/Starfield Review\|Starfield Review]]: 22-04-2025
+- [[Reviews/Prey (2017) Review\|Prey (2017) Review]]: 22-04-2025
+- [[Reviews/Morrowind Review\|Morrowind Review]]: 22-04-2025
+- [[Reviews/Middle Earth Shadow of Mordor Review\|Middle Earth Shadow of Mordor Review]]: 22-04-2025
+- [[Reviews/Jedi Survivor Review\|Jedi Survivor Review]]: 22-04-2025
+- [[Reviews/Jedi Knight Jedi Academy Review\|Jedi Knight Jedi Academy Review]]: 22-04-2025
+- [[Reviews/Jedi Knight II Jedi Outcast Review\|Jedi Knight II Jedi Outcast Review]]: 22-04-2025
+- [[Reviews/Jedi Fallen Order Review\|Jedi Fallen Order Review]]: 22-04-2025
+- [[Main Notes/Why you Should Watch the Hal9000 Edits of the Star Wars Prequels\|Why you Should Watch the Hal9000 Edits of the Star Wars Prequels]]: 22-04-2025
+- [[Main Notes/Why you Should Watch Harmy's Despecialized Editions of Star Wars\|Why you Should Watch Harmy's Despecialized Editions of Star Wars]]: 22-04-2025
+- [[Main Notes/The Clone Wars Refocused Cuts all of the Filler\|The Clone Wars Refocused Cuts all of the Filler]]: 22-04-2025
+- [[Main Notes/The Best Star Wars Battlefront II Mods and Maps\|The Best Star Wars Battlefront II Mods and Maps]]: 22-04-2025
+- [[Main Notes/The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]: 22-04-2025
+- [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-04-2025
+- [[Main Notes/Morrowind's Biggest Mods\|Morrowind's Biggest Mods]]: 22-04-2025
+- [[Main Notes/Getting into Morrowind\|Getting into Morrowind]]: 22-04-2025
+- [[Main Notes/Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game\|Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game]]: 22-04-2025
 - [[Main Notes/Elden Ring Shadow of The Erdtree Review\|Elden Ring Shadow of The Erdtree Review]]: 22-04-2025
+- [[Main Notes/Elden Ring Review\|Elden Ring Review]]: 22-04-2025
+- [[Main Notes/Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 22-04-2025
+- [[Main Notes/Blade and Sorcery is the Best VR Star Wars Game\|Blade and Sorcery is the Best VR Star Wars Game]]: 22-04-2025
+- [[Reviews/Prey (2017) Mooncrash Review\|Prey (2017) Mooncrash Review]]: 22-04-2025
+- [[Main Notes/My Favourite Video Games\|My Favourite Video Games]]: 22-04-2025
+- [[Main Notes/Zombie Game\|Zombie Game]]: 21-04-2025
+- [[Main Notes/The Best Star Wars Games\|The Best Star Wars Games]]: 21-04-2025
+- [[Main Notes/The Artificial World\|The Artificial World]]: 21-04-2025
+- [[Main Notes/Space Magic\|Space Magic]]: 21-04-2025
+- [[Main Notes/Rubik's Cube Solver\|Rubik's Cube Solver]]: 21-04-2025
+- [[Main Notes/Pi Automated House Lights\|Pi Automated House Lights]]: 21-04-2025
+- [[Main Notes/My Minecraft Worlds and Maps\|My Minecraft Worlds and Maps]]: 21-04-2025
+- [[Main Notes/My Mario Maker 2 levels\|My Mario Maker 2 levels]]: 21-04-2025
+- [[Main Notes/Minecraft Mining AI\|Minecraft Mining AI]]: 21-04-2025
+- [[Main Notes/End of an Empire\|End of an Empire]]: 21-04-2025
+- [[Main Notes/Crumbling World\|Crumbling World]]: 21-04-2025
+- [[Main Notes/Astray in the Darkmounds\|Astray in the Darkmounds]]: 21-04-2025
+- [[Main Notes/Are the LOTR Films Good Adaptations of the Books\|Are the LOTR Films Good Adaptations of the Books]]: 21-04-2025
+- [[Main Notes/A Curse Upon Mistrun\|A Curse Upon Mistrun]]: 21-04-2025
+- [[Cooking Recipes/Tomato Based Stew Recipe\|Tomato Based Stew Recipe]]: 21-04-2025
+- [[Cooking Recipes/Chicken and Bulgar Wheat Recipe\|Chicken and Bulgar Wheat Recipe]]: 21-04-2025
+- [[Main Notes/Recommended Mario Maker 2 Levels\|Recommended Mario Maker 2 Levels]]: 20-04-2025
+- [[Main Notes/Eat Me\|Eat Me]]: 20-04-2025
+- [[Main Notes/Dubstep Egg\|Dubstep Egg]]: 20-04-2025
+- [[Main Notes/Colin the Cactus\|Colin the Cactus]]: 20-04-2025
+- [[Main Notes/Clone\|Clone]]: 20-04-2025
+- [[Main Notes/Boris the Orange Outtakes\|Boris the Orange Outtakes]]: 20-04-2025
+- [[Main Notes/Boris the Orange An Unexpected Journey\|Boris the Orange An Unexpected Journey]]: 20-04-2025
 
 { .block-language-dataview}

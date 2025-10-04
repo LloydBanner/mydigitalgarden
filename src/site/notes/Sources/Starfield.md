@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/starfield/","tags":["videoGames","sources"],"created":"2025-09-14T14:45:51.036+01:00","updated":"2025-09-14T14:45:51.866+01:00"}
+{"dg-publish":true,"permalink":"/sources/starfield/","tags":["videoGames","sources"],"created":"2025-10-02T02:10:19.339+01:00","updated":"2025-10-02T02:10:19.991+01:00"}
 ---
 
 Starfield is a Sci-Fi game made by Bethesda the creators of [[Sources/The Elder Scrolls\|The Elder Scrolls]]. I have mixed feelings about it.

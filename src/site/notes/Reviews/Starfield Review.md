@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/starfield-review/","tags":["reviews","feed"],"created":"2025-09-14T14:45:47.342+01:00","updated":"2025-09-14T14:45:47.342+01:00"}
+{"dg-publish":true,"permalink":"/reviews/starfield-review/","tags":["reviews","feed"],"created":"2025-10-02T02:37:42.382+01:00","updated":"2025-10-02T02:37:42.980+01:00"}
 ---
 
 Written 02-12-2023

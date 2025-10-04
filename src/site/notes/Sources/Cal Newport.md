@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/cal-newport/","tags":["authors","sources"],"created":"2025-09-14T14:45:26.219+01:00","updated":"2025-09-14T14:45:26.219+01:00"}
+{"dg-publish":true,"permalink":"/sources/cal-newport/","tags":["authors","sources"],"created":"2025-10-02T02:12:16.712+01:00","updated":"2025-10-02T02:12:16.841+01:00"}
 ---
 
 

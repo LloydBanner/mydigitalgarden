@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/game-of-thrones-tv/","tags":["TV","sources","fantasy"],"created":"2025-09-14T14:44:59.208+01:00","updated":"2025-09-14T14:44:59.208+01:00"}
+{"dg-publish":true,"permalink":"/sources/game-of-thrones-tv/","tags":["TV","sources","fantasy"],"created":"2025-10-02T02:09:23.009+01:00","updated":"2025-10-02T02:09:23.908+01:00"}
 ---
 
 Creators: [[Sources/Benioff and Weiss\|Benioff and Weiss]]

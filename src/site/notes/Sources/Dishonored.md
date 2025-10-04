@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/dishonored/","tags":["theBest","videoGames","sources"],"created":"2025-09-14T14:45:33.500+01:00","updated":"2025-09-14T14:45:33.500+01:00"}
+{"dg-publish":true,"permalink":"/sources/dishonored/","tags":["theBest","videoGames","sources"],"created":"2025-10-02T02:11:51.889+01:00","updated":"2025-10-02T02:11:52.026+01:00"}
 ---
 
 The first Dishonored is a contender for my favourite game of all time. The atmosphere, world, gameplay, and graphics all feed together to make a great narrative. All the games elements feel cohesive and well thought out. You can take a combat focus, a stealth focus or somewhere between and this will affect the story. Depending on how many people you kill the city of Dunwall will fall into greater troubles.

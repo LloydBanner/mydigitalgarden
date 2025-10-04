@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/fate-mill-pdf/","tags":["books","sources"],"created":"2025-09-14T14:45:21.151+01:00","updated":"2025-09-14T14:45:21.151+01:00"}
+{"dg-publish":true,"permalink":"/sources/fate-mill-pdf/","tags":["books","sources"],"created":"2025-10-02T02:10:22.162+01:00","updated":"2025-10-02T02:10:22.970+01:00"}
 ---
 
 Author: TowerHouseCreative

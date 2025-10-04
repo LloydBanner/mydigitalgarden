@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/quake/","tags":["videoGames","sources","theBest","fantasy","Sci-Fi"],"created":"2025-09-14T14:46:02.518+01:00","updated":"2025-09-14T14:46:02.518+01:00"}
+{"dg-publish":true,"permalink":"/sources/quake/","tags":["videoGames","sources","theBest","fantasy","Sci-Fi"],"created":"2025-10-02T02:11:01.585+01:00","updated":"2025-10-02T02:11:01.768+01:00"}
 ---
 
 Developer: ID

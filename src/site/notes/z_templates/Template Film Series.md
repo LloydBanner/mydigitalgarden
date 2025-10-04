@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-film-series/","tags":["sources","filmSeries"],"created":"2025-09-14T14:45:17.342+01:00","updated":"2025-09-14T14:45:17.342+01:00"}
+{"dg-publish":true,"permalink":"/z-templates/template-film-series/","tags":["sources","filmSeries"],"created":"2025-10-02T02:10:45.890+01:00","updated":"2025-10-02T02:10:46.003+01:00"}
 ---
 
 Directors: `=this.directors`

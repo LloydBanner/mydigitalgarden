@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/bioshock-infinite/","tags":["videoGames","sources","bioshock"],"created":"2025-09-14T14:46:04.365+01:00","updated":"2025-09-14T14:46:04.365+01:00"}
+{"dg-publish":true,"permalink":"/sources/bioshock-infinite/","tags":["videoGames","sources","bioshock"],"created":"2025-10-02T02:11:39.336+01:00","updated":"2025-10-02T02:11:39.448+01:00"}
 ---
 
 Developer: Irrational Games

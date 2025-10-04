@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/prey-2017-mooncrash-review/","tags":["reviews","feed","developed"],"created":"2025-09-14T14:45:02.242+01:00","updated":"2025-09-14T14:45:02.242+01:00"}
+{"dg-publish":true,"permalink":"/reviews/prey-2017-mooncrash-review/","tags":["reviews","feed","developed"],"created":"2025-10-04T10:52:09.528+01:00","updated":"2025-10-04T11:35:52.261+01:00"}
 ---
 
 Written: 05-02-2023
@@ -16,4 +16,4 @@ I’ve heard a few people complaining about the timer but it can be easily reset
   
 I also wouldn’t recommend getting all the achievements in Mooncrash, as that requires quite a bit of grinding to get all the neuromods for all the characters. It will probably take you twice as long to finish the DLC if you go for that and it’s a lot less fun that just finishing it normally.  
   
-I highly recommend this DLC especially if you enjoyed Prey. I’m not a fan of roguelikes usually but I still enjoyed this one so bare that in mind, however the roguelike mechanics here are probably not for everyone. Prey and this DLC seem to go on sale a lot so if you’re not sure you can always wait for a sale.
+I highly recommend this DLC especially if you enjoyed Prey. I’m not a fan of roguelikes usually but I still enjoyed this one so bare that in mind, however the roguelike mechanics here are probably not for everyone. Prey and this DLC seem to go on sale a lot so if you’re not sure you can always wait for a sale. 

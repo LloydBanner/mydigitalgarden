@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/why-you-should-watch-harmy-s-despecialized-editions-of-star-wars/","tags":["feed","starWars","fanEdits","developing"],"created":"2025-09-14T14:44:17.150+01:00","updated":"2025-09-14T14:44:17.150+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/why-you-should-watch-harmy-s-despecialized-editions-of-star-wars/","tags":["feed","starWars","fanEdits","developing"],"created":"2025-10-02T02:08:34.130+01:00","updated":"2025-10-02T02:08:34.715+01:00"}
 ---
 
 George Lucas went back and edited a lot of the originals adding CGI that wasn't really needed. I don't mind watching the films with this in, but if you want to watch them like they were in cinema when they first released try [Harmy's Despecialized Editions](https://originaltrilogy.com/topic/Harmys-STAR-WARS-Despecialized-Edition-HD-V2-7-MKV-Released/id/12713).

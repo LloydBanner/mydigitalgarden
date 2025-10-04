@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2025-09-14T14:46:23.019+01:00","updated":"2025-09-15T11:19:05.053+01:00"}
+{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2025-10-04T10:51:53.191+01:00","updated":"2025-10-04T11:42:54.486+01:00"}
 ---
 
 # Home
@@ -20,36 +20,36 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Films\|Films]]
 
 **Feed (a bit of everything) (sorted by last update)**
+- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 3\|Cursed Ones Session 3]]: 04-10-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 28-09-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|Magic Shop Owners Session 14]]: 16-08-2025
-- [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 07-09-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|Magic Shop Owners Session 14]]: 15-09-2025
 - [[Sources/Flowers for Algernon\|Flowers for Algernon]]: 15-09-2025
-- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 17-05-2025
+- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 15-09-2025
+- [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 15-09-2025
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 15-09-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 16-08-2025
-- [[Reviews/Jedi Knight Jedi Academy Review\|Jedi Knight Jedi Academy Review]]: 22-04-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 8\|Magic Shop Owners Session 8]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 2\|Magic Shop Owners Session 2]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 11\|Magic Shop Owners Session 11]]: 16-08-2025
-- [[Reviews/Middle Earth Shadow of Mordor Review\|Middle Earth Shadow of Mordor Review]]: 22-04-2025
+- [[Main Notes/Permadeath In Games\|Permadeath In Games]]: 03-09-2025
+- [[Main Notes/Good Words\|Good Words]]: 29-08-2025
 - [[Sources/The Courage to be Disliked\|The Courage to be Disliked]]: 26-08-2025
-- [[Reviews/Starfield Review\|Starfield Review]]: 22-04-2025
-- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 2\|Cursed Ones Session 2]]: 16-08-2025
-- [[Reviews/Jedi Knight II Jedi Outcast Review\|Jedi Knight II Jedi Outcast Review]]: 22-04-2025
-- [[Reviews/Jedi Fallen Order Review\|Jedi Fallen Order Review]]: 22-04-2025
-- [[Reviews/Jedi Survivor Review\|Jedi Survivor Review]]: 22-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 9\|Magic Shop Owners Session 9]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 8\|Magic Shop Owners Session 8]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 7\|Magic Shop Owners Session 7]]: 16-08-2025
-- [[Reviews/Morrowind Review\|Morrowind Review]]: 22-04-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 12\|Magic Shop Owners Session 12]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 6\|Magic Shop Owners Session 6]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 5\|Magic Shop Owners Session 5]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 3\|Magic Shop Owners Session 3]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 1\|Cursed Ones Session 1]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 2\|Magic Shop Owners Session 2]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 13\|Magic Shop Owners Session 13]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 9\|Magic Shop Owners Session 9]]: 16-08-2025
-- [[Reviews/Prey (2017) Mooncrash Review\|Prey (2017) Mooncrash Review]]: 22-04-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 12\|Magic Shop Owners Session 12]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Dragon Hunters (One Shot)/Dragon Hunters Session Notes (One Shot)\|Dragon Hunters Session Notes (One Shot)]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 2\|Cursed Ones Session 2]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 1\|Cursed Ones Session 1]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 11\|Magic Shop Owners Session 11]]: 16-08-2025
+- [[Main Notes/My Star Wars Watch Order\|My Star Wars Watch Order]]: 22-06-2025
+- [[Main Notes/Skyrim Modding Recommendations\|Skyrim Modding Recommendations]]: 11-06-2025
+- [[Main Notes/Media Consumption\|Media Consumption]]: 01-06-2025
+- [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 18-05-2025
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-way-of-kings/","tags":["books","sources","fantasy","theBest"],"created":"2025-09-14T14:44:50.345+01:00","updated":"2025-09-14T14:44:50.345+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-way-of-kings/","tags":["books","sources","fantasy","theBest"],"created":"2025-10-02T02:10:29.324+01:00","updated":"2025-10-02T02:10:29.389+01:00"}
 ---
 
 Author: [[Sources/Brandon Sanderson\|Brandon Sanderson]]

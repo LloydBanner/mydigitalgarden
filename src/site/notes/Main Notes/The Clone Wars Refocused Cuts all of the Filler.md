@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/the-clone-wars-refocused-cuts-all-of-the-filler/","tags":["feed","fanEdits","developing"],"created":"2025-09-14T14:44:32.754+01:00","updated":"2025-09-14T14:44:32.754+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/the-clone-wars-refocused-cuts-all-of-the-filler/","tags":["feed","fanEdits","developing"],"created":"2025-10-02T02:08:36.969+01:00","updated":"2025-10-02T02:08:37.092+01:00"}
 ---
 
 Personally, I think the best way to watch [[Sources/The Clone Wars\|The Clone Wars]] as a whole is to watch [The Clone Wars: Refocused](https://originaltrilogy.com/topic/The-Clone-Wars-Refocused-COMPLETE-Taking-Requests/id/80467/page/1). This is a fan edit by Eddie Dean that brings all [[Sources/The Clone Wars\|the Clone Wars]] content into a nice whole and removes a lot of filler. If you do watch this way, I recommend not watching the extra episodes if you want to avoid any filler. Eddie has a great spreadsheet that has a viewing order and what to watch based on your preferences though. I also recommend, watching his coda for rebels as that show has a lot of filler and I personally can't recommend it has a whole.

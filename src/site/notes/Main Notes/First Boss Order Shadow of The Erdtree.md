@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/first-boss-order-shadow-of-the-erdtree/","created":"2025-09-14T14:44:29.766+01:00","updated":"2025-09-14T14:44:29.766+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/first-boss-order-shadow-of-the-erdtree/","created":"2025-10-02T02:08:37.971+01:00","updated":"2025-10-02T02:08:38.017+01:00"}
 ---
 
 1. Darkgaol knight 

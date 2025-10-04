@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-books/","tags":["booksSeries","sources"],"created":"2025-09-14T14:45:41.036+01:00","updated":"2025-09-14T14:45:41.789+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-books/","tags":["booksSeries","sources"],"created":"2025-10-02T02:10:10.491+01:00","updated":"2025-10-02T02:10:10.562+01:00"}
 ---
 
 Author: [[Sources/J. R. R. Tolkien\|J. R. R. Tolkien]]
 ## Books
-- [[Sources/The Return of the King (book)\|The Return of the King (book)]]
 - [[Sources/The Hobbit (book)\|The Hobbit (book)]]
+- [[Sources/The Return of the King (book)\|The Return of the King (book)]]
 - [[Sources/The Fellowship of the Ring (book)\|The Fellowship of the Ring (book)]]
 - [[Sources/The Two Towers (book)\|The Two Towers (book)]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-ultimate-hitchhiker-s-guide-to-the-galaxy/","tags":["books","sources","theBest","Sci-Fi"],"created":"2025-09-14T14:46:29.916+01:00","updated":"2025-09-14T14:46:29.916+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-ultimate-hitchhiker-s-guide-to-the-galaxy/","tags":["books","sources","theBest","Sci-Fi"],"created":"2025-10-02T02:12:06.063+01:00","updated":"2025-10-02T02:12:06.118+01:00"}
 ---
 
 Author: [[Sources/Douglas Adams\|Douglas Adams]]

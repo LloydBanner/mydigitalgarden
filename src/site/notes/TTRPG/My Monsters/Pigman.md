@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/my-monsters/pigman/","tags":["ttrpgResources","OSEMonsters","lloydsOSEMonsters","developing"],"created":"2025-09-14T14:46:06.191+01:00","updated":"2025-09-14T14:46:06.191+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/my-monsters/pigman/","tags":["ttrpgResources","OSEMonsters","lloydsOSEMonsters","developing"],"created":"2025-10-02T02:11:27.645+01:00","updated":"2025-10-02T02:11:27.760+01:00"}
 ---
 
 # Pigman

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/heroes-mortals-and-monsters-quests-and-adventures/","tags":["books","sources","history","theBest"],"created":"2025-09-14T14:45:06.041+01:00","updated":"2025-09-14T14:45:06.041+01:00"}
+{"dg-publish":true,"permalink":"/sources/heroes-mortals-and-monsters-quests-and-adventures/","tags":["books","sources","history","theBest"],"created":"2025-10-02T02:09:48.040+01:00","updated":"2025-10-02T02:09:48.272+01:00"}
 ---
 
 Author: [[Sources/Stephen Fry\|Stephen Fry]]

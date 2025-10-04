@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/calendar/elbon-summer-year-569/","tags":["ttrpgs","draft"],"created":"2025-09-14T14:46:25.172+01:00","updated":"2025-09-28T11:51:26.575+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/calendar/elbon-summer-year-569/","tags":["ttrpgs","draft"],"created":"2025-10-02T02:11:03.032+01:00","updated":"2025-10-02T02:11:03.927+01:00"}
 ---
 
 MS = Magic Shop Owners

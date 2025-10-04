@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/tristan-gooley/","tags":["authors","sources"],"created":"2025-09-14T14:44:53.888+01:00","updated":"2025-09-14T14:44:53.888+01:00"}
+{"dg-publish":true,"permalink":"/sources/tristan-gooley/","tags":["authors","sources"],"created":"2025-10-02T02:09:40.160+01:00","updated":"2025-10-02T02:09:40.914+01:00"}
 ---
 
 

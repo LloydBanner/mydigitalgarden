@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/hitman-world-of-assassination/","tags":["videoGames","theBest","sources"],"created":"2025-09-14T14:46:08.148+01:00","updated":"2025-09-14T14:46:08.148+01:00"}
+{"dg-publish":true,"permalink":"/sources/hitman-world-of-assassination/","tags":["videoGames","theBest","sources"],"created":"2025-10-02T02:09:52.578+01:00","updated":"2025-10-02T02:09:52.782+01:00"}
 ---
 
 Developer: IOI

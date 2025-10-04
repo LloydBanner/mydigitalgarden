@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/jedi-knight-jedi-academy/","tags":["starWars","theBest","videoGames","sources"],"created":"2025-09-14T14:45:34.250+01:00","updated":"2025-09-14T14:45:34.250+01:00"}
+{"dg-publish":true,"permalink":"/sources/jedi-knight-jedi-academy/","tags":["starWars","theBest","videoGames","sources"],"created":"2025-10-02T02:10:03.351+01:00","updated":"2025-10-02T02:10:03.487+01:00"}
 ---
 
 This game expands on [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]] adding new abilities and features. It also has a non-linear level structure and more choices in the story but I think this makes the story weaker than Outcast while still being good. As with Outcast the Multiplayer and bot matches are fun with friends.

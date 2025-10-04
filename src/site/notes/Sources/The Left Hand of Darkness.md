@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-left-hand-of-darkness/","tags":["books","sources","theBest","Sci-Fi"],"created":"2025-09-14T14:45:51.636+01:00","updated":"2025-09-14T14:45:51.636+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-left-hand-of-darkness/","tags":["books","sources","theBest","Sci-Fi"],"created":"2025-10-02T02:11:09.014+01:00","updated":"2025-10-02T02:11:09.973+01:00"}
 ---
 
 Author: [[Sources/Ursula K. Le Guin\|Ursula K. Le Guin]]

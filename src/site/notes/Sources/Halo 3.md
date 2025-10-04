@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/halo-3/","tags":["halo","theBest","videoGames","sources"],"created":"2025-09-14T14:45:27.335+01:00","updated":"2025-09-14T14:45:27.335+01:00"}
+{"dg-publish":true,"permalink":"/sources/halo-3/","tags":["halo","theBest","videoGames","sources"],"created":"2025-10-02T02:09:22.947+01:00","updated":"2025-10-02T02:09:23.020+01:00"}
 ---
 
 I think this game and [[Sources/Halo Reach\|Halo Reach]] are tied for the peak of the series in my eyes. The campaign hits all the right notes, the multiplayer is still reasonably accessible although you will encounter some pros online, and they really nailed the gameplay in this one.

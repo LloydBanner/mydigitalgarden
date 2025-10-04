@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/ose/","created":"2025-09-14T14:44:40.956+01:00","updated":"2025-09-14T14:44:40.956+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/ose/","created":"2025-10-02T02:08:49.242+01:00","updated":"2025-10-02T02:08:49.276+01:00"}
 ---
 
 [Old School Essentials](https://necroticgnome.com/pages/about-old-school-essentials) (OSE) is an old school [[Main Notes/TTRPG\|TTRPG]] based of the old Dungeons and Dragons (D&D) basic expert rules (BX).

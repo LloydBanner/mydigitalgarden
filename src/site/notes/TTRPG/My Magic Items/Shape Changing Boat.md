@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/my-magic-items/shape-changing-boat/","tags":["ttrpgResources","oseMagicItems","developed","lloydsOSEMagicItems"],"created":"2025-09-14T14:46:13.445+01:00","updated":"2025-09-14T14:46:13.445+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/my-magic-items/shape-changing-boat/","tags":["ttrpgResources","oseMagicItems","developed","lloydsOSEMagicItems"],"created":"2025-10-02T02:09:09.267+01:00","updated":"2025-10-02T02:09:09.448+01:00"}
 ---
 
 Rarity: rare

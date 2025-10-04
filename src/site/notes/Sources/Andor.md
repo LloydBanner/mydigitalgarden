@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/andor/","tags":["TV","sources","starWars","theBest"],"created":"2025-09-14T14:45:29.776+01:00","updated":"2025-09-14T14:45:29.776+01:00"}
+{"dg-publish":true,"permalink":"/sources/andor/","tags":["TV","sources","starWars","theBest"],"created":"2025-10-02T02:11:59.330+01:00","updated":"2025-10-02T02:11:59.854+01:00"}
 ---
 
 Creators: [[Sources/Tony Gilroy\|Tony Gilroy]]

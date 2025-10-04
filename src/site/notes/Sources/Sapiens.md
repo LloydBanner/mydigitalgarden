@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/sapiens/","tags":["books","sources","non-fiction","history","theBest"],"created":"2025-09-14T14:45:59.569+01:00","updated":"2025-09-14T14:45:59.569+01:00"}
+{"dg-publish":true,"permalink":"/sources/sapiens/","tags":["books","sources","non-fiction","history","theBest"],"created":"2025-10-02T02:11:04.148+01:00","updated":"2025-10-02T02:11:04.219+01:00"}
 ---
 
 Author: [[Sources/Yuval Noah Harari\|Yuval Noah Harari]]

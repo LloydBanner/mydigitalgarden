@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-video-game/","tags":["videoGames","sources"],"created":"2025-09-14T14:45:11.189+01:00","updated":"2025-09-14T14:45:11.189+01:00"}
+{"dg-publish":true,"permalink":"/z-templates/template-video-game/","tags":["videoGames","sources"],"created":"2025-10-02T02:10:52.628+01:00","updated":"2025-10-02T02:10:52.772+01:00"}
 ---
 
 Developer: `= this.developer`

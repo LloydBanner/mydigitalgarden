@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/starfield-captains-logs/starfield-captains-logs/","created":"2025-09-14T14:44:18.326+01:00","updated":"2025-09-14T14:44:18.326+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/starfield-captains-logs/starfield-captains-logs/","created":"2025-10-02T02:08:43.019+01:00","updated":"2025-10-02T02:08:43.153+01:00"}
 ---
 
 I was really excited for [[Sources/Starfield\|Starfield]] when it released. I loved most Bethesda games and one set in space sounded right up my alley. I was so excited that when the game cam out I made logs throughout my playthrough which are below.

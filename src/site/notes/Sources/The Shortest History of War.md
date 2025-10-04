@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-shortest-history-of-war/","tags":["books","sources","history","non-fiction","theBest"],"created":"2025-09-14T14:45:46.420+01:00","updated":"2025-09-14T14:45:46.420+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-shortest-history-of-war/","tags":["books","sources","history","non-fiction","theBest"],"created":"2025-10-02T02:11:21.411+01:00","updated":"2025-10-02T02:11:21.473+01:00"}
 ---
 
 Author: [[Sources/Gwynne Dyer\|Gwynne Dyer]]

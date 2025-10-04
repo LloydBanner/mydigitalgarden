@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-11/","tags":["feed","elbonLogs","developed"],"created":"2025-09-14T14:46:10.723+01:00","updated":"2025-09-14T14:46:10.723+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-11/","tags":["feed","elbonLogs","developed"],"created":"2025-10-04T10:51:55.064+01:00","updated":"2025-10-04T11:36:04.313+01:00"}
 ---
 
 ## Session Notes
@@ -8,7 +8,7 @@
 ### Survivor Beach
 ![survivorBeach.png|300](/img/user/z_assets/TTRPG/Place%20Pictures/Obsidian%20Keep/survivorBeach.png)
 
-The party rested on The Kraken with their new party members: Rosetta the maid, and sailors Ivano, Donato, Antony, Leo, Marco and Paul. After the night, they travelled to a cave which had a fully intact boat sheltered inside. They met a man and his daughter who were braiding ropes in preparation to leave the island. The man was a fisherman who was helpful but didn’t know too much, but his daughter and young child saw the adventurers and wanted to hear stories about monsters. The party happily obliged and started explaining about the lich they had defeated before her father told them that they would scare her. They did find out that there was a secret entrance into the castle that the children used to play near, but Nora, the girl, didn’t hang around with those kids.
+The party rested on The Kraken with their new party members: Rosetta the maid, and sailors Ivano, Donato, Antony, Leo, Marco and Paul. After the night, they travelled to a cave which had a fully intact boat sheltered inside. They met a man and his daughter who were braiding ropes in preparation to leave the island. The man was a fisherman who was helpful but didn’t know too much, but his daughter and young child saw the adventurers and wanted to hear stories about monsters. The party happily obliged and started explaining about the lich they had defeated before her father told them that they would scare her. They did find out that there was a secret entrance into the castle that the children used to play near, but Nora, the girl, didn’t hang around with those kids. 
 
 They next sailed over to a hut on stilts in the water, which had an old man spearfishing off the side. Maia asked if he was Oskar. He was surprised they knew who he was. They offered him the toy boat, and he was sad his family had left without him. He had been passed out drunk during the storm and their escape. As a result, he decided to give up drinking and gave the rest of his very strong rum supply to them. Sphonyx pocketed it. 
 

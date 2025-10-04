@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-courage-to-be-disliked/","tags":["books","sources","theBest","reviews","feed"],"created":"2025-09-14T14:45:48.292+01:00","updated":"2025-09-14T14:45:48.292+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-courage-to-be-disliked/","tags":["books","sources","theBest","reviews","feed"],"created":"2025-10-02T02:09:29.996+01:00","updated":"2025-10-02T02:09:30.194+01:00"}
 ---
 
 Authors: [[Sources/Ichiro Kishimi\|Ichiro Kishimi]],[[Sources/Fumitake Koga\|Fumitake Koga]]

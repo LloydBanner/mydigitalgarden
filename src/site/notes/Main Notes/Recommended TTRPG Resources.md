@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/recommended-ttrpg-resources/","tags":["developing","feed"],"created":"2025-09-14T14:44:54.225+01:00","updated":"2025-09-15T11:09:13.689+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/recommended-ttrpg-resources/","tags":["developing","feed"],"created":"2025-10-02T02:08:15.041+01:00","updated":"2025-10-02T02:08:15.167+01:00"}
 ---
 
 The best resources I have come across for running and playing [[Main Notes/TTRPG\|TTRPGs]] mostly [[Main Notes/OSE\|OSE]] but a lot of these are system neutral too. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/mythos-the-greek-myths-retold/","tags":["books","sources","history","theBest"],"created":"2025-09-14T14:46:05.318+01:00","updated":"2025-09-14T14:46:05.318+01:00"}
+{"dg-publish":true,"permalink":"/sources/mythos-the-greek-myths-retold/","tags":["books","sources","history","theBest"],"created":"2025-10-02T02:08:57.198+01:00","updated":"2025-10-02T02:08:57.618+01:00"}
 ---
 
 Author: [[Sources/Stephen Fry\|Stephen Fry]]

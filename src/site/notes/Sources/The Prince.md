@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-prince/","tags":["books","sources","theBest"],"created":"2025-09-14T14:45:09.539+01:00","updated":"2025-09-14T14:45:09.539+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-prince/","tags":["books","sources","theBest"],"created":"2025-10-02T02:09:06.955+01:00","updated":"2025-10-02T02:09:07.087+01:00"}
 ---
 
 Author: [[Sources/Niccolò Machiavelli\|Niccolò Machiavelli]]

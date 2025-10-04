@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/brave-new-world/","tags":["books","sources","theBest","Sci-Fi"],"created":"2025-09-14T14:46:02.139+01:00","updated":"2025-09-14T14:46:02.884+01:00"}
+{"dg-publish":true,"permalink":"/sources/brave-new-world/","tags":["books","sources","theBest","Sci-Fi"],"created":"2025-10-02T02:10:46.947+01:00","updated":"2025-10-02T02:10:47.259+01:00"}
 ---
 
 Author: [[Sources/Aldous Huxley\|Aldous Huxley]]
