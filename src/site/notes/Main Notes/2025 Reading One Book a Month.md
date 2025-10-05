@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/2025-reading-one-book-a-month/","tags":["feed","developing"],"created":"2025-10-02T02:07:48.535+01:00","updated":"2025-10-02T02:07:48.535+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/2025-reading-one-book-a-month/","tags":["feed","developing"],"created":"2025-10-04T10:51:55.045+01:00","updated":"2025-10-05T13:07:14.707+01:00"}
 ---
 
 For this year I set a couple of new year's resolutions. One was to say no more so I had more time, I don't think this has gone so well, and the other was to read at least one book a month and at least 12 by the end of the year. This page is to record my progress.
@@ -21,7 +21,7 @@ I used to read a lot but lost the fun of it somewhere. I think my list of books 
 - (I have some catching up to do if I am going to finish this)
 - August - [[Sources/The Courage to be Disliked\|The Courage to be Disliked]]
 - August - [[Sources/Flowers for Algernon\|Flowers for Algernon]]
-- September- [[Sources/Digital Minimalism\|Digital Minimalism]] (reread)
+- September - [[Sources/Digital Minimalism\|Digital Minimalism]] (reread)
 ## You May Also Like
 - [[Main Notes/My Favourite Books\|My Favourite Books]]
 - [[Main Notes/Media Consumption\|Media Consumption]]
