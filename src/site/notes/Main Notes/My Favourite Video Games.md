@@ -45,7 +45,7 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Prey (2017)\|Prey (2017)]]                                         |
 | [[Sources/Skyrim\|Skyrim]]                                                   |
 | [[Sources/Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]] |
-| [[Sources/XCOM 2\|XCOM 2]]                                                   |
 | [[Sources/XCOM\|XCOM]]                                                       |
+| [[Sources/XCOM 2\|XCOM 2]]                                                   |
 
 { .block-language-dataview}

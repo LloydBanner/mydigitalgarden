@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-ose-magic-items/","tags":["draft","feed","ttrpgs"],"created":"2025-10-02T02:08:33.397+01:00","updated":"2025-10-02T02:08:33.453+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-ose-magic-items/","tags":["draft","feed","ttrpgs"],"created":"2025-10-02T02:08:33.453+01:00","updated":"2025-10-02T02:08:33.453+01:00"}
 ---
 
 Magic Items I have made for [[Main Notes/OSE\|OSE]].

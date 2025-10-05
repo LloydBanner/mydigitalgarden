@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/pulp-fiction/","tags":["films","sources","theBest","crime","drama"],"created":"2025-10-02T02:10:37.155+01:00","updated":"2025-10-02T02:10:37.187+01:00"}
+{"dg-publish":true,"permalink":"/sources/pulp-fiction/","tags":["films","sources","theBest","crime","drama"],"created":"2025-10-02T02:10:37.187+01:00","updated":"2025-10-02T02:10:37.187+01:00"}
 ---
 
 Directors: `= this.directors`

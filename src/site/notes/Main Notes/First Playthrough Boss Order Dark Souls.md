@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/first-playthrough-boss-order-dark-souls/","created":"2025-10-02T02:07:44.772+01:00","updated":"2025-10-02T02:07:45.536+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/first-playthrough-boss-order-dark-souls/","created":"2025-10-02T02:07:45.536+01:00","updated":"2025-10-02T02:07:45.536+01:00"}
 ---
 
 - Asylum Demon

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/elden-ring/","tags":["videoGames","theBest","soulsLikes","fromSoftware","sources"],"created":"2025-10-02T02:11:27.866+01:00","updated":"2025-10-02T02:11:28.056+01:00"}
+{"dg-publish":true,"permalink":"/sources/elden-ring/","tags":["videoGames","theBest","soulsLikes","fromSoftware","sources"],"created":"2025-10-02T02:11:28.056+01:00","updated":"2025-10-02T02:11:28.056+01:00"}
 ---
 
 Another incredible soulslike game from From Software. The setting, gameplay and tone all fit perfectly together. The DLC is also pretty good if a tad difficult.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/stephen-fry/","tags":["authors","sources"],"created":"2025-10-02T02:11:51.136+01:00","updated":"2025-10-02T02:11:51.197+01:00"}
+{"dg-publish":true,"permalink":"/sources/stephen-fry/","tags":["authors","sources"],"created":"2025-10-02T02:11:51.197+01:00","updated":"2025-10-02T02:11:51.197+01:00"}
 ---
 
 Stephen John Fry is an English comedian, writer, actor, humourist, novelist, poet, columnist, filmmaker, television personality and technophile.

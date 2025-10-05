@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/oathbringer/","tags":["books","sources"],"created":"2025-10-02T02:08:57.619+01:00","updated":"2025-10-02T02:08:57.753+01:00"}
+{"dg-publish":true,"permalink":"/sources/oathbringer/","tags":["books","sources"],"created":"2025-10-02T02:08:57.753+01:00","updated":"2025-10-02T02:08:57.753+01:00"}
 ---
 
 Author: [[Sources/Brandon Sanderson\|Brandon Sanderson]]

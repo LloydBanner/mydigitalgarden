@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/rouge-one/","tags":["starWars","films","fanEdits","sources","theBest"],"created":"2025-10-02T02:11:44.587+01:00","updated":"2025-10-02T02:11:44.653+01:00"}
+{"dg-publish":true,"permalink":"/sources/rouge-one/","tags":["starWars","films","fanEdits","sources","theBest"],"created":"2025-10-02T02:11:44.653+01:00","updated":"2025-10-02T02:11:44.653+01:00"}
 ---
 
 Directors: [[Sources/Gareth Edwards\|Gareth Edwards]],[[Sources/Tony Gilroy\|Tony Gilroy]]

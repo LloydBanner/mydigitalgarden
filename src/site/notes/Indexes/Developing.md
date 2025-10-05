@@ -6,6 +6,7 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Developing Feed (sorted by last update)
+- [[Main Notes/My Favourite Films\|My Favourite Films]]: 05-10-2025
 - [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 15-09-2025
 - [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 15-09-2025
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 15-09-2025
@@ -18,9 +19,9 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 - [[Main Notes/The Clone Wars Refocused Cuts all of the Filler\|The Clone Wars Refocused Cuts all of the Filler]]: 22-04-2025
 - [[Main Notes/The Best Star Wars Battlefront II Mods and Maps\|The Best Star Wars Battlefront II Mods and Maps]]: 22-04-2025
 - [[Main Notes/The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]: 22-04-2025
+- [[Main Notes/My Favourite Video Games\|My Favourite Video Games]]: 22-04-2025
 - [[Main Notes/Morrowind's Biggest Mods\|Morrowind's Biggest Mods]]: 22-04-2025
 - [[Main Notes/Getting into Morrowind\|Getting into Morrowind]]: 22-04-2025
-- [[Main Notes/My Favourite Video Games\|My Favourite Video Games]]: 22-04-2025
 - [[Main Notes/The Best Star Wars Games\|The Best Star Wars Games]]: 21-04-2025
 - [[Main Notes/My Minecraft Worlds and Maps\|My Minecraft Worlds and Maps]]: 21-04-2025
 - [[Cooking Recipes/Tomato Based Stew Recipe\|Tomato Based Stew Recipe]]: 21-04-2025

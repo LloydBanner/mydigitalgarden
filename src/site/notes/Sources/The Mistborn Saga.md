@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-mistborn-saga/","tags":["booksSeries","sources","fantasy"],"created":"2025-10-02T02:37:46.683+01:00","updated":"2025-10-02T02:37:46.774+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-mistborn-saga/","tags":["booksSeries","sources","fantasy"],"created":"2025-10-02T02:37:46.774+01:00","updated":"2025-10-02T02:37:46.774+01:00"}
 ---
 
 Author: [[Sources/Brandon Sanderson\|Brandon Sanderson]]

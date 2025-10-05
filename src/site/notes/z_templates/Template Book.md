@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-book/","tags":["books","sources"],"created":"2025-10-02T02:09:08.980+01:00","updated":"2025-10-02T02:09:09.054+01:00"}
+{"dg-publish":true,"permalink":"/z-templates/template-book/","tags":["books","sources"],"created":"2025-10-02T02:09:09.054+01:00","updated":"2025-10-02T02:09:09.054+01:00"}
 ---
 
 Author: `= this.author`

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/films/","created":"2025-10-02T02:08:16.341+01:00","updated":"2025-10-02T02:08:16.419+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/films/","created":"2025-10-02T02:08:16.419+01:00","updated":"2025-10-02T02:08:16.419+01:00"}
 ---
 
 I love a good film. I think if executed well a film that gets everything right and is able to portray its ideas in a few hours is an incredible experience. I will always argue that films are the best form of video based media. Much better than [[TV\|TV]] which has more time to develop characters but is often dragged out has much more filler. Films tend to have a great respect for the audience's time.

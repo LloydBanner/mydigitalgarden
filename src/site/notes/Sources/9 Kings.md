@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/9-kings/","tags":["videoGames","sources","fantasy","strategy","rougelike"],"created":"2025-10-02T02:10:27.296+01:00","updated":"2025-10-02T02:10:27.368+01:00"}
+{"dg-publish":true,"permalink":"/sources/9-kings/","tags":["videoGames","sources","fantasy","strategy","rougelike"],"created":"2025-10-02T02:10:27.368+01:00","updated":"2025-10-02T02:10:27.368+01:00"}
 ---
 
 Developer: Sad Socket

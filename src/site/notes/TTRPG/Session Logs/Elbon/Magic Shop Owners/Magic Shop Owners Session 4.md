@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-4/","tags":["elbonLogs","feed","developed"],"created":"2025-10-02T02:09:06.950+01:00","updated":"2025-10-02T02:09:07.087+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-4/","tags":["elbonLogs","feed","developed"],"created":"2025-10-02T02:09:07.075+01:00","updated":"2025-10-02T02:09:07.087+01:00"}
 ---
 
 ## Session Notes

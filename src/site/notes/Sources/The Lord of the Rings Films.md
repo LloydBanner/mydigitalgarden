@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-films/","tags":["lordOfTheRings","sources"],"created":"2025-10-02T02:09:13.818+01:00","updated":"2025-10-02T02:09:14.000+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-films/","tags":["lordOfTheRings","sources"],"created":"2025-10-02T02:09:14.000+01:00","updated":"2025-10-02T02:09:14.000+01:00"}
 ---
 
 I have watched the trilogy countless times and know many of the words before they are spoken. I can see these films as nothing but masterpieces.

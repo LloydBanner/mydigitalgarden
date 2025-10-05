@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-favourite-films/","created":"2025-10-04T10:52:04.667+01:00","updated":"2025-10-04T11:50:14.628+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-favourite-films/","tags":["feed","developing"],"created":"2025-10-05T12:53:21.009+01:00","updated":"2025-10-05T12:53:21.854+01:00"}
 ---
 
 |                                                                                     |
 | ----------------------------------------------------------------------------------- |
+| [[Sources/A Fistfull of Dollars\|A Fistfull of Dollars]]                         |
+| [[Sources/Django Unchained\|Django Unchained]]                                   |
+| [[Sources/For a Few Dollars More\|For a Few Dollars More]]                       |
+| [[Sources/The Good the Bad and the Ugly\|The Good the Bad and the Ugly]]         |
 | [[Sources/Troy (film)\|Troy (film)]]                                             |
 | [[Sources/Pulp Fiction\|Pulp Fiction]]                                           |
 | [[Sources/Fight Club (film)\|Fight Club (film)]]                                 |

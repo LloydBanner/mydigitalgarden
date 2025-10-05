@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/odyssey/","tags":["books","sources","history","theBest"],"created":"2025-10-02T02:11:10.495+01:00","updated":"2025-10-02T02:11:10.602+01:00"}
+{"dg-publish":true,"permalink":"/sources/odyssey/","tags":["books","sources","history","theBest"],"created":"2025-10-02T02:11:10.602+01:00","updated":"2025-10-02T02:11:10.602+01:00"}
 ---
 
 Author: [[Sources/Stephen Fry\|Stephen Fry]]

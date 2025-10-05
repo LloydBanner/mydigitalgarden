@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/blade-runner/","tags":["films","sources","Sci-Fi","theBest"],"created":"2025-10-02T02:37:37.719+01:00","updated":"2025-10-02T02:37:37.829+01:00"}
+{"dg-publish":true,"permalink":"/sources/blade-runner/","tags":["films","sources","Sci-Fi","theBest"],"created":"2025-10-02T02:37:37.829+01:00","updated":"2025-10-02T02:37:37.829+01:00"}
 ---
 
 Director: [[Sources/Ridley Scott\|Ridley Scott]]
