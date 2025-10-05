@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/calendar/elbon-summer-year-569/","tags":["ttrpgs","draft"],"created":"2025-10-04T10:52:17.436+01:00","updated":"2025-10-05T12:56:05.691+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/calendar/elbon-summer-year-569/","tags":["ttrpgs","draft"],"created":"2025-10-04T10:52:17.436+01:00","updated":"2025-10-05T13:06:07.483+01:00"}
 ---
 
 MS = Magic Shop Owners
 CO = Cursed Ones
-DH = Dragon Hunters
+DH = Dragon Hunters 
 # Days
 1) 
 2) [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|MS1]]
