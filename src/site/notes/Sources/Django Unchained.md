@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/django-unchained/","tags":["films","sources","western","theBest"],"created":"2025-10-05T12:53:21.470+01:00","updated":"2025-10-05T12:53:21.488+01:00"}
+{"dg-publish":true,"permalink":"/sources/django-unchained/","tags":["films","sources","western","theBest"],"created":"2025-10-05T12:53:21.488+01:00","updated":"2025-10-05T12:53:21.488+01:00"}
 ---
 
 Directors: `= this.directors`

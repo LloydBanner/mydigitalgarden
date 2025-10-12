@@ -20,12 +20,13 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Films\|Films]]
 
 **Feed (a bit of everything) (sorted by last update)**
+- [[Sources/Bloodthief\|Bloodthief]]: 12-10-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 3\|Cursed Ones Session 3]]: 05-10-2025
 - [[Main Notes/My Favourite Films\|My Favourite Films]]: 05-10-2025
 - [[Sources/The Good the Bad and the Ugly\|The Good the Bad and the Ugly]]: 05-10-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 28-09-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|Magic Shop Owners Session 14]]: 15-09-2025
 - [[Sources/Flowers for Algernon\|Flowers for Algernon]]: 15-09-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|Magic Shop Owners Session 14]]: 15-09-2025
 - [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 15-09-2025
 - [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 15-09-2025
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 15-09-2025
@@ -49,7 +50,6 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 2\|Cursed Ones Session 2]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 1\|Cursed Ones Session 1]]: 16-08-2025
 - [[Main Notes/My Star Wars Watch Order\|My Star Wars Watch Order]]: 22-06-2025
-- [[Main Notes/Skyrim Modding Recommendations\|Skyrim Modding Recommendations]]: 11-06-2025
 
 { .block-language-dataview}
 

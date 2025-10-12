@@ -4,8 +4,8 @@
 
 Directors: [[Sources/Sergio Leone\|Sergio Leone]]
 ## Films
-- [[Sources/A Fistfull of Dollars\|A Fistfull of Dollars]]
 - [[Sources/For a Few Dollars More\|For a Few Dollars More]]
+- [[Sources/A Fistfull of Dollars\|A Fistfull of Dollars]]
 - [[Sources/The Good the Bad and the Ugly\|The Good the Bad and the Ugly]]
 
 { .block-language-dataview}

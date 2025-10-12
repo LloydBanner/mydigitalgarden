@@ -14,6 +14,7 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 ## The List
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
+| [[Sources/Bloodthief\|Bloodthief]]                                           |
 | [[Sources/Ico\|Ico]]                                                         |
 | [[Sources/Quake\|Quake]]                                                     |
 | [[Sources/Hitman World of Assassination\|Hitman World of Assassination]]     |
@@ -45,7 +46,7 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Prey (2017)\|Prey (2017)]]                                         |
 | [[Sources/Skyrim\|Skyrim]]                                                   |
 | [[Sources/Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]] |
-| [[Sources/XCOM\|XCOM]]                                                       |
 | [[Sources/XCOM 2\|XCOM 2]]                                                   |
+| [[Sources/XCOM\|XCOM]]                                                       |
 
 { .block-language-dataview}

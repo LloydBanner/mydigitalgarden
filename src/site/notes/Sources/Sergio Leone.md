@@ -8,8 +8,8 @@
 
 { .block-language-dataview}
 ## Film
-- [[Sources/A Fistfull of Dollars\|A Fistfull of Dollars]]
-- [[Sources/For a Few Dollars More\|For a Few Dollars More]]
 - [[Sources/The Good the Bad and the Ugly\|The Good the Bad and the Ugly]]
+- [[Sources/For a Few Dollars More\|For a Few Dollars More]]
+- [[Sources/A Fistfull of Dollars\|A Fistfull of Dollars]]
 
 { .block-language-dataview}
