@@ -15,6 +15,7 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
 | [[Sources/Bloodthief\|Bloodthief]]                                           |
+| [[Sources/PEAK\|PEAK]]                                                       |
 | [[Sources/Ico\|Ico]]                                                         |
 | [[Sources/Quake\|Quake]]                                                     |
 | [[Sources/Hitman World of Assassination\|Hitman World of Assassination]]     |
