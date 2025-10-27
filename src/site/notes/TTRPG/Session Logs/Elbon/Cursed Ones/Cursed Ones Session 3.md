@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-3/","tags":["feed","developed","elbonLogs"],"created":"2025-10-05T12:53:21.288+01:00","updated":"2025-10-05T12:53:21.854+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-3/","tags":["feed","developed","elbonLogs"],"created":"2025-10-26T21:42:20.167+00:00","updated":"2025-10-26T21:42:20.167+00:00"}
 ---
 
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 18-3-569 - 19-3-569
 ## Session Notes
 
 ![illusionistTower.webp](/img/user/z_assets/TTRPG/Place%20Pictures/Whiterock/illusionistTower.webp)
