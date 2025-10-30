@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/starfield-review/","tags":["reviews","feed"],"created":"2025-10-02T02:37:42.382+01:00","updated":"2025-10-02T02:37:42.980+01:00"}
+{"dg-publish":true,"permalink":"/reviews/starfield-review/","tags":["reviews","feed"],"created":"2025-10-04T10:52:09.641+01:00","updated":"2025-10-30T19:40:10.932+00:00"}
 ---
 
-Written 02-12-2023
+Written: 02-12-2023
 
 Although I mostly enjoyed [Starfield](Starfield.md), It has some glaring issues and some big areas for improvement. The scope of the game is incredible at first but then you realise it isn’t quite as big as it presents itself. The quests seem to have more depth than recent Bethesda games but then you realise that although the quest stories are better they often end up being fetch quests. There is incredible detail in some areas of the game while others look wonky and low fidelity.
 
