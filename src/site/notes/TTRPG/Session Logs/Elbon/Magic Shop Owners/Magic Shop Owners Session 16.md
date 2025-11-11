@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-16/","tags":["feed","elbonLogs","developed"],"created":"2025-11-11T18:24:54.572+00:00","updated":"2025-11-11T20:01:42.750+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-16/","tags":["feed","elbonLogs","developed"],"created":"2025-11-11T18:24:54.572+00:00","updated":"2025-11-11T20:13:42.766+00:00"}
 ---
 
 ## Session Notes
@@ -48,7 +48,7 @@
 - Everyone began trying to batter down the east door to get into the library but it was stuck solid. During this time an amber golem that had been hidden behind crates in the corner woke up and began stamping towards them
 - Jatumal ran up jumped on the golems shoulders and shot an arrow into its head. The arrow from his magical bow imbedded itself into the skull of the golem cracking its head
 - Gary tried to attack with the pincer from the ant to no effect before Jatumal threw him the gem encrusted sword he had found in the harbour of the Obsidian Keep
-- Geog swung at the golem with Darkfire as Jatumal jumped off
+- Geog swung at the golem with [[TTRPG/My Magic Items/Darkfire\|Darkfire]] as Jatumal jumped off
 - Maia tried to use her cause wounds spell but it missed
 - The golem hit back at Jatumal with a devastating near lethal blow
 - Maia swung at the Golem with the the sword with the demon head, but missed dramatically. The sword screamed shocking both Maia and the golem. The golem began running for the vault door and Maia threw the sword to Jatumal
