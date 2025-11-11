@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-16/","tags":["feed","elbonLogs","developed"],"created":"2025-11-11T18:24:54.572+00:00","updated":"2025-11-11T20:13:42.766+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-16/","tags":["feed","elbonLogs","developed"],"created":"2025-11-11T18:24:54.572+00:00","updated":"2025-11-11T20:53:29.323+00:00"}
 ---
 
 ## Session Notes
 
 **[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 26-3-596
 
+[AI Podcast Overview](https://drive.google.com/file/d/1nLBihvasC0pam4iM7mu7Pqm5s7T5y_9K/view?usp=drive_link) (From [[NotebookLM\|NotebookLM]])
 ### A Rude Awakening
 - After resting in Stagbrook the party were awoken by the tentacles from Geog's armour trying to strangle him
 - Stinkcat quickly woke up and cut off the tentacles at each of the holes in the armour

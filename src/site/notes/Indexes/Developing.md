@@ -7,6 +7,7 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Developing Feed (sorted by last update)
 - [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 11-11-2025
+- [[NotebookLM\|NotebookLM]]: 11-11-2025
 - [[Sources/PEAK\|PEAK]]: 12-10-2025
 - [[Main Notes/My Favourite Films\|My Favourite Films]]: 05-10-2025
 - [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 15-09-2025
