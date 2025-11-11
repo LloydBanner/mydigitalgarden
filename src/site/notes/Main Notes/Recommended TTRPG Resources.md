@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/recommended-ttrpg-resources/","tags":["developing","feed"],"created":"2025-10-02T02:08:15.167+01:00","updated":"2025-10-02T02:08:15.167+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/recommended-ttrpg-resources/","tags":["developing","feed"],"created":"2025-10-04T10:52:05.780+01:00","updated":"2025-11-11T20:03:33.028+00:00"}
 ---
 
 The best resources I have come across for running and playing [[Main Notes/TTRPG\|TTRPGs]] mostly [[Main Notes/OSE\|OSE]] but a lot of these are system neutral too. 
@@ -11,8 +11,8 @@ The best resources I have come across for running and playing [[Main Notes/TTRPG
 
 # Monsters (Mostly [[Main Notes/OSE\|OSE]]/OSR Specific)
 I love monsters and like to use a variety in my games so things don't get stale so having some good sources of inspiration is important to me.
-- [The Monster Overhaul](https://coinsandscrolls.blogspot.com/2023/02/osr-monster-overhaul-megapost.html) by Skerples - Quite possibly the most inspirational [[Main Notes/TTRPG\|TTRPG]] book I have. Has lots of great ways to switch up how you run monsters.
-- [Creature Compendium](https://www.drivethrurpg.com/en/product/147588/cc1-creature-compendium) - Another inspirational one with a great variety in monsters and it's free.
+- [[Sources/The Monster Overhaul\|The Monster Overhaul]] by [[Sources/Skerples\|Skerples]] - Quite possibly the most inspirational [[Main Notes/TTRPG\|TTRPG]] book I have. Has lots of great ways to switch up how you run monsters.
+- [[Sources/Creature Compendium\|Creature Compendium]]- Another inspirational one with a great variety in monsters and it's free.
 - [The Monsters Know What They're Doing](https://www.themonstersknow.com/) - A great blog where Keith analyses different monster for D&D 5th edition to workout how to make them fun. This information can be used for most editions though.
 - [Random Esoteric Creature Generator](https://www.drivethrurpg.com/en/product/58916/Random-Esoteric-Creature-Generator-for-Classic-Fantasy-RolePlaying-Games-and-their-Modern-Simulacra) - A useful tool for making your own monsters.
 

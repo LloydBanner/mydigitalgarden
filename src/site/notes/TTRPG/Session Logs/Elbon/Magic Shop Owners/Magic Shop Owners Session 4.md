@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-4/","tags":["elbonLogs","feed","developed"],"created":"2025-10-02T02:09:07.075+01:00","updated":"2025-10-02T02:09:07.087+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-4/","tags":["elbonLogs","feed","developed"],"created":"2025-10-04T10:51:54.502+01:00","updated":"2025-11-09T08:40:07.429+00:00"}
 ---
 
 ## Session Notes
 
-[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 5-3-569
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 5-3-569
 
 The party woke up in the lab in Stagbrook Keep. Sphonyx and Geog did not wake up, but everyone else decided to continue exploring. They returned to the room where the staff and living armour had been to find a sleeping rust monster. After looking at the map, they saw there were rooms nearby that had no direct route to reach on the map, so they began searching for hidden doors. After a short search, they found what felt like a similar door to the one they had chanted "nepo" to open. They repeated this and opened the door.
 

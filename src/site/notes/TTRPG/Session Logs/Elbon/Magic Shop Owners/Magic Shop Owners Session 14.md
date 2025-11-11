@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-14/","tags":["feed","elbonLogs","developed"],"created":"2025-10-02T02:11:08.093+01:00","updated":"2025-10-02T02:11:08.686+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-14/","tags":["feed","elbonLogs","developed"],"created":"2025-10-04T10:51:54.918+01:00","updated":"2025-11-09T08:47:24.723+00:00"}
 ---
 
-**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 20-3-569 - 23-3-596
 ## Session Notes
+
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 20-3-569 - 23-3-596
 ![Elbon.png](/img/user/z_assets/TTRPG/Place%20Pictures/Elbon.png)
 
 - The Party arrived in Whiterock and quickly decided to leave and head back to Stagbrook

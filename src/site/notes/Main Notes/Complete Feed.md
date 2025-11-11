@@ -7,6 +7,11 @@ If you only want to see pages at certain levels of development, which are define
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a bit of everything) (sorted by last update)
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 16\|Magic Shop Owners Session 16]]: 11-11-2025
+- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 11-11-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|Magic Shop Owners Session 14]]: 09-11-2025
+- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 2\|Cursed Ones Session 2]]: 09-11-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 09-11-2025
 - [[Reviews/Slice & Dice Review\|Slice & Dice Review]]: 30-10-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 4\|Cursed Ones Session 4]]: 24-10-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 3\|Cursed Ones Session 3]]: 24-10-2025
@@ -15,12 +20,10 @@ If you only want to see pages at certain levels of development, which are define
 - [[Sources/Bloodthief\|Bloodthief]]: 12-10-2025
 - [[Sources/The Good the Bad and the Ugly\|The Good the Bad and the Ugly]]: 05-10-2025
 - [[Main Notes/My Favourite Films\|My Favourite Films]]: 05-10-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 28-09-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|Magic Shop Owners Session 14]]: 15-09-2025
 - [[Sources/Flowers for Algernon\|Flowers for Algernon]]: 15-09-2025
-- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 15-09-2025
 - [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 15-09-2025
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 15-09-2025
+- [[Main Notes/Appendix N\|Appendix N]]: 07-09-2025
 - [[Main Notes/Permadeath In Games\|Permadeath In Games]]: 03-09-2025
 - [[Main Notes/Good Words\|Good Words]]: 29-08-2025
 - [[Sources/The Courage to be Disliked\|The Courage to be Disliked]]: 26-08-2025
@@ -38,7 +41,6 @@ If you only want to see pages at certain levels of development, which are define
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Dragon Hunters (One Shot)/Dragon Hunters Session Notes (One Shot)\|Dragon Hunters Session Notes (One Shot)]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 2\|Cursed Ones Session 2]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 1\|Cursed Ones Session 1]]: 16-08-2025
 - [[Main Notes/My Star Wars Watch Order\|My Star Wars Watch Order]]: 22-06-2025
 - [[Main Notes/Skyrim Modding Recommendations\|Skyrim Modding Recommendations]]: 11-06-2025
@@ -52,6 +54,7 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/Hobbit Fan Edits Condense the Trilogy into One Film\|Hobbit Fan Edits Condense the Trilogy into One Film]]: 27-04-2025
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 27-04-2025
 - [[Cooking Recipes/Chicken Pilaf Recipe\|Chicken Pilaf Recipe]]: 25-04-2025
+- [[Reviews/Starfield Review\|Starfield Review]]: 22-04-2025
 - [[Reviews/Prey (2017) Review\|Prey (2017) Review]]: 22-04-2025
 - [[Reviews/Prey (2017) Mooncrash Review\|Prey (2017) Mooncrash Review]]: 22-04-2025
 - [[Reviews/Morrowind Review\|Morrowind Review]]: 22-04-2025
@@ -74,7 +77,6 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/Elden Ring Review\|Elden Ring Review]]: 22-04-2025
 - [[Main Notes/Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 22-04-2025
 - [[Main Notes/Blade and Sorcery is the Best VR Star Wars Game\|Blade and Sorcery is the Best VR Star Wars Game]]: 22-04-2025
-- [[Reviews/Starfield Review\|Starfield Review]]: 22-04-2025
 - [[Main Notes/Zombie Game\|Zombie Game]]: 21-04-2025
 - [[Main Notes/The Best Star Wars Games\|The Best Star Wars Games]]: 21-04-2025
 - [[Main Notes/The Artificial World\|The Artificial World]]: 21-04-2025

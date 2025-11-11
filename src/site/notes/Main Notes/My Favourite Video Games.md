@@ -24,15 +24,15 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Into the Breach\|Into the Breach]]                                 |
 | [[Sources/Plants Vs Zombies\|Plants Vs Zombies]]                             |
 | [[Sources/Oblivion\|Oblivion]]                                               |
-| [[Sources/Bioshock\|Bioshock]]                                               |
 | [[Sources/Blade and Sorcery\|Blade and Sorcery]]                             |
+| [[Sources/Bioshock\|Bioshock]]                                               |
 | [[Sources/Celeste\|Celeste]]                                                 |
 | [[Sources/Dark Souls\|Dark Souls]]                                           |
 | [[Sources/Dishonored 2\|Dishonored 2]]                                       |
 | [[Sources/Dishonored\|Dishonored]]                                           |
 | [[Sources/Elden Ring\|Elden Ring]]                                           |
-| [[Sources/Halo 3\|Halo 3]]                                                   |
 | [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |
+| [[Sources/Halo 3\|Halo 3]]                                                   |
 | [[Sources/Halo ODST\|Halo ODST]]                                             |
 | [[Sources/Halo Reach\|Halo Reach]]                                           |
 | [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |

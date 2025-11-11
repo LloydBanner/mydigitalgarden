@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-favourite-books/","created":"2025-10-04T10:52:04.621+01:00","updated":"2025-10-04T11:49:28.860+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-favourite-books/","created":"2025-10-04T10:52:04.621+01:00","updated":"2025-11-11T20:09:18.917+00:00"}
 ---
 
 |                                                                                                                                                 |
@@ -9,7 +9,6 @@
 | [[Sources/Ten Arguments for Deleting Your Social Media Accounts Right Now\|Ten Arguments for Deleting Your Social Media Accounts Right Now]] |
 | [[Sources/Mythos - The Greek Myths Retold\|Mythos - The Greek Myths Retold]]                                                                 |
 | [[Sources/The Courage to be Disliked\|The Courage to be Disliked]]                                                                           |
-| [[Sources/Raiding the Obsidian Keep\|Raiding the Obsidian Keep]]                                                                             |
 | [[Sources/12 Rules for Life\|12 Rules for Life]]                                                                                             |
 | [[Sources/A Brief History of Time\|A Brief History of Time]]                                                                                 |
 | [[Sources/Algorithms to Live By\|Algorithms to Live By]]                                                                                     |

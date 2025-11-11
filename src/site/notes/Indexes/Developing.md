@@ -6,11 +6,12 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Developing Feed (sorted by last update)
+- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 11-11-2025
 - [[Sources/PEAK\|PEAK]]: 12-10-2025
 - [[Main Notes/My Favourite Films\|My Favourite Films]]: 05-10-2025
-- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 15-09-2025
 - [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 15-09-2025
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 15-09-2025
+- [[Main Notes/Appendix N\|Appendix N]]: 07-09-2025
 - [[Main Notes/Permadeath In Games\|Permadeath In Games]]: 03-09-2025
 - [[Main Notes/My Star Wars Watch Order\|My Star Wars Watch Order]]: 22-06-2025
 - [[Main Notes/Skyrim Modding Recommendations\|Skyrim Modding Recommendations]]: 11-06-2025

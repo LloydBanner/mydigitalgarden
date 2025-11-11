@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-ose-magic-items/","tags":["draft","feed","ttrpgs"],"created":"2025-10-02T02:08:33.453+01:00","updated":"2025-10-02T02:08:33.453+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-ose-magic-items/","tags":["draft","feed","ttrpgs"],"created":"2025-10-04T10:52:04.913+01:00","updated":"2025-11-11T20:08:41.028+00:00"}
 ---
 
-Magic Items I have made for [[Main Notes/OSE\|OSE]].
+Magic Items I have made for [[Main Notes/OSE\|OSE]]/OSR.
 
 # Magic Items (sorted by last update)
 - [[TTRPG/My Magic Items/Sapphire Necklace of Waterfeeding\|Sapphire Necklace of Waterfeeding]]: 18-05-2025

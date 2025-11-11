@@ -7,6 +7,7 @@ Session logs from my [[Main Notes/TTRPG\|TTRPG]] games.
 [[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Elbon Calendar]]
 
 **Session Logs Elbon Campaign Setting (sorted by session date)**
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 16\|Magic Shop Owners Session 16]]: 09-11-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 4\|Cursed Ones Session 4]]: 24-10-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 3\|Cursed Ones Session 3]]: 28-09-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 15-09-2025

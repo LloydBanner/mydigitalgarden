@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/appendix-n/","tags":["ttrpgs","developing"],"created":"2025-10-02T02:08:04.756+01:00","updated":"2025-10-02T02:08:04.756+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/appendix-n/","tags":["ttrpgs","developing","feed"],"created":"2025-10-04T10:51:55.180+01:00","updated":"2025-11-11T20:05:51.969+00:00"}
 ---
 
 In the original publishing of Advanced Dungeons and Dragons, 'Appendix N: Inspirational and Educational Reading' was a list of authors and works that were identified by Gary Gygax, the writer of Dungeons and Dragons, as the source of many concepts, tropes, spells, and monsters that were used in the development of D&D.
@@ -7,6 +7,7 @@ In the original publishing of Advanced Dungeons and Dragons, 'Appendix N: Inspir
 Many [[Main Notes/TTRPG\|TTRPGs]] reference their own Appendix N or have an inspirational reading section. This is my list of works that inspire my [[Indexes/Writing\|Writing]], game development and [[Main Notes/TTRPG\|TTRPG]] refereeing.  
 
 - [[Sources/The Elder Scrolls\|The Elder Scrolls]]
+- [[Sources/The Hobbit (book)\|The Hobbit]]
 - [[Sources/The Lord of the Rings\|The Lord of the Rings]] (and [[Sources/J. R. R. Tolkien\|J. R. R. Tolkien]] in general)
 - [[Sources/Delicious in Dungeon\|Delicious in Dungeon]]
 - [[Sources/Terry Pratchett\|Terry Pratchett's]] books (Specifically [[Sources/Discworld\|Discworld]])

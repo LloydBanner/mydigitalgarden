@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-15/","tags":["feed","elbonLogs","developed"],"created":"2025-10-02T02:09:16.598+01:00","updated":"2025-10-02T02:09:16.598+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-15/","tags":["feed","elbonLogs","developed"],"created":"2025-10-04T10:51:54.660+01:00","updated":"2025-11-11T18:26:21.874+00:00"}
 ---
 
-**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 24-3-569 - 25-3-596
 ## Session Notes
+
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 24-3-569 - 25-3-596
 
 - Breadwig asked Havana to focus first on defences and people to defend the town with his investment
 - After a party in Stagbrook to celebrate the victory the adventurers set out to Stonehell to face the goblins and hopefully stop Halstrea
@@ -43,7 +44,7 @@
 - He explained that the book had various summoning rituals and that they were going to use Acman's eye to bring him back. There wasn't much that could destroy Acman's eye as a part of his soul had been embedded inside it. Stinkcat's crystal dagger would work but that would destroy the dagger. He agreed to do some research to see if there was anything else he could find that could destroy it
 - Maia also used her boots to fly through the door inside the painting. It led to the clouds above an isolated island. It had many stone structures with prominent pillars among them
 - Sarzan explain that this could the Siblet people who were believed to live forever. He had been researching them and other methods for eternal life, or at least the other him had when he created the painting and trapped a part of himself here
-- That had been what all of Stagbrook keep had been devoted to. Researching and discovering ways to have eternal life without straying to darker and less moral methods. At least that was as far as the Sarzan in the painting had known. perhaps the other version of him had strayed too far.
+- That had been what all of Stagbrook keep had been devoted to. Researching and discovering ways to have eternal life without straying to darker and less moral methods. At least that was as far as the Sarzan in the painting had known. Perhaps the other version of him had strayed too far.
 
 ##### XP
 228 xp = 12 x Wall Goblin
