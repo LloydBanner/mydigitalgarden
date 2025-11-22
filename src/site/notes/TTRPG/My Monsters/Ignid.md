@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/my-monsters/ignid/","tags":["lloydsOSEMonsters","developed"],"created":"2025-10-02T02:11:45.184+01:00","updated":"2025-10-02T02:11:45.184+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/my-monsters/ignid/","tags":["lloydsOSEMonsters","developed","OSEMonsters"],"created":"2025-10-04T10:52:17.579+01:00","updated":"2025-11-22T15:36:29.062+00:00"}
 ---
 
 This was a monster that I made for my Whiterock campaign, you can read about it in action in [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 6\|Magic Shop Owners Session 6]], ignid tooth daggers have also been used by my players since then. This was a really fun encounter I recommend giving it a go in your own games. It was generated with help from the [Random Esoteric Creature Generator](https://www.drivethrurpg.com/en/product/58916/Random-Esoteric-Creature-Generator-for-Classic-Fantasy-RolePlaying-Games-and-their-Modern-Simulacra).
