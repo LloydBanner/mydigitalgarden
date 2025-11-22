@@ -12,10 +12,10 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 - [[Main Notes/Making Magic Magical\|Making Magic Magical]]: 27-04-2025
 - [[Main Notes/Hobbit Fan Edits Condense the Trilogy into One Film\|Hobbit Fan Edits Condense the Trilogy into One Film]]: 27-04-2025
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 27-04-2025
-- [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-04-2025
 - [[Main Notes/Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game\|Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game]]: 22-04-2025
 - [[Main Notes/Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 22-04-2025
 - [[Main Notes/Blade and Sorcery is the Best VR Star Wars Game\|Blade and Sorcery is the Best VR Star Wars Game]]: 22-04-2025
+- [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-04-2025
 - [[Main Notes/Are the LOTR Films Good Adaptations of the Books\|Are the LOTR Films Good Adaptations of the Books]]: 21-04-2025
 
 { .block-language-dataview}

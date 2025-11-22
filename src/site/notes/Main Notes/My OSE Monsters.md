@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-ose-monsters/","tags":["ttrpgs","draft","feed"],"created":"2025-10-02T02:08:25.149+01:00","updated":"2025-10-02T02:08:25.964+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-ose-monsters/","tags":["ttrpgs","draft","feed"],"created":"2025-10-04T10:52:04.960+01:00","updated":"2025-11-22T20:00:20.497+00:00"}
 ---
 
-Monsters I have made for [[Main Notes/OSE\|OSE]].
+Monsters I have made for [[Main Notes/OSE\|OSE]]. 
 
 # Monster (sorted by last update)
 - [[TTRPG/My Monsters/Ebonoss\|Ebonoss]]: 22-11-2025

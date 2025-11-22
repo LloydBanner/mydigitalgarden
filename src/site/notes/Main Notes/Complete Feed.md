@@ -70,7 +70,6 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/The Clone Wars Refocused Cuts all of the Filler\|The Clone Wars Refocused Cuts all of the Filler]]: 22-04-2025
 - [[Main Notes/The Best Star Wars Battlefront II Mods and Maps\|The Best Star Wars Battlefront II Mods and Maps]]: 22-04-2025
 - [[Main Notes/The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]: 22-04-2025
-- [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-04-2025
 - [[Main Notes/My Favourite Video Games\|My Favourite Video Games]]: 22-04-2025
 - [[Main Notes/Morrowind's Biggest Mods\|Morrowind's Biggest Mods]]: 22-04-2025
 - [[Main Notes/Getting into Morrowind\|Getting into Morrowind]]: 22-04-2025
@@ -79,6 +78,7 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/Elden Ring Review\|Elden Ring Review]]: 22-04-2025
 - [[Main Notes/Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 22-04-2025
 - [[Main Notes/Blade and Sorcery is the Best VR Star Wars Game\|Blade and Sorcery is the Best VR Star Wars Game]]: 22-04-2025
+- [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-04-2025
 - [[Main Notes/Zombie Game\|Zombie Game]]: 21-04-2025
 - [[Main Notes/The Best Star Wars Games\|The Best Star Wars Games]]: 21-04-2025
 - [[Main Notes/The Artificial World\|The Artificial World]]: 21-04-2025
