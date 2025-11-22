@@ -14,10 +14,10 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 ## The List
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
-| [[Sources/The Banner Saga\|The Banner Saga]]                                 |
-| [[Sources/The Banner Saga 2\|The Banner Saga 2]]                             |
-| [[Sources/Hades\|Hades]]                                                     |
 | [[Sources/Hades II\|Hades II]]                                               |
+| [[Sources/Hades\|Hades]]                                                     |
+| [[Sources/The Banner Saga 2\|The Banner Saga 2]]                             |
+| [[Sources/The Banner Saga\|The Banner Saga]]                                 |
 | [[Sources/Slice & Dice\|Slice & Dice]]                                       |
 | [[Sources/Bloodthief\|Bloodthief]]                                           |
 | [[Sources/PEAK\|PEAK]]                                                       |

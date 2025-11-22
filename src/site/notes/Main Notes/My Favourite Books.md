@@ -40,8 +40,8 @@
 | [[Sources/The Tombs of Atuan\|The Tombs of Atuan]]                                                                                           |
 | [[Sources/The Two Towers (book)\|The Two Towers (book)]]                                                                                     |
 | [[Sources/The Ultimate Hitchhiker’s Guide to the Galaxy\|The Ultimate Hitchhiker’s Guide to the Galaxy]]                                     |
-| [[Sources/The Way of Kings\|The Way of Kings]]                                                                                               |
 | [[Sources/The Well of Ascension\|The Well of Ascension]]                                                                                     |
+| [[Sources/The Way of Kings\|The Way of Kings]]                                                                                               |
 | [[Sources/Words of Radiance\|Words of Radiance]]                                                                                             |
 | [[Sources/A Wizard of Earthsea\|A Wizard of Earthsea]]                                                                                       |
 | [[Sources/Beyond the Deepwoods\|Beyond the Deepwoods]]                                                                                       |
