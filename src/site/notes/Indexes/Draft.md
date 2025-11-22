@@ -6,8 +6,8 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Draft Feed (a bit of everything) (sorted by last update)
+- [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 11-11-2025
 - [[Main Notes/Good Words\|Good Words]]: 29-08-2025
-- [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 18-05-2025
 - [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 11-05-2025
 - [[Main Notes/Making Magic Magical\|Making Magic Magical]]: 27-04-2025
 - [[Main Notes/Hobbit Fan Edits Condense the Trilogy into One Film\|Hobbit Fan Edits Condense the Trilogy into One Film]]: 27-04-2025
