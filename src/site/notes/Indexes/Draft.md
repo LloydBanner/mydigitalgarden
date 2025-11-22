@@ -6,6 +6,7 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Draft Feed (a bit of everything) (sorted by last update)
+- [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-11-2025
 - [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 11-11-2025
 - [[Main Notes/Good Words\|Good Words]]: 29-08-2025
 - [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 11-05-2025
@@ -15,7 +16,6 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 - [[Main Notes/Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game\|Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game]]: 22-04-2025
 - [[Main Notes/Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 22-04-2025
 - [[Main Notes/Blade and Sorcery is the Best VR Star Wars Game\|Blade and Sorcery is the Best VR Star Wars Game]]: 22-04-2025
-- [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-04-2025
 - [[Main Notes/Are the LOTR Films Good Adaptations of the Books\|Are the LOTR Films Good Adaptations of the Books]]: 21-04-2025
 
 { .block-language-dataview}
