@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/knock-issue-3/","tags":["books","sources"],"created":"2025-10-02T02:12:08.263+01:00","updated":"2025-10-02T02:12:08.901+01:00"}
+{"dg-publish":true,"permalink":"/sources/knock-issue-3/","tags":["books","sources"],"created":"2025-10-04T10:52:16.350+01:00","updated":"2025-11-22T13:36:25.843+00:00"}
 ---
 
 Author: Various
@@ -34,11 +34,6 @@ Link: https://www.themerrymushmen.com/product/knock-3-tmm/
 
 ## Pg 32-39 Domains
 - Two articles on how to keep things interesting when players are managing land/kingdoms instead of adventuring 
-
-## When all you Have is a Hammer
-- Get players to have items that could be fun solutions to problems 
-- They need to seem valuable enough to pick up and keep hold of
-- D100 Problem Solving Items table Pg 43-45
 
 ## Slayer Weapons
 - Start as normal weapons 
@@ -93,9 +88,6 @@ Link: https://www.themerrymushmen.com/product/knock-3-tmm/
 ## When not to Kill a Player Character 
 - if you can create a decision for players to risk themselves to save the player this creates fun situations 
 - If you can corrupt, curse or damage the player in a fun way
-
-## D8 Weird Kobold Weapons Pg94
-- Weird improvised weapons for weak enemies 
 
 ## Things in or Within a Lake Tainted by Evil Pg101
 - d12 table

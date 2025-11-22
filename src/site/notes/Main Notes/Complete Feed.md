@@ -7,14 +7,15 @@ If you only want to see pages at certain levels of development, which are define
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a bit of everything) (sorted by last update)
-- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 11-11-2025
+- [[Reviews/The Banner Saga 2 Review 2018\|The Banner Saga 2 Review 2018]]: 22-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 8\|Magic Shop Owners Session 8]]: 11-11-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 12\|Magic Shop Owners Session 12]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 16\|Magic Shop Owners Session 16]]: 11-11-2025
-- [[NotebookLM\|NotebookLM]]: 11-11-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 12\|Magic Shop Owners Session 12]]: 11-11-2025
+- [[Sources/NotebookLM\|NotebookLM]]: 11-11-2025
+- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 11-11-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 09-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|Magic Shop Owners Session 14]]: 09-11-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 2\|Cursed Ones Session 2]]: 09-11-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 09-11-2025
 - [[Reviews/Slice & Dice Review\|Slice & Dice Review]]: 30-10-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 4\|Cursed Ones Session 4]]: 24-10-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 3\|Cursed Ones Session 3]]: 24-10-2025
@@ -39,10 +40,10 @@ If you only want to see pages at certain levels of development, which are define
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 2\|Magic Shop Owners Session 2]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 13\|Magic Shop Owners Session 13]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 11\|Magic Shop Owners Session 11]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Dragon Hunters (One Shot)/Dragon Hunters Session Notes (One Shot)\|Dragon Hunters Session Notes (One Shot)]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 1\|Cursed Ones Session 1]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 16-08-2025
 - [[Main Notes/My Star Wars Watch Order\|My Star Wars Watch Order]]: 22-06-2025
 - [[Main Notes/Skyrim Modding Recommendations\|Skyrim Modding Recommendations]]: 11-06-2025
 - [[Main Notes/Media Consumption\|Media Consumption]]: 01-06-2025
