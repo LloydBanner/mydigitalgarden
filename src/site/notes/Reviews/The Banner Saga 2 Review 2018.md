@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/the-banner-saga-2-review-2018/","tags":["feed","reviews","fantasy","developed"],"created":"2025-11-22T14:19:57.213+00:00","updated":"2025-11-22T14:22:26.093+00:00"}
+{"dg-publish":true,"permalink":"/reviews/the-banner-saga-2-review-2018/","tags":["feed","reviews","fantasy","developed"],"created":"2025-11-22T14:19:57.213+00:00","updated":"2025-11-22T20:02:48.933+00:00"}
 ---
 
-Written: `this.written`
+Written: 01-04-2018
 
 A strong sequel to the first game, expanding on previous mechanics. The story continues from where the last game ended and you can transfer your save from the last game. You can choose a predefined set of characters, but I strongly recommend playing the first game first.
 
