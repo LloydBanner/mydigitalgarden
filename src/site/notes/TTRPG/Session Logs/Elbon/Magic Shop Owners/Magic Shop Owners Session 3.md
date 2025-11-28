@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-3/","tags":["elbonLogs","feed","developed"],"created":"2025-10-02T02:37:35.510+01:00","updated":"2025-10-02T02:37:35.510+01:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-3/","tags":["elbonLogs","feed","developed"],"created":"2025-11-22T20:53:30.525+00:00","updated":"2025-11-22T20:53:30.525+00:00"}
 ---
 
 ## Session Notes
@@ -10,7 +10,7 @@ The party met Titus Pick, the pretentious mine owner. After finding out that he 
 
 Instead, they went to explore Stagbrook Keep using Lucinda's map to find more magic items. Inside, they encountered many traps. The first of which split the party, leaving half of them in a different corridor from the others. Luckily, both areas were connected by a room, and the remainder of the party were able to outsmart the moving wall trap that separated them by clever positioning. 
 
-The room that connected them was filled with spider webs. The map from Lucinda said not to touch the silk in the room, but instead, Maia decided to talk to the spider. At first, the spider just wanted to eat them, but Maia's god was also one of the spiders who trembled in fear at the mention of their name. With that, they were able to negotiate passage through the room. Maia also learnt that the spider was called Salay and was exiled from its colony on the deeper levels of the keep.
+The room that connected them was filled with spider webs. The map from Lucinda said not to touch the silk in the room, but instead, Maia decided to talk to the spider. At first, the spider just wanted to eat them, but Maia's god was also one of the spiders who trembled in fear at the mention of their name. With that, they were able to negotiate passage through the room. Maia also learnt that the spider was called Salay and was exiled from its colony on the deeper underground.
 
 Next, the party returned to the dining hall of the keep to create makeshift shields from the tables there. They chopped them into five squares and attached leather handles to them. This was to defend from a trap corridor that was identified on the map. This blocked many arrow traps. They were also able to use one of the shields as a bridge to cross a gap while using their other shields to block from all sides. At the end, they found two pedestals with magical items on them. Jatumal attempted to use a grappling hook to pull one, but just knocked it off. This set off a large flame trap. The party took a while deciding what to do about this. Maia made a perfect shot with her sling, landing a stone on the pedestal and stopping the flames. On the pedestal was a beetle brooch, which many of the party members did not want to touch. Sphonyx attached it to herself, creating a faint blue forcefield around her. She then ran for the other pedestal, setting off a few fireball traps which were deflected by the forcefield. The item was a pair of levitation boots, which were given to Maia.
 
