@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/sources/peak/","tags":["videoGames","sources","climbing","theBest","feed","reviews","developing"],"created":"2025-10-12T16:48:25.912+01:00","updated":"2025-10-12T16:53:08.891+01:00"}
+{"dg-publish":true,"permalink":"/sources/peak/","tags":["videoGames","sources","climbing","theBest","feed","reviews","developing"],"created":"2025-11-28T15:13:15.074+00:00","updated":"2025-11-28T15:13:15.074+00:00"}
 ---
 
 Developer: Team PEAK
 Publisher: Aggro Crab and Landfall
 released: 16-06-2025
 First Played: 07-10-2025
-Last Played: 12-10-2025
+Last Played: 23-11-2025
 Link: https://store.steampowered.com/app/3527290/PEAK/
 
 PEAK is a game about climbing with your friends. It has the perfect mix of survival mechanics, fun gear to experiment with, physics and player interactivity to make these feel both fun to play and rewarding when you achieve something. Having proximity chat is also a plus for coop games for me too. Each day there is a new randomly generated map and your goal is to get to the top. It's simple but really fun.
