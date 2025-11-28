@@ -9,6 +9,7 @@ If you only want to see pages at certain levels of development, which are define
 ## Feed (a bit of everything) (sorted by last update)
 - [[Reviews/Old Moon Quarterly Issue 1 Review\|Old Moon Quarterly Issue 1 Review]]: 28-11-2025
 - [[Reviews/Siddhartha Review\|Siddhartha Review]]: 28-11-2025
+- [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 28-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 3\|Magic Shop Owners Session 3]]: 22-11-2025
 - [[Reviews/The Banner Saga 2 Review 2018\|The Banner Saga 2 Review 2018]]: 22-11-2025
 - [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-11-2025
@@ -29,7 +30,6 @@ If you only want to see pages at certain levels of development, which are define
 - [[Sources/Bloodthief\|Bloodthief]]: 12-10-2025
 - [[Sources/The Good the Bad and the Ugly\|The Good the Bad and the Ugly]]: 05-10-2025
 - [[Main Notes/My Favourite Films\|My Favourite Films]]: 05-10-2025
-- [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 05-10-2025
 - [[Sources/Flowers for Algernon\|Flowers for Algernon]]: 15-09-2025
 - [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 15-09-2025
 - [[Main Notes/Appendix N\|Appendix N]]: 07-09-2025
