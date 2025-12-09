@@ -8,7 +8,7 @@
 
 { .block-language-dataview}
 ## Books
-- [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]
 - [[Sources/Dungeon Crawler Carl\|Dungeon Crawler Carl]]
+- [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]
 
 { .block-language-dataview}
