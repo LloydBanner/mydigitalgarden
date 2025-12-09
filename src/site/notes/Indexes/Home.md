@@ -20,10 +20,11 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Films\|Films]]
 
 **Feed (a bit of everything) (sorted by last update)**
+- [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 08-12-2025
+- [[Reviews/Dungeon Crawler Carl Review\|Dungeon Crawler Carl Review]]: 08-12-2025
 - [[Sources/PEAK\|PEAK]]: 28-11-2025
 - [[Reviews/Siddhartha Review\|Siddhartha Review]]: 28-11-2025
 - [[Reviews/Old Moon Quarterly Issue 1 Review\|Old Moon Quarterly Issue 1 Review]]: 28-11-2025
-- [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 28-11-2025
 - [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 28-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 3\|Magic Shop Owners Session 3]]: 22-11-2025
 - [[Reviews/The Banner Saga 2 Review 2018\|The Banner Saga 2 Review 2018]]: 22-11-2025
@@ -49,7 +50,6 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Permadeath In Games\|Permadeath In Games]]: 03-09-2025
 - [[Main Notes/Good Words\|Good Words]]: 29-08-2025
 - [[Sources/The Courage to be Disliked\|The Courage to be Disliked]]: 26-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 9\|Magic Shop Owners Session 9]]: 16-08-2025
 
 { .block-language-dataview}
 

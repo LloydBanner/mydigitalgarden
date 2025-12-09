@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/reviews/dungeon-crawler-carl-review/","tags":["feed","reviews","fantasy","developed","Sci-Fi","litRPGs"],"created":"2025-12-08T17:49:31.458+00:00","updated":"2025-12-08T17:49:31.458+00:00"}
+---
+
+Written: 08-12-2025
+
+I just finished reading [[Sources/Dungeon Crawler Carl\|Dungeon Crawler Carl]] and loved it. It kept me hooked all the way through and I've already started reading, the second book in the series, [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]].
+
+When I had first heard of these books I wasn't that interested. The concept sounded a bit over the top, and like it was going to be that over the top: "look at this cool reference," type humour that is in everything nowadays and isn't funny. Then everyone at work was talking about it and I still ignored it. Then I heard about [[Main Notes/litRPG\|litRPGs]] and again I thought that can't work, but wanted to check one out to see if they did. I looked up the best ones and [[Sources/Dungeon Crawler Carl\|Dungeon Crawler Carl]] was at the top of every list. So I did some research, read a few reviews and everything was so positive I couldn't ignore the series anymore. I have not been disappointed.
+
+First of all, most of my worries evaporated as soon as I started reading. The humour is over the top and it occasionally doesn't land, but it also works. It's like a cross between [[Sources/Douglas Adams\|Douglas Adams]] with [[Sources/The Ultimate Hitchhiker’s Guide to the Galaxy\|Hitchhiker's Guide to the Galaxy]], Hunger Games and some old school fantasy dungeon crawling. It's certainly dark and wacky but it makes me laugh and that's what you want out of humour. I don't know how [[Sources/Matt Dinniman\|Matt Dinniman]] manages to strike such a good balance, but I hope it continues for the rest of the series.
+
+The other big worry I had was that the whole [[Main Notes/litRPG\|litRPG]] concept would detract from the story. 
+I do think for some people it could, but I absolutely love it. If you have spent any time on this website or around me you will know I am a huge fan of games. I love [[Main Notes/Video Games\|Video Games]], Board Games and [[Main Notes/TTRPG\|TTRPGs]] so all the little references and ways that Carl is able to exploit the game mechanics were a lot of fun for me. I do think these would work even if you weren't as into gaming though, because of the way the dungeon is presented as a gameshow across the galaxy. This is an incredibly concept and likely what has made [[Sources/Dungeon Crawler Carl\|Dungeon Crawler Carl]] such an accessible [[Main Notes/litRPG\|litRPG]]. Since the game world is incorporated into the world of the book so seamlessly it doesn't take you out of the book which I think could happen if these ideas were handled poorly.
+
+Beyond these things that had initially put me off that became selling points of the book for me, there were also lots of other parts I loved. Each chapter slowly builds on the last, with the perfect hook at the end of the chapter to make you want to read the next. You are rewarded for paying attention to little details because they often come back in interesting ways later (I suspect some elements from this book will only get to shine in later books too). The characters are surprisingly well done and there are some genuinely emotional moments. The world and concept just continues to expand as things go on. The whole book just worked for me.
+
+I highly recommend [[Sources/Dungeon Crawler Carl\|Dungeon Crawler Carl]]. If you like fantasy and sci-fi and don't mind them being humorous I think you will like this book. I have very little bad to say about it. It is fun, but has things to say. It knows what it is about and it just works. 

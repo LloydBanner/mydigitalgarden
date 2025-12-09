@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/books-i-want-to-read/","tags":["books","developing"],"created":"2025-10-02T02:08:09.435+01:00","updated":"2025-10-02T02:08:09.741+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/books-i-want-to-read/","tags":["books","developing"],"created":"2025-11-30T13:22:56.642+00:00","updated":"2025-11-30T13:22:56.642+00:00"}
 ---
 
 - The Weirdest People in the World
@@ -9,6 +9,7 @@
 - Conan Stories (Pulp Fantasy)
 - Lyonesse Series (Fantasy, [[Sources/Jack Vance\|Jack Vance]])
 - More of The [[Sources/Earthsea Cycle\|Earthsea Cycle]] (Fantasy, [[Sources/Ursula K. Le Guin\|Ursula K. Le Guin]])
+- Changing Planes ([[Sources/Ursula K. Le Guin\|Ursula K. Le Guin]])
 - More of [[Sources/The Dying Earth Books\|The Dying Earth Books]] (Pulp Fantasy, [[Sources/Jack Vance\|Jack Vance]])
 - More of The Song of Fire and Ice Series (Fantasy)
 - Essentialism (Psychology/Minimalism)
@@ -25,3 +26,6 @@
 - There is no Antimemetics Division (Horror)
 - Piranesi (Fantasy/Mythology)
 - Vagabonding (Travel)
+- Enders Game (Sci-Fi)
+- The Praise of Folly (Erasmus)
+- Plain Style (Writing)

@@ -6,10 +6,10 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Developing Feed (sorted by last update)
+- [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 08-12-2025
 - [[Sources/PEAK\|PEAK]]: 28-11-2025
 - [[Reviews/Siddhartha Review\|Siddhartha Review]]: 28-11-2025
 - [[Reviews/Old Moon Quarterly Issue 1 Review\|Old Moon Quarterly Issue 1 Review]]: 28-11-2025
-- [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 28-11-2025
 - [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 28-11-2025
 - [[Sources/NotebookLM\|NotebookLM]]: 11-11-2025
 - [[z_templates/Template Review\|Template Review]]: 30-10-2025
@@ -23,8 +23,8 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 - [[Main Notes/Why you Should Watch the Hal9000 Edits of the Star Wars Prequels\|Why you Should Watch the Hal9000 Edits of the Star Wars Prequels]]: 22-04-2025
 - [[Main Notes/Why you Should Watch Harmy's Despecialized Editions of Star Wars\|Why you Should Watch Harmy's Despecialized Editions of Star Wars]]: 22-04-2025
 - [[Main Notes/The Clone Wars Refocused Cuts all of the Filler\|The Clone Wars Refocused Cuts all of the Filler]]: 22-04-2025
-- [[Main Notes/The Best Star Wars Battlefront II Mods and Maps\|The Best Star Wars Battlefront II Mods and Maps]]: 22-04-2025
 - [[Main Notes/The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]: 22-04-2025
+- [[Main Notes/The Best Star Wars Battlefront II Mods and Maps\|The Best Star Wars Battlefront II Mods and Maps]]: 22-04-2025
 - [[Main Notes/My Favourite Video Games\|My Favourite Video Games]]: 22-04-2025
 - [[Main Notes/Morrowind's Biggest Mods\|Morrowind's Biggest Mods]]: 22-04-2025
 - [[Main Notes/Getting into Morrowind\|Getting into Morrowind]]: 22-04-2025

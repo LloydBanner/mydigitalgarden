@@ -4,6 +4,7 @@
 
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Dungeon Crawler Carl\|Dungeon Crawler Carl]]                                                                                       |
 | [[Sources/Digital Minimalism\|Digital Minimalism]]                                                                                           |
 | [[Sources/Flowers for Algernon\|Flowers for Algernon]]                                                                                       |
 | [[Sources/Ten Arguments for Deleting Your Social Media Accounts Right Now\|Ten Arguments for Deleting Your Social Media Accounts Right Now]] |
