@@ -90,7 +90,6 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/Space Magic\|Space Magic]]: 21-04-2025
 - [[Main Notes/Rubik's Cube Solver\|Rubik's Cube Solver]]: 21-04-2025
 - [[Main Notes/Pi Automated House Lights\|Pi Automated House Lights]]: 21-04-2025
-- [[Main Notes/My Minecraft Worlds and Maps\|My Minecraft Worlds and Maps]]: 21-04-2025
 - [[Main Notes/My Mario Maker 2 levels\|My Mario Maker 2 levels]]: 21-04-2025
 - [[Main Notes/Minecraft Mining AI\|Minecraft Mining AI]]: 21-04-2025
 - [[Main Notes/End of an Empire\|End of an Empire]]: 21-04-2025
@@ -100,6 +99,7 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/A Curse Upon Mistrun\|A Curse Upon Mistrun]]: 21-04-2025
 - [[Cooking Recipes/Tomato Based Stew Recipe\|Tomato Based Stew Recipe]]: 21-04-2025
 - [[Cooking Recipes/Chicken and Bulgar Wheat Recipe\|Chicken and Bulgar Wheat Recipe]]: 21-04-2025
+- [[Main Notes/My Minecraft Worlds, Maps and Packs\|My Minecraft Worlds, Maps and Packs]]: 21-04-2025
 - [[Main Notes/Recommended Mario Maker 2 Levels\|Recommended Mario Maker 2 Levels]]: 20-04-2025
 - [[Main Notes/Eat Me\|Eat Me]]: 20-04-2025
 - [[Main Notes/Dubstep Egg\|Dubstep Egg]]: 20-04-2025

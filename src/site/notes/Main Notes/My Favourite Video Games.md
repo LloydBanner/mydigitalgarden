@@ -14,6 +14,7 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 ## The List
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
+| [[Sources/Minecraft\|Minecraft]]                                             |
 | [[Sources/PEAK\|PEAK]]                                                       |
 | [[Sources/Hades II\|Hades II]]                                               |
 | [[Sources/Hades\|Hades]]                                                     |
@@ -45,7 +46,6 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Mario Maker 2\|Mario Maker 2]]                                     |
 | [[Sources/Middle Earth Shadow of Mordor\|Middle Earth Shadow of Mordor]]     |
 | [[Sources/Middle Earth Shadow of War\|Middle Earth Shadow of War]]           |
-| [[Sources/Minecraft\|Minecraft]]                                             |
 | [[Sources/Morrowind\|Morrowind]]                                             |
 | [[Sources/Mount and Blade Bannerlord\|Mount and Blade Bannerlord]]           |
 | [[Sources/Mount and Blade Warband\|Mount and Blade Warband]]                 |

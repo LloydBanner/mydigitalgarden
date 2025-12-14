@@ -29,7 +29,7 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 - [[Main Notes/Morrowind's Biggest Mods\|Morrowind's Biggest Mods]]: 22-04-2025
 - [[Main Notes/Getting into Morrowind\|Getting into Morrowind]]: 22-04-2025
 - [[Main Notes/The Best Star Wars Games\|The Best Star Wars Games]]: 21-04-2025
-- [[Main Notes/My Minecraft Worlds and Maps\|My Minecraft Worlds and Maps]]: 21-04-2025
 - [[Cooking Recipes/Tomato Based Stew Recipe\|Tomato Based Stew Recipe]]: 21-04-2025
+- [[Main Notes/My Minecraft Worlds, Maps and Packs\|My Minecraft Worlds, Maps and Packs]]: 21-04-2025
 
 { .block-language-dataview}
