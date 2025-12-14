@@ -9,7 +9,7 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 14-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 3\|Magic Shop Owners Session 3]]: 14-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 14-12-2025
-- [[Reviews/Carl's Doomsday Scenario Review\|Carl's Doomsday Scenario Review]]: 13-12-2025
+- [[Reviews/Carl's Doomsday Scenario Review\|Carl's Doomsday Scenario Review]]: 14-12-2025
 - [[Reviews/Dungeon Crawler Carl Review\|Dungeon Crawler Carl Review]]: 08-12-2025
 - [[Reviews/The Banner Saga 2 Review 2018\|The Banner Saga 2 Review 2018]]: 22-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 8\|Magic Shop Owners Session 8]]: 11-11-2025
