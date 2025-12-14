@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-minecraft-worlds-maps-and-packs/","tags":["feed","developing"],"created":"2025-10-02T02:07:46.032+01:00","updated":"2025-12-14T14:11:11.378+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-minecraft-worlds-maps-and-packs/","tags":["feed","developing"],"created":"2025-10-02T02:07:46.032+01:00","updated":"2025-12-14T17:41:57.750+00:00"}
 ---
 
-## Modded Server 1.20.1 (Start of 2025)
-So after planning to play some more singleplayer [[Sources/Minecraft\|Minecraft]] I got chatting to some friends and we said we should all play together. After some discussion we decided we should play modded and have made our own [Mod Pack](https://modrinth.com/modpack/packofmods/) it was a lot of fun. We had a nice small set of mods that fit well together. There was a small group of us and having a proximity chat mod made this work really well. Give the pack a go if you are interested, there is also a server version if you want to host your own server. I think the pack is really quite good, it is just a shame the better nether and better end stuff don't work so well with EMI for telling you recipes.
+## Modded Server 1.20.1 (Jan-April 2025)
+So after planning to play some more singleplayer [[Sources/Minecraft\|Minecraft]] I got chatting to some friends and we said we should all play together. After some discussion we decided we should play modded and have made our own [Mod Pack](https://modrinth.com/modpack/packofmods/) it was a lot of fun. We had a nice small set of mods that fit well together. There was a small group of us and having a proximity chat mod made this work really well. Give the pack a go if you are interested, there is also a server version if you want to host your own server. I think the pack is really quite good, it is just a shame the Better Nether and Better End stuff don't work so well with EMI which tells you recipes. I would probably replace these with Incendium and Nullscape if we were to start again.
 
+[Moyds Mods World Download](https://drive.google.com/drive/folders/1BNkjQJgX8qm6alPi1kEkPcqBGLl1W6lO?usp=drive_link) (Named by Mike)
 ## Current Singleplayer Plans 2024+
 I found a tool called [MCA Selector](https://github.com/Querz/mcaselector) which can be used to copy or delete chunks. I have copied the biggest survival builds and things I have done from my previous worlds and put them all together. I intend to only play in this world now. My first plan is to travel quite far from my home base and start in an area with new world generation though. Then I want to try and collect all the different items from survival. I won't take my old gear with me and I will avoid certain automatons that feel very powerful like iron farms. Essentially, a fresh start in the same world but I may run into some of my old builds and at some point I can connect back to my main base.
 
@@ -13,9 +14,9 @@ I found a tool called [MCA Selector](https://github.com/Querz/mcaselector) whi
 I am having a lot of fun with this so far. I started in version 1.21.4 and I'm really enjoying the new caves/world generation and music some of which is made by Lena Raine the creator of the music for [[Sources/Celeste\|Celeste]]!
 
 ## Survival Island Java 1.17-1.18
-During the Covid lockdowns I started a new [[Sources/Minecraft\|Minecraft]] world. I couldn't be bothered with going hunting for everything and wanted to keep things simple, so I found a world with an island at the spawn, cheated to spawn in a few items, put an end portal deep underground on the island, and add a skeleton spawner to the caves. This was a DIY survival island which used to be a popular survival challenge where you couldn't leave the island.
+During the Covid lockdowns I started a new [[Sources/Minecraft\|Minecraft]] world. I couldn't be bothered with going hunting for everything and wanted to keep things simple, so I found a world with an island at the spawn, cheated to spawn in a few items, put an end portal deep underground on the island, and added a skeleton spawner to the caves. This was a DIY survival island which used to be a popular survival challenge where you couldn't leave the island.
 
-This challenge meant I interacted a lot with new mechanics but very little with the new world generation. I had a lot of fun and manged to automate farming for a lot of resources. The most annoying thing was the new phantom mobs that had been added since the last time I played but these were not a major issue after I made my large pyramid base. I would highly recommend giving this sort of challenge a go in any version of [[Sources/Minecraft\|Minecraft]].
+This challenge meant I interacted a lot with new mechanics but very little with the new world generation. I had a lot of fun and manged to automate farming for a lot of resources. The most annoying thing was the new phantom mobs that had been added since the last time I played, but these were not a major issue after I made my large pyramid base. I would highly recommend giving this sort of challenge a go in any version of [[Sources/Minecraft\|Minecraft]].
 
 When I got bored of the island I used that fact that distance is shorter in the nether to create a quick access to the mainland. I wanted to see things from the new caves update but never really got around to exploring properly.
 
