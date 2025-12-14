@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/carl-s-doomsday-scenario-review/","tags":["feed","reviews","fantasy","developed","Sci-Fi","litRPGs"],"created":"2025-12-13T21:55:08.101+00:00","updated":"2025-12-13T21:55:08.109+00:00"}
+{"dg-publish":true,"permalink":"/reviews/carl-s-doomsday-scenario-review/","tags":["feed","reviews","fantasy","developed","Sci-Fi","litRPGs"],"created":"2025-12-14T08:57:52.469+00:00","updated":"2025-12-14T13:37:18.934+00:00"}
 ---
 
 Written: 13-12-2025
@@ -8,7 +8,7 @@ This is the quickest I have read a book of this length in years. I absolutely to
 
 It continues to expand on the ideas of the first book adding new concepts and giving more character depth. The general concept is the same but it has been switched up enough to keep the book both fresh and entertaining. 
 
-The introduction of quests and more NPCs,  as well as the ruined city setting really added an extra layer to the book. Floor three felt less like an empty series of corridors with some enemies placed in it and more alive. I think both the more empty earlier floors and this more fleshed out third floor were intentional though. I suspect the floors are supposed to get more complex as they go deeper and more funding goes into them from the corporations. The changes is good though.
+The introduction of quests and more NPCs, as well as the ruined city setting really added an extra layer to the book. Floor three felt less like an empty series of corridors with some enemies placed in it and more alive. I think both the more empty earlier floors and this more fleshed out third floor were intentional though. I suspect the floors are supposed to get more complex as they go deeper and more funding goes into them from the corporations. The changes is good though.
 
 Donut and Carl continue to exploit the systems of the dungeon in fun and interesting ways and get a pet too which I suspect will grow into a big part of the story. Throughout their quests and adventures they also have more personal character development moments. 
 

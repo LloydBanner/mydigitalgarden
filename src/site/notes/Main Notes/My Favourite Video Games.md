@@ -15,8 +15,8 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
 | [[Sources/PEAK\|PEAK]]                                                       |
-| [[Sources/Hades\|Hades]]                                                     |
 | [[Sources/Hades II\|Hades II]]                                               |
+| [[Sources/Hades\|Hades]]                                                     |
 | [[Sources/The Banner Saga 2\|The Banner Saga 2]]                             |
 | [[Sources/The Banner Saga\|The Banner Saga]]                                 |
 | [[Sources/Slice & Dice\|Slice & Dice]]                                       |
@@ -34,8 +34,8 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Dishonored 2\|Dishonored 2]]                                       |
 | [[Sources/Dishonored\|Dishonored]]                                           |
 | [[Sources/Elden Ring\|Elden Ring]]                                           |
-| [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |
 | [[Sources/Halo 3\|Halo 3]]                                                   |
+| [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |
 | [[Sources/Halo ODST\|Halo ODST]]                                             |
 | [[Sources/Halo Reach\|Halo Reach]]                                           |
 | [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
@@ -45,9 +45,9 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Mario Maker 2\|Mario Maker 2]]                                     |
 | [[Sources/Middle Earth Shadow of Mordor\|Middle Earth Shadow of Mordor]]     |
 | [[Sources/Middle Earth Shadow of War\|Middle Earth Shadow of War]]           |
-| [[Sources/Mount and Blade Bannerlord\|Mount and Blade Bannerlord]]           |
-| [[Sources/Morrowind\|Morrowind]]                                             |
 | [[Sources/Minecraft\|Minecraft]]                                             |
+| [[Sources/Morrowind\|Morrowind]]                                             |
+| [[Sources/Mount and Blade Bannerlord\|Mount and Blade Bannerlord]]           |
 | [[Sources/Mount and Blade Warband\|Mount and Blade Warband]]                 |
 | [[Sources/Prey (2017)\|Prey (2017)]]                                         |
 | [[Sources/Skyrim\|Skyrim]]                                                   |
