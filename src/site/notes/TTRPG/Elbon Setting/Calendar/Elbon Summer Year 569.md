@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/calendar/elbon-summer-year-569/","tags":["ttrpgs","draft"],"created":"2025-11-13T00:41:15.300+00:00","updated":"2025-11-13T00:41:15.300+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/calendar/elbon-summer-year-569/","tags":["ttrpgs","draft"],"created":"2025-11-13T11:00:36.206+00:00","updated":"2025-12-14T11:49:01.414+00:00"}
 ---
 
 MS = Magic Shop Owners
@@ -32,7 +32,7 @@ DH = Dragon Hunters
 24) [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|MS15]]
 25) [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|MS15]]
 26) [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 4\|CO4]], [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 16\|MS16]]
-27) [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 4\|CO4]]
+27) [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 4\|CO4]], [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|MS17]]
 28) [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 4\|CO4]]
 29) 
 30) 
