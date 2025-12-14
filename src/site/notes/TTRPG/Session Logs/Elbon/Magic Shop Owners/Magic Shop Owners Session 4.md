@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-4/","tags":["elbonLogs","feed","developed"],"created":"2025-10-04T10:51:54.502+01:00","updated":"2025-11-09T08:40:07.429+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-4/","tags":["elbonLogs","feed","developed"],"created":"2025-12-14T11:40:51.489+00:00","updated":"2025-12-14T13:35:19.326+00:00"}
 ---
 
 ## Session Notes
@@ -10,7 +10,7 @@ The party woke up in the lab in Stagbrook Keep. Sphonyx and Geog did not wake up
 
 Inside was a room where all the walls were lined with paintings. One drew the group's attention. It was a landscape with a door that shone brightly in the middle. Jatumal shouted "nepo" at it from a distance, but nothing happened. Then Breadwig poked his ten foot pole through it, and it became a part of the painting. Stinkcat then threw a dead duck into the painting, and it lay there in the landscape. Jatumal tried to jump into the painting, knocking it off the wall and falling to the ground himself. Next, they tried saying "nepo" and then entering the painting, which worked.
 
-![[IMG_0051.png\|IMG_0051.png]]
+![discoveringSarzan.png](/img/user/z_assets/TTRPG/Place%20Pictures/Stagbrook/StagbrookKeep/discoveringSarzan.png)
 
 They were inside the painting and looked painted themselves. There was an easel with an image of the room they had just been in on it. The group did some more experimentation with this before following a trail of art supplies over a wall to find a wizard called Sarzan and the edge of the painted world. Here, there was just white, and the Wizard was painting the rest. He was a copy of the man who had painted the painting originally. He was wise and happy to help the group. He identified some magical items. The fire sword and the staff of disintegration. The group asked if they could take the painting back to their shop and offer consultations with him, to which Sarzan happily agreed.
 

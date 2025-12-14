@@ -8,6 +8,7 @@ If you only want to see pages at certain levels of development, which are define
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a bit of everything) (sorted by last update)
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 14-12-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 14-12-2025
 - [[Reviews/Carl's Doomsday Scenario Review\|Carl's Doomsday Scenario Review]]: 13-12-2025
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 12-12-2025
 - [[Main Notes/Good Words\|Good Words]]: 11-12-2025
@@ -46,7 +47,6 @@ If you only want to see pages at certain levels of development, which are define
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Dragon Hunters (One Shot)/Dragon Hunters Session Notes (One Shot)\|Dragon Hunters Session Notes (One Shot)]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 1\|Cursed Ones Session 1]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 5\|Magic Shop Owners Session 5]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 6\|Magic Shop Owners Session 6]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 7\|Magic Shop Owners Session 7]]: 16-08-2025
