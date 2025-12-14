@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"2025-10-02T02:08:14.400+01:00","updated":"2025-10-02T02:08:14.400+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"2025-12-11T22:18:46.813+00:00","updated":"2025-12-11T22:18:46.813+00:00"}
 ---
 
 A collection of good words for writing that I have discovered. Wanting to write more fantasy, I am collecting them to better describe different situations.
@@ -20,6 +20,7 @@ A collection of good words for writing that I have discovered. Wanting to write 
 - Malodorous - Smelling very unpleasant. From [[Sources/Swords and Deviltry\|Swords and Deviltry]]
 - Florid - Flowery. From [[Cugel's Saga\|Cugel's Saga]]
 - Assiduous - Diligent. From [[Cugel's Saga\|Cugel's Saga]]
+- Obeisance - deferential respect. From [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]
 
 ## You May Also Like
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]
