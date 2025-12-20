@@ -32,12 +32,12 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Blade and Sorcery\|Blade and Sorcery]]                             |
 | [[Sources/Celeste\|Celeste]]                                                 |
 | [[Sources/Dark Souls\|Dark Souls]]                                           |
-| [[Sources/Dishonored 2\|Dishonored 2]]                                       |
 | [[Sources/Dishonored\|Dishonored]]                                           |
+| [[Sources/Dishonored 2\|Dishonored 2]]                                       |
 | [[Sources/Elden Ring\|Elden Ring]]                                           |
-| [[Sources/Halo 3\|Halo 3]]                                                   |
 | [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |
 | [[Sources/Halo ODST\|Halo ODST]]                                             |
+| [[Sources/Halo 3\|Halo 3]]                                                   |
 | [[Sources/Halo Reach\|Halo Reach]]                                           |
 | [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
 | [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]         |

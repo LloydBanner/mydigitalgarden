@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-minecraft-worlds-maps-and-packs/","tags":["feed","developing"],"created":"2025-10-02T02:07:46.032+01:00","updated":"2025-12-14T17:41:57.750+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-minecraft-worlds-maps-and-packs/","tags":["feed","developing"],"created":"2025-12-15T21:33:17.035+00:00","updated":"2025-12-15T21:33:17.796+00:00"}
 ---
 
 ## Modded Server 1.20.1 (Jan-April 2025)
@@ -36,6 +36,6 @@ So at my parents I did a bit of hunting for old [[Sources/Minecraft\|Minecraft]]
 
 [Survival World 2018](https://drive.google.com/file/d/1KwFgeDiHUDVstxEF2uborMeFxAamxbaF/view?usp=drive_link), [Survival World 2019](https://drive.google.com/file/d/1HTM-XN9PBNAQ3M-oj9D--TPskJ4-xERy/view?usp=drive_link), [Creative World 2018-2019](https://drive.google.com/file/d/12noClVtAEJpCdRQFz-4HoLvODP1p0GGE/view?usp=drive_link)
 
-Other than the Switch worlds, the rest were pretty empty and I unfortunately never found my main world from around 2014/2015 which was probably tied to be my most played with my Survival Island world. There is a short [Video](https://youtu.be/P6EDHW-dFos?si=mZwYsPn29G1AJN-_) of a bug I found in this world though. It looks like it was quite early in the world but is still fun to look back on. The most interesting on is one which has a large wooden tower which it looks like I was intending to make into a tree. The rest had practically nothing.
+Other than the Switch worlds, the rest were pretty empty and I unfortunately never found my main world from around 2014/2015 which was probably tied to be my most played with my Survival Island world. There is a short [Video](https://youtu.be/P6EDHW-dFos?si=mZwYsPn29G1AJN-_) of a bug I found in this world though. It looks like it was quite early in the world but is still fun to look back on. The most interesting one is one which has a large wooden tower which it looks like I was intending to make into a tree. The rest had practically nothing.
 
 [Tree World](https://drive.google.com/file/d/1pJF7PplTg126dqsN9FmBgSLGQ8tPWYtb/view?usp=drive_link)

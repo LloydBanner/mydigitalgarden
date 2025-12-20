@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/carl-s-doomsday-scenario/","tags":["books","sources","litRPGs","fantasy","Sci-Fi"],"created":"2025-12-13T21:55:08.426+00:00","updated":"2025-12-13T21:55:08.426+00:00"}
+{"dg-publish":true,"permalink":"/sources/carl-s-doomsday-scenario/","tags":["books","sources","litRPGs","fantasy","Sci-Fi"],"created":"2025-12-14T08:57:52.269+00:00","updated":"2025-12-20T10:51:45.007+00:00"}
 ---
 
 Author: [[Sources/Matt Dinniman\|Matt Dinniman]]
@@ -9,7 +9,7 @@ First Read: 07-12-2025
 Last Read: 12-12-2025
 Link: https://www.goodreads.com/book/show/56377548-carl-s-doomsday-scenario
 
-"The training levels have concluded. Now the games may truly begin."  
+**The training levels have concluded. Now the games may truly begin.**
   
 The ratings and views are off the chart. The fans just can't get enough. The dungeon gets more dangerous each day. But in a grinder designed to chew up and spit out crawlers by the millions, Carl and Princess Donut need to work harder than ever just to survive.
 

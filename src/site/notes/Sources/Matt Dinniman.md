@@ -8,7 +8,9 @@
 
 { .block-language-dataview}
 ## Books
+- [[Sources/The Dungeon Anarchist's Cookbook\|The Dungeon Anarchist's Cookbook]]
 - [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]
+- [[Sources/The Gate of the Feral Gods\|The Gate of the Feral Gods]]
 - [[Sources/Dungeon Crawler Carl\|Dungeon Crawler Carl]]
 
 { .block-language-dataview}
