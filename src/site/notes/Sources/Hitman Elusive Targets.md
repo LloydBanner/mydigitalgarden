@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/sources/hitman-elusive-targets/","created":"2025-10-02T02:10:17.006+01:00","updated":"2025-10-02T02:10:17.006+01:00"}
+{"dg-publish":true,"permalink":"/sources/hitman-elusive-targets/","created":"2025-12-20T19:09:52.453+00:00","updated":"2025-12-20T19:09:52.473+00:00"}
 ---
 
 Simple guides or notes for some elusive targets.
 - [[Sources/The Banker\|The Banker]]
-- 
+- [[The Antithesis\|The Antithesis]]

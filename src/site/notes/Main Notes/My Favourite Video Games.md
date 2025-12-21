@@ -31,22 +31,22 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Bioshock\|Bioshock]]                                               |
 | [[Sources/Blade and Sorcery\|Blade and Sorcery]]                             |
 | [[Sources/Celeste\|Celeste]]                                                 |
-| [[Sources/Dark Souls\|Dark Souls]]                                           |
 | [[Sources/Dishonored\|Dishonored]]                                           |
 | [[Sources/Dishonored 2\|Dishonored 2]]                                       |
+| [[Sources/Dark Souls\|Dark Souls]]                                           |
 | [[Sources/Elden Ring\|Elden Ring]]                                           |
+| [[Sources/Halo 3\|Halo 3]]                                                   |
 | [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |
 | [[Sources/Halo ODST\|Halo ODST]]                                             |
-| [[Sources/Halo 3\|Halo 3]]                                                   |
 | [[Sources/Halo Reach\|Halo Reach]]                                           |
-| [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
 | [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]         |
-| [[Sources/Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]               |
+| [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
 | [[Sources/Jedi Survivor\|Jedi Survivor]]                                     |
+| [[Sources/Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]               |
 | [[Sources/Mario Maker 2\|Mario Maker 2]]                                     |
 | [[Sources/Middle Earth Shadow of Mordor\|Middle Earth Shadow of Mordor]]     |
-| [[Sources/Middle Earth Shadow of War\|Middle Earth Shadow of War]]           |
 | [[Sources/Morrowind\|Morrowind]]                                             |
+| [[Sources/Middle Earth Shadow of War\|Middle Earth Shadow of War]]           |
 | [[Sources/Mount and Blade Bannerlord\|Mount and Blade Bannerlord]]           |
 | [[Sources/Mount and Blade Warband\|Mount and Blade Warband]]                 |
 | [[Sources/Prey (2017)\|Prey (2017)]]                                         |
