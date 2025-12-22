@@ -5,6 +5,7 @@
 **The List:** 
 |                                                                                       |
 | ------------------------------------------------------------------------------------- |
+| [[Sources/Django Unchained\|Django Unchained]]                                     |
 | [[Sources/Everything Everywhere all at Once\|Everything Everywhere all at Once]]   |
 | [[Sources/Mad Max - Fury Road\|Mad Max - Fury Road]]                               |
 | [[Sources/Starship Troopers\|Starship Troopers]]                                   |
@@ -17,7 +18,6 @@
 | [[Sources/Inglourious Basterds\|Inglourious Basterds]]                             |
 | [[Sources/28 Days Later\|28 Days Later]]                                           |
 | [[Sources/A Fistfull of Dollars\|A Fistfull of Dollars]]                           |
-| [[Sources/Django Unchained\|Django Unchained]]                                     |
 | [[Sources/For a Few Dollars More\|For a Few Dollars More]]                         |
 | [[Sources/The Good the Bad and the Ugly\|The Good the Bad and the Ugly]]           |
 | [[Sources/Troy (film)\|Troy (film)]]                                               |
