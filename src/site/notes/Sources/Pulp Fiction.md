@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sources/pulp-fiction/","tags":["films","sources","theBest","crime","drama"],"created":"2025-10-02T02:10:37.187+01:00","updated":"2025-10-02T02:10:37.187+01:00"}
+{"dg-publish":true,"permalink":"/sources/pulp-fiction/","tags":["films","sources","theBest","crime","drama"],"created":"2025-10-04T10:52:18.102+01:00","updated":"2025-12-22T11:51:36.544+00:00"}
 ---
 
-Directors: `= this.directors`
+Directors: [[Sources/Quentin Tarantino\|Quentin Tarantino]]
 Released: 24-05-1994
 First Watched: 2020
 Last Watched: 07-09-2025

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sources/reservoir-dogs/","tags":["films","sources","crime","theBest","thriller"],"created":"2025-10-02T02:11:50.277+01:00","updated":"2025-10-02T02:11:50.277+01:00"}
+{"dg-publish":true,"permalink":"/sources/reservoir-dogs/","tags":["films","sources","crime","theBest","thriller"],"created":"2025-10-04T10:52:18.367+01:00","updated":"2025-12-22T11:51:52.614+00:00"}
 ---
 
-Director: [[Sources/Quentin Tarantino\|Quentin Tarantino]]
+Director: `= this.director`
 Released: 21-01-1992
 First Watched: 31-05-2025
 Last Watched: 2019
