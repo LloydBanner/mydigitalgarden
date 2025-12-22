@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-favourite-books/","created":"2025-10-04T10:52:04.621+01:00","updated":"2025-11-11T20:09:18.917+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-favourite-books/","created":"2025-10-04T10:52:04.621+01:00","updated":"2025-12-22T12:10:03.880+00:00"}
 ---
 
+**The List:**
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Dungeon Crawler Carl\|Dungeon Crawler Carl]]                                                                                       |

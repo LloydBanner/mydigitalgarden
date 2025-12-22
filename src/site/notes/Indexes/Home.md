@@ -21,6 +21,7 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 
 **Feed (a bit of everything) (sorted by last update)**
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 22-12-2025
+- [[Main Notes/My Favourite Films\|My Favourite Films]]: 22-12-2025
 - [[Reviews/The Dungeon Anarchist's Cookbook Review\|The Dungeon Anarchist's Cookbook Review]]: 20-12-2025
 - [[Main Notes/My Minecraft Worlds, Maps and Packs\|My Minecraft Worlds, Maps and Packs]]: 15-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 14-12-2025
@@ -49,7 +50,6 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Reviews/The Banner Saga Review 2017\|The Banner Saga Review 2017]]: 24-10-2025
 - [[Sources/Bloodthief\|Bloodthief]]: 12-10-2025
 - [[Sources/The Good the Bad and the Ugly\|The Good the Bad and the Ugly]]: 05-10-2025
-- [[Main Notes/My Favourite Films\|My Favourite Films]]: 05-10-2025
 
 { .block-language-dataview}
 
