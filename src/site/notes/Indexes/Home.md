@@ -24,8 +24,8 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/My Minecraft Worlds, Maps and Packs\|My Minecraft Worlds, Maps and Packs]]: 15-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 14-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 3\|Magic Shop Owners Session 3]]: 14-12-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 14-12-2025
 - [[Reviews/Carl's Doomsday Scenario Review\|Carl's Doomsday Scenario Review]]: 14-12-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 14-12-2025
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 12-12-2025
 - [[Main Notes/Good Words\|Good Words]]: 11-12-2025
 - [[Reviews/Dungeon Crawler Carl Review\|Dungeon Crawler Carl Review]]: 08-12-2025
@@ -35,10 +35,10 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 28-11-2025
 - [[Reviews/The Banner Saga 2 Review 2018\|The Banner Saga 2 Review 2018]]: 22-11-2025
 - [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-11-2025
+- [[Sources/NotebookLM\|NotebookLM]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 8\|Magic Shop Owners Session 8]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 16\|Magic Shop Owners Session 16]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 12\|Magic Shop Owners Session 12]]: 11-11-2025
-- [[Sources/NotebookLM\|NotebookLM]]: 11-11-2025
 - [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 09-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|Magic Shop Owners Session 14]]: 09-11-2025
