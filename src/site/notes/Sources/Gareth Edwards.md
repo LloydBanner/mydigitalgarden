@@ -8,6 +8,7 @@ Gareth James Edwards was born on June 1, 1975 in the English town of Nuneaton, W
 
 { .block-language-dataview}
 ## Films
+- [[Sources/The Creator\|The Creator]]
 - [[Sources/Rouge One\|Rouge One]]
 
 { .block-language-dataview}

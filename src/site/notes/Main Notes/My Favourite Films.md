@@ -16,6 +16,10 @@
 | [[Sources/The Gentlemen\|The Gentlemen]]                                           |
 | [[Sources/Snatch\|Snatch]]                                                         |
 | [[Sources/Inglourious Basterds\|Inglourious Basterds]]                             |
+| [[Sources/The Batman\|The Batman]]                                                 |
+| [[Sources/King Kong (Peter Jackson)\|King Kong (Peter Jackson)]]                   |
+| [[Sources/All Quiet on the Western Front\|All Quiet on the Western Front]]         |
+| [[Sources/Puss in Boots - The Last Wish\|Puss in Boots - The Last Wish]]           |
 | [[Sources/28 Days Later\|28 Days Later]]                                           |
 | [[Sources/A Fistfull of Dollars\|A Fistfull of Dollars]]                           |
 | [[Sources/For a Few Dollars More\|For a Few Dollars More]]                         |
