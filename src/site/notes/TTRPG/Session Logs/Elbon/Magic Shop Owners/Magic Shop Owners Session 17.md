@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-17/","tags":["feed","elbonLogs","developed"],"created":"2025-12-14T11:42:05.721+00:00","updated":"2025-12-22T10:38:09.078+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-17/","tags":["feed","elbonLogs","developed"],"created":"2025-12-14T11:42:05.721+00:00","updated":"2025-12-22T10:39:55.792+00:00"}
 ---
 
 ## Session Notes
@@ -108,19 +108,19 @@
 175 xp = 1 x Rust Monster
 800 xp = 1 x Ebonoss
 1675 xp = total
-2675/9 = 287 xp each
+2675/9 = 298 xp each
 
 | Character                 | XP After Last Session | Current XP                                  |
 | ------------------------- | --------------------- | ------------------------------------------- |
-| Jatumal (Wood-Elf3)       | 10693                 | 10980 (Need to get to 12000 xp to level up) |
-| Breadwig (Magic-User4)    | 13118                 | 13405 (Need to get to 20000 xp to level up) |
-| Stinkcat (Mutoid4)        | 12954                 | 13241 (Need to get to 14000 xp to level up) |
-| Sphonyx (Illusionist3)    | 9413                  | 9700 (Need to get to 10000 xp to level up)  |
-| Maia (Drow3)              | 8781                  | 9068 (Need to get to 16000 xp to level up)  |
-| Geog (Dwarf4)             | 10758                 | 11045 (Need to get to 17000 xp to level up) |
-| Magmaranium (Dragonborn1) | 0                     | 287 (Need to get to 3000 xp to level up)    |
-| Jutara (Tiefling1)        | 0                     | 287 (Need to get to 2500 xp to level up)    |
-| Smuv (Arcane-Bard1)       | 0                     | 287 (Need to get to 2000 xp to level up)    |
+| Jatumal (Wood-Elf3)       | 10693                 | 10991 (Need to get to 12000 xp to level up) |
+| Breadwig (Magic-User4)    | 13118                 | 13416 (Need to get to 20000 xp to level up) |
+| Stinkcat (Mutoid4)        | 12954                 | 13252 (Need to get to 14000 xp to level up) |
+| Sphonyx (Illusionist3)    | 9413                  | 9711 (Need to get to 10000 xp to level up)  |
+| Maia (Drow3)              | 8781                  | 9079 (Need to get to 16000 xp to level up)  |
+| Geog (Dwarf4)             | 10758                 | 11056 (Need to get to 17000 xp to level up) |
+| Magmaranium (Dragonborn1) | 0                     | 298 (Need to get to 3000 xp to level up)    |
+| Jutara (Tiefling1)        | 0                     | 298 (Need to get to 2500 xp to level up)    |
+| Smuv (Arcane-Bard1)       | 0                     | 298 (Need to get to 2000 xp to level up)    |
 
 
 
