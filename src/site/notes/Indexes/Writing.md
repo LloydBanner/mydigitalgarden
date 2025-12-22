@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/writing/","created":"2025-10-04T10:51:54.942+01:00","updated":"2025-10-04T11:46:27.873+01:00"}
+{"dg-publish":true,"permalink":"/indexes/writing/","created":"2025-10-04T10:51:54.942+01:00","updated":"2025-12-22T15:42:25.341+00:00"}
 ---
 
 A page to collect all the things I have written. This will include, but is not limited to, books, short stories and ideas. 
 
 # Books (sorted by release)
-- [[Main Notes/Life is Better this Way\|Life is Better this Way]]: December 2023
-- [[Main Notes/Crumbling World\|Crumbling World]]: September 2018
-- [[Main Notes/A Curse Upon Mistrun\|A Curse Upon Mistrun]]: August 2021
+- [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 27-12-2023
+- [[Main Notes/A Curse Upon Mistrun\|A Curse Upon Mistrun]]: 30-08-2021
+- [[Main Notes/Crumbling World\|Crumbling World]]: 15-09-2018
 
 { .block-language-dataview}
 ## Short Stories (sorted by date I finished writing)

@@ -5,21 +5,21 @@
 **The List:**
 |                                                                                       |
 | ------------------------------------------------------------------------------------- |
+| [[Sources/All Quiet on the Western Front\|All Quiet on the Western Front]]         |
 | [[Sources/Django Unchained\|Django Unchained]]                                     |
-| [[Sources/Everything Everywhere all at Once\|Everything Everywhere all at Once]]   |
-| [[Sources/Mad Max - Fury Road\|Mad Max - Fury Road]]                               |
-| [[Sources/Starship Troopers\|Starship Troopers]]                                   |
-| [[Sources/Furiosa - A Mad Max Saga\|Furiosa - A Mad Max Saga]]                     |
 | [[Sources/Dune - Part One\|Dune - Part One]]                                       |
 | [[Sources/Dune - Part Two\|Dune - Part Two]]                                       |
-| [[Sources/Lock Stock and Two Smoking Barrels\|Lock Stock and Two Smoking Barrels]] |
-| [[Sources/The Gentlemen\|The Gentlemen]]                                           |
-| [[Sources/Snatch\|Snatch]]                                                         |
+| [[Sources/Everything Everywhere all at Once\|Everything Everywhere all at Once]]   |
+| [[Sources/Furiosa - A Mad Max Saga\|Furiosa - A Mad Max Saga]]                     |
 | [[Sources/Inglourious Basterds\|Inglourious Basterds]]                             |
-| [[Sources/The Batman\|The Batman]]                                                 |
 | [[Sources/King Kong (Peter Jackson)\|King Kong (Peter Jackson)]]                   |
-| [[Sources/All Quiet on the Western Front\|All Quiet on the Western Front]]         |
+| [[Sources/Lock Stock and Two Smoking Barrels\|Lock Stock and Two Smoking Barrels]] |
+| [[Sources/Mad Max - Fury Road\|Mad Max - Fury Road]]                               |
 | [[Sources/Puss in Boots - The Last Wish\|Puss in Boots - The Last Wish]]           |
+| [[Sources/Snatch\|Snatch]]                                                         |
+| [[Sources/Starship Troopers\|Starship Troopers]]                                   |
+| [[Sources/The Batman\|The Batman]]                                                 |
+| [[Sources/The Gentlemen\|The Gentlemen]]                                           |
 | [[Sources/28 Days Later\|28 Days Later]]                                           |
 | [[Sources/A Fistfull of Dollars\|A Fistfull of Dollars]]                           |
 | [[Sources/For a Few Dollars More\|For a Few Dollars More]]                         |

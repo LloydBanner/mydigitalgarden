@@ -7,6 +7,8 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Developed Feed (sorted by last update)
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 22-12-2025
+- [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 22-12-2025
+- [[Main Notes/A Curse Upon Mistrun\|A Curse Upon Mistrun]]: 22-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 14-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 3\|Magic Shop Owners Session 3]]: 14-12-2025
 - [[Reviews/Carl's Doomsday Scenario Review\|Carl's Doomsday Scenario Review]]: 14-12-2025
@@ -31,10 +33,9 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 13\|Magic Shop Owners Session 13]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 11\|Magic Shop Owners Session 11]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Dragon Hunters (One Shot)/Dragon Hunters Session Notes (One Shot)\|Dragon Hunters Session Notes (One Shot)]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 1\|Cursed Ones Session 1]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 16-08-2025
-- [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 11-05-2025
 - [[Main Notes/Revenge of the Sith Review 2025\|Revenge of the Sith Review 2025]]: 10-05-2025
 - [[Main Notes/Two of Me\|Two of Me]]: 27-04-2025
 - [[Cooking Recipes/Chicken Pilaf Recipe\|Chicken Pilaf Recipe]]: 25-04-2025
@@ -54,9 +55,8 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 - [[Main Notes/My Mario Maker 2 levels\|My Mario Maker 2 levels]]: 21-04-2025
 - [[Main Notes/Minecraft Mining AI\|Minecraft Mining AI]]: 21-04-2025
 - [[Main Notes/End of an Empire\|End of an Empire]]: 21-04-2025
-- [[Main Notes/Crumbling World\|Crumbling World]]: 21-04-2025
 - [[Main Notes/Astray in the Darkmounds\|Astray in the Darkmounds]]: 21-04-2025
-- [[Main Notes/A Curse Upon Mistrun\|A Curse Upon Mistrun]]: 21-04-2025
 - [[Cooking Recipes/Chicken and Bulgar Wheat Recipe\|Chicken and Bulgar Wheat Recipe]]: 21-04-2025
+- [[Main Notes/Crumbling World\|Crumbling World]]: 21-04-2025
 
 { .block-language-dataview}
