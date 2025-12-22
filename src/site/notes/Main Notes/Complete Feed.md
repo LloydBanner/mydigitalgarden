@@ -48,8 +48,8 @@ If you only want to see pages at certain levels of development, which are define
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 5\|Magic Shop Owners Session 5]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 2\|Magic Shop Owners Session 2]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 13\|Magic Shop Owners Session 13]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 11\|Magic Shop Owners Session 11]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Dragon Hunters (One Shot)/Dragon Hunters Session Notes (One Shot)\|Dragon Hunters Session Notes (One Shot)]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 1\|Cursed Ones Session 1]]: 16-08-2025
@@ -68,10 +68,10 @@ If you only want to see pages at certain levels of development, which are define
 - [[Reviews/Prey (2017) Review\|Prey (2017) Review]]: 22-04-2025
 - [[Reviews/Prey (2017) Mooncrash Review\|Prey (2017) Mooncrash Review]]: 22-04-2025
 - [[Reviews/Morrowind Review\|Morrowind Review]]: 22-04-2025
-- [[Reviews/Middle Earth Shadow of Mordor Review\|Middle Earth Shadow of Mordor Review]]: 22-04-2025
-- [[Reviews/Jedi Knight II Jedi Outcast Review\|Jedi Knight II Jedi Outcast Review]]: 22-04-2025
 - [[Reviews/Jedi Survivor Review\|Jedi Survivor Review]]: 22-04-2025
+- [[Reviews/Middle Earth Shadow of Mordor Review\|Middle Earth Shadow of Mordor Review]]: 22-04-2025
 - [[Reviews/Jedi Knight Jedi Academy Review\|Jedi Knight Jedi Academy Review]]: 22-04-2025
+- [[Reviews/Jedi Knight II Jedi Outcast Review\|Jedi Knight II Jedi Outcast Review]]: 22-04-2025
 - [[Reviews/Jedi Fallen Order Review\|Jedi Fallen Order Review]]: 22-04-2025
 - [[Main Notes/Why you Should Watch the Hal9000 Edits of the Star Wars Prequels\|Why you Should Watch the Hal9000 Edits of the Star Wars Prequels]]: 22-04-2025
 - [[Main Notes/Why you Should Watch Harmy's Despecialized Editions of Star Wars\|Why you Should Watch Harmy's Despecialized Editions of Star Wars]]: 22-04-2025
