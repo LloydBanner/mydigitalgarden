@@ -4,4 +4,4 @@
 
 Simple guides or notes for some elusive targets.
 - [[Sources/The Banker\|The Banker]]
-- [[The Antithesis\|The Antithesis]]
+- [[Main Notes/The Antithesis\|The Antithesis]]

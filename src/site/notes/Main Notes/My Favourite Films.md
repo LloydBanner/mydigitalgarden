@@ -4,6 +4,12 @@
 
 |                                                                                     |
 | ----------------------------------------------------------------------------------- |
+| [[Sources/Everything Everywhere all at Once\|Everything Everywhere all at Once]] |
+| [[Sources/Mad Max - Fury Road\|Mad Max - Fury Road]]                             |
+| [[Sources/Starship Troopers\|Starship Troopers]]                                 |
+| [[Sources/Furiosa - A Mad Max Saga\|Furiosa - A Mad Max Saga]]                   |
+| [[Sources/Dune - Part One\|Dune - Part One]]                                     |
+| [[Sources/Dune - Part Two\|Dune - Part Two]]                                     |
 | [[Sources/28 Days Later\|28 Days Later]]                                         |
 | [[Sources/A Fistfull of Dollars\|A Fistfull of Dollars]]                         |
 | [[Sources/Django Unchained\|Django Unchained]]                                   |
