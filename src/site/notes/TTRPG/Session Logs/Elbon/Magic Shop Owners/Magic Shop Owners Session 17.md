@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-17/","tags":["feed","elbonLogs","developed"],"created":"2025-12-14T11:42:05.721+00:00","updated":"2025-12-22T10:36:25.308+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-17/","tags":["feed","elbonLogs","developed"],"created":"2025-12-14T11:42:05.721+00:00","updated":"2025-12-22T10:38:09.078+00:00"}
 ---
 
 ## Session Notes
@@ -8,7 +8,7 @@
 
 [AI Podcast Overview](https://drive.google.com/file/d/1ls17ICJyyNYlMUgZUaIq7EvBuz9E6goc/view?usp=drive_link) (From [[Sources/NotebookLM\|NotebookLM]])
 ### To Cook a Body and Cut a Hole in a Wall
-**Level 1 Map from this session:**
+**Level 1 Map from this session:** 
 ![StagbrookKeepSession17.jpeg](/img/user/z_assets/TTRPG/Place%20Pictures/Stagbrook/StagbrookKeep/StagbrookKeepSession17.jpeg)
 - The party awoke to the rattling of the door they had barricaded with furniture from Sarzan's living room in Stagbrook Keep
 - The rattling suddenly stopped, the log fire that had been burning for centuries flickered out and then relit itself

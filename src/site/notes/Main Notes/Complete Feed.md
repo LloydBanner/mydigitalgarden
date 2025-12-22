@@ -7,12 +7,12 @@ If you only want to see pages at certain levels of development, which are define
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a bit of everything) (sorted by last update)
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 22-12-2025
 - [[Reviews/The Dungeon Anarchist's Cookbook Review\|The Dungeon Anarchist's Cookbook Review]]: 20-12-2025
 - [[Main Notes/My Minecraft Worlds, Maps and Packs\|My Minecraft Worlds, Maps and Packs]]: 15-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 14-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 3\|Magic Shop Owners Session 3]]: 14-12-2025
 - [[Reviews/Carl's Doomsday Scenario Review\|Carl's Doomsday Scenario Review]]: 14-12-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 14-12-2025
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 12-12-2025
 - [[Main Notes/Good Words\|Good Words]]: 11-12-2025
 - [[Reviews/Dungeon Crawler Carl Review\|Dungeon Crawler Carl Review]]: 08-12-2025
