@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-favourite-films/","tags":["feed","developing"],"created":"2025-10-05T12:53:21.009+01:00","updated":"2025-10-05T12:53:21.854+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-favourite-films/","tags":["feed","developing"],"created":"2025-10-05T12:54:49.463+01:00","updated":"2025-12-22T12:04:05.661+00:00"}
 ---
 
+**The List:** 
 |                                                                                       |
 | ------------------------------------------------------------------------------------- |
 | [[Sources/Everything Everywhere all at Once\|Everything Everywhere all at Once]]   |
@@ -13,7 +14,7 @@
 | [[Sources/Lock Stock and Two Smoking Barrels\|Lock Stock and Two Smoking Barrels]] |
 | [[Sources/The Gentlemen\|The Gentlemen]]                                           |
 | [[Sources/Snatch\|Snatch]]                                                         |
-| [[Inglourious Basterds\|Inglourious Basterds]]                                     |
+| [[Sources/Inglourious Basterds\|Inglourious Basterds]]                             |
 | [[Sources/28 Days Later\|28 Days Later]]                                           |
 | [[Sources/A Fistfull of Dollars\|A Fistfull of Dollars]]                           |
 | [[Sources/Django Unchained\|Django Unchained]]                                     |
