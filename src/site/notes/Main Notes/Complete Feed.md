@@ -9,6 +9,8 @@ If you only want to see pages at certain levels of development, which are define
 ## Feed (a bit of everything) (sorted by last update)
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 22-12-2025
 - [[Main Notes/My Favourite Films\|My Favourite Films]]: 22-12-2025
+- [[Main Notes/Values I Live By\|Values I Live By]]: 22-12-2025
+- [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 22-12-2025
 - [[Reviews/The Dungeon Anarchist's Cookbook Review\|The Dungeon Anarchist's Cookbook Review]]: 20-12-2025
 - [[Main Notes/My Minecraft Worlds, Maps and Packs\|My Minecraft Worlds, Maps and Packs]]: 15-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 14-12-2025
@@ -38,7 +40,6 @@ If you only want to see pages at certain levels of development, which are define
 - [[Sources/Bloodthief\|Bloodthief]]: 12-10-2025
 - [[Sources/The Good the Bad and the Ugly\|The Good the Bad and the Ugly]]: 05-10-2025
 - [[Sources/Flowers for Algernon\|Flowers for Algernon]]: 15-09-2025
-- [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 15-09-2025
 - [[Main Notes/Appendix N\|Appendix N]]: 07-09-2025
 - [[Main Notes/Permadeath In Games\|Permadeath In Games]]: 03-09-2025
 - [[Sources/The Courage to be Disliked\|The Courage to be Disliked]]: 26-08-2025
