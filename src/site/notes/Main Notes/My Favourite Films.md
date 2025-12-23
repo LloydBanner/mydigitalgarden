@@ -11,6 +11,10 @@
 | [[Sources/The Muppets Christmas Carol\|The Muppets Christmas Carol]]                     |
 | [[Sources/Love Actually\|Love Actually]]                                                 |
 | [[Sources/The Snowman\|The Snowman]]                                                     |
+| [[Sources/Toy Story\|Toy Story]]                                                         |
+| [[Sources/Toy Story 2\|Toy Story 2]]                                                     |
+| [[Sources/Toy Story 3\|Toy Story 3]]                                                     |
+| [[Sources/Spirited Away\|Spirited Away]]                                                 |
 | [[Sources/All Quiet on the Western Front\|All Quiet on the Western Front]]               |
 | [[Sources/Django Unchained\|Django Unchained]]                                           |
 | [[Sources/Dune - Part One\|Dune - Part One]]                                             |

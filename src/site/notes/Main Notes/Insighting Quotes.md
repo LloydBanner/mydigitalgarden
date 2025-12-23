@@ -6,7 +6,7 @@ I think one line can sometimes conjure up many possibilities in your mind. so he
 list of quotes to get your imagination going.
 
 1. "You've never seen a greater hive of scum and villainy." - [[Sources/A New Hope\|A New Hope]]
-2. "You are a sad, strange, little man, and you have my pity. Farewell." - [[Toy Story\|Toy Story]]
+2. "You are a sad, strange, little man, and you have my pity. Farewell." - [[Sources/Toy Story\|Toy Story]]
 3. "My name is xxxx. You killed my father. Prepare to die." - The Princess Bride
 4. "It's just a flesh wound." - Monty Python and the Holy Grail
 5. "I’m going to make him an offer he can’t refuse." - The Godfather
@@ -19,7 +19,7 @@ list of quotes to get your imagination going.
 - [[Main Notes/Good Words\|Good Words]]
 ## References 
 - [[Sources/A New Hope\|A New Hope]]
-- [[Toy Story\|Toy Story]]
+- [[Sources/Toy Story\|Toy Story]]
 - The Princess Bride
 - Monty Python and the Holy Grail
 - The Godfather

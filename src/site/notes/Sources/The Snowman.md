@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-snowman/","tags":["films","sources","christmas","theBest"],"created":"2025-12-23T10:47:33.849+00:00","updated":"2025-12-23T10:50:10.157+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-snowman/","tags":["films","sources","christmas","theBest","animated","kids"],"created":"2025-12-23T10:47:33.849+00:00","updated":"2025-12-23T10:52:32.345+00:00"}
 ---
 
 Directors: [[Sources/Dianne Jackson\|Dianne Jackson]],[[Sources/Jimmy T. Murakami\|Jimmy T. Murakami]]

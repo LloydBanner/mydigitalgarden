@@ -22,8 +22,8 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 **Feed (a bit of everything) (sorted by last update)**
 - [[TTRPG/Random Tables/Fantasy Land Generation Tables\|Fantasy Land Generation Tables]]: 23-12-2025
 - [[TTRPG/Random Tables/Climate and Weather Tables\|Climate and Weather Tables]]: 23-12-2025
-- [[Main Notes/Insighting Quotes\|Insighting Quotes]]: 23-12-2025
 - [[Main Notes/The Best Christmas Films\|The Best Christmas Films]]: 23-12-2025
+- [[Main Notes/Insighting Quotes\|Insighting Quotes]]: 23-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 22-12-2025
 - [[Main Notes/Values I Live By\|Values I Live By]]: 22-12-2025
 - [[Main Notes/My Favourite Films\|My Favourite Films]]: 22-12-2025
