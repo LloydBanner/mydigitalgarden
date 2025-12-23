@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/books-i-want-to-read/","tags":["books","developing"],"created":"2025-11-30T13:22:56.642+00:00","updated":"2025-11-30T13:22:56.642+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/books-i-want-to-read/","tags":["books","developing"],"created":"2025-12-22T18:07:01.601+00:00","updated":"2025-12-22T18:07:01.601+00:00"}
 ---
 
 - The Weirdest People in the World
@@ -29,3 +29,4 @@
 - Enders Game (Sci-Fi)
 - The Praise of Folly (Erasmus)
 - Plain Style (Writing)
+- Memoirs of Hadrian

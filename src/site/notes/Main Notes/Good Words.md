@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"2025-12-11T22:18:46.813+00:00","updated":"2025-12-11T22:18:46.813+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"2025-12-11T23:22:09.214+00:00","updated":"2025-12-23T08:17:59.218+00:00"}
 ---
 
 A collection of good words for writing that I have discovered. Wanting to write more fantasy, I am collecting them to better describe different situations.
@@ -25,5 +25,6 @@ A collection of good words for writing that I have discovered. Wanting to write 
 ## You May Also Like
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]
 - [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]
+- [[Main Notes/Insighting Quotes\|Insighting Quotes]]
 ## References 
 - [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]

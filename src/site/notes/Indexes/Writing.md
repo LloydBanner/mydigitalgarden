@@ -16,6 +16,7 @@ A page to collect all the things I have written. This will include, but is not l
 
 { .block-language-dataview}
 ## Thoughts (sorted by last update)
+- [[Main Notes/Insighting Quotes\|Insighting Quotes]]: 23-12-2025
 - [[Main Notes/Values I Live By\|Values I Live By]]: 22-12-2025
 - [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 22-12-2025
 - [[Main Notes/Good Words\|Good Words]]: 11-12-2025

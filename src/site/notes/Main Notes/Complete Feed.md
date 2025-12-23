@@ -7,10 +7,13 @@ If you only want to see pages at certain levels of development, which are define
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a bit of everything) (sorted by last update)
-- [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 22-12-2025
+- [[Main Notes/Insighting Quotes\|Insighting Quotes]]: 23-12-2025
+- [[TTRPG/Random Tables/Climate and Weather Tables\|Climate and Weather Tables]]: 23-12-2025
+- [[TTRPG/Random Tables/Fantasy Land Generation Tables\|Fantasy Land Generation Tables]]: 23-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 22-12-2025
 - [[Main Notes/Values I Live By\|Values I Live By]]: 22-12-2025
 - [[Main Notes/My Favourite Films\|My Favourite Films]]: 22-12-2025
+- [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 22-12-2025
 - [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 22-12-2025
 - [[Main Notes/A Curse Upon Mistrun\|A Curse Upon Mistrun]]: 22-12-2025
 - [[Reviews/The Dungeon Anarchist's Cookbook Review\|The Dungeon Anarchist's Cookbook Review]]: 20-12-2025
@@ -27,10 +30,10 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 28-11-2025
 - [[Reviews/The Banner Saga 2 Review 2018\|The Banner Saga 2 Review 2018]]: 22-11-2025
 - [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-11-2025
+- [[Sources/NotebookLM\|NotebookLM]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 8\|Magic Shop Owners Session 8]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 16\|Magic Shop Owners Session 16]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 12\|Magic Shop Owners Session 12]]: 11-11-2025
-- [[Sources/NotebookLM\|NotebookLM]]: 11-11-2025
 - [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 09-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|Magic Shop Owners Session 14]]: 09-11-2025
@@ -97,11 +100,11 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/My Mario Maker 2 levels\|My Mario Maker 2 levels]]: 21-04-2025
 - [[Main Notes/Minecraft Mining AI\|Minecraft Mining AI]]: 21-04-2025
 - [[Main Notes/End of an Empire\|End of an Empire]]: 21-04-2025
+- [[Main Notes/Crumbling World\|Crumbling World]]: 21-04-2025
 - [[Main Notes/Astray in the Darkmounds\|Astray in the Darkmounds]]: 21-04-2025
 - [[Main Notes/Are the LOTR Films Good Adaptations of the Books\|Are the LOTR Films Good Adaptations of the Books]]: 21-04-2025
 - [[Cooking Recipes/Tomato Based Stew Recipe\|Tomato Based Stew Recipe]]: 21-04-2025
 - [[Cooking Recipes/Chicken and Bulgar Wheat Recipe\|Chicken and Bulgar Wheat Recipe]]: 21-04-2025
-- [[Main Notes/Crumbling World\|Crumbling World]]: 21-04-2025
 - [[Main Notes/Recommended Mario Maker 2 Levels\|Recommended Mario Maker 2 Levels]]: 20-04-2025
 - [[Main Notes/Eat Me\|Eat Me]]: 20-04-2025
 - [[Main Notes/Dubstep Egg\|Dubstep Egg]]: 20-04-2025
