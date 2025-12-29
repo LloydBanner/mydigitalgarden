@@ -5,20 +5,27 @@
 **The List:**
 |                                                                                             |
 | ------------------------------------------------------------------------------------------- |
+| [[Sources/The Fellowship of the Ring (film)\|The Fellowship of the Ring (film)]]         |
+| [[Sources/The Return of the King (film)\|The Return of the King (film)]]                 |
+| [[Sources/The Two Towers (film)\|The Two Towers (film)]]                                 |
+| [[Sources/Shrek\|Shrek]]                                                                 |
+| [[Sources/Shrek 2\|Shrek 2]]                                                             |
+| [[Sources/Lilo and Stitch\|Lilo and Stitch]]                                             |
+| [[Sources/Up\|Up]]                                                                       |
 | [[Sources/Home Alone\|Home Alone]]                                                       |
-| [[Sources/The Holdovers\|The Holdovers]]                                                 |
-| [[Sources/National Lampoon's Christmas Vacation\|National Lampoon's Christmas Vacation]] |
-| [[Sources/The Muppets Christmas Carol\|The Muppets Christmas Carol]]                     |
 | [[Sources/Love Actually\|Love Actually]]                                                 |
+| [[Sources/National Lampoon's Christmas Vacation\|National Lampoon's Christmas Vacation]] |
+| [[Sources/Spirited Away\|Spirited Away]]                                                 |
+| [[Sources/The Holdovers\|The Holdovers]]                                                 |
+| [[Sources/The Muppets Christmas Carol\|The Muppets Christmas Carol]]                     |
 | [[Sources/The Snowman\|The Snowman]]                                                     |
-| [[Sources/Toy Story\|Toy Story]]                                                         |
 | [[Sources/Toy Story 2\|Toy Story 2]]                                                     |
 | [[Sources/Toy Story 3\|Toy Story 3]]                                                     |
-| [[Sources/Spirited Away\|Spirited Away]]                                                 |
+| [[Sources/Toy Story\|Toy Story]]                                                         |
 | [[Sources/All Quiet on the Western Front\|All Quiet on the Western Front]]               |
 | [[Sources/Django Unchained\|Django Unchained]]                                           |
-| [[Sources/Dune - Part One\|Dune - Part One]]                                             |
 | [[Sources/Dune - Part Two\|Dune - Part Two]]                                             |
+| [[Sources/Dune - Part One\|Dune - Part One]]                                             |
 | [[Sources/Everything Everywhere all at Once\|Everything Everywhere all at Once]]         |
 | [[Sources/Furiosa - A Mad Max Saga\|Furiosa - A Mad Max Saga]]                           |
 | [[Sources/Inglourious Basterds\|Inglourious Basterds]]                                   |
@@ -48,8 +55,5 @@
 | [[Sources/A New Hope\|A New Hope]]                                                       |
 | [[Sources/Attack of the Clones\|Attack of the Clones]]                                   |
 | [[Sources/The Empire Strikes Back\|The Empire Strikes Back]]                             |
-| [[Sources/The Fellowship of the Ring (film)\|The Fellowship of the Ring (film)]]         |
-| [[Sources/The Return of the King (film)\|The Return of the King (film)]]                 |
-| [[Sources/The Two Towers (film)\|The Two Towers (film)]]                                 |
 
 { .block-language-dataview}

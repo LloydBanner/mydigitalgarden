@@ -1,0 +1,12 @@
+---
+{"dg-publish":true,"permalink":"/sources/shrek/","tags":["films","sources","theBest","kids","animated","fairyTale"],"created":"2025-12-29T10:43:38.361+00:00","updated":"2025-12-29T10:48:43.784+00:00"}
+---
+
+Directors: [[Sources/Andrew Adamson\|Andrew Adamson]],[[Sources/Vicky Jenson\|Vicky Jenson]]
+Released: 22-04-2001
+Series: [[Sources/Shrek Films\|Shrek Films]]
+First Watched: 2008
+Last Watched: 2019
+Link: https://www.imdb.com/title/tt0126029/
+
+A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.

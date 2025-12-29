@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"2025-12-11T23:22:09.214+00:00","updated":"2025-12-23T08:17:59.218+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"2025-12-28T23:58:57.524+00:00","updated":"2025-12-28T23:58:57.552+00:00"}
 ---
 
 A collection of good words for writing that I have discovered. Wanting to write more fantasy, I am collecting them to better describe different situations.
@@ -21,6 +21,7 @@ A collection of good words for writing that I have discovered. Wanting to write 
 - Florid - Flowery. From [[Cugel's Saga\|Cugel's Saga]]
 - Assiduous - Diligent. From [[Cugel's Saga\|Cugel's Saga]]
 - Obeisance - deferential respect. From [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]
+- Recalcitrant - uncooperative, particularly to authority. From [[Sources/The Gate of the Feral Gods\|The Gate of the Feral Gods]]
 
 ## You May Also Like
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]

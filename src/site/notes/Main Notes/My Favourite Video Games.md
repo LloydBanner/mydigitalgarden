@@ -28,8 +28,8 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Into the Breach\|Into the Breach]]                                 |
 | [[Sources/Plants Vs Zombies\|Plants Vs Zombies]]                             |
 | [[Sources/Oblivion\|Oblivion]]                                               |
-| [[Sources/Bioshock\|Bioshock]]                                               |
 | [[Sources/Blade and Sorcery\|Blade and Sorcery]]                             |
+| [[Sources/Bioshock\|Bioshock]]                                               |
 | [[Sources/Celeste\|Celeste]]                                                 |
 | [[Sources/Dark Souls\|Dark Souls]]                                           |
 | [[Sources/Dishonored 2\|Dishonored 2]]                                       |

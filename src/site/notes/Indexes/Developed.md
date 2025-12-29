@@ -42,8 +42,8 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 - [[Reviews/Prey (2017) Review\|Prey (2017) Review]]: 22-04-2025
 - [[Reviews/Prey (2017) Mooncrash Review\|Prey (2017) Mooncrash Review]]: 22-04-2025
 - [[Reviews/Morrowind Review\|Morrowind Review]]: 22-04-2025
-- [[Reviews/Jedi Survivor Review\|Jedi Survivor Review]]: 22-04-2025
 - [[Reviews/Middle Earth Shadow of Mordor Review\|Middle Earth Shadow of Mordor Review]]: 22-04-2025
+- [[Reviews/Jedi Survivor Review\|Jedi Survivor Review]]: 22-04-2025
 - [[Reviews/Jedi Knight Jedi Academy Review\|Jedi Knight Jedi Academy Review]]: 22-04-2025
 - [[Reviews/Jedi Knight II Jedi Outcast Review\|Jedi Knight II Jedi Outcast Review]]: 22-04-2025
 - [[Reviews/Jedi Fallen Order Review\|Jedi Fallen Order Review]]: 22-04-2025
