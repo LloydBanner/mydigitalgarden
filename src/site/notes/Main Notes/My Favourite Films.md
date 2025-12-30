@@ -9,6 +9,7 @@
 | [[Sources/Logan\|Logan]]                                                                 |
 | [[Sources/The Revenant\|The Revenant]]                                                   |
 | [[Sources/Knives Out\|Knives Out]]                                                       |
+| [[Sources/Fargo\|Fargo]]                                                                 |
 | [[Sources/Lilo and Stitch\|Lilo and Stitch]]                                             |
 | [[Sources/Shrek 2\|Shrek 2]]                                                             |
 | [[Sources/Shrek\|Shrek]]                                                                 |
