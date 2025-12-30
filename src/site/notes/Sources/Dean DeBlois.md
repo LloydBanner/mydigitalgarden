@@ -3,6 +3,7 @@
 ---
 
 ## Films
+- [[Sources/How to Train Your Dragon\|How to Train Your Dragon]]
 - [[Sources/Lilo and Stitch\|Lilo and Stitch]]
 
 { .block-language-dataview}

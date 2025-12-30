@@ -5,12 +5,16 @@
 **The List:**
 |                                                                                             |
 | ------------------------------------------------------------------------------------------- |
+| [[Sources/How to Train Your Dragon\|How to Train Your Dragon]]                           |
+| [[Sources/Logan\|Logan]]                                                                 |
+| [[Sources/The Revenant\|The Revenant]]                                                   |
+| [[Sources/Knives Out\|Knives Out]]                                                       |
+| [[Sources/Lilo and Stitch\|Lilo and Stitch]]                                             |
+| [[Sources/Shrek 2\|Shrek 2]]                                                             |
+| [[Sources/Shrek\|Shrek]]                                                                 |
 | [[Sources/The Fellowship of the Ring (film)\|The Fellowship of the Ring (film)]]         |
 | [[Sources/The Return of the King (film)\|The Return of the King (film)]]                 |
 | [[Sources/The Two Towers (film)\|The Two Towers (film)]]                                 |
-| [[Sources/Shrek\|Shrek]]                                                                 |
-| [[Sources/Shrek 2\|Shrek 2]]                                                             |
-| [[Sources/Lilo and Stitch\|Lilo and Stitch]]                                             |
 | [[Sources/Up\|Up]]                                                                       |
 | [[Sources/Home Alone\|Home Alone]]                                                       |
 | [[Sources/Love Actually\|Love Actually]]                                                 |
@@ -24,8 +28,8 @@
 | [[Sources/Toy Story\|Toy Story]]                                                         |
 | [[Sources/All Quiet on the Western Front\|All Quiet on the Western Front]]               |
 | [[Sources/Django Unchained\|Django Unchained]]                                           |
-| [[Sources/Dune - Part Two\|Dune - Part Two]]                                             |
 | [[Sources/Dune - Part One\|Dune - Part One]]                                             |
+| [[Sources/Dune - Part Two\|Dune - Part Two]]                                             |
 | [[Sources/Everything Everywhere all at Once\|Everything Everywhere all at Once]]         |
 | [[Sources/Furiosa - A Mad Max Saga\|Furiosa - A Mad Max Saga]]                           |
 | [[Sources/Inglourious Basterds\|Inglourious Basterds]]                                   |

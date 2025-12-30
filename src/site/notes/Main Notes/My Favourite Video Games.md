@@ -28,8 +28,8 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Into the Breach\|Into the Breach]]                                 |
 | [[Sources/Plants Vs Zombies\|Plants Vs Zombies]]                             |
 | [[Sources/Oblivion\|Oblivion]]                                               |
-| [[Sources/Blade and Sorcery\|Blade and Sorcery]]                             |
 | [[Sources/Bioshock\|Bioshock]]                                               |
+| [[Sources/Blade and Sorcery\|Blade and Sorcery]]                             |
 | [[Sources/Celeste\|Celeste]]                                                 |
 | [[Sources/Dark Souls\|Dark Souls]]                                           |
 | [[Sources/Dishonored 2\|Dishonored 2]]                                       |
@@ -46,8 +46,8 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Mario Maker 2\|Mario Maker 2]]                                     |
 | [[Sources/Middle Earth Shadow of Mordor\|Middle Earth Shadow of Mordor]]     |
 | [[Sources/Middle Earth Shadow of War\|Middle Earth Shadow of War]]           |
-| [[Sources/Morrowind\|Morrowind]]                                             |
 | [[Sources/Mount and Blade Bannerlord\|Mount and Blade Bannerlord]]           |
+| [[Sources/Morrowind\|Morrowind]]                                             |
 | [[Sources/Mount and Blade Warband\|Mount and Blade Warband]]                 |
 | [[Sources/Prey (2017)\|Prey (2017)]]                                         |
 | [[Sources/Skyrim\|Skyrim]]                                                   |
