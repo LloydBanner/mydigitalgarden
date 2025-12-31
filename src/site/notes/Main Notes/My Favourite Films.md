@@ -5,11 +5,14 @@
 **The List:**
 |                                                                                             |
 | ------------------------------------------------------------------------------------------- |
+| [[Sources/1917\|1917]]                                                                   |
+| [[Sources/Bullet Train\|Bullet Train]]                                                   |
+| [[Sources/Seven Psychopaths\|Seven Psychopaths]]                                         |
+| [[Sources/Fargo\|Fargo]]                                                                 |
 | [[Sources/How to Train Your Dragon\|How to Train Your Dragon]]                           |
+| [[Sources/Knives Out\|Knives Out]]                                                       |
 | [[Sources/Logan\|Logan]]                                                                 |
 | [[Sources/The Revenant\|The Revenant]]                                                   |
-| [[Sources/Knives Out\|Knives Out]]                                                       |
-| [[Sources/Fargo\|Fargo]]                                                                 |
 | [[Sources/Lilo and Stitch\|Lilo and Stitch]]                                             |
 | [[Sources/Shrek 2\|Shrek 2]]                                                             |
 | [[Sources/Shrek\|Shrek]]                                                                 |
