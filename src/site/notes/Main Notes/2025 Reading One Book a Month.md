@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/2025-reading-one-book-a-month/","tags":["feed","developed"],"created":"2026-01-04T19:21:25.488+00:00","updated":"2026-01-04T19:25:06.992+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/2025-reading-one-book-a-month/","tags":["feed","developed"],"created":"2026-01-04T19:21:25.488+00:00","updated":"2026-01-04T19:26:19.044+00:00"}
 ---
 
 For this year I set a couple of new year's resolutions. One was to say no more so I had more time, I don't think this has gone so well, and the other was to read at least one book a month and at least 12 by the end of the year. This page is to record my progress. 
@@ -28,8 +28,8 @@ I used to read a lot, but lost the fun of it somewhere. I think my list of books
 9. November - [[Sources/Siddhartha\|Siddhartha]]
 10. November - [[Sources/Old Moon Quarterly Issue 1\|Old Moon Quarterly Issue 1]]
 11. December - [[Sources/Dungeon Crawler Carl\|Dungeon Crawler Carl]]
-12. December- [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]
-13. December- [[Sources/The Dungeon Anarchist's Cookbook\|The Dungeon Anarchist's Cookbook]]
+12. December - [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]
+13. December - [[Sources/The Dungeon Anarchist's Cookbook\|The Dungeon Anarchist's Cookbook]]
 ## You May Also Like
 - [[Main Notes/My Favourite Books\|My Favourite Books]]
 - [[Main Notes/Media Consumption\|Media Consumption]]
