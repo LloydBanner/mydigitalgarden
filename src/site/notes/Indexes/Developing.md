@@ -6,6 +6,7 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Developing Feed (sorted by last update)
+- [[Reviews/Alien Earth Season 1 Review\|Alien Earth Season 1 Review]]: 09-01-2026
 - [[TTRPG/Random Tables/Fantasy Land Generation Tables\|Fantasy Land Generation Tables]]: 23-12-2025
 - [[TTRPG/Random Tables/Climate and Weather Tables\|Climate and Weather Tables]]: 23-12-2025
 - [[Main Notes/Insighting Quotes\|Insighting Quotes]]: 23-12-2025
@@ -15,9 +16,9 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 - [[Reviews/The Dungeon Anarchist's Cookbook Review\|The Dungeon Anarchist's Cookbook Review]]: 20-12-2025
 - [[Main Notes/My Minecraft Worlds, Maps and Packs\|My Minecraft Worlds, Maps and Packs]]: 15-12-2025
 - [[Sources/PEAK\|PEAK]]: 28-11-2025
-- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 28-11-2025
 - [[Reviews/Siddhartha Review\|Siddhartha Review]]: 28-11-2025
 - [[Reviews/Old Moon Quarterly Issue 1 Review\|Old Moon Quarterly Issue 1 Review]]: 28-11-2025
+- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 28-11-2025
 - [[Sources/NotebookLM\|NotebookLM]]: 11-11-2025
 - [[z_templates/Template Review\|Template Review]]: 30-10-2025
 - [[Main Notes/Appendix N\|Appendix N]]: 07-09-2025
