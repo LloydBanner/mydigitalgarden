@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cooking-recipes/slow-cooked-beef-and-red-wine-stew/","tags":["lloydsCookingRecipes","feed","developing"],"created":"2026-01-10T14:06:10.102+00:00","updated":"2026-01-10T14:06:10.375+00:00"}
+{"dg-publish":true,"permalink":"/cooking-recipes/slow-cooked-beef-and-red-wine-stew/","tags":["lloydsCookingRecipes","feed","developing"],"created":"2026-01-10T14:06:16.385+00:00","updated":"2026-01-10T14:07:14.371+00:00"}
 ---
 
-Serves: 5-6
-Prep Time: 20-30 minutes
-Cooking Time: 8-10 hours
+Serves 5-6
+Prep Time 20-30 minutes
+Cooking Time 8-10 hours
 
 A tasty beef stew with lots of flavour. Great for guests or meal prep in the winter months.
 
