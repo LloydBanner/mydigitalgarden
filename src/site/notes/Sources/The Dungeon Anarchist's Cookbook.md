@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-dungeon-anarchist-s-cookbook/","tags":["books","sources","fantasy","Sci-Fi","litRPGs"],"created":"2025-12-20T10:36:32.296+00:00","updated":"2025-12-20T10:52:15.824+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-dungeon-anarchist-s-cookbook/","tags":["books","sources","fantasy","Sci-Fi","litRPGs","theBest"],"created":"2025-12-20T10:36:32.296+00:00","updated":"2026-01-12T17:46:13.207+00:00"}
 ---
 
 Author: [[Sources/Matt Dinniman\|Matt Dinniman]]
