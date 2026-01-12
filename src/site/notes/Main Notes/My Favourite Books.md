@@ -5,6 +5,7 @@
 **The List:**
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/The Gate of the Feral Gods\|The Gate of the Feral Gods]]                                                                           |
 | [[Sources/Dungeon Crawler Carl\|Dungeon Crawler Carl]]                                                                                       |
 | [[Sources/Digital Minimalism\|Digital Minimalism]]                                                                                           |
 | [[Sources/Flowers for Algernon\|Flowers for Algernon]]                                                                                       |
