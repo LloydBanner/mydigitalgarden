@@ -6,6 +6,7 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Draft Feed (a bit of everything) (sorted by last update)
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 16-01-2026
 - [[Main Notes/Good Words\|Good Words]]: 28-12-2025
 - [[Main Notes/The Best Christmas Films\|The Best Christmas Films]]: 23-12-2025
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 23-12-2025

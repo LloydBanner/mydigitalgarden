@@ -18,8 +18,8 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/PEAK\|PEAK]]                                                       |
 | [[Sources/Hades II\|Hades II]]                                               |
 | [[Sources/Hades\|Hades]]                                                     |
-| [[Sources/The Banner Saga\|The Banner Saga]]                                 |
 | [[Sources/The Banner Saga 2\|The Banner Saga 2]]                             |
+| [[Sources/The Banner Saga\|The Banner Saga]]                                 |
 | [[Sources/Slice & Dice\|Slice & Dice]]                                       |
 | [[Sources/Bloodthief\|Bloodthief]]                                           |
 | [[Sources/Ico\|Ico]]                                                         |
@@ -28,8 +28,8 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Into the Breach\|Into the Breach]]                                 |
 | [[Sources/Plants Vs Zombies\|Plants Vs Zombies]]                             |
 | [[Sources/Oblivion\|Oblivion]]                                               |
-| [[Sources/Blade and Sorcery\|Blade and Sorcery]]                             |
 | [[Sources/Bioshock\|Bioshock]]                                               |
+| [[Sources/Blade and Sorcery\|Blade and Sorcery]]                             |
 | [[Sources/Celeste\|Celeste]]                                                 |
 | [[Sources/Dark Souls\|Dark Souls]]                                           |
 | [[Sources/Dishonored 2\|Dishonored 2]]                                       |
@@ -37,12 +37,12 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Elden Ring\|Elden Ring]]                                           |
 | [[Sources/Halo 3\|Halo 3]]                                                   |
 | [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |
-| [[Sources/Halo ODST\|Halo ODST]]                                             |
 | [[Sources/Halo Reach\|Halo Reach]]                                           |
+| [[Sources/Halo ODST\|Halo ODST]]                                             |
 | [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
+| [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]         |
 | [[Sources/Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]               |
 | [[Sources/Jedi Survivor\|Jedi Survivor]]                                     |
-| [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]         |
 | [[Sources/Mario Maker 2\|Mario Maker 2]]                                     |
 | [[Sources/Middle Earth Shadow of Mordor\|Middle Earth Shadow of Mordor]]     |
 | [[Sources/Middle Earth Shadow of War\|Middle Earth Shadow of War]]           |

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/mmc-invitational-2026/","tags":["feed","gaming","developing"],"created":"2026-01-16T12:57:54.763+00:00","updated":"2026-01-16T14:29:49.886+00:00"}
+{"dg-publish":true,"permalink":"/mmc-invitational-2026/","tags":["feed","gaming","developing"],"created":"2026-01-16T12:57:54.763+00:00","updated":"2026-01-16T19:27:50.458+00:00"}
 ---
 
-On the 14th of March 2026 I will be running a gaming tournament for my birthday. If I have sent you a link to this page you are invited. Below are the games we will be playing with the conditions we will be playing them in if you want to practice (you don't have to this is for fun).
-
+On the 14th of March 2026 I will be running a gaming tournament for my birthday. If I have sent you a link to this page you are invited. Below are the games we will be playing with the conditions we will be playing them in if you want to practice (you don't have to this is for fun). We can order some food somewhere along the way too.
 # Games:
 ### Halo 3
 **We will discover our FPS champions with Halo 3. The ultimate MLG game of the 2000s. Make a pair and see if you can reach the final. No Mountain Dew sponsorship unfortunately.**

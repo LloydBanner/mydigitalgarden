@@ -38,12 +38,12 @@
 | [[Sources/The Fifth Science\|The Fifth Science]]                                                                                             |
 | [[Sources/The Final Empire\|The Final Empire]]                                                                                               |
 | [[Sources/The Forever War\|The Forever War]]                                                                                                 |
-| [[Sources/The Hobbit (book)\|The Hobbit (book)]]                                                                                             |
 | [[Sources/The Hero of Ages\|The Hero of Ages]]                                                                                               |
+| [[Sources/The Hobbit (book)\|The Hobbit (book)]]                                                                                             |
 | [[Sources/The Prince\|The Prince]]                                                                                                           |
 | [[Sources/The Return of the King (book)\|The Return of the King (book)]]                                                                     |
-| [[Sources/The Two Towers (book)\|The Two Towers (book)]]                                                                                     |
 | [[Sources/The Tombs of Atuan\|The Tombs of Atuan]]                                                                                           |
+| [[Sources/The Two Towers (book)\|The Two Towers (book)]]                                                                                     |
 | [[Sources/The Ultimate Hitchhiker’s Guide to the Galaxy\|The Ultimate Hitchhiker’s Guide to the Galaxy]]                                     |
 | [[Sources/The Way of Kings\|The Way of Kings]]                                                                                               |
 | [[Sources/The Well of Ascension\|The Well of Ascension]]                                                                                     |
