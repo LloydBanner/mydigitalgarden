@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/joel-coen/","tags":["sources","directors"],"created":"2025-12-30T09:22:59.727+00:00","updated":"2025-12-30T09:23:07.722+00:00"}
+{"dg-publish":true,"permalink":"/sources/joel-coen/","tags":["sources","directors"],"created":"2026-01-13T17:29:47.054+00:00","updated":"2026-01-13T17:29:47.750+00:00"}
 ---
 
 ## Films

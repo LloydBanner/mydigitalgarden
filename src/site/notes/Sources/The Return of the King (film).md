@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-return-of-the-king-film/","tags":["lordOfTheRings","films","theBest","sources","fantasy"],"created":"2025-10-04T10:52:18.271+01:00","updated":"2025-12-29T11:31:17.461+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-return-of-the-king-film/","tags":["lordOfTheRings","films","theBest","sources","fantasy"],"created":"2026-01-13T17:28:36.473+00:00","updated":"2026-01-13T17:28:36.473+00:00"}
 ---
 
 Directors: [[Sources/Peter Jackson\|Peter Jackson]]

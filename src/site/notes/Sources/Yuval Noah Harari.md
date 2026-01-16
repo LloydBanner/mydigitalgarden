@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/yuval-noah-harari/","tags":["authors","sources"],"created":"2025-10-02T02:08:57.618+01:00","updated":"2025-10-02T02:08:57.618+01:00"}
+{"dg-publish":true,"permalink":"/sources/yuval-noah-harari/","tags":["authors","sources"],"created":"2026-01-13T17:25:02.414+00:00","updated":"2026-01-13T17:25:02.414+00:00"}
 ---
 
 

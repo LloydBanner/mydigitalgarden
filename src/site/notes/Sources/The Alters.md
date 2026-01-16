@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-alters/","tags":["videoGames","sources","Sci-Fi","strategy","survival"],"created":"2025-11-22T14:37:55.919+00:00","updated":"2025-11-22T14:41:03.327+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-alters/","tags":["videoGames","sources","Sci-Fi","strategy","survival"],"created":"2026-01-13T17:25:12.335+00:00","updated":"2026-01-13T17:25:12.335+00:00"}
 ---
 
 Developer: 11 Bit Studios

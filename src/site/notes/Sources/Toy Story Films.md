@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/toy-story-films/","tags":["sources","filmSeries"],"created":"2025-12-23T10:57:12.258+00:00","updated":"2025-12-23T11:01:35.881+00:00"}
+{"dg-publish":true,"permalink":"/sources/toy-story-films/","tags":["sources","filmSeries"],"created":"2026-01-13T17:29:20.140+00:00","updated":"2026-01-13T17:29:20.140+00:00"}
 ---
 
 Directors: [[Sources/John Lasseter\|John Lasseter]],[[Sources/Lee Unkrich\|Lee Unkrich]],[[Sources/Ash Brannon\|Ash Brannon]]

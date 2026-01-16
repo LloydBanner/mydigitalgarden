@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-little-book-of-philosophy/","tags":["books","sources"],"created":"2025-10-02T02:10:41.050+01:00","updated":"2025-10-02T02:10:41.050+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-little-book-of-philosophy/","tags":["books","sources"],"created":"2026-01-13T17:31:20.023+00:00","updated":"2026-01-13T17:31:20.738+00:00"}
 ---
 
 Author Rachel Poulton

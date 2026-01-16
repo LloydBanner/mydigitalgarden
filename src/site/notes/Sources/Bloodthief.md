@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/bloodthief/","tags":["videoGames","sources","fantasy","fastpaced","theBest","feed","reviews","developed"],"created":"2025-10-12T16:31:10.115+01:00","updated":"2025-10-12T18:11:10.945+01:00"}
+{"dg-publish":true,"permalink":"/sources/bloodthief/","tags":["videoGames","sources","fantasy","fastpaced","theBest","feed","reviews","developed"],"created":"2026-01-13T17:30:24.544+00:00","updated":"2026-01-13T17:30:24.544+00:00"}
 ---
 
 Developer: [[Sources/Blargis\|Blargis]]

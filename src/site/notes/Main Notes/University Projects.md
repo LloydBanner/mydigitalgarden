@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/university-projects/","created":"2025-10-02T02:08:43.901+01:00","updated":"2025-10-02T02:08:43.901+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/university-projects/","created":"2026-01-13T17:27:57.699+00:00","updated":"2026-01-13T17:27:57.699+00:00"}
 ---
 
 A page to showcase some of the bigger projects I worked on at university. I studied Computer Science at the University of York. 

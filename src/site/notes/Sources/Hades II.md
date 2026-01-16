@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/hades-ii/","tags":["videoGames","sources","fantasy","mythology","theBest","rougelike"],"created":"2025-11-22T14:32:16.681+00:00","updated":"2025-11-22T14:36:49.293+00:00"}
+{"dg-publish":true,"permalink":"/sources/hades-ii/","tags":["videoGames","sources","fantasy","mythology","theBest","rougelike"],"created":"2026-01-13T17:28:03.417+00:00","updated":"2026-01-13T17:28:03.417+00:00"}
 ---
 
 Developer: Supergiant Games

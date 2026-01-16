@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/28-days-later/","tags":["films","sources","zombies","theBest"],"created":"2025-10-12T18:02:34.366+01:00","updated":"2025-10-12T18:06:01.887+01:00"}
+{"dg-publish":true,"permalink":"/sources/28-days-later/","tags":["films","sources","zombies","theBest"],"created":"2026-01-13T17:26:37.024+00:00","updated":"2026-01-13T17:26:37.024+00:00"}
 ---
 
 Directors: [[Sources/Danny Boyle\|Danny Boyle]]

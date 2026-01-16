@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-banner-saga-2/","tags":["videoGames","sources","fantasy","theBest","strategy"],"created":"2025-11-22T14:15:20.223+00:00","updated":"2025-11-22T14:28:03.820+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-banner-saga-2/","tags":["videoGames","sources","fantasy","theBest","strategy"],"created":"2026-01-13T17:31:42.108+00:00","updated":"2026-01-13T17:31:42.108+00:00"}
 ---
 
 Developer: Stoic

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/hades/","tags":["videoGames","sources","fantasy","mythology","theBest","rougelike"],"created":"2025-11-22T14:35:03.745+00:00","updated":"2025-11-22T14:36:44.965+00:00"}
+{"dg-publish":true,"permalink":"/sources/hades/","tags":["videoGames","sources","fantasy","mythology","theBest","rougelike"],"created":"2026-01-13T17:30:45.063+00:00","updated":"2026-01-13T17:30:45.063+00:00"}
 ---
 
 Developer: Supergiant Games

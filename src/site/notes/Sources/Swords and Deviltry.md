@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/swords-and-deviltry/","tags":["books","sources"],"created":"2025-10-02T02:09:09.271+01:00","updated":"2025-10-02T02:09:09.271+01:00"}
+{"dg-publish":true,"permalink":"/sources/swords-and-deviltry/","tags":["books","sources"],"created":"2026-01-13T17:25:59.172+00:00","updated":"2026-01-13T17:25:59.734+00:00"}
 ---
 
 Author: [[Fritz Lieber\|Fritz Lieber]]

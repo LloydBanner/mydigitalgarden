@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-favourite-books/","created":"2025-10-04T10:52:04.621+01:00","updated":"2025-12-22T12:10:03.880+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-favourite-books/","created":"2026-01-13T17:26:52.765+00:00","updated":"2026-01-13T17:26:52.765+00:00"}
 ---
 
 **The List:**
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sources/The Gate of the Feral Gods\|The Gate of the Feral Gods]]                                                                           |
 | [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]                                                                               |
 | [[Sources/The Dungeon Anarchist's Cookbook\|The Dungeon Anarchist's Cookbook]]                                                               |
+| [[Sources/The Gate of the Feral Gods\|The Gate of the Feral Gods]]                                                                           |
 | [[Sources/Dungeon Crawler Carl\|Dungeon Crawler Carl]]                                                                                       |
 | [[Sources/Digital Minimalism\|Digital Minimalism]]                                                                                           |
 | [[Sources/Flowers for Algernon\|Flowers for Algernon]]                                                                                       |
@@ -38,12 +38,12 @@
 | [[Sources/The Fifth Science\|The Fifth Science]]                                                                                             |
 | [[Sources/The Final Empire\|The Final Empire]]                                                                                               |
 | [[Sources/The Forever War\|The Forever War]]                                                                                                 |
-| [[Sources/The Hero of Ages\|The Hero of Ages]]                                                                                               |
 | [[Sources/The Hobbit (book)\|The Hobbit (book)]]                                                                                             |
+| [[Sources/The Hero of Ages\|The Hero of Ages]]                                                                                               |
 | [[Sources/The Prince\|The Prince]]                                                                                                           |
 | [[Sources/The Return of the King (book)\|The Return of the King (book)]]                                                                     |
-| [[Sources/The Tombs of Atuan\|The Tombs of Atuan]]                                                                                           |
 | [[Sources/The Two Towers (book)\|The Two Towers (book)]]                                                                                     |
+| [[Sources/The Tombs of Atuan\|The Tombs of Atuan]]                                                                                           |
 | [[Sources/The Ultimate Hitchhiker’s Guide to the Galaxy\|The Ultimate Hitchhiker’s Guide to the Galaxy]]                                     |
 | [[Sources/The Way of Kings\|The Way of Kings]]                                                                                               |
 | [[Sources/The Well of Ascension\|The Well of Ascension]]                                                                                     |

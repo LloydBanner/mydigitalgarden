@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/halo-combat-evolved/","tags":["halo","videoGames","theBest","sources"],"created":"2025-10-02T02:10:19.216+01:00","updated":"2025-10-02T02:10:19.216+01:00"}
+{"dg-publish":true,"permalink":"/sources/halo-combat-evolved/","tags":["halo","videoGames","theBest","sources"],"created":"2026-01-13T17:27:00.296+00:00","updated":"2026-01-13T17:27:00.296+00:00"}
 ---
 
 The first entry in the [[Sources/Halo\|Halo]] series and it still plays incredibly well from a singleplayer perspective. The multiplayer I would avoid though since it is quite inaccessible especially if you have never played it before.

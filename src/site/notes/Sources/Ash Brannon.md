@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/ash-brannon/","tags":["sources","directors"],"created":"2025-12-23T11:01:17.060+00:00","updated":"2025-12-23T11:01:28.383+00:00"}
+{"dg-publish":true,"permalink":"/sources/ash-brannon/","tags":["sources","directors"],"created":"2026-01-13T17:26:32.226+00:00","updated":"2026-01-13T17:26:32.833+00:00"}
 ---
 
 ## Films Series

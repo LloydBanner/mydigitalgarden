@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/puss-in-boots-the-last-wish/","tags":["films","sources","theBest","fairyTale","comedy","kids","animated"],"created":"2025-12-22T13:16:10.238+00:00","updated":"2025-12-22T13:21:18.505+00:00"}
+{"dg-publish":true,"permalink":"/sources/puss-in-boots-the-last-wish/","tags":["films","sources","theBest","fairyTale","comedy","kids","animated"],"created":"2026-01-13T17:28:46.312+00:00","updated":"2026-01-13T17:28:46.312+00:00"}
 ---
 
 Directors: [[Sources/Joel Crawford\|Joel Crawford]],[[Sources/Januel Mercado\|Januel Mercado]]

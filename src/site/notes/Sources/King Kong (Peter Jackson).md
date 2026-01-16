@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/king-kong-peter-jackson/","tags":["films","sources","theBest"],"created":"2025-12-22T12:58:27.291+00:00","updated":"2025-12-22T13:02:05.641+00:00"}
+{"dg-publish":true,"permalink":"/sources/king-kong-peter-jackson/","tags":["films","sources","theBest"],"created":"2026-01-13T17:28:54.742+00:00","updated":"2026-01-13T17:28:54.742+00:00"}
 ---
 
 Directors: [[Sources/Peter Jackson\|Peter Jackson]]

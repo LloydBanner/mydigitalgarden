@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-good-the-bad-and-the-ugly/","tags":["films","sources","theBest","feed","western"],"created":"2025-10-05T12:54:50.663+01:00","updated":"2025-10-12T16:41:59.416+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-good-the-bad-and-the-ugly/","tags":["films","sources","theBest","feed","western"],"created":"2026-01-13T17:29:07.432+00:00","updated":"2026-01-13T17:29:07.432+00:00"}
 ---
 
 Directors: [[Sources/Sergio Leone\|Sergio Leone]]

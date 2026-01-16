@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/hades-series/","tags":["sources","videoGameSeries"],"created":"2025-11-22T14:34:54.775+00:00","updated":"2025-11-22T14:35:02.673+00:00"}
+{"dg-publish":true,"permalink":"/sources/hades-series/","tags":["sources","videoGameSeries"],"created":"2026-01-13T17:25:41.868+00:00","updated":"2026-01-13T17:25:41.868+00:00"}
 ---
 
 ## Games

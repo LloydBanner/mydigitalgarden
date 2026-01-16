@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/troy-film/","tags":["films","sources","theBest","fantasy","battle","mythology"],"created":"2025-10-02T02:09:18.204+01:00","updated":"2025-10-02T02:09:18.204+01:00"}
+{"dg-publish":true,"permalink":"/sources/troy-film/","tags":["films","sources","theBest","fantasy","battle","mythology"],"created":"2026-01-13T17:27:40.007+00:00","updated":"2026-01-13T17:27:40.007+00:00"}
 ---
 
 Directors: [[Wolfgang Petersen\|Wolfgang Petersen]]

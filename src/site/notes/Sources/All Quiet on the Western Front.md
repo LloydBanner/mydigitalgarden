@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/all-quiet-on-the-western-front/","tags":["films","sources","war","theBest"],"created":"2025-12-22T13:12:28.828+00:00","updated":"2025-12-22T13:15:34.905+00:00"}
+{"dg-publish":true,"permalink":"/sources/all-quiet-on-the-western-front/","tags":["films","sources","war","theBest"],"created":"2026-01-13T17:30:15.025+00:00","updated":"2026-01-13T17:30:15.765+00:00"}
 ---
 
 Directors: [[Sources/Edward Berger\|Edward Berger]]

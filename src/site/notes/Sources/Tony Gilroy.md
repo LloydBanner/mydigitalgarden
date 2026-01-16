@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/tony-gilroy/","tags":["sources","directors"],"created":"2025-10-02T02:11:06.377+01:00","updated":"2025-10-02T02:11:06.377+01:00"}
+{"dg-publish":true,"permalink":"/sources/tony-gilroy/","tags":["sources","directors"],"created":"2026-01-13T17:27:38.860+00:00","updated":"2026-01-13T17:27:38.860+00:00"}
 ---
 
 Tony Gilroy was born in Manhattan, New York, New York, USA; and raised in upstate New York. He is a Screenwriter and director.

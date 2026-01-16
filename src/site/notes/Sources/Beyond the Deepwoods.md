@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/beyond-the-deepwoods/","tags":["books","sources","fantasy","theBest"],"created":"2025-10-02T02:12:22.043+01:00","updated":"2025-10-02T02:12:22.043+01:00"}
+{"dg-publish":true,"permalink":"/sources/beyond-the-deepwoods/","tags":["books","sources","fantasy","theBest"],"created":"2026-01-13T17:25:34.747+00:00","updated":"2026-01-13T17:25:34.747+00:00"}
 ---
 
 Author: [[Sources/Paul Stewart\|Paul Stewart]]

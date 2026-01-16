@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/richard-matheson/","tags":["authors","sources"],"created":"2025-10-02T02:11:24.835+01:00","updated":"2025-10-02T02:11:24.835+01:00"}
+{"dg-publish":true,"permalink":"/sources/richard-matheson/","tags":["authors","sources"],"created":"2026-01-13T17:30:06.018+00:00","updated":"2026-01-13T17:30:06.885+00:00"}
 ---
 
 ## Books

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/shrek-2/","tags":["films","sources","theBest","fairyTale","kids","animated"],"created":"2025-12-29T10:49:43.206+00:00","updated":"2025-12-29T10:58:52.070+00:00"}
+{"dg-publish":true,"permalink":"/sources/shrek-2/","tags":["films","sources","theBest","fairyTale","kids","animated"],"created":"2026-01-13T17:30:50.069+00:00","updated":"2026-01-13T17:30:50.069+00:00"}
 ---
 
 Directors: [[Sources/Andrew Adamson\|Andrew Adamson]],[[Sources/Kelly Asbury\|Kelly Asbury]],[[Sources/Conrad Vernon\|Conrad Vernon]]

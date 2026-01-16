@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/maybe-you-don-t-always-need-a-goal/","tags":["thoughts","feed","developing"],"created":"2025-10-04T10:51:59.079+01:00","updated":"2025-12-22T15:31:03.237+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/maybe-you-don-t-always-need-a-goal/","tags":["thoughts","feed","developing"],"created":"2026-01-13T17:26:17.245+00:00","updated":"2026-01-13T17:26:17.245+00:00"}
 ---
 
 I have been thinking a lot recently about what I want in life. Last year I bought a house and completed a goal I had for a long time. Before that I had worked hard to get my job and into the position that I am in now, worked hard for my degree, spent a considerable amount of time [[Indexes/Writing\|writing]] my books and other things. I have always had something to work towards or some goal in mind. I think this has been valuable for me and has gotten me to where I am. I am both fortunate and grateful for where I am, and not all of that has been in my control, but what has been I have pushed for. 

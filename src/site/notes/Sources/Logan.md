@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/logan/","tags":["films","sources","theBest","superhero"],"created":"2025-12-30T09:03:48.361+00:00","updated":"2025-12-30T09:06:58.097+00:00"}
+{"dg-publish":true,"permalink":"/sources/logan/","tags":["films","sources","theBest","superhero"],"created":"2026-01-13T17:27:38.271+00:00","updated":"2026-01-13T17:27:38.860+00:00"}
 ---
 
 Directors: [[Sources/James Mangold\|James Mangold]]

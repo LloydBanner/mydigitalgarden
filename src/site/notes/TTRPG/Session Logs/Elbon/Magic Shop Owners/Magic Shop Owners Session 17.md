@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-17/","tags":["feed","elbonLogs","developed"],"created":"2025-12-14T11:42:05.721+00:00","updated":"2025-12-22T10:39:55.792+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-17/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:33:49.299+00:00","updated":"2026-01-13T17:47:44.553+00:00"}
 ---
 
 ## Session Notes
@@ -121,8 +121,6 @@
 | Magmaranium (Dragonborn1) | 0                     | 298 (Need to get to 3000 xp to level up)    |
 | Jutara (Tiefling1)        | 0                     | 298 (Need to get to 2500 xp to level up)    |
 | Smuv (Arcane-Bard1)       | 0                     | 298 (Need to get to 2000 xp to level up)    |
-
-
 
 #### Published Content Used
 - [[Main Notes/OSE\|OSE]] (Classic and Advanced)

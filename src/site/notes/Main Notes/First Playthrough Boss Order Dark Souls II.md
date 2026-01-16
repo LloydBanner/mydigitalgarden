@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/first-playthrough-boss-order-dark-souls-ii/","created":"2025-10-02T02:08:37.802+01:00","updated":"2025-10-02T02:08:37.802+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/first-playthrough-boss-order-dark-souls-ii/","created":"2026-01-13T17:25:31.695+00:00","updated":"2026-01-13T17:25:31.695+00:00"}
 ---
 
 - The Last Giant

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/cooking-recipes/","created":"2025-10-04T10:51:56.483+01:00","updated":"2025-10-04T11:46:46.282+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/cooking-recipes/","created":"2026-01-13T17:27:56.121+00:00","updated":"2026-01-13T17:27:56.121+00:00"}
 ---
 
 I had been meaning to make my own cookbook for a good while. I like the idea of compiling all my favourite recipes with the tweaks I have made all into one place. For Christmas (2024) my Mum got be an empty cookbook ready to be filled in, so now I have no excuse not to. I think here is a good place to write recipes before they are fully solidified and then when I am fully happy I will add them to the physical book.

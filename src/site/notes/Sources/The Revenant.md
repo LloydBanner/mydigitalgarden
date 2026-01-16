@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-revenant/","tags":["films","sources","western","theBest"],"created":"2025-12-30T09:07:49.373+00:00","updated":"2025-12-30T09:11:54.880+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-revenant/","tags":["films","sources","western","theBest"],"created":"2026-01-13T17:30:55.814+00:00","updated":"2026-01-13T17:30:55.814+00:00"}
 ---
 
 Directors: [[Sources/Alejandro G. Iñárritu\|Alejandro G. Iñárritu]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/old-moon-quarterly-issue-1/","tags":["books","sources","fantasy","shortStories"],"created":"2025-11-28T14:02:55.972+00:00","updated":"2025-11-28T14:08:55.601+00:00"}
+{"dg-publish":true,"permalink":"/sources/old-moon-quarterly-issue-1/","tags":["books","sources","fantasy","shortStories"],"created":"2026-01-13T17:25:39.252+00:00","updated":"2026-01-13T17:25:39.252+00:00"}
 ---
 
 Author: Various

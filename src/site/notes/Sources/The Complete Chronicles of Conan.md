@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-complete-chronicles-of-conan/","tags":["books","compilations","fantasy","sources"],"created":"2025-10-02T02:11:59.392+01:00","updated":"2025-10-02T02:11:59.392+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-complete-chronicles-of-conan/","tags":["books","compilations","fantasy","sources"],"created":"2026-01-13T17:25:23.602+00:00","updated":"2026-01-13T17:25:23.602+00:00"}
 ---
 
 Author: [[Sources/Robert E. Howard\|Robert E. Howard]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-tv-show/","tags":["TV","sources"],"created":"2025-10-02T02:11:17.491+01:00","updated":"2025-10-02T02:11:17.491+01:00"}
+{"dg-publish":true,"permalink":"/z-templates/template-tv-show/","tags":["TV","sources"],"created":"2026-01-13T17:28:22.651+00:00","updated":"2026-01-13T17:28:22.651+00:00"}
 ---
 
 Creators: `= this.creators`

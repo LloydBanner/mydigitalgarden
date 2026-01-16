@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/insighting-quotes/","tags":["thoughts","feed","developing"],"created":"2025-12-23T08:09:07.005+00:00","updated":"2025-12-23T08:18:31.590+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/insighting-quotes/","tags":["thoughts","feed","developing"],"created":"2026-01-13T17:29:26.319+00:00","updated":"2026-01-13T17:29:26.319+00:00"}
 ---
 
 I think one line can sometimes conjure up many possibilities in your mind. so here is a

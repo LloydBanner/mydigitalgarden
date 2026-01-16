@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/pattinson-batman-films/","tags":["sources","filmSeries"],"created":"2025-12-22T13:06:56.896+00:00","updated":"2025-12-22T13:07:13.980+00:00"}
+{"dg-publish":true,"permalink":"/sources/pattinson-batman-films/","tags":["sources","filmSeries"],"created":"2026-01-13T17:29:14.212+00:00","updated":"2026-01-13T17:29:14.212+00:00"}
 ---
 
 Directors: [[Sources/Matt Reeves\|Matt Reeves]]

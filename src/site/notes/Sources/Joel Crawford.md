@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/joel-crawford/","tags":["sources","directors"],"created":"2025-12-22T13:21:57.627+00:00","updated":"2025-12-22T13:22:07.869+00:00"}
+{"dg-publish":true,"permalink":"/sources/joel-crawford/","tags":["sources","directors"],"created":"2026-01-13T17:26:15.356+00:00","updated":"2026-01-13T17:26:15.998+00:00"}
 ---
 
 ## Films Series

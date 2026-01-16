@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/xcom/","tags":["videoGames","theBest","sources"],"created":"2025-10-02T02:11:15.359+01:00","updated":"2025-10-02T02:11:15.359+01:00"}
+{"dg-publish":true,"permalink":"/sources/xcom/","tags":["videoGames","theBest","sources"],"created":"2026-01-13T17:26:39.009+00:00","updated":"2026-01-13T17:26:39.681+00:00"}
 ---
 
 The XCOM games are turn based tactics games where you play as a small group defending Earth against malicious alien invaders. They are really well made and have a great element of making you make difficult decisions about which things are more important than others. Giving each of your soldiers names makes you care about them and makes their deaths have a greater impact.

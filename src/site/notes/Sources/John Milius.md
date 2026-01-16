@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/john-milius/","tags":["sources","directors"],"created":"2025-10-02T02:09:13.637+01:00","updated":"2025-10-02T02:09:13.637+01:00"}
+{"dg-publish":true,"permalink":"/sources/john-milius/","tags":["sources","directors"],"created":"2026-01-13T17:29:06.684+00:00","updated":"2026-01-13T17:29:06.684+00:00"}
 ---
 
 

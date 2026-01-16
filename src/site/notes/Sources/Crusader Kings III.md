@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/crusader-kings-iii/","tags":["videoGames","sources"],"created":"2025-10-02T02:11:13.412+01:00","updated":"2025-10-02T02:11:13.946+01:00"}
+{"dg-publish":true,"permalink":"/sources/crusader-kings-iii/","tags":["videoGames","sources"],"created":"2026-01-13T17:28:06.526+00:00","updated":"2026-01-13T17:28:06.526+00:00"}
 ---
 
 Crusader Kings is a series of medieval ruler simulation sandbox games. They have a view where you see a map and can interact with various characters, most of which are actual historical figures, and can wage wars on different countries. There is no real goal and it is very much a game where you make up your own objectives. This can be a lot of fun if it is your sort of thing. These games are also very moddable meaning you get some good total conversion mods which replace the medieval map with a fantasy one.

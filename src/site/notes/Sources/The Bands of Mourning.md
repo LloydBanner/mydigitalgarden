@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-bands-of-mourning/","tags":["books","sources","fantasy"],"created":"2025-10-02T02:37:47.273+01:00","updated":"2025-10-02T02:37:47.273+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-bands-of-mourning/","tags":["books","sources","fantasy"],"created":"2026-01-13T17:28:57.048+00:00","updated":"2026-01-13T17:28:57.048+00:00"}
 ---
 
 Author: [[Sources/Brandon Sanderson\|Brandon Sanderson]]

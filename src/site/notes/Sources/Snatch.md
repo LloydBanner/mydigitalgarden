@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/snatch/","tags":["films","sources","crime","comedy","theBest"],"created":"2025-12-22T11:41:54.883+00:00","updated":"2025-12-22T11:45:21.150+00:00"}
+{"dg-publish":true,"permalink":"/sources/snatch/","tags":["films","sources","crime","comedy","theBest"],"created":"2026-01-13T17:29:31.292+00:00","updated":"2026-01-13T17:29:31.292+00:00"}
 ---
 
 Directors: [[Sources/Guy Ritchie\|Guy Ritchie]]

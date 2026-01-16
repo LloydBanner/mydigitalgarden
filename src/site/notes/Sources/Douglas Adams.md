@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/douglas-adams/","tags":["authors","sources"],"created":"2025-10-02T02:10:32.296+01:00","updated":"2025-10-02T02:10:32.296+01:00"}
+{"dg-publish":true,"permalink":"/sources/douglas-adams/","tags":["authors","sources"],"created":"2026-01-13T17:28:01.396+00:00","updated":"2026-01-13T17:28:01.396+00:00"}
 ---
 
 Douglas Noel Adams was an English author, humourist, and screenwriter, best known for The Hitchhiker's Guide to the Galaxy (HHGTTG).

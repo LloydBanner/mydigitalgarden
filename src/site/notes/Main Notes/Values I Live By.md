@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/values-i-live-by/","tags":["thoughts","feed","developing"],"created":"2025-10-04T10:51:54.245+01:00","updated":"2025-12-22T15:24:39.303+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/values-i-live-by/","tags":["thoughts","feed","developing"],"created":"2026-01-13T17:30:13.363+00:00","updated":"2026-01-13T17:30:13.363+00:00"}
 ---
 
 **Below are some values I try to live by. These are things I believe in and would like to maintain:**

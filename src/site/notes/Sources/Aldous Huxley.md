@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/aldous-huxley/","tags":["authors","sources"],"created":"2025-10-02T02:09:15.033+01:00","updated":"2025-10-02T02:09:15.033+01:00"}
+{"dg-publish":true,"permalink":"/sources/aldous-huxley/","tags":["authors","sources"],"created":"2026-01-13T17:30:21.084+00:00","updated":"2026-01-13T17:30:21.084+00:00"}
 ---
 
 Aldous Leonard Huxley was an English writer and philosopher.

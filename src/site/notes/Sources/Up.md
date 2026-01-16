@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/up/","tags":["films","sources","theBest","kids","animated"],"created":"2025-12-29T10:59:42.819+00:00","updated":"2025-12-29T11:02:34.266+00:00"}
+{"dg-publish":true,"permalink":"/sources/up/","tags":["films","sources","theBest","kids","animated"],"created":"2026-01-13T17:24:52.567+00:00","updated":"2026-01-13T17:24:52.567+00:00"}
 ---
 
 Directors: [[Sources/Pete Docter\|Pete Docter]],[[Sources/Bob Peterson\|Bob Peterson]]

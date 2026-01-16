@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/raiding-the-obsidian-keep/","tags":["ttrpgResources","sources","books","fantasy","theBest"],"created":"2025-10-02T02:08:56.408+01:00","updated":"2025-10-02T02:08:56.408+01:00"}
+{"dg-publish":true,"permalink":"/sources/raiding-the-obsidian-keep/","tags":["ttrpgResources","sources","books","fantasy","theBest"],"created":"2026-01-13T17:25:20.669+00:00","updated":"2026-01-13T17:25:20.669+00:00"}
 ---
 
 Author: Joseph R. Lewis

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-fellowship-of-the-ring-film/","tags":["films","theBest","lordOfTheRings","sources","fantasy"],"created":"2025-10-04T10:52:18.808+01:00","updated":"2025-12-29T11:23:13.938+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-fellowship-of-the-ring-film/","tags":["films","theBest","lordOfTheRings","sources","fantasy"],"created":"2026-01-13T17:31:22.247+00:00","updated":"2026-01-13T17:31:22.247+00:00"}
 ---
 
 Directors: [[Sources/Peter Jackson\|Peter Jackson]]

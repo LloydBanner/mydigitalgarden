@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/daniel-keyes/","tags":["authors","sources"],"created":"2025-10-02T02:12:10.754+01:00","updated":"2025-10-02T02:12:10.754+01:00"}
+{"dg-publish":true,"permalink":"/sources/daniel-keyes/","tags":["authors","sources"],"created":"2026-01-13T17:29:00.511+00:00","updated":"2026-01-13T17:29:00.511+00:00"}
 ---
 
 ## Books

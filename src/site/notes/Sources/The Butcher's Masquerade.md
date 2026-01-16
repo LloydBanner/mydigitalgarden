@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-butcher-s-masquerade/","tags":["books","sources"],"created":"2026-01-12T17:41:42.030+00:00","updated":"2026-01-12T17:43:57.269+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-butcher-s-masquerade/","tags":["books","sources"],"created":"2026-01-13T17:31:31.238+00:00","updated":"2026-01-13T17:31:31.238+00:00"}
 ---
 
 Author: [[Sources/Matt Dinniman\|Matt Dinniman]]

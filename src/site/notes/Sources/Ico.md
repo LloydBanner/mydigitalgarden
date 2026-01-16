@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/ico/","tags":["videoGames","sources","theBest","fantasy"],"created":"2025-10-02T02:09:38.195+01:00","updated":"2025-10-02T02:09:38.712+01:00"}
+{"dg-publish":true,"permalink":"/sources/ico/","tags":["videoGames","sources","theBest","fantasy"],"created":"2026-01-13T17:28:07.075+00:00","updated":"2026-01-13T17:28:07.723+00:00"}
 ---
 
 Developer: Team Ico

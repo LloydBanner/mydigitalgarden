@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/fargo/","tags":["films","sources","mystery","theBest"],"created":"2025-12-30T09:18:29.506+00:00","updated":"2025-12-30T09:21:38.631+00:00"}
+{"dg-publish":true,"permalink":"/sources/fargo/","tags":["films","sources","mystery","theBest"],"created":"2026-01-13T17:25:21.160+00:00","updated":"2026-01-13T17:25:21.773+00:00"}
 ---
 
 Directors: [[Sources/Ethan Coen\|Ethan Coen]],[[Sources/Joel Coen\|Joel Coen]]

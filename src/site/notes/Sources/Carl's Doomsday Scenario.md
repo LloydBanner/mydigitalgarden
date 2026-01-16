@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/carl-s-doomsday-scenario/","tags":["books","sources","litRPGs","fantasy","Sci-Fi","theBest"],"created":"2025-12-14T08:57:52.269+00:00","updated":"2026-01-12T17:46:18.284+00:00"}
+{"dg-publish":true,"permalink":"/sources/carl-s-doomsday-scenario/","tags":["books","sources","litRPGs","fantasy","Sci-Fi","theBest"],"created":"2026-01-13T17:27:20.525+00:00","updated":"2026-01-13T17:27:20.525+00:00"}
 ---
 
 Author: [[Sources/Matt Dinniman\|Matt Dinniman]]

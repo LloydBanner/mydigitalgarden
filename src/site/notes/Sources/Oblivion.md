@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/oblivion/","tags":["elderScrolls","videoGames","theBest","sources"],"created":"2025-10-02T02:11:12.036+01:00","updated":"2025-10-02T02:11:12.886+01:00"}
+{"dg-publish":true,"permalink":"/sources/oblivion/","tags":["elderScrolls","videoGames","theBest","sources"],"created":"2026-01-13T17:31:08.346+00:00","updated":"2026-01-13T17:31:08.346+00:00"}
 ---
 
 This is one of a few games where my opinion of it is probably blinded by nostalgia and is my favourite of [[Sources/The Elder Scrolls\|The Elder Scrolls]] series. I think the quests and world are so interesting. The interactivity, the hostility of everyone you come across and the demon invasion create a great fantasy setting. This game has some of the best writing for its quests. There are also, some great unintentional funny moments where the AI was a bit overambitious for the time.

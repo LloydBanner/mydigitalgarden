@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/alien-earth/","tags":["TV","sources","theBest","Sci-Fi"],"created":"2026-01-09T14:13:45.789+00:00","updated":"2026-01-09T14:28:58.632+00:00"}
+{"dg-publish":true,"permalink":"/sources/alien-earth/","tags":["TV","sources","theBest","Sci-Fi"],"created":"2026-01-13T17:31:42.512+00:00","updated":"2026-01-13T17:31:42.512+00:00"}
 ---
 
 Creators: [[Sources/Noah Hawley\|Noah Hawley]]

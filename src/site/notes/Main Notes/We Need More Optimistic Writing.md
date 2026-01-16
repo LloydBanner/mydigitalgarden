@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/we-need-more-optimistic-writing/","tags":["thoughts","draft","feed"],"created":"2025-10-02T02:08:03.150+01:00","updated":"2025-10-02T02:08:03.150+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/we-need-more-optimistic-writing/","tags":["thoughts","draft","feed"],"created":"2026-01-13T17:25:22.806+00:00","updated":"2026-01-13T17:25:22.806+00:00"}
 ---
 
 I have noticed that writing has tended to become more pessimistic over time. I enjoy a dark or dystopian setting occasionally, [[Sources/Brave New World\|Brave New World]], [[Sources/1984\|1984]] and the [[Sources/The Mistborn Saga\|The Mistborn Saga]] series are some of my favourite books. I also love [[Game of Thrones\|Game of Thrones]] and [[Breaking Bad\|Breaking Bad]], but just because there is some great stuff with dark settings it doesn't mean everything needs to be. There are some great tales with more optimistic outlooks. I do think optimistic writing is probably harder though.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/permadeath-in-games/","tags":["thoughts","feed","videoGames","developing"],"created":"2025-10-02T02:08:49.637+01:00","updated":"2025-10-02T02:08:49.637+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/permadeath-in-games/","tags":["thoughts","feed","videoGames","developing"],"created":"2026-01-13T17:27:00.097+00:00","updated":"2026-01-13T17:27:00.940+00:00"}
 ---
 
 Recently I have been interested in permadeath in games. I think it ramps up the tension and makes you use the full sandbox of a game. I think this originated from watching [[Sources/Try Permadeath, You Won't Regret It\|Try Permadeath, You Won't Regret It]] at some point in 2024, but I only got the urge to actually do it recently. I think I had gotten fed up with the way I was playing games. I was just trying to finish things rather than enjoying them. Permadeath adds enough extra to an easyish game to keep it exciting, and makes me more likely to just stop playing a game if I die, because I don't want to play it all again.

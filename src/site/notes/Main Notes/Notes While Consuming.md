@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/notes-while-consuming/","tags":["thoughts","draft"],"created":"2025-10-04T10:52:05.228+01:00","updated":"2025-12-22T15:33:34.647+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/notes-while-consuming/","tags":["thoughts","draft"],"created":"2026-01-13T17:26:32.626+00:00","updated":"2026-01-13T17:26:32.626+00:00"}
 ---
 
 

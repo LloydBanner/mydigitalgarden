@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/richard-le-blanc/","tags":["authors","sources"],"created":"2025-11-11T19:57:05.272+00:00","updated":"2025-11-11T19:58:18.526+00:00"}
+{"dg-publish":true,"permalink":"/sources/richard-le-blanc/","tags":["authors","sources"],"created":"2026-01-13T17:27:06.425+00:00","updated":"2026-01-13T17:27:06.425+00:00"}
 ---
 
 ## Books

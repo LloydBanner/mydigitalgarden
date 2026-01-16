@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/dianne-jackson/","tags":["sources","directors"],"created":"2025-12-23T10:49:55.244+00:00","updated":"2025-12-23T10:50:04.089+00:00"}
+{"dg-publish":true,"permalink":"/sources/dianne-jackson/","tags":["sources","directors"],"created":"2026-01-13T17:29:21.106+00:00","updated":"2026-01-13T17:29:21.995+00:00"}
 ---
 
 ## Films

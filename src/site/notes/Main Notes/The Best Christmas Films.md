@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/the-best-christmas-films/","tags":["lists","feed","draft"],"created":"2025-12-18T20:59:25.141+00:00","updated":"2025-12-23T10:50:50.864+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/the-best-christmas-films/","tags":["lists","feed","draft"],"created":"2026-01-13T17:27:37.244+00:00","updated":"2026-01-13T17:27:37.244+00:00"}
 ---
 
 A list of my favourite Christmas films:

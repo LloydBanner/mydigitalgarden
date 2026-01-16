@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-forever-war/","tags":["books","sources","theBest","Sci-Fi"],"created":"2025-10-02T02:09:27.555+01:00","updated":"2025-10-02T02:09:27.555+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-forever-war/","tags":["books","sources","theBest","Sci-Fi"],"created":"2026-01-13T17:28:32.026+00:00","updated":"2026-01-13T17:28:32.832+00:00"}
 ---
 
 Author: [[Sources/Joe Haldeman\|Joe Haldeman]]

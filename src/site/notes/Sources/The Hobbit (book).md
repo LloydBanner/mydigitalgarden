@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-hobbit-book/","tags":["books","sources","fantasy","lordOfTheRings","theBest"],"created":"2025-10-02T02:11:19.408+01:00","updated":"2025-10-02T02:11:19.408+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-hobbit-book/","tags":["books","sources","fantasy","lordOfTheRings","theBest"],"created":"2026-01-13T17:26:48.830+00:00","updated":"2026-01-13T17:26:48.830+00:00"}
 ---
 
 Author: [[Sources/J. R. R. Tolkien\|J. R. R. Tolkien]]

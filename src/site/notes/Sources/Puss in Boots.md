@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/puss-in-boots/","tags":["films","sources","animated","kids","fantasy","western"],"created":"2025-12-26T15:01:07.100+00:00","updated":"2025-12-26T15:01:07.100+00:00"}
+{"dg-publish":true,"permalink":"/sources/puss-in-boots/","tags":["films","sources","animated","kids","fantasy","western"],"created":"2026-01-13T17:31:18.049+00:00","updated":"2026-01-13T17:31:18.049+00:00"}
 ---
 
 Directors: [[Sources/Chris Miller\|Chris Miller]]

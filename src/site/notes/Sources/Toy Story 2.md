@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/toy-story-2/","tags":["films","sources","animated","kids","theBest"],"created":"2025-12-23T10:58:11.332+00:00","updated":"2025-12-23T11:05:16.224+00:00"}
+{"dg-publish":true,"permalink":"/sources/toy-story-2/","tags":["films","sources","animated","kids","theBest"],"created":"2026-01-13T17:29:48.153+00:00","updated":"2026-01-13T17:29:48.153+00:00"}
 ---
 
 Directors: [[Sources/John Lasseter\|John Lasseter]],[[Sources/Lee Unkrich\|Lee Unkrich]],[[Sources/Ash Brannon\|Ash Brannon]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/elder-kings-ii-converts-crusader-kings-iii-into-an-elder-scrolls-game/","tags":["mods","elderScrolls","feed","draft"],"created":"2025-10-02T02:07:40.161+01:00","updated":"2025-10-02T02:07:40.410+01:00"}
+{"dg-publish":true,"permalink":"/main-notes/elder-kings-ii-converts-crusader-kings-iii-into-an-elder-scrolls-game/","tags":["mods","elderScrolls","feed","draft"],"created":"2026-01-13T17:25:02.326+00:00","updated":"2026-01-13T17:25:02.802+00:00"}
 ---
 
 If you like The Elder Scrolls there is a great mod for [[Sources/Crusader Kings III\|Crusader Kings III]] called [Elder Kings 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2887120253) Which replaces the map with an Elder Scrolls themed one. The team making it seem to have done loads of research into the lore and have made a great experience complete with the ability to get your court mage to cast spells on other lords.

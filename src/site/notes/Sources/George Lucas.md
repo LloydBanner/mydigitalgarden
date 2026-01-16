@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/george-lucas/","tags":["sources","directors"],"created":"2025-10-02T02:10:31.510+01:00","updated":"2025-10-02T02:10:31.510+01:00"}
+{"dg-publish":true,"permalink":"/sources/george-lucas/","tags":["sources","directors"],"created":"2026-01-13T17:30:13.772+00:00","updated":"2026-01-13T17:30:13.772+00:00"}
 ---
 
 

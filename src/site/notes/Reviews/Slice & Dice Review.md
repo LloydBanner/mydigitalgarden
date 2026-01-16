@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/slice-and-dice-review/","tags":["feed","reviews","developed","fantasy"],"created":"2025-10-30T19:37:46.447+00:00","updated":"2025-10-30T19:42:44.398+00:00"}
+{"dg-publish":true,"permalink":"/reviews/slice-and-dice-review/","tags":["feed","reviews","developed","fantasy"],"created":"2026-01-13T17:25:07.079+00:00","updated":"2026-01-13T17:25:07.876+00:00"}
 ---
 
 Written: 30-10-2025

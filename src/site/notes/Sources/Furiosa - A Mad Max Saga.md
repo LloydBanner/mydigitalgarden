@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/furiosa-a-mad-max-saga/","tags":["films","sources","theBest","postApocalyptic"],"created":"2025-12-22T10:55:21.197+00:00","updated":"2025-12-22T11:10:47.027+00:00"}
+{"dg-publish":true,"permalink":"/sources/furiosa-a-mad-max-saga/","tags":["films","sources","theBest","postApocalyptic"],"created":"2026-01-13T17:27:17.773+00:00","updated":"2026-01-13T17:27:17.773+00:00"}
 ---
 
 Directors: [[Sources/George Miller\|George Miller]]

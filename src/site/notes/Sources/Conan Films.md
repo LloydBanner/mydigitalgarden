@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/conan-films/","tags":["sources","filmSeries","fantasy"],"created":"2025-10-02T02:12:22.165+01:00","updated":"2025-10-02T02:12:22.165+01:00"}
+{"dg-publish":true,"permalink":"/sources/conan-films/","tags":["sources","filmSeries","fantasy"],"created":"2026-01-13T17:30:16.775+00:00","updated":"2026-01-13T17:30:16.775+00:00"}
 ---
 
 Directors: [[Sources/John Milius\|John Milius]]

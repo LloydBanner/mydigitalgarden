@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/bullet-train/","tags":["films","sources","comedy","crime","theBest"],"created":"2025-12-31T10:21:49.861+00:00","updated":"2025-12-31T10:26:44.095+00:00"}
+{"dg-publish":true,"permalink":"/sources/bullet-train/","tags":["films","sources","comedy","crime","theBest"],"created":"2026-01-13T17:30:40.610+00:00","updated":"2026-01-13T17:30:40.610+00:00"}
 ---
 
 Directors: [[Sources/David Leitch\|David Leitch]]

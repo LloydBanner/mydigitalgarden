@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/lao-tzu/","tags":["authors","sources"],"created":"2025-10-02T02:10:52.144+01:00","updated":"2025-10-02T02:10:52.772+01:00"}
+{"dg-publish":true,"permalink":"/sources/lao-tzu/","tags":["authors","sources"],"created":"2026-01-13T17:28:44.488+00:00","updated":"2026-01-13T17:28:44.488+00:00"}
 ---
 
 

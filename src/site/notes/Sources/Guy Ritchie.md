@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/guy-ritchie/","tags":["sources","directors"],"created":"2025-12-22T11:36:26.124+00:00","updated":"2025-12-22T11:50:31.813+00:00"}
+{"dg-publish":true,"permalink":"/sources/guy-ritchie/","tags":["sources","directors"],"created":"2026-01-13T17:28:26.580+00:00","updated":"2026-01-13T17:28:26.580+00:00"}
 ---
 
 ## Films

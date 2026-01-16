@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/richard-curtis/","tags":["sources","directors"],"created":"2025-12-23T10:47:17.718+00:00","updated":"2025-12-23T10:47:27.387+00:00"}
+{"dg-publish":true,"permalink":"/sources/richard-curtis/","tags":["sources","directors"],"created":"2026-01-13T17:25:06.248+00:00","updated":"2026-01-13T17:25:06.248+00:00"}
 ---
 
 ## Films

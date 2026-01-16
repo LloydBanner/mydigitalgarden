@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/michael-philippou/","tags":["sources","directors"],"created":"2025-12-22T11:30:06.755+00:00","updated":"2025-12-22T11:30:18.915+00:00"}
+{"dg-publish":true,"permalink":"/sources/michael-philippou/","tags":["sources","directors"],"created":"2026-01-13T17:29:27.744+00:00","updated":"2026-01-13T17:29:27.744+00:00"}
 ---
 
 ## Films

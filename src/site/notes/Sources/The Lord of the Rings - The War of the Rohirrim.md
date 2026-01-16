@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-the-war-of-the-rohirrim/","tags":["films","sources","fantasy","prettyGood","lordOfTheRings"],"created":"2025-12-29T11:03:28.333+00:00","updated":"2025-12-29T11:31:54.001+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-the-war-of-the-rohirrim/","tags":["films","sources","fantasy","prettyGood","lordOfTheRings"],"created":"2026-01-13T17:27:00.654+00:00","updated":"2026-01-13T17:27:00.654+00:00"}
 ---
 
 Directors: [[Sources/Kenji Kamiyama\|Kenji Kamiyama]]

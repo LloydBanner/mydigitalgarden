@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/national-lampoon-s-christmas-vacation/","tags":["films","sources","christmas","theBest"],"created":"2025-12-23T10:36:46.077+00:00","updated":"2025-12-23T10:44:03.079+00:00"}
+{"dg-publish":true,"permalink":"/sources/national-lampoon-s-christmas-vacation/","tags":["films","sources","christmas","theBest"],"created":"2026-01-13T17:29:40.759+00:00","updated":"2026-01-13T17:29:40.759+00:00"}
 ---
 
 Directors: [[Sources/Jeremiah S. Chechik\|Jeremiah S. Chechik]]

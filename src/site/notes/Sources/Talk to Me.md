@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/talk-to-me/","tags":["films","sources","horror","prettyGood"],"created":"2025-12-22T11:25:59.203+00:00","updated":"2025-12-22T11:29:44.593+00:00"}
+{"dg-publish":true,"permalink":"/sources/talk-to-me/","tags":["films","sources","horror","prettyGood"],"created":"2026-01-13T17:26:18.134+00:00","updated":"2026-01-13T17:26:18.134+00:00"}
 ---
 
 Directors: [[Sources/Danny Philippou\|Danny Philippou]],[[Sources/Michael Philippou\|Michael Philippou]]

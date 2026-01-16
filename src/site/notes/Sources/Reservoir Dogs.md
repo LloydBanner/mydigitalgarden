@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/reservoir-dogs/","tags":["films","sources","crime","theBest","thriller"],"created":"2025-10-04T10:52:18.367+01:00","updated":"2025-12-22T11:51:52.614+00:00"}
+{"dg-publish":true,"permalink":"/sources/reservoir-dogs/","tags":["films","sources","crime","theBest","thriller"],"created":"2026-01-13T17:29:00.160+00:00","updated":"2026-01-13T17:29:00.913+00:00"}
 ---
 
 Director: `= this.director`

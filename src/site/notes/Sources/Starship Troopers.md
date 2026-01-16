@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/starship-troopers/","tags":["films","sources","Sci-Fi","theBest","comedy"],"created":"2025-12-22T10:48:12.676+00:00","updated":"2025-12-22T10:54:57.052+00:00"}
+{"dg-publish":true,"permalink":"/sources/starship-troopers/","tags":["films","sources","Sci-Fi","theBest","comedy"],"created":"2026-01-13T17:27:07.287+00:00","updated":"2026-01-13T17:27:07.889+00:00"}
 ---
 
 Directors: [[Sources/Paul Verhoeven\|Paul Verhoeven]]

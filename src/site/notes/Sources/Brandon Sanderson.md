@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/brandon-sanderson/","tags":["authors","sources"],"created":"2025-10-02T02:09:26.094+01:00","updated":"2025-10-02T02:09:26.858+01:00"}
+{"dg-publish":true,"permalink":"/sources/brandon-sanderson/","tags":["authors","sources"],"created":"2026-01-13T17:26:06.335+00:00","updated":"2026-01-13T17:26:06.335+00:00"}
 ---
 
 Brandon Winn Sanderson (born December 19, 1975) is an American author of high fantasy, science fiction, and young adult books.
@@ -9,14 +9,14 @@ Brandon Winn Sanderson (born December 19, 1975) is an American author of high fa
 
 { .block-language-dataview}
 ## Books
-- [[Sources/The Bands of Mourning\|The Bands of Mourning]]
-- [[Sources/The Final Empire\|The Final Empire]]
+- [[Sources/Rhythm of War\|Rhythm of War]]
 - [[Sources/Shadows of Self\|Shadows of Self]]
 - [[Sources/The Hero of Ages\|The Hero of Ages]]
-- [[Sources/Words of Radiance\|Words of Radiance]]
-- [[Sources/Rhythm of War\|Rhythm of War]]
+- [[Sources/The Bands of Mourning\|The Bands of Mourning]]
 - [[Sources/The Well of Ascension\|The Well of Ascension]]
+- [[Sources/The Final Empire\|The Final Empire]]
 - [[Sources/The Way of Kings\|The Way of Kings]]
+- [[Sources/Words of Radiance\|Words of Radiance]]
 - [[Sources/The Alloy of Law\|The Alloy of Law]]
 - [[Sources/Oathbringer\|Oathbringer]]
 

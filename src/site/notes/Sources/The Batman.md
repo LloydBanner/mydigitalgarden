@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-batman/","tags":["films","sources","superhero","theBest"],"created":"2025-12-22T13:02:40.945+00:00","updated":"2025-12-22T13:06:56.757+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-batman/","tags":["films","sources","superhero","theBest"],"created":"2026-01-13T17:28:17.093+00:00","updated":"2026-01-13T17:28:17.960+00:00"}
 ---
 
 Directors: [[Sources/Matt Reeves\|Matt Reeves]]

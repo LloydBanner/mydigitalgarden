@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/digital-minimalism/","tags":["books","sources","non-fiction","technology","theBest"],"created":"2025-10-02T02:09:27.792+01:00","updated":"2025-10-02T02:09:27.792+01:00"}
+{"dg-publish":true,"permalink":"/sources/digital-minimalism/","tags":["books","sources","non-fiction","technology","theBest"],"created":"2026-01-13T17:27:06.258+00:00","updated":"2026-01-13T17:27:06.258+00:00"}
 ---
 
 Author: [[Sources/Cal Newport\|Cal Newport]]

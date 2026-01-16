@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cooking-recipes/slow-cooked-beef-and-red-wine-stew/","tags":["lloydsCookingRecipes","feed","developing"],"created":"2026-01-10T14:06:16.385+00:00","updated":"2026-01-10T14:07:14.371+00:00"}
+{"dg-publish":true,"permalink":"/cooking-recipes/slow-cooked-beef-and-red-wine-stew/","tags":["lloydsCookingRecipes","feed","developing"],"created":"2026-01-13T17:28:46.237+00:00","updated":"2026-01-13T17:28:46.237+00:00"}
 ---
 
 Serves 5-6

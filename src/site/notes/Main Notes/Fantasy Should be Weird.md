@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/fantasy-should-be-weird/","tags":["thoughts","draft","fantasy","feed"],"created":"2025-10-04T10:51:57.488+01:00","updated":"2025-12-23T08:01:37.522+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/fantasy-should-be-weird/","tags":["thoughts","draft","fantasy","feed"],"created":"2026-01-13T17:30:17.289+00:00","updated":"2026-01-13T17:30:17.289+00:00"}
 ---
 
 I think what separates fantasy from most other genres is its ability to be weird. Some fantasy such as [[Sources/Terry Pratchett\|Terry Pratchett's]] [[Sources/Discworld\|Discworld]] take this to its extreme going so far as to make absurdist comedy out of them (I will never forget the hydrophobic wizards). A lot of recent fantasy tries to make the world feel gritty and realistic though, the most well known of the probably being [[Sources/Game of Thrones (TV)\|Game of Thrones]]. I think there is a place for these sorts of settings but I think they also lose something for being too realistic in places.

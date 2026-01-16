@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/crumbling-world/","tags":["feed","lloydsBooks","developed"],"created":"2025-10-04T10:51:56.982+01:00","updated":"2025-12-22T15:41:27.280+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/crumbling-world/","tags":["feed","lloydsBooks","developed"],"created":"2026-01-13T17:29:22.195+00:00","updated":"2026-01-13T17:29:22.195+00:00"}
 ---
 
 Released: 15-09-2018

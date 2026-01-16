@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/old-moon-quarterly/","tags":["booksSeries","sources"],"created":"2025-11-28T14:06:02.682+00:00","updated":"2025-11-28T14:07:10.131+00:00"}
+{"dg-publish":true,"permalink":"/sources/old-moon-quarterly/","tags":["booksSeries","sources"],"created":"2026-01-13T17:29:48.107+00:00","updated":"2026-01-13T17:29:48.871+00:00"}
 ---
 
 Author: Various

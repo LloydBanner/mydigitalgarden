@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/kenji-kamiyama/","tags":["sources","directors"],"created":"2025-12-29T11:09:44.465+00:00","updated":"2025-12-29T11:09:56.385+00:00"}
+{"dg-publish":true,"permalink":"/sources/kenji-kamiyama/","tags":["sources","directors"],"created":"2026-01-13T17:26:20.139+00:00","updated":"2026-01-13T17:26:20.139+00:00"}
 ---
 
 ## Films Series

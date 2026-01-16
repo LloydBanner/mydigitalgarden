@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/dungeon-crawler-carl-review/","tags":["feed","reviews","fantasy","developed","Sci-Fi","litRPGs"],"created":"2025-12-08T17:49:31.458+00:00","updated":"2025-12-08T17:49:31.458+00:00"}
+{"dg-publish":true,"permalink":"/reviews/dungeon-crawler-carl-review/","tags":["feed","reviews","fantasy","developed","Sci-Fi","litRPGs"],"created":"2026-01-13T17:29:49.222+00:00","updated":"2026-01-13T17:29:49.993+00:00"}
 ---
 
 Written: 08-12-2025

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/django-unchained/","tags":["films","sources","western","theBest"],"created":"2025-10-05T12:54:50.378+01:00","updated":"2025-12-22T12:07:39.302+00:00"}
+{"dg-publish":true,"permalink":"/sources/django-unchained/","tags":["films","sources","western","theBest"],"created":"2026-01-13T17:27:49.507+00:00","updated":"2026-01-13T17:27:49.507+00:00"}
 ---
 
 Directors: [[Sources/Quentin Tarantino\|Quentin Tarantino]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-art-of-war/","tags":["books","sources","history","non-fiction","theBest"],"created":"2025-10-02T02:11:02.028+01:00","updated":"2025-10-02T02:11:02.755+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-art-of-war/","tags":["books","sources","history","non-fiction","theBest"],"created":"2026-01-13T17:29:52.201+00:00","updated":"2026-01-13T17:29:52.201+00:00"}
 ---
 
 Author: [[Sources/Sun Tzu\|Sun Tzu]]

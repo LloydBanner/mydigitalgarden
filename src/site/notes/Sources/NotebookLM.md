@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/notebook-lm/","tags":["tools","developing","feed"],"created":"2025-11-11T20:53:53.442+00:00","updated":"2025-11-11T20:58:46.416+00:00"}
+{"dg-publish":true,"permalink":"/sources/notebook-lm/","tags":["tools","developing","feed"],"created":"2026-01-13T17:25:53.336+00:00","updated":"2026-01-13T17:25:53.995+00:00"}
 ---
 
 I have been using [NotebookLM](https://notebooklm.google/) for a while now to search through my [[Main Notes/TTRPG Session Logs\|TTRPG Session Logs]] to back my planning easier. It is a really powerful tool that can collate information from the sources you give it. It is particularly good at finding names and patterns as well as unresolved plot threads. It also has some interesting features such as podcast like overviews and quizzes on the sources you give it. I think this is one of the better uses of AI that I have seen since you know exactly what sources it is using and it is restricted. It also just seems to be improving. I would highly recommend it.

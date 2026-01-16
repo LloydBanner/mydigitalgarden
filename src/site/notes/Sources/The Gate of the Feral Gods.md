@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-gate-of-the-feral-gods/","tags":["books","sources","fantasy","Sci-Fi","theBest","litRPGs"],"created":"2025-12-20T10:49:57.630+00:00","updated":"2026-01-12T17:41:35.638+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-gate-of-the-feral-gods/","tags":["books","sources","fantasy","Sci-Fi","theBest","litRPGs"],"created":"2026-01-13T17:29:51.506+00:00","updated":"2026-01-13T17:29:51.506+00:00"}
 ---
 
 Author: [[Sources/Matt Dinniman\|Matt Dinniman]]

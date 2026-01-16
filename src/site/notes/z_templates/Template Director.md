@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-director/","tags":["sources","directors"],"created":"2025-10-04T10:51:54.139+01:00","updated":"2025-12-22T11:50:43.864+00:00"}
+{"dg-publish":true,"permalink":"/z-templates/template-director/","tags":["sources","directors"],"created":"2026-01-13T17:28:02.251+00:00","updated":"2026-01-13T17:28:02.251+00:00"}
 ---
 
 

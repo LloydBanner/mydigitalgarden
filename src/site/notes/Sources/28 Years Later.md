@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/28-years-later/","tags":["films","sources"],"created":"2025-10-12T17:53:38.714+01:00","updated":"2025-10-12T17:59:04.272+01:00"}
+{"dg-publish":true,"permalink":"/sources/28-years-later/","tags":["films","sources"],"created":"2026-01-13T17:26:51.108+00:00","updated":"2026-01-13T17:26:51.108+00:00"}
 ---
 
 Directors: [[Sources/Danny Boyle\|Danny Boyle]]

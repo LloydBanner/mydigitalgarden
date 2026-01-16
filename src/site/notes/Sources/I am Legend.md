@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/i-am-legend/","tags":["books","sources","theBest","Sci-Fi","fantasy"],"created":"2025-10-02T02:10:52.187+01:00","updated":"2025-10-02T02:10:52.187+01:00"}
+{"dg-publish":true,"permalink":"/sources/i-am-legend/","tags":["books","sources","theBest","Sci-Fi","fantasy"],"created":"2026-01-13T17:27:24.365+00:00","updated":"2026-01-13T17:27:24.365+00:00"}
 ---
 
 Author: [[Sources/Richard Matheson\|Richard Matheson]]

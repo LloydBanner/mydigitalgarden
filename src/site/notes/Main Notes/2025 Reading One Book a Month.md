@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/2025-reading-one-book-a-month/","tags":["feed","developed"],"created":"2026-01-04T19:21:25.488+00:00","updated":"2026-01-04T19:26:19.044+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/2025-reading-one-book-a-month/","tags":["feed","developed"],"created":"2026-01-13T17:25:18.565+00:00","updated":"2026-01-13T17:25:18.565+00:00"}
 ---
 
 For this year I set a couple of new year's resolutions. One was to say no more so I had more time, I don't think this has gone so well, and the other was to read at least one book a month and at least 12 by the end of the year. This page is to record my progress. 

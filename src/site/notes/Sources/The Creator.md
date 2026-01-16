@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-creator/","tags":["films","sources","Sci-Fi","prettyGood"],"created":"2025-12-22T13:08:46.599+00:00","updated":"2025-12-22T13:11:35.176+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-creator/","tags":["films","sources","Sci-Fi","prettyGood"],"created":"2026-01-13T17:30:03.286+00:00","updated":"2026-01-13T17:30:03.308+00:00"}
 ---
 
 Directors: [[Sources/Gareth Edwards\|Gareth Edwards]]

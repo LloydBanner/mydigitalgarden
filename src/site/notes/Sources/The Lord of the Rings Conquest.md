@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-conquest/","tags":["lordOfTheRings","videoGames","sources"],"created":"2025-10-02T02:10:23.883+01:00","updated":"2025-10-02T02:10:23.883+01:00"}
+{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-conquest/","tags":["lordOfTheRings","videoGames","sources"],"created":"2026-01-13T17:30:24.070+00:00","updated":"2026-01-13T17:30:24.794+00:00"}
 ---
 
 I am a huge fan of [[Sources/Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]] and when I found out there was a [[Sources/The Lord of the Rings\|The Lord of the Rings]] game in the same style I instantly wanted to play it. It is good and allows a fun way for you to take part in battles from the films. It is a bit gamey in places, but where this goes against the events in the story it makes the game more fun so I think this is a fair trade. You can play through a campaign fighting to defeat evil and then there is an alternate evil campaign too. Both are a lot of fun. The game does suffer from some weird balancing in places but don't let that put you off.

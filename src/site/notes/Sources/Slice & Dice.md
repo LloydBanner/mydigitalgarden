@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/slice-and-dice/","tags":["videoGames","sources","fantasy","theBest","strategy","rougelike"],"created":"2025-10-30T19:34:00.669+00:00","updated":"2025-10-30T19:37:46.006+00:00"}
+{"dg-publish":true,"permalink":"/sources/slice-and-dice/","tags":["videoGames","sources","fantasy","theBest","strategy","rougelike"],"created":"2026-01-13T17:31:23.156+00:00","updated":"2026-01-13T17:31:23.156+00:00"}
 ---
 
 Developer: Tann

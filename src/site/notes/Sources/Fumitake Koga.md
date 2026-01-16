@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/fumitake-koga/","tags":["authors","sources"],"created":"2025-10-02T02:09:50.395+01:00","updated":"2025-10-02T02:09:50.395+01:00"}
+{"dg-publish":true,"permalink":"/sources/fumitake-koga/","tags":["authors","sources"],"created":"2026-01-13T17:27:28.241+00:00","updated":"2026-01-13T17:27:28.241+00:00"}
 ---
 
 ## Books

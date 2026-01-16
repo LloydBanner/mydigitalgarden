@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/dune-part-one/","tags":["films","sources","Sci-Fi","theBest"],"created":"2025-12-22T11:12:23.904+00:00","updated":"2025-12-22T11:18:27.184+00:00"}
+{"dg-publish":true,"permalink":"/sources/dune-part-one/","tags":["films","sources","Sci-Fi","theBest"],"created":"2026-01-13T17:27:55.450+00:00","updated":"2026-01-13T17:27:55.450+00:00"}
 ---
 
 Directors: [[Sources/Denis Villeneuve\|Denis Villeneuve]]

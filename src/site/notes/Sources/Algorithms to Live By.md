@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/algorithms-to-live-by/","tags":["books","sources","science","non-fiction","theBest"],"created":"2025-10-02T02:09:50.066+01:00","updated":"2025-10-02T02:09:50.828+01:00"}
+{"dg-publish":true,"permalink":"/sources/algorithms-to-live-by/","tags":["books","sources","science","non-fiction","theBest"],"created":"2026-01-13T17:25:06.541+00:00","updated":"2026-01-13T17:25:06.541+00:00"}
 ---
 
 Author: [[Sources/Brian Christian\|Brian Christian]]

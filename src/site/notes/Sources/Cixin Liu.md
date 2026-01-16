@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/cixin-liu/","tags":["authors","sources"],"created":"2025-10-02T02:09:30.228+01:00","updated":"2025-10-02T02:09:30.228+01:00"}
+{"dg-publish":true,"permalink":"/sources/cixin-liu/","tags":["authors","sources"],"created":"2026-01-13T17:28:10.777+00:00","updated":"2026-01-13T17:28:10.777+00:00"}
 ---
 
 Cixin Liu is a Chinese computer engineer and science fiction writer.
@@ -8,7 +8,7 @@ Cixin Liu is a Chinese computer engineer and science fiction writer.
 
 { .block-language-dataview}
 ## Books
-- [[Sources/The Three Body Problem\|The Three Body Problem]]
 - [[Sources/The Dark Forest\|The Dark Forest]]
+- [[Sources/The Three Body Problem\|The Three Body Problem]]
 
 { .block-language-dataview}

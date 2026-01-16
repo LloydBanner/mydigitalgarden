@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/shadow-of-the-colossus/","tags":["videoGames","sources"],"created":"2025-10-02T02:09:23.855+01:00","updated":"2025-10-02T02:09:23.855+01:00"}
+{"dg-publish":true,"permalink":"/sources/shadow-of-the-colossus/","tags":["videoGames","sources"],"created":"2026-01-13T17:24:42.003+00:00","updated":"2026-01-13T17:24:42.003+00:00"}
 ---
 
 Developer: Team Ico

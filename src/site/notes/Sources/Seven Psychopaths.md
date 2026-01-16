@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/seven-psychopaths/","tags":["films","sources","crime","comedy","theBest"],"created":"2025-12-31T10:28:04.213+00:00","updated":"2025-12-31T10:32:11.848+00:00"}
+{"dg-publish":true,"permalink":"/sources/seven-psychopaths/","tags":["films","sources","crime","comedy","theBest"],"created":"2026-01-13T17:31:25.393+00:00","updated":"2026-01-13T17:31:25.952+00:00"}
 ---
 
 Directors: [[Sources/Martin McDonagh\|Martin McDonagh]]
