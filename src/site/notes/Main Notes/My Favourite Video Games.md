@@ -37,8 +37,8 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Elden Ring\|Elden Ring]]                                           |
 | [[Sources/Halo 3\|Halo 3]]                                                   |
 | [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |
-| [[Sources/Halo Reach\|Halo Reach]]                                           |
 | [[Sources/Halo ODST\|Halo ODST]]                                             |
+| [[Sources/Halo Reach\|Halo Reach]]                                           |
 | [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
 | [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]         |
 | [[Sources/Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]               |
