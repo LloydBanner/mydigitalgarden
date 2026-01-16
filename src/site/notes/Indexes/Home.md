@@ -20,8 +20,8 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Films\|Films]]
 
 **Feed (a bit of everything) (sorted by last update)**
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 16-01-2026
 - [[MMC Invitational 2026\|MMC Invitational 2026]]: 16-01-2026
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 16-01-2026
 - [[Reviews/The Gate of the Feral Gods Review\|The Gate of the Feral Gods Review]]: 12-01-2026
 - [[Cooking Recipes/Slow Cooked Beef and Red Wine Stew\|Slow Cooked Beef and Red Wine Stew]]: 10-01-2026
 - [[Reviews/Alien Earth Season 1 Review\|Alien Earth Season 1 Review]]: 09-01-2026
