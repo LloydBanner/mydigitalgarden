@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-two-towers-film/","tags":["films","theBest","lordOfTheRings","sources","fantasy"],"created":"2025-10-04T10:52:18.131+01:00","updated":"2025-12-29T11:30:17.462+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-two-towers-film/","tags":["films","theBest","lordOfTheRings","sources","fantasy"],"created":"2026-01-13T17:31:25.422+00:00","updated":"2026-01-13T17:31:25.422+00:00"}
 ---
 
 Directors: [[Sources/Peter Jackson\|Peter Jackson]]
