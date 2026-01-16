@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-18/","tags":["feed","elbonLogs","draft"],"created":"2026-01-13T17:46:26.542+00:00","updated":"2026-01-16T19:27:13.850+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-18/","tags":["feed","elbonLogs","draft"],"created":"2026-01-13T17:46:26.542+00:00","updated":"2026-01-16T19:28:41.266+00:00"}
 ---
 
 **[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 34-3-596
@@ -42,7 +42,6 @@
 - It twitched and flailed and the magical darkness began to fade. A horrible creature with an impossible number of arms was revealed. On the palm of each hand was a many toothed mouth. The party dislodged and took some of these.
 - After the battle they approached the coffin to find a recognisable but deathly looking imaged of their friend from the painting. It was Sarzan twisted and broken, barely alive but somehow undying.
 ![Sarzan's Tomb.png](/img/user/z_assets/TTRPG/Place%20Pictures/Stagbrook/StagbrookKeep/Sarzan's%20Tomb.png)
-
 ### Sarzan's Undeath and the Depths Which Caused it
 - In progress (This session had a lot going on)
 
