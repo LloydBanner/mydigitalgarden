@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-18/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:46:26.542+00:00","updated":"2026-01-17T13:12:38.371+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-18/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:46:26.542+00:00","updated":"2026-01-17T13:51:12.956+00:00"}
 ---
 
 ## Session Notes
@@ -71,6 +71,7 @@
 - Inside the tall figures of Archeans slowly danced around. They seemed to care little about the presence of the party
 - The party called to one which hesitantly turned to speak to them in common
 - The Archeans were a hivemind and struggled to understand the singular. Sarzan had been connected partially to this mind and was supporting their world somehow. They craved order but didn't understand people. The party discussed this with them for some time. The Archeans were using Sarzan to support something, but could not or would not explain it
+- It seemed they farmed the bees for a substance that they used to create beings. The party questioned if they were gods
 - Eventually the party decided that the Archeans were making Sarzan suffer to support something for their own gain. They had all been trying to work it out but eventually decided they would just kill Sarzan with Maia loudly exclaiming, "let's just kill him". The Archean warned them not to and lumbered after them but couldn't catch them
 - Following Geog's maps they were able to return to the room where Sarzan was held with ease
 - When they reached Sarzan they decided they could take Sarzan to the Antiphoenix so wanted to keep him alive until then

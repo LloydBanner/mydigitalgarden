@@ -6,7 +6,7 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Developing Feed (sorted by last update)
-- [[MMC Invitational 2026\|MMC Invitational 2026]]: 16-01-2026
+- [[Main Notes/MMC Invitational 2026\|MMC Invitational 2026]]: 16-01-2026
 - [[Reviews/The Gate of the Feral Gods Review\|The Gate of the Feral Gods Review]]: 12-01-2026
 - [[Cooking Recipes/Slow Cooked Beef and Red Wine Stew\|Slow Cooked Beef and Red Wine Stew]]: 10-01-2026
 - [[Reviews/Alien Earth Season 1 Review\|Alien Earth Season 1 Review]]: 09-01-2026
