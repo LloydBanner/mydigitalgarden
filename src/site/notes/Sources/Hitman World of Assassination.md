@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/sources/hitman-world-of-assassination/","tags":["videoGames","theBest","sources"],"created":"2026-01-13T17:24:47.561+00:00","updated":"2026-01-13T17:24:47.561+00:00"}
+{"dg-publish":true,"permalink":"/sources/hitman-world-of-assassination/","tags":["videoGames","theBest","sources"],"created":"2026-01-16T23:04:30.801+00:00","updated":"2026-01-16T23:04:30.821+00:00"}
 ---
 
 Developer: IOI
 Publisher: IOI
 released: 20-01-2022
 First Played: 2022 (2016 if you count the other games in the trilogy)
-Last Played: 16-07-2025
+Last Played: 16-01-2025
 Link: https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/
 
 - [[Sources/Hitman Elusive Targets\|Elusive Targets]]

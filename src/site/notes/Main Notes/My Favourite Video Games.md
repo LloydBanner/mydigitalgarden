@@ -14,6 +14,7 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 ## The List
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
+| [[Sources/Hitman World of Assassination\|Hitman World of Assassination]]     |
 | [[Sources/Minecraft\|Minecraft]]                                             |
 | [[Sources/PEAK\|PEAK]]                                                       |
 | [[Sources/Hades II\|Hades II]]                                               |
@@ -24,7 +25,6 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Bloodthief\|Bloodthief]]                                           |
 | [[Sources/Ico\|Ico]]                                                         |
 | [[Sources/Quake\|Quake]]                                                     |
-| [[Sources/Hitman World of Assassination\|Hitman World of Assassination]]     |
 | [[Sources/Into the Breach\|Into the Breach]]                                 |
 | [[Sources/Plants Vs Zombies\|Plants Vs Zombies]]                             |
 | [[Sources/Oblivion\|Oblivion]]                                               |

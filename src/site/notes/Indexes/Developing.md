@@ -32,9 +32,9 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 - [[Main Notes/Media Consumption\|Media Consumption]]: 01-06-2025
 - [[Main Notes/Why you Should Watch the Hal9000 Edits of the Star Wars Prequels\|Why you Should Watch the Hal9000 Edits of the Star Wars Prequels]]: 22-04-2025
 - [[Main Notes/Why you Should Watch Harmy's Despecialized Editions of Star Wars\|Why you Should Watch Harmy's Despecialized Editions of Star Wars]]: 22-04-2025
+- [[Main Notes/The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]: 22-04-2025
 - [[Main Notes/The Clone Wars Refocused Cuts all of the Filler\|The Clone Wars Refocused Cuts all of the Filler]]: 22-04-2025
 - [[Main Notes/The Best Star Wars Battlefront II Mods and Maps\|The Best Star Wars Battlefront II Mods and Maps]]: 22-04-2025
-- [[Main Notes/The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]: 22-04-2025
 - [[Main Notes/Morrowind's Biggest Mods\|Morrowind's Biggest Mods]]: 22-04-2025
 - [[Main Notes/Getting into Morrowind\|Getting into Morrowind]]: 22-04-2025
 - [[Main Notes/The Best Star Wars Games\|The Best Star Wars Games]]: 21-04-2025
