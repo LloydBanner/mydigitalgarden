@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/sources/28-years-later/","tags":["films","sources"],"created":"2026-01-13T17:26:51.108+00:00","updated":"2026-01-13T17:26:51.108+00:00"}
+{"dg-publish":true,"permalink":"/sources/28-years-later/","tags":["films","sources","zombies"],"created":"2026-01-25T18:13:46.317+00:00","updated":"2026-01-25T18:13:46.878+00:00"}
 ---
 
 Directors: [[Sources/Danny Boyle\|Danny Boyle]]
 Released: 18-06-2025
+Series: [[Sources/28 Days Later (series)\|28 Days Later (series)]]
 First Watched: 01-10-2025
 Last Watched: 01-10-2025
 Link: https://www.imdb.com/title/tt10548174/

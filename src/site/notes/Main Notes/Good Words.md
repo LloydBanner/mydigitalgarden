@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"2026-01-13T17:30:25.380+00:00","updated":"2026-01-13T17:30:25.380+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"2026-01-25T18:13:47.029+00:00","updated":"2026-01-25T18:13:47.134+00:00"}
 ---
 
 A collection of good words for writing that I have discovered. Wanting to write more fantasy, I am collecting them to better describe different situations.
@@ -16,12 +16,14 @@ A collection of good words for writing that I have discovered. Wanting to write 
 - Imprecation = Curse or swear word. From [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]
 - Coruscated = To flash or sparkle. From [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]
 - Lasciviously = Feeling or revealing an overtly sexual desire. From [[Sources/Swords and Deviltry\|Swords and Deviltry]]
-- Languorous - Pleasurable tiredness or inactivity. OR oppressive stillness. From [[Sources/Swords and Deviltry\|Swords and Deviltry]]
-- Malodorous - Smelling very unpleasant. From [[Sources/Swords and Deviltry\|Swords and Deviltry]]
-- Florid - Flowery. From [[Cugel's Saga\|Cugel's Saga]]
-- Assiduous - Diligent. From [[Cugel's Saga\|Cugel's Saga]]
-- Obeisance - deferential respect. From [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]
-- Recalcitrant - uncooperative, particularly to authority. From [[Sources/The Gate of the Feral Gods\|The Gate of the Feral Gods]]
+- Languorous = Pleasurable tiredness or inactivity. OR oppressive stillness. From [[Sources/Swords and Deviltry\|Swords and Deviltry]]
+- Malodorous = Smelling very unpleasant. From [[Sources/Swords and Deviltry\|Swords and Deviltry]]
+- Florid = Flowery. From [[Cugel's Saga\|Cugel's Saga]]
+- Assiduous = Diligent. From [[Cugel's Saga\|Cugel's Saga]]
+- Obeisance = Deferential respect. From [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]
+- Recalcitrant = Uncooperative, particularly to authority. From [[Sources/The Gate of the Feral Gods\|The Gate of the Feral Gods]]
+- Reticent = Inclined to keep thoughts to oneself. Restrained. From [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]
+- Sedition = Actions or words to cause rebellion. From [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]
 
 ## You May Also Like
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]
@@ -29,3 +31,8 @@ A collection of good words for writing that I have discovered. Wanting to write 
 - [[Main Notes/Insighting Quotes\|Insighting Quotes]]
 ## References 
 - [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]
+- [[Sources/Swords and Deviltry\|Swords and Deviltry]]
+- [[Cugel's Saga\|Cugel's Saga]]
+- [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]
+- [[Sources/The Gate of the Feral Gods\|The Gate of the Feral Gods]]
+- [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]
