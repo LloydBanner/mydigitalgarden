@@ -3,7 +3,7 @@
 ---
 
 ## Games
-- [[Sources/Black Mesa\|Black Mesa]]
 - [[Sources/Half Life\|Half Life]]
+- [[Sources/Black Mesa\|Black Mesa]]
 
 { .block-language-dataview}
