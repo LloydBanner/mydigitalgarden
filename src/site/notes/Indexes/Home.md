@@ -20,6 +20,7 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Films\|Films]]
 
 **Feed (a bit of everything) (sorted by last update)**
+- [[Reviews/The Butcher's Masquerade Review\|The Butcher's Masquerade Review]]: 15-02-2026
 - [[Reviews/Black Mesa Review\|Black Mesa Review]]: 28-01-2026
 - [[Main Notes/Good Words\|Good Words]]: 23-01-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 17-01-2026
@@ -48,7 +49,6 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Reviews/Carl's Doomsday Scenario Review\|Carl's Doomsday Scenario Review]]: 14-12-2025
 - [[Reviews/Dungeon Crawler Carl Review\|Dungeon Crawler Carl Review]]: 08-12-2025
 - [[Sources/PEAK\|PEAK]]: 28-11-2025
-- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 28-11-2025
 - [[Reviews/Siddhartha Review\|Siddhartha Review]]: 28-11-2025
 
 { .block-language-dataview}

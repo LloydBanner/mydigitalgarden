@@ -4,5 +4,6 @@
 
 ## Films
 - [[Sources/Seven Psychopaths\|Seven Psychopaths]]
+- [[Sources/In Bruges\|In Bruges]]
 
 { .block-language-dataview}

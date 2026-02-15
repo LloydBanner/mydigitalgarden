@@ -9,8 +9,8 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 - [[Main Notes/Good Words\|Good Words]]: 23-01-2026
 - [[Main Notes/The Best Christmas Films\|The Best Christmas Films]]: 23-12-2025
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 23-12-2025
-- [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-11-2025
 - [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 22-11-2025
+- [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-11-2025
 - [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 11-05-2025
 - [[Main Notes/Making Magic Magical\|Making Magic Magical]]: 27-04-2025
 - [[Main Notes/Hobbit Fan Edits Condense the Trilogy into One Film\|Hobbit Fan Edits Condense the Trilogy into One Film]]: 27-04-2025

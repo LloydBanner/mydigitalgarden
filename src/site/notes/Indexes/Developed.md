@@ -6,6 +6,7 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Developed Feed (sorted by last update)
+- [[Reviews/The Butcher's Masquerade Review\|The Butcher's Masquerade Review]]: 15-02-2026
 - [[Reviews/Black Mesa Review\|Black Mesa Review]]: 28-01-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 17-01-2026
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 04-01-2026
@@ -33,13 +34,13 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 - [[Sources/Bloodthief\|Bloodthief]]: 12-10-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 11\|Magic Shop Owners Session 11]]: 04-10-2025
 - [[Reviews/Prey (2017) Mooncrash Review\|Prey (2017) Mooncrash Review]]: 04-10-2025
+- [[TTRPG/Session Logs/Elbon/Dragon Hunters (One Shot)/Dragon Hunters Session Notes (One Shot)\|Dragon Hunters Session Notes (One Shot)]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 9\|Magic Shop Owners Session 9]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 6\|Magic Shop Owners Session 6]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 7\|Magic Shop Owners Session 7]]: 16-08-2025
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 6\|Magic Shop Owners Session 6]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 5\|Magic Shop Owners Session 5]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 2\|Magic Shop Owners Session 2]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 13\|Magic Shop Owners Session 13]]: 16-08-2025
-- [[TTRPG/Session Logs/Elbon/Dragon Hunters (One Shot)/Dragon Hunters Session Notes (One Shot)\|Dragon Hunters Session Notes (One Shot)]]: 16-08-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 1\|Cursed Ones Session 1]]: 16-08-2025
 - [[Main Notes/Revenge of the Sith Review 2025\|Revenge of the Sith Review 2025]]: 10-05-2025
 - [[Main Notes/Two of Me\|Two of Me]]: 27-04-2025
