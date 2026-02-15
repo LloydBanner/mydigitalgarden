@@ -5,6 +5,7 @@
 **The List:**
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]                                                                               |
 | [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]                                                                               |
 | [[Sources/The Dungeon Anarchist's Cookbook\|The Dungeon Anarchist's Cookbook]]                                                               |
 | [[Sources/The Gate of the Feral Gods\|The Gate of the Feral Gods]]                                                                           |
