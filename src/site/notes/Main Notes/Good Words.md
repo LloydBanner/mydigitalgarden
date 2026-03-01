@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"2026-01-25T18:13:47.134+00:00","updated":"2026-01-25T18:13:47.134+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"2026-02-25T20:50:18.117+00:00","updated":"2026-02-25T20:50:18.195+00:00"}
 ---
 
 A collection of good words for writing that I have discovered. Wanting to write more fantasy, I am collecting them to better describe different situations.
@@ -24,6 +24,8 @@ A collection of good words for writing that I have discovered. Wanting to write 
 - Recalcitrant = Uncooperative, particularly to authority. From [[Sources/The Gate of the Feral Gods\|The Gate of the Feral Gods]]
 - Reticent = Inclined to keep thoughts to oneself. Restrained. From [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]
 - Sedition = Actions or words to cause rebellion. From [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]
+- Gauche = Lacking graced. Crude. Tactless. From [[The Minstry of Ungentlemanly Warfare\|The Minstry of Ungentlemanly Warfare]]
+- Purloined = To steal. From [[Sources/The Hobbit (book)\|The Hobbit]]
 
 ## You May Also Like
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]

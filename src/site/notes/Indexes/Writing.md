@@ -16,7 +16,7 @@ A page to collect all the things I have written. This will include, but is not l
 
 { .block-language-dataview}
 ## Thoughts (sorted by last update)
-- [[Main Notes/Good Words\|Good Words]]: 23-01-2026
+- [[Main Notes/Good Words\|Good Words]]: 25-02-2026
 - [[Main Notes/Insighting Quotes\|Insighting Quotes]]: 23-12-2025
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 23-12-2025
 - [[Main Notes/Values I Live By\|Values I Live By]]: 22-12-2025

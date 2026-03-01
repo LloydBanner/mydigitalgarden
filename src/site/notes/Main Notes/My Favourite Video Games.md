@@ -17,8 +17,8 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Hitman World of Assassination\|Hitman World of Assassination]]     |
 | [[Sources/Minecraft\|Minecraft]]                                             |
 | [[Sources/PEAK\|PEAK]]                                                       |
-| [[Sources/Hades II\|Hades II]]                                               |
 | [[Sources/Hades\|Hades]]                                                     |
+| [[Sources/Hades II\|Hades II]]                                               |
 | [[Sources/The Banner Saga 2\|The Banner Saga 2]]                             |
 | [[Sources/The Banner Saga\|The Banner Saga]]                                 |
 | [[Sources/Slice & Dice\|Slice & Dice]]                                       |
@@ -35,8 +35,8 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Dishonored 2\|Dishonored 2]]                                       |
 | [[Sources/Dishonored\|Dishonored]]                                           |
 | [[Sources/Elden Ring\|Elden Ring]]                                           |
-| [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |
 | [[Sources/Halo 3\|Halo 3]]                                                   |
+| [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |
 | [[Sources/Halo ODST\|Halo ODST]]                                             |
 | [[Sources/Halo Reach\|Halo Reach]]                                           |
 | [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
