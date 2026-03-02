@@ -3,7 +3,7 @@
 ---
 
 ## Films
-- [[The Minstry of Ungentlemanly Warfare\|The Minstry of Ungentlemanly Warfare]]
+- [[Sources/The Minstry of Ungentlemanly Warfare\|The Minstry of Ungentlemanly Warfare]]
 - [[Sources/The Gentlemen\|The Gentlemen]]
 - [[Sources/Snatch\|Snatch]]
 - [[Sources/Lock Stock and Two Smoking Barrels\|Lock Stock and Two Smoking Barrels]]

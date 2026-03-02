@@ -17,8 +17,8 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Hitman World of Assassination\|Hitman World of Assassination]]     |
 | [[Sources/Minecraft\|Minecraft]]                                             |
 | [[Sources/PEAK\|PEAK]]                                                       |
-| [[Sources/Hades\|Hades]]                                                     |
 | [[Sources/Hades II\|Hades II]]                                               |
+| [[Sources/Hades\|Hades]]                                                     |
 | [[Sources/The Banner Saga 2\|The Banner Saga 2]]                             |
 | [[Sources/The Banner Saga\|The Banner Saga]]                                 |
 | [[Sources/Slice & Dice\|Slice & Dice]]                                       |
@@ -36,16 +36,16 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Dishonored\|Dishonored]]                                           |
 | [[Sources/Elden Ring\|Elden Ring]]                                           |
 | [[Sources/Halo 3\|Halo 3]]                                                   |
-| [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |
 | [[Sources/Halo ODST\|Halo ODST]]                                             |
+| [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |
 | [[Sources/Halo Reach\|Halo Reach]]                                           |
 | [[Sources/Jedi Fallen Order\|Jedi Fallen Order]]                             |
 | [[Sources/Jedi Knight II Jedi Outcast\|Jedi Knight II Jedi Outcast]]         |
 | [[Sources/Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]]               |
 | [[Sources/Jedi Survivor\|Jedi Survivor]]                                     |
 | [[Sources/Mario Maker 2\|Mario Maker 2]]                                     |
-| [[Sources/Middle Earth Shadow of Mordor\|Middle Earth Shadow of Mordor]]     |
 | [[Sources/Middle Earth Shadow of War\|Middle Earth Shadow of War]]           |
+| [[Sources/Middle Earth Shadow of Mordor\|Middle Earth Shadow of Mordor]]     |
 | [[Sources/Morrowind\|Morrowind]]                                             |
 | [[Sources/Mount and Blade Bannerlord\|Mount and Blade Bannerlord]]           |
 | [[Sources/Mount and Blade Warband\|Mount and Blade Warband]]                 |
