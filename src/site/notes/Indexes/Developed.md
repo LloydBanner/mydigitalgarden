@@ -9,8 +9,8 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 - [[Reviews/The Butcher's Masquerade Review\|The Butcher's Masquerade Review]]: 15-02-2026
 - [[Reviews/Black Mesa Review\|Black Mesa Review]]: 28-01-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 17-01-2026
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 13-01-2026
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 04-01-2026
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 22-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 22-12-2025
 - [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 22-12-2025
 - [[Main Notes/Crumbling World\|Crumbling World]]: 22-12-2025

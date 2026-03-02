@@ -25,6 +25,7 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Reviews/Black Mesa Review\|Black Mesa Review]]: 28-01-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 17-01-2026
 - [[Main Notes/MMC Invitational 2026\|MMC Invitational 2026]]: 16-01-2026
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 13-01-2026
 - [[Reviews/The Gate of the Feral Gods Review\|The Gate of the Feral Gods Review]]: 12-01-2026
 - [[Cooking Recipes/Slow Cooked Beef and Red Wine Stew\|Slow Cooked Beef and Red Wine Stew]]: 10-01-2026
 - [[Reviews/Alien Earth Season 1 Review\|Alien Earth Season 1 Review]]: 09-01-2026
@@ -34,7 +35,6 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/The Best Christmas Films\|The Best Christmas Films]]: 23-12-2025
 - [[Main Notes/Insighting Quotes\|Insighting Quotes]]: 23-12-2025
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 23-12-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 22-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 22-12-2025
 - [[Main Notes/Values I Live By\|Values I Live By]]: 22-12-2025
 - [[Main Notes/My Favourite Films\|My Favourite Films]]: 22-12-2025

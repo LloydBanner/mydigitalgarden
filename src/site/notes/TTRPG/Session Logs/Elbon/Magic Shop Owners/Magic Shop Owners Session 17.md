@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-17/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:33:49.299+00:00","updated":"2026-03-02T21:24:38.815+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-17/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:33:49.299+00:00","updated":"2026-03-02T21:27:11.515+00:00"}
 ---
 
 ## Session Notes
@@ -19,12 +19,12 @@
 - Jatumal used his detect evil ability and determined that they were not directly evil, but told the party that his ability suggested bad intentions and that they could be dangerous.
 - Sphonyx didn't know she had a sister but was excited about the prospect and encouraged everyone to let them in. Some of the others were wary, but Stinkcat helped Sphonyx unblock the door.
 - Scared by the dragon scales and head of the Dragonborn Derek ran up and punched Magma in the face. Sphonyx cast an illusion on Derek so that he believed he was tied up and he couldn't move. Magma chopped Derek's head off and it rolled across Sarzan's rug trailing blood, Derek's body flopped to the floor.
-- Geog instantly didn't trust Magma who had killed Derek when he was defenceless. Magma claimed he had attacked first and they had a long debate about this. Most of the rest of the party were wary but actually not too bothered about Derek's death. He had caused nothing but trouble for them. Maia said, "No point crying over spilt Dereks."
-- Everyone in the room ran over and started looting Derek's corpse, grabbing what they could. Meanwhile Sphonyx and Jutara chatted about their heritage. Apparently they had the same father who had gotten around a lot, which was why Sphonyx was human but Jutara was tiefling. Jutara had come to reunite with her lost relative. 
+- Geog instantly didn't trust Magma who had killed Derek when he was defenceless. Magma claimed he had attacked first and they had a long debate about this. Most of the rest of the party were wary but actually not too bothered about Derek's death. He had caused nothing but trouble for them. Maia said, "No point crying over spilt Derek's."
+- Everyone in the room ran over and started looting Derek's corpse, grabbing what they could. Meanwhile, Sphonyx and Jutara chatted about their heritage. Apparently they had the same father who had gotten around a lot, which was why Sphonyx was human but Jutara was tiefling. Jutara had come to reunite with her lost relative. 
 - Magma liked working with Jutara and was a friend and bodyguard to her, but had been cast out of his dragonborn clan which he had been heir to
-- Smuv was an Arcane Bard who had me them on the road and decided to tag along
+- Smuv was an Arcane Bard who had met them on the road and decided to tag along
 - Still slightly untrusting, the party decided these newcomers could tag along if they cooked and ate some of Derek. Magma attached him to his polearm and spit roasted him on the ever burning fire.
-- It took a while for Derek to cook so Breadwig, Geog and Magma started experimenting with Acman's eye. Magma tried to swallow it, but began choking and had to have the Heimlich manoeuvre to get it out of his mouth. 
+- It took awhile for Derek to cook so Breadwig, Geog and Magma started experimenting with Acman's eye. Magma tried to swallow it, but began choking and had to have the Heimlich manoeuvre to get it out of his mouth. 
 - Breadwig decided to put the eye into Derek's disembodied head. A rag was put in the head's mouth to prevent it from casting spells if Acman possessed it and an eye was removed by Magma with his claws. The gem was stopped into the socket by Magma and Geog.
 - The head rattled on the floor and then came to a stop. Breadwig tried removing the rag from the mouth but the head did not speak. They took the eye and head together and put them in Breadwig's pack
 - Derek had cooked and everyone ate some apart from Breadwig and Sphonyx who were both human and disgusted at the thought of eating another human. Smuv, who was also human, didn't seem to care. The others were all different races and were completely unbothered
@@ -32,7 +32,7 @@
 - Gary woke up and asked what was going on. He was told to shut up by both Sphonyx and Jutara
 - Next they travelled to the room to the north which was Sarzan's old bedroom. This was also very cosy compared to the rest of the keep like his living quarters.
 - There were three pedestals in the room with items on them. Magma ran for one, Smuv for another, and Jatumal for the last. Magma found a helmet which had a red light on top which flashed when goblins were around dazing those around it. It dazed everyone as Gary stepped into the room. Smuv got a wand of fruit, which could transmute fruit into other fruit. Jatumal found a ring of charm human, which allowed him to cast charm on humans.
-- It took a while for them to work out what each of these items did. The wand was identified with the index of wands that Jatumal had found in the library, Sphonyx recognised the ring's enchantment and they learnt what the helmet did by making Gary run back and forth from room to room.
+- It took awhile for them to work out what each of these items did. The wand was identified with the index of wands that Jatumal had found in the library, Sphonyx recognised the ring's enchantment and they learnt what the helmet did by making Gary run back and forth from room to room.
 - During this experimentation the rest of the room was explored. It was quite well decorated with tapestries and paintings. Some tattered robes were found and some surprisingly intact wizard hats. A few members of the group took hats of varying colours, they had no special effects.
 - Behind a painting a secret door was found, chanting 'nepo' opened it and revealed the room where they had tapped the rust monster weeks before. It began running for the but Maia shouted 'esolc' to close the door before the rust monster reached it.
 - Looking at their map they determined that they could cut a hole in the wall on the west of the bedroom to get to the passage there and avoid the rust monster. This seemed like the best way out now since the vault room was inaccessible. Geog initially began mining with a pickaxe that Maia had, but the wall was solid and he determined it would take at least a day to get through with his dwarf stone knowledge.
@@ -44,7 +44,7 @@
 - 'Nepo' was announced, the imaged shimmered, and the party members entered the painting 
 - Inside the sword in the stone shone in a forest clearing and a much younger Sarzan was humming away. He said, "Oh hello," enthusiastically.
 - They questioned him for some time and discovered that each of the paintings in the room likely also had a copy of Sarzan in it. He would make a copy of himself inside the canvas to paint the paints for him and each had a snapshot of his mind at the time they were painted.
-- Breadwig asked him about the sword and the painting while the others looked for the newest looking painting in the room. Breadwig discovered that the sword had been used by Redron, an elf, to end the war that had caused the great collapse. It was a magical sword that had allowed him to singlehandedly slay hundreds of dwarves that were coming to massacre defenceless elves singlehandedly. Then with the dwarven army dead the elves had intended to do practically the same in return. Redron had also slain their army. Redron then killed himself, upset at such a loss of life. The sword had been encased in this stone to prevent its use for evil. With all the great powers killed, and such a loss of population much knowledge both magical and technical was lost to time.
+- Breadwig asked him about the sword and the painting while the others looked for the newest looking painting in the room. Breadwig discovered that the sword had been used by Redron, an elf, to end the war that had caused the great collapse. It was a magical sword that had allowed him to single-handedly slay hundreds of dwarves that were coming to massacre defenceless elves single-handedly. Then with the dwarven army dead the elves had intended to do practically the same in return. Redron had also slain their army. Redron then killed himself, upset at such a loss of life. The sword had been encased in this stone to prevent its use for evil. With all the great powers killed, and such a loss of population much knowledge both magical and technical was lost to time.
 - Maia used her levitating boots and found a painting that was much less dusty than the others but it looked hastily drawn and was all in shades of grey. It was the opening of a cave with complete darkness at the end
 - She brought the painting down from the top of the wall and the party went inside
 - A Sarzan with no hair, who looked older than anyone that any of the party had ever seen was hobbling around inside
@@ -73,7 +73,7 @@
 ![dragonBones.jpeg](/img/user/z_assets/TTRPG/My%20Monsters/dragonBones.jpeg)
 - The first room on the second floor was huge, bigger than any they had seen so far, with six giant pillars. Jatumal, Breadwig and Geog approached the centre of the room. Breadwig made himself invisible for this.
 - In the middle was a giant dragon skeleton
-- Believing they were safe, many of the party ran over to the Skelton. Jutara, Magma and Maia started to try to pry teeth from the skull and Jatumal climbed on top of it.
+- Believing they were safe, many of the party ran over to the Skeleton. Jutara, Magma and Maia started to try to pry teeth from the skull and Jatumal climbed on top of it.
 - While this happened Breadwig noticed the darkness wasn't right. It seemed to close. Then a tar-like black substance began moving across the floor and encased the dragon. It flowed around the bones continuously as the skeleton stood up.
 - Most of the party were surprised. Smuv was able to run away. Jatumal shot a disintegration arrow at the neck of the dragon but it missed, passing through the gaps in the bones and creating a hole in the ground with a crash. Breadwig ran around the head and used his disintegration wand on the neck. 
 - The head of the dragon skeleton fell to the floor. Jatumal stumbled but held onto the dragon head and the tar like creature seeped off the skull and congregated on the rest of the skeleton where the bulk of its mass was already.
@@ -81,10 +81,10 @@
 - Geog shouted over at Gary accidentally calling him Greg again and told him to use the wand of unbinding. The tar separated around where the wand hit and it was ineffective. Geog then picked up the goblin and swung him and the wand at the dragon casting the unbinding again with the same result. 
 - Stinkcat threw a lantern missing and creating a pool of fire near the dragon.
 - Magma used his fire breath attack on the creature
-- Breadwig used his healing wand on Geog chanting "Being covered in tar, is quite sub par. I am confident we will defeat this dragon, and then we will go to the tavern and raise a flagon," as he did.
+- Breadwig used his healing wand on Geog chanting "Being covered in tar, is quite subpar. I am confident we will defeat this dragon, and then we will go to the tavern and raise a flagon," as he did.
 - Geog threw Gary toward Jutara who ran to him and grabbed the wand of unbinding. She cast unbinding on the monster successfully. The tar dripped off the dragon bones and slid rapidly along the floor to a door. No one was able to stop it
 - Maia recognised this creature from drow folktales that they used to scare children and prevent them from going too deep into the caves. It was an [[TTRPG/My Monsters/Ebonoss\|ebonoss]], something no one she knew had ever actually seen before
-- Everyone was worried. They were all badly wounded. They smashed up the dragon Skelton and took some teeth. Then decided to leave the keep and come back better prepared
+- Everyone was worried. They were all badly wounded. They smashed up the dragon Skeleton and took some teeth. Then decided to leave the keep and come back better prepared
 - They made their way back to Sarzan's bedroom safely since they had now disabled most of the traps and defeated the monsters along the way. Any still armed traps they disarmed.
 - In the corridor that had been opened up by Stinkcat the party made a shield formation with Maia in the lead. She stepped on a pressure plate causing the ceiling to crush down and then retract. Fortunately, she was able to quickly jump back before it squashed her.
 - They chanted 'mrasid' and disarmed this trap too
