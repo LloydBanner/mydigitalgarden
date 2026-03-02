@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2026-01-13T17:33:12.823+00:00","updated":"2026-03-02T21:35:50.321+00:00"}
+{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2026-01-13T17:33:12.823+00:00","updated":"2026-03-02T21:39:04.975+00:00"}
 ---
 
 # Home
@@ -18,7 +18,7 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/Video Games\|Video Games]]
 - [[Main Notes/Books\|Books]]
 - [[Main Notes/Films\|Films]]
-
+ 
 **Feed (a bit of everything) (sorted by last update)**
 - [[Main Notes/Good Words\|Good Words]]: 25-02-2026
 - [[Reviews/The Butcher's Masquerade Review\|The Butcher's Masquerade Review]]: 15-02-2026
