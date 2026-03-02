@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2026-01-13T17:33:12.823+00:00","updated":"2026-03-02T21:41:46.086+00:00"}
+{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2026-01-13T17:33:12.823+00:00","updated":"2026-03-02T21:46:27.380+00:00"}
 ---
 
 # Home
 Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software engineer, but also like to pursue different projects in my free time. This is my little corner of the internet which I will use to share things I have made, reviews, and other things I think are cool or interesting. I'm going to try to keep this site a positive place as I think there is too much negativity around these days.
 
-**Things I have made**
+**Things I have made** 
 - [[Indexes/Writing\|Writing]]
 - [[Main Notes/University Projects\|University Projects]]
 - [[Main Notes/Cooking Recipes\|Cooking Recipes]]
