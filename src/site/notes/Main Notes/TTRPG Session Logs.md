@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/ttrpg-session-logs/","tags":["developing"],"created":"2026-01-13T17:29:49.273+00:00","updated":"2026-01-13T17:29:49.273+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/ttrpg-session-logs/","tags":["developing"],"created":"2026-01-13T17:33:18.209+00:00","updated":"2026-03-02T21:18:28.909+00:00"}
 ---
 
 Session logs from my [[Main Notes/TTRPG\|TTRPG]] games.
 
 [[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Elbon Calendar]]
 
-**Session Logs Elbon Campaign Setting (sorted by session date)**
+**Session Logs Elbon Campaign Setting (Sorted by Session Date)**
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 13-01-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 13-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 16\|Magic Shop Owners Session 16]]: 09-11-2025

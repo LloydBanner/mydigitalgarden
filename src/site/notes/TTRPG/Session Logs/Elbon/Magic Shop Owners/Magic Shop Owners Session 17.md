@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-17/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:33:49.299+00:00","updated":"2026-01-13T17:47:44.553+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-17/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:33:49.299+00:00","updated":"2026-03-02T21:24:38.815+00:00"}
 ---
 
 ## Session Notes
@@ -11,7 +11,7 @@
 **Level 1 Map from this session:** 
 ![StagbrookKeepSession17.jpeg](/img/user/z_assets/TTRPG/Place%20Pictures/Stagbrook/StagbrookKeep/StagbrookKeepSession17.jpeg)
 - The party awoke to the rattling of the door they had barricaded with furniture from Sarzan's living room in Stagbrook Keep
-- The rattling suddenly stopped, the log fire that had been burning for centuries flickered out and then relit itself
+- The rattling suddenly stopped, the log fire that had been burning for centuries flickered out and then re-lit itself
 - Blood began seeping from everyone's packs. One item from each of their bags had seemingly turned to blood. Moist had lost torches or food and nothing particularly important, but Stinkcat noticed Acman's Gem eye in their pack was vibrating and pulsing. After a short time this stopped.
 - Gary the goblin was unfazed by this and slept though the commotion
 - The group decided the eye had caused the blood and that they needed to get rid of it

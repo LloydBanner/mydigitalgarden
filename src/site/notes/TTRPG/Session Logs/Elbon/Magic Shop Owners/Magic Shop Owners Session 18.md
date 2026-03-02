@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-18/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:46:26.542+00:00","updated":"2026-01-17T13:51:12.956+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-18/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:46:26.542+00:00","updated":"2026-03-02T21:24:19.857+00:00"}
 ---
 
 ## Session Notes
@@ -22,12 +22,12 @@
 - Gary had returned to report on Stonehell to Stonehaven conversion progress during the week. The goblins and hobgoblins were now at war with the lizard people in the dungeon so progress had stalled
 - Some weird occurrences had begun to happen in Stagbrook. Doors not working, items disappearing. It seemed like the weird properties of the caves below were beginning to seep through to the surface
 - Everyone's unnamed magical items had stopped working. Sarzan had explained magic needed a name to work properly and everyone had begun to name their items. If they used the true names of the items, like Geog did for [[TTRPG/My Magic Items/Darkfire\|Darkfire]], then they would be even more powerful. Everyone had started to name their items. Maia and Sphonyx copied the runes from their sword to notes for Sarzan to translate in hopes of finding their true names
-### Pushing Deeper Into Stagbrook Keep
+### Pushing Deeper into Stagbrook Keep
 **Level 1 Map (post [[TTRPG/My Monsters/Ignid\|Ignid]] explosion):** 
 ![Stagbrook Keep Level 1 After Ignid Explosion.jpg](/img/user/z_assets/TTRPG/Place%20Pictures/Stagbrook/StagbrookKeep/Stagbrook%20Keep%20Level%201%20After%20Ignid%20Explosion.jpg)
 **Level 2 Map (A lot of this got skipped):**
 ![Stagbrook_Keep_Level_2_An.png](/img/user/z_assets/TTRPG/Place%20Pictures/Stagbrook/StagbrookKeep/Stagbrook_Keep_Level_2_An.png)
-- After their week of rest the party finally decided to re-enter Stagbrook Keep and deal with whatever dark things the real Sarzan had been so scared of
+- After their week of rest the party finally decided to reenter Stagbrook Keep and deal with whatever dark things the real Sarzan had been so scared of
 - They made their way down the stairs, avoided the spike trap, hopped through the room with the chopped up tables, disturbed the cave locusts for fun, and then Maia levitated everyone across the pedestal room with the huge drops. They went to the opening on the far side that had been caused by the [[TTRPG/My Monsters/Ignid\|Ignid]] explosion
 - They found a cave that gradually got thicker with webs they ventured in with Maia calling ahead with her ability to speak spider. Eventually some spiders responded, they were anxious. In part of the conversation, they explained that they ate the giant driver ants that were also living in the caves. Jatumal decided to give them his ants which he had found in the vault on the first level of the keep, Maia translated. He announced they were called Antony, and in giving them a name and opening their container activated their magical ability to clean. They began eating all the webs lightning quick
 - Jatumal quickly called them back but the damage had been done. The spiders were now even more anxious. Maia was able to calm them down and they explained that they rarely went into man made parts of the keep, but it intersected with the cave and there was a man alive but trapped in a stone box
@@ -44,7 +44,7 @@
 - It twitched and flailed and the magical darkness began to fade. A horrible creature with an impossible number of arms was revealed. On the palm of each hand was a many toothed mouth. The party dislodged and took some of these
 - After the battle they approached the coffin to find a recognisable but deathly looking image of their friend from the painting. It was Sarzan twisted and broken, barely alive but somehow undying.
 ![Sarzan's Tomb.png](/img/user/z_assets/TTRPG/Place%20Pictures/Stagbrook/StagbrookKeep/Sarzan's%20Tomb.png)
-### Sarzan's Undeath and the Depths Which Caused it
+### Sarzan's Undeath and the Depths Which Caused It
 - Sarzan mostly mumbled and laughed. He said little that was coherent apart from begging for death. He seemed to be supported by some weird tubes that were pumping something into him to keep him alive. There was another note inside Sarzan's coffin: [[TTRPG/Elbon Setting/Sarzan Note - On Becoming Necessary\|On Becoming Necessary]]. It appeared the Archeans were somehow protecting him from death
 - The group now had a chance to inspect their surroundings. The hastily cut room had an opening to the caves, which looked similar to the one in Sarzan's final painting. It appeared whatever he was scared of had come from there
 - After experimenting a little with the near lifeless form of Sarzan, and showing it to the middle aged Sarzan in the painting (the party were storing the painting in The Kraken, the expanding and shrinking boat), they decided to head into the caves
@@ -100,6 +100,7 @@
 | Magmaranium (Dragonborn2) | 298                   | 3120 (Level up! Need to get to 6000 xp to level up)   |
 | Jutara (Tiefling2)        | 298                   | 3120 (Level up! Need to get to 5000 xp to level up)   |
 | Smuv (Arcane-Bard2)       | 298                   | 3120 (Level up! Need to get to 4000 xp to level up)   |
+|                           |                       |                                                       |
 
 #### Published Content Used
 - [[Main Notes/OSE\|OSE]] (Classic and Advanced)

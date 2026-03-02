@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/writing/","created":"2026-01-13T17:30:59.522+00:00","updated":"2026-01-13T17:30:59.522+00:00"}
+{"dg-publish":true,"permalink":"/indexes/writing/","created":"2026-01-13T17:33:12.917+00:00","updated":"2026-03-02T21:19:35.610+00:00"}
 ---
 
 A page to collect all the things I have written. This will include, but is not limited to, books, short stories and ideas. 
 
-# Books (sorted by release)
+## Books (Sorted by Release)
 - [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 27-12-2023
 - [[Main Notes/A Curse Upon Mistrun\|A Curse Upon Mistrun]]: 30-08-2021
 - [[Main Notes/Crumbling World\|Crumbling World]]: 15-09-2018
 
 { .block-language-dataview}
-## Short Stories (sorted by date I finished writing)
+## Short Stories (Sorted by Date I Finished Writing)
 - [[Main Notes/Two of Me\|Two of Me]]: 21-06-2018
 - [[Main Notes/The Artificial World\|The Artificial World]]: 09-03-2013
 
 { .block-language-dataview}
-## Thoughts (sorted by last update)
+## Thoughts (Sorted by Last Update)
 - [[Main Notes/Good Words\|Good Words]]: 25-02-2026
 - [[Main Notes/Insighting Quotes\|Insighting Quotes]]: 23-12-2025
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 23-12-2025
