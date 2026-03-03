@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-4/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:26:28.206+00:00","updated":"2026-01-13T17:26:28.993+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-4/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:33:48.969+00:00","updated":"2026-03-03T18:36:05.451+00:00"}
 ---
 
 **[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 26-3-569 - 28-3-596
@@ -24,7 +24,7 @@
 - Lorell tried to break it shattering his dagger 
 - Upon investigation it seemed to require magic to damage 
 - Robin used his [[TTRPG/My Monsters/Ignid\|Ignid]] tooth dagger to attack it making cracks in the crystal 
-- The whole room turned around to attack the party threateningly. They ran with the eye into the guest room corridor 
+- The whole room turned around to attack the party threateningly. They ran with the eye into the guestroom corridor 
 - Elfis use the Xororox Skull Helm to cast a lightning arc taking out those inside the taproom
 - Robin stabbed frantically at the eye missing a few times and setting the room alight. At first the rest of the party were able to put the fires out but then they began to spread
 - Everyone apart from Robin fled back into the taproom while Robin continued his stabbing and eventually destroyed the crystal eye
@@ -41,15 +41,15 @@
 - The other Illusionist who was not present was Hamish. He had travelled to try and find some other artefacts near Demonhelm to try to take back Whiterock 
 - The party managed to leave the sewers following the route they had used last and the map they had created safely. They narrowly avoided an encounter with a troll
 - They entered Whiterock and found the Chaos that had been described
-- They decided to avoid it an look for the ingredients they needed to lift their curse as they only had a few weeks left before being turned to trees
+- They decided to avoid it and look for the ingredients they needed to lift their curse as they only had a few weeks left before being turned to trees
 - They still needed mermaid breath and three cat hairs
 - First they went to the docks to try to see if they could find anyone who knew about mermaids
-- All the boats were gone, anyone who could had fled Whiterock. Apart from one old man with a small row boat who they recognised as the man who lent them the boat to get to the caves earlier
+- All the boats were gone, anyone who could had fled Whiterock. Apart from one old man with a small rowboat who they recognised as the man who lent them the boat to get to the caves earlier
 - He wouldn't sell or let them borrow the boat because he was leaving but he offered to give them a lift to the nearby island Telvon which was rumoured to have mermaids nearby and may have had someone to sell them a boat
 - At Telvon they haggled for a boat, tried to extract wax from a beehive, which resulted in Danny hiding in a nearby house to avoid a bee attack, and stile some laundry to make earplugs instead
 - After which they spoke to the locals to find out where the closest mermaids were
 - They sailed the boat to the rocks where the mermaids were often sighted with earplugs in. Some of the party were tied to the mast and had earplugs removed to follow the mermaid song
-- This lead them to a small rocky inlet. To get inside they used a small row boat which came with the boat. Along the way they came across a mermaid
+- This lead them to a small rocky inlet. To get inside they used a small rowboat which came with the boat. Along the way they came across a mermaid
 - They tried to talk to it but couldn't hear the responses, eventually the mermaid began to rock the boat, Elfis cast charm and convinced the mermaid not to sing
 - They then took out their earplugs and asked for the breath which the mermaid gladly gave
 - Elfis also asked for any loot that may have come from sailors who had washed up. The mermaid gave them a wand that shot fishes, a longsword that cast blinding light from a gemstone in the hilt when planted in the ground and another wand which had a black mark on the end. They determined this was likely cursed 
