@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-15/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:26:27.164+00:00","updated":"2026-01-13T17:26:27.164+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-15/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:33:49.219+00:00","updated":"2026-03-03T18:27:42.025+00:00"}
 ---
 
 ## Session Notes
@@ -12,7 +12,7 @@
 - The party were able to make out the wall of Stonehell in the distance but had to get down the cliff.
 - Derek took the ring off the goblin and asked him where the cave was for the secret entrance into Stonehell
 - He then put the ring on himself and kicked the goblin in the cage off the cliff
-- Meanwhile Maia was floating down and tried to catch the cage, but it just slipped through her fingers and the goblin was dashed against the rocks
+- Meanwhile, Maia was floating down and tried to catch the cage, but it just slipped through her fingers and the goblin was dashed against the rocks
 - Breadwig and Geog decided to abseil the cliff while the others got lifts from Maia. Everyone got down safely
 - With an hour or so they were passing the wall of Stonehell. They noticed there were goblins camped in the ruined wall but these were not wearing red like the ones who had been working for Acman
 - Jatumal decided that he would go and sus them out. He could speak goblin and Sphonyx used her illusion magic to make him appear like a goblin
