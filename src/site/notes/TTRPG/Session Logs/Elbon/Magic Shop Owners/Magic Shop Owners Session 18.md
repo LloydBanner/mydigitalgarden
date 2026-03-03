@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-18/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:46:26.542+00:00","updated":"2026-03-02T21:24:19.857+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-18/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:46:26.542+00:00","updated":"2026-03-02T22:00:48.711+00:00"}
 ---
 
 ## Session Notes
@@ -44,7 +44,7 @@
 - It twitched and flailed and the magical darkness began to fade. A horrible creature with an impossible number of arms was revealed. On the palm of each hand was a many toothed mouth. The party dislodged and took some of these
 - After the battle they approached the coffin to find a recognisable but deathly looking image of their friend from the painting. It was Sarzan twisted and broken, barely alive but somehow undying.
 ![Sarzan's Tomb.png](/img/user/z_assets/TTRPG/Place%20Pictures/Stagbrook/StagbrookKeep/Sarzan's%20Tomb.png)
-### Sarzan's Undeath and the Depths Which Caused It
+### Sarzan's Undeath and the Depths Which Caused It 
 - Sarzan mostly mumbled and laughed. He said little that was coherent apart from begging for death. He seemed to be supported by some weird tubes that were pumping something into him to keep him alive. There was another note inside Sarzan's coffin: [[TTRPG/Elbon Setting/Sarzan Note - On Becoming Necessary\|On Becoming Necessary]]. It appeared the Archeans were somehow protecting him from death
 - The group now had a chance to inspect their surroundings. The hastily cut room had an opening to the caves, which looked similar to the one in Sarzan's final painting. It appeared whatever he was scared of had come from there
 - After experimenting a little with the near lifeless form of Sarzan, and showing it to the middle aged Sarzan in the painting (the party were storing the painting in The Kraken, the expanding and shrinking boat), they decided to head into the caves

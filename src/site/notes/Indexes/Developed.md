@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/developed/","created":"2026-01-13T17:30:19.190+00:00","updated":"2026-01-13T17:30:19.190+00:00"}
+{"dg-publish":true,"permalink":"/indexes/developed/","created":"2026-01-13T17:33:12.770+00:00","updated":"2026-03-03T06:59:45.590+00:00"}
 ---
 
 This is the feed of all my developed pages that I thought were feed worthy. If you only want to see pages at certain levels of development, which are defined on my [[Main Notes/Website\|Website]] page, use the links below.
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
-## Developed Feed (sorted by last update)
+## Developed Feed (Sorted by Last Update)
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 02-03-2026
 - [[Reviews/The Butcher's Masquerade Review\|The Butcher's Masquerade Review]]: 15-02-2026
 - [[Reviews/Black Mesa Review\|Black Mesa Review]]: 28-01-2026
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 17-01-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 13-01-2026
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 04-01-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 22-12-2025

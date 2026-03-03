@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/complete-feed/","created":"2026-01-13T17:28:59.098+00:00","updated":"2026-01-13T17:28:59.896+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/complete-feed/","created":"2026-01-13T17:33:13.581+00:00","updated":"2026-03-03T06:59:43.126+00:00"}
 ---
 
 This is the feed of all the information that I thought was feed worthy.
 If you only want to see pages at certain levels of development, which are defined on my [[Main Notes/Website\|Website]] page, use the links below.
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
-## Feed (a bit of everything) (sorted by last update)
+## Feed (a Bit of Everything) (Sorted by Last Update)
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 02-03-2026
 - [[Main Notes/Good Words\|Good Words]]: 25-02-2026
 - [[Reviews/The Butcher's Masquerade Review\|The Butcher's Masquerade Review]]: 15-02-2026
 - [[Reviews/Black Mesa Review\|Black Mesa Review]]: 28-01-2026
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 17-01-2026
 - [[Main Notes/MMC Invitational 2026\|MMC Invitational 2026]]: 16-01-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 13-01-2026
 - [[Reviews/The Gate of the Feral Gods Review\|The Gate of the Feral Gods Review]]: 12-01-2026
@@ -88,8 +88,8 @@ If you only want to see pages at certain levels of development, which are define
 - [[Reviews/Jedi Knight Jedi Academy Review\|Jedi Knight Jedi Academy Review]]: 22-04-2025
 - [[Reviews/Jedi Knight II Jedi Outcast Review\|Jedi Knight II Jedi Outcast Review]]: 22-04-2025
 - [[Reviews/Jedi Fallen Order Review\|Jedi Fallen Order Review]]: 22-04-2025
-- [[Main Notes/Why you Should Watch the Hal9000 Edits of the Star Wars Prequels\|Why you Should Watch the Hal9000 Edits of the Star Wars Prequels]]: 22-04-2025
 - [[Main Notes/Why you Should Watch Harmy's Despecialized Editions of Star Wars\|Why you Should Watch Harmy's Despecialized Editions of Star Wars]]: 22-04-2025
+- [[Main Notes/Why you Should Watch the Hal9000 Edits of the Star Wars Prequels\|Why you Should Watch the Hal9000 Edits of the Star Wars Prequels]]: 22-04-2025
 - [[Main Notes/The Clone Wars Refocused Cuts all of the Filler\|The Clone Wars Refocused Cuts all of the Filler]]: 22-04-2025
 - [[Main Notes/The Best Star Wars Battlefront II Mods and Maps\|The Best Star Wars Battlefront II Mods and Maps]]: 22-04-2025
 - [[Main Notes/The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]: 22-04-2025

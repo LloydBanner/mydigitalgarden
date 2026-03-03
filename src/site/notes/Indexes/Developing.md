@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/developing/","created":"2026-01-13T17:27:37.106+00:00","updated":"2026-01-13T17:27:37.244+00:00"}
+{"dg-publish":true,"permalink":"/indexes/developing/","created":"2026-01-13T17:33:12.796+00:00","updated":"2026-03-03T06:59:48.583+00:00"}
 ---
 
 This is the feed of all my draft pages that I thought were feed worthy. If you only want to see pages at certain levels of development, which are defined on my [[Main Notes/Website\|Website]] page, use the links below.
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
-## Developing Feed (sorted by last update)
+## Developing Feed (Sorted by Last Update)
 - [[Main Notes/MMC Invitational 2026\|MMC Invitational 2026]]: 16-01-2026
 - [[Reviews/The Gate of the Feral Gods Review\|The Gate of the Feral Gods Review]]: 12-01-2026
 - [[Cooking Recipes/Slow Cooked Beef and Red Wine Stew\|Slow Cooked Beef and Red Wine Stew]]: 10-01-2026
@@ -30,8 +30,8 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 - [[Main Notes/My Star Wars Watch Order\|My Star Wars Watch Order]]: 22-06-2025
 - [[Main Notes/Skyrim Modding Recommendations\|Skyrim Modding Recommendations]]: 11-06-2025
 - [[Main Notes/Media Consumption\|Media Consumption]]: 01-06-2025
-- [[Main Notes/Why you Should Watch the Hal9000 Edits of the Star Wars Prequels\|Why you Should Watch the Hal9000 Edits of the Star Wars Prequels]]: 22-04-2025
 - [[Main Notes/Why you Should Watch Harmy's Despecialized Editions of Star Wars\|Why you Should Watch Harmy's Despecialized Editions of Star Wars]]: 22-04-2025
+- [[Main Notes/Why you Should Watch the Hal9000 Edits of the Star Wars Prequels\|Why you Should Watch the Hal9000 Edits of the Star Wars Prequels]]: 22-04-2025
 - [[Main Notes/The Clone Wars Refocused Cuts all of the Filler\|The Clone Wars Refocused Cuts all of the Filler]]: 22-04-2025
 - [[Main Notes/The Best Star Wars Battlefront II Mods and Maps\|The Best Star Wars Battlefront II Mods and Maps]]: 22-04-2025
 - [[Main Notes/The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]: 22-04-2025

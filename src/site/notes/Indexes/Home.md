@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2026-01-13T17:33:12.823+00:00","updated":"2026-03-02T21:47:42.838+00:00"}
+{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"2026-01-13T17:33:12.823+00:00","updated":"2026-03-03T06:59:36.006+00:00"}
 ---
 
 # Home
@@ -13,17 +13,17 @@ Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software e
 - [[Main Notes/My Videos\|Videos]]
 - [[Main Notes/Creative Graveyard\|Creative Graveyard]]
 
-**My Interests (recommendations, reviews, and more)**
+**My Interests (Recommendations, Reviews, and More)**
 - [[Main Notes/TTRPG\|TTRPGs]]
 - [[Main Notes/Video Games\|Video Games]]
 - [[Main Notes/Books\|Books]]
 - [[Main Notes/Films\|Films]]
  
-**Feed (a bit of everything) (sorted by last update)**
+**Feed (A Bit of Everything) (Sorted by Last Update)**
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 02-03-2026
 - [[Main Notes/Good Words\|Good Words]]: 25-02-2026
 - [[Reviews/The Butcher's Masquerade Review\|The Butcher's Masquerade Review]]: 15-02-2026
 - [[Reviews/Black Mesa Review\|Black Mesa Review]]: 28-01-2026
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 17-01-2026
 - [[Main Notes/MMC Invitational 2026\|MMC Invitational 2026]]: 16-01-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 13-01-2026
 - [[Reviews/The Gate of the Feral Gods Review\|The Gate of the Feral Gods Review]]: 12-01-2026
