@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-15/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:33:49.219+00:00","updated":"2026-03-03T18:27:42.025+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-15/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:33:49.219+00:00","updated":"2026-03-03T18:28:00.096+00:00"}
 ---
 
 ## Session Notes
@@ -39,7 +39,7 @@
 - Geog went out into the corridors carrying the head of the goblin captain. Three of the allied goblins had died and the fight still raged. Geog began a monologue about how the Hobgoblin leaders were dead and how by changing Stonehell into Stonehaven they could create far more profitable luxury apartments. It took some convincing and the goblins didn't entirely understand the capitalistic concepts at first but they were eventually swayed.
 - Gunther, Ginger and Galdon had died, so Giles was appointed as the project manager of Stonehaven, then Gibbo as deputy and Gary was made a runner to report progress back to Stagbrook. The hobgoblins at first resisted these appointments until Sphonyx gave Giles a disintegration wand.
 - Back on the table in the war room where Halstrea and the captain had been planning the party found and took Acman's eye, various papers and the Sarzan painting.
-- Jatumal made sure Halstrea was okay and escorted her back to Stagbrook carrying the painting while everyone else hopped inside and had a chat with Sarzan
+- Jatumal made sure Halstrea was okay and escorted her back to Stagbrook carrying the painting while everyone else hoped inside and had a chat with Sarzan
 - Sarzan was happy to see everyone and had built vaults for their treasure, a small house for himself and an altar to read the demon book
 - He explained that the book had various summoning rituals and that they were going to use Acman's eye to bring him back. There wasn't much that could destroy Acman's eye as a part of his soul had been embedded inside it. Stinkcat's crystal dagger would work but that would destroy the dagger. He agreed to do some research to see if there was anything else he could find that could destroy it
 - Maia also used her boots to fly through the door inside the painting. It led to the clouds above an isolated island. It had many stone structures with prominent pillars among them
