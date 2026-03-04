@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/jordan-peterson/","tags":["authors","sources"],"created":"2026-01-13T17:30:06.044+00:00","updated":"2026-01-13T17:30:06.044+00:00"}
+{"dg-publish":true,"permalink":"/sources/jordan-peterson/","tags":["authors","sources"],"created":"01-06-2025","updated":"01-06-2025"}
 ---
 
 Jordan B. Peterson is a Canadian clinical psychologist, self-help writer, cultural critic and professor of psychology at the University of Toronto.

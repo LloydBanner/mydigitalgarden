@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/my-monsters/ebonoss/","tags":["ttrpgResources","OSEMonsters","developed","lloydsOSEMonsters"],"created":"2026-01-13T17:25:11.688+00:00","updated":"2026-01-13T17:25:11.688+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/my-monsters/ebonoss/","tags":["ttrpgResources","OSEMonsters","developed","lloydsOSEMonsters"],"created":"22-11-2025","updated":"22-11-2025"}
 ---
 
 # Ebonoss

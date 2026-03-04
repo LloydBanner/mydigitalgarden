@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/dungeon-crawler-carl/","tags":["books","sources","fantasy","Sci-Fi","litRPGs","theBest"],"created":"2026-01-13T17:25:00.292+00:00","updated":"2026-01-13T17:25:00.292+00:00"}
+{"dg-publish":true,"permalink":"/sources/dungeon-crawler-carl/","tags":["books","sources","fantasy","Sci-Fi","litRPGs","theBest"],"created":"08-12-2025","updated":"08-12-2025"}
 ---
 
 Author: [[Sources/Matt Dinniman\|Matt Dinniman]]

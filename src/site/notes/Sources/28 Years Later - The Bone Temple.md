@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/28-years-later-the-bone-temple/","tags":["films","sources","zombies"],"created":"2026-01-25T18:13:46.278+00:00","updated":"2026-01-25T18:13:46.878+00:00"}
+{"dg-publish":true,"permalink":"/sources/28-years-later-the-bone-temple/","tags":["films","sources","zombies"],"created":"24-01-2026","updated":"24-01-2026"}
 ---
 
 Directors: [[Sources/Nia DaCosta\|Nia DaCosta]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/love-actually/","tags":["films","sources","christmas","theBest"],"created":"2026-01-13T17:28:29.227+00:00","updated":"2026-01-13T17:28:29.227+00:00"}
+{"dg-publish":true,"permalink":"/sources/love-actually/","tags":["films","sources","christmas","theBest"],"created":"23-12-2025","updated":"23-12-2025"}
 ---
 
 Directors: [[Sources/Richard Curtis\|Richard Curtis]]

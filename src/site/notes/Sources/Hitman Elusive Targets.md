@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/hitman-elusive-targets/","created":"2026-01-13T17:25:02.801+00:00","updated":"2026-01-13T17:25:02.801+00:00"}
+{"dg-publish":true,"permalink":"/sources/hitman-elusive-targets/","created":"26-06-2025","updated":"20-12-2025"}
 ---
 
 Simple guides or notes for some elusive targets.

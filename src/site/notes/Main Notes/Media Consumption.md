@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/media-consumption/","tags":["thoughts","feed","developing"],"created":"2026-01-13T17:27:39.620+00:00","updated":"2026-01-13T17:27:39.620+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/media-consumption/","tags":["thoughts","feed","developing"],"created":"19-04-2025","updated":"01-06-2025"}
 ---
 
 We can get a lot from both fiction and non-fiction I believe. Writers may often use fiction to express ideas they would not otherwise be able to express, that could be because of the world they live in or because they simply don't know how express something factually. Fiction also encourages the reader to empathise with characters and can help with emotional intelligence. Stephen Fry puts the value of fiction well at the end of his retelling of The [[Sources/Odyssey\|Odyssey]]: "While it's very hard to make sense of fact, fiction is highly credible."

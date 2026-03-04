@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/inglourious-basterds/","tags":["films","sources","comedy","historical","theBest"],"created":"2026-01-13T17:27:03.192+00:00","updated":"2026-01-13T17:27:03.192+00:00"}
+{"dg-publish":true,"permalink":"/sources/inglourious-basterds/","tags":["films","sources","comedy","historical","theBest"],"created":"22-12-2025","updated":"22-12-2025"}
 ---
 
 Directors: [[Sources/Quentin Tarantino\|Quentin Tarantino]]

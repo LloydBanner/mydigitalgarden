@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/send-help/","tags":["films","sources","survival"],"created":"2026-02-20T21:11:00.265+00:00","updated":"2026-02-20T21:11:00.265+00:00"}
+{"dg-publish":true,"permalink":"/sources/send-help/","tags":["films","sources","survival"],"created":"20-02-2026","updated":"20-02-2026"}
 ---
 
 Directors: [[Sam Rami\|Sam Rami]]

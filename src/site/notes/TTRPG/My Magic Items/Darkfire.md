@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/my-magic-items/darkfire/","tags":["ttrpgResources","oseMagicItems","developed","lloydsOSEMagicItems"],"created":"2026-01-13T17:28:47.175+00:00","updated":"2026-01-13T17:28:47.175+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/my-magic-items/darkfire/","tags":["ttrpgResources","oseMagicItems","developed","lloydsOSEMagicItems"],"created":"18-05-2025","updated":"18-05-2025"}
 ---
 
 Rarity: rare

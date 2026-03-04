@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/black-mesa/","tags":["videoGames","sources"],"created":"2026-01-28T17:00:06.142+00:00","updated":"2026-01-28T17:00:06.777+00:00"}
+{"dg-publish":true,"permalink":"/sources/black-mesa/","tags":["videoGames","sources"],"created":"24-01-2026","updated":"28-01-2026"}
 ---
 
 Developer: Crowbar Collective

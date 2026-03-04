@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/morrowind-s-biggest-mods/","tags":["elderScrolls","mods","feed","developing"],"created":"2026-01-13T17:25:58.646+00:00","updated":"2026-01-13T17:25:58.646+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/morrowind-s-biggest-mods/","tags":["elderScrolls","mods","feed","developing"],"created":"20-04-2025","updated":"22-04-2025"}
 ---
 
 [[Sources/Morrowind\|Morrowind]] has a bunch massive mods such as [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145) and [Project Tamriel](https://www.project-tamriel.com/welcome) which aim to rebuilt other areas of the world in the game of [[Sources/Morrowind\|Morrowind]] and add loads of new stuff to do. It is surprising how active the community is for a game that released in 2002.

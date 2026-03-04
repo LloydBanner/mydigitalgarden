@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-forever-war-book-series/","tags":["booksSeries","sources"],"created":"2026-01-13T17:25:20.222+00:00","updated":"2026-01-13T17:25:20.222+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-forever-war-book-series/","tags":["booksSeries","sources"],"created":"27-04-2025","updated":"11-05-2025"}
 ---
 
 Author: [[Sources/Joe Haldeman\|Joe Haldeman]]

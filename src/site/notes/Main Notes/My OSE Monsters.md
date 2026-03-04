@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-ose-monsters/","tags":["ttrpgs","draft","feed"],"created":"2026-01-13T17:30:50.175+00:00","updated":"2026-01-13T17:30:50.175+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-ose-monsters/","tags":["ttrpgs","draft","feed"],"created":"21-04-2025","updated":"22-11-2025"}
 ---
 
 Monsters I have made for [[Main Notes/OSE\|OSE]]

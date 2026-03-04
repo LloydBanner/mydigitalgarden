@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/28-years-later/","tags":["films","sources","zombies"],"created":"2026-01-25T18:13:46.317+00:00","updated":"2026-01-25T18:13:46.878+00:00"}
+{"dg-publish":true,"permalink":"/sources/28-years-later/","tags":["films","sources","zombies"],"created":"12-10-2025","updated":"24-01-2026"}
 ---
 
 Directors: [[Sources/Danny Boyle\|Danny Boyle]]

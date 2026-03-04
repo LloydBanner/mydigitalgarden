@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/the-gate-of-the-feral-gods-review/","tags":["feed","reviews","developing","fantasy"],"created":"2026-01-13T17:25:57.011+00:00","updated":"2026-01-13T17:25:57.875+00:00"}
+{"dg-publish":true,"permalink":"/reviews/the-gate-of-the-feral-gods-review/","tags":["feed","reviews","developing","fantasy"],"created":"12-01-2026","updated":"12-01-2026"}
 ---
 
 Written: 12-01-2026

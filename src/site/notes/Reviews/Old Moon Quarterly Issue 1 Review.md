@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/old-moon-quarterly-issue-1-review/","tags":["feed","reviews","developing"],"created":"2026-01-13T17:30:14.022+00:00","updated":"2026-01-13T17:30:14.855+00:00"}
+{"dg-publish":true,"permalink":"/reviews/old-moon-quarterly-issue-1-review/","tags":["feed","reviews","developing"],"created":"28-11-2025","updated":"28-11-2025"}
 ---
 
 Written: 28-11-2025

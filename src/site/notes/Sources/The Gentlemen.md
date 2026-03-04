@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-gentlemen/","tags":["films","sources","crime","comedy","theBest"],"created":"2026-01-13T17:27:46.168+00:00","updated":"2026-01-13T17:27:46.842+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-gentlemen/","tags":["films","sources","crime","comedy","theBest"],"created":"22-12-2025","updated":"22-12-2025"}
 ---
 
 Directors: [[Sources/Guy Ritchie\|Guy Ritchie]]

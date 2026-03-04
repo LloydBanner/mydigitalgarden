@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-favourite-films/","tags":["feed","developing"],"created":"2026-01-13T17:28:01.279+00:00","updated":"2026-01-13T17:28:01.279+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-favourite-films/","tags":["feed","developing"],"created":"15-09-2025","updated":"22-12-2025"}
 ---
 
 **The List:**

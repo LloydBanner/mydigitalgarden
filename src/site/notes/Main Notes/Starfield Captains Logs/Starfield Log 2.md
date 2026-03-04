@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/starfield-captains-logs/starfield-log-2/","created":"2026-01-13T17:27:57.386+00:00","updated":"2026-01-13T17:27:57.386+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/starfield-captains-logs/starfield-log-2/","created":"21-04-2025","updated":"21-04-2025"}
 ---
 
 [Captains Logs](Starfield%20Captains%20Logs.md)

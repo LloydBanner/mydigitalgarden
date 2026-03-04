@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-favourite-books/","created":"2026-01-13T17:26:52.765+00:00","updated":"2026-01-13T17:26:52.765+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-favourite-books/","created":"11-05-2025","updated":"22-12-2025"}
 ---
 
 **The List:**

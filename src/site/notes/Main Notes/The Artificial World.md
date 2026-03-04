@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/the-artificial-world/","tags":["feed","lloydsShortStories","developed"],"created":"2026-01-13T17:31:04.860+00:00","updated":"2026-01-13T17:31:04.860+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/the-artificial-world/","tags":["feed","lloydsShortStories","developed"],"created":"19-04-2025","updated":"21-04-2025"}
 ---
 
 This is the first story I can remember finishing writing. It was for a secondary school English assignment. We had to write a Sci-Fi story which I remember being excited about while the rest of the class was much less enthusiastic. I think, there also had to be a twist at the end too. The last modification on this one before my grammatical correction before putting it here was **09-03-2013**, which would mean I was 13 and in year 9 at school when I wrote this. Reading it back I'm kind of surprised how dark it is and how well I managed to capture such a depressing tone considering I remember actually being quite happy at this time in my life.

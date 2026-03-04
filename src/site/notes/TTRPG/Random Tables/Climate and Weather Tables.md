@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/random-tables/climate-and-weather-tables/","tags":["ttrpgs","developing","feed","randomTables"],"created":"2026-01-13T17:26:40.518+00:00","updated":"2026-01-13T17:26:40.518+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/random-tables/climate-and-weather-tables/","tags":["ttrpgs","developing","feed","randomTables"],"created":"23-12-2025","updated":"23-12-2025"}
 ---
 
 Some complex climate and weather generation tables I came up with but don't use really. I like to do my roles on the fly and they are a bit overcomplicated to use at the table. I thought I would put them here in case anyone finds them useful or wants to use them for inspiration.

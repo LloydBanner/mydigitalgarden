@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/stephen-fry-s-great-mythology-series/","tags":["booksSeries","sources"],"created":"2026-01-13T17:25:31.088+00:00","updated":"2026-01-13T17:25:31.088+00:00"}
+{"dg-publish":true,"permalink":"/sources/stephen-fry-s-great-mythology-series/","tags":["booksSeries","sources"],"created":"01-06-2025","updated":"01-06-2025"}
 ---
 
 Author: [[Sources/Stephen Fry\|Stephen Fry]]

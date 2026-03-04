@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/creative-graveyard/","created":"2026-01-13T17:27:07.263+00:00","updated":"2026-01-13T17:27:07.796+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/creative-graveyard/","created":"18-04-2025","updated":"04-10-2025"}
 ---
 
 I watched a video called [[Main Notes/Your Unfinished Work defines You\|Your Unfinished Work defines You]], and I think this idea is important. Not everything you start needs to be finished. So here are some works I started and will never finish. Feel free to use them however you like.

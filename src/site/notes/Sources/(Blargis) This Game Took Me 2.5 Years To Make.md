@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/blargis-this-game-took-me-2-5-years-to-make/","tags":["sources","videos"],"created":"2026-01-13T17:30:46.087+00:00","updated":"2026-01-13T17:30:46.941+00:00"}
+{"dg-publish":true,"permalink":"/sources/blargis-this-game-took-me-2-5-years-to-make/","tags":["sources","videos"],"created":"12-10-2025","updated":"12-10-2025"}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BPNr_txi6TU?si=dN6VQ0CK5tzqu8NI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

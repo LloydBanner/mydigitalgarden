@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/pulp-fiction/","tags":["films","sources","theBest","crime","drama"],"created":"2026-01-13T17:26:04.270+00:00","updated":"2026-01-13T17:26:04.270+00:00"}
+{"dg-publish":true,"permalink":"/sources/pulp-fiction/","tags":["films","sources","theBest","crime","drama"],"created":"07-09-2025","updated":"22-12-2025"}
 ---
 
 Directors: [[Sources/Quentin Tarantino\|Quentin Tarantino]]

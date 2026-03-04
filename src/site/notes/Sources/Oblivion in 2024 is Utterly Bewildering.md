@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/oblivion-in-2024-is-utterly-bewildering/","tags":["videos","fantasy","elderScrolls","videoGames"],"created":"2026-01-13T17:29:46.131+00:00","updated":"2026-01-13T17:29:46.891+00:00"}
+{"dg-publish":true,"permalink":"/sources/oblivion-in-2024-is-utterly-bewildering/","tags":["videos","fantasy","elderScrolls","videoGames"],"created":"27-04-2025","updated":"27-04-2025"}
 ---
 
 First Watched: 27-04-2025

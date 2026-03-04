@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/everything-everywhere-all-at-once/","tags":["films","sources","fantasy","Sci-Fi","theBest","comedy"],"created":"2026-01-13T17:28:13.206+00:00","updated":"2026-01-13T17:28:13.969+00:00"}
+{"dg-publish":true,"permalink":"/sources/everything-everywhere-all-at-once/","tags":["films","sources","fantasy","Sci-Fi","theBest","comedy"],"created":"22-12-2025","updated":"22-12-2025"}
 ---
 
 Directors: [[Sources/Daniel Kwan\|Daniel Kwan]],[[Sources/Daniel Scheinert\|Daniel Scheinert]]

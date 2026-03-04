@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/for-a-few-dollars-more/","tags":["films","sources","theBest","western"],"created":"2026-01-13T17:30:21.043+00:00","updated":"2026-01-13T17:30:21.043+00:00"}
+{"dg-publish":true,"permalink":"/sources/for-a-few-dollars-more/","tags":["films","sources","theBest","western"],"created":"05-10-2025","updated":"05-10-2025"}
 ---
 
 Directors: [[Sources/Sergio Leone\|Sergio Leone]]

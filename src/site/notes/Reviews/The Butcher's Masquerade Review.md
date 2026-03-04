@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/the-butcher-s-masquerade-review/","tags":["feed","reviews","developed"],"created":"2026-02-15T13:56:22.009+00:00","updated":"2026-02-15T13:56:22.009+00:00"}
+{"dg-publish":true,"permalink":"/reviews/the-butcher-s-masquerade-review/","tags":["feed","reviews","developed"],"created":"15-02-2026","updated":"15-02-2026"}
 ---
 
 Written: 15-02-2026

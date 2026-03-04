@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-master-chief-collection/","tags":["videoGames","compilations","halo","sources"],"created":"2026-01-13T17:25:24.460+00:00","updated":"2026-01-13T17:25:24.460+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-master-chief-collection/","tags":["videoGames","compilations","halo","sources"],"created":"21-04-2025","updated":"22-04-2025"}
 ---
 
 This is a [[Sources/Halo\|Halo]] compilation of [[Sources/Halo Combat Evolved\|Halo Combat Evolved]], [[Sources/Halo 2\|Halo 2]], [[Sources/Halo 3\|Halo 3]], [[Sources/Halo ODST\|Halo ODST]], [[Sources/Halo Reach\|Halo Reach]] and Halo 4. I would say it is the best way to play these games other than the lack of splitscreen on PC.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/toy-story-3/","tags":["films","sources","animated","theBest","kids"],"created":"2026-01-13T17:27:11.114+00:00","updated":"2026-01-13T17:27:11.781+00:00"}
+{"dg-publish":true,"permalink":"/sources/toy-story-3/","tags":["films","sources","animated","theBest","kids"],"created":"23-12-2025","updated":"23-12-2025"}
 ---
 
 Directors: [[Sources/Lee Unkrich\|Lee Unkrich]]

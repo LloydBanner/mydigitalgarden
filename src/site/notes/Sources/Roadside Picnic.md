@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/roadside-picnic/","tags":["books","sources","theBest","Sci-Fi"],"created":"2026-01-13T17:29:37.779+00:00","updated":"2026-01-13T17:29:37.779+00:00"}
+{"dg-publish":true,"permalink":"/sources/roadside-picnic/","tags":["books","sources","theBest","Sci-Fi"],"created":"26-04-2025","updated":"26-04-2025"}
 ---
 
 Author: Arkady Strugatsky and Boris Strugatsky

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/mad-max-fury-road/","tags":["films","sources","postApocalyptic","theBest"],"created":"2026-01-13T17:31:27.180+00:00","updated":"2026-01-13T17:31:27.180+00:00"}
+{"dg-publish":true,"permalink":"/sources/mad-max-fury-road/","tags":["films","sources","postApocalyptic","theBest"],"created":"22-12-2025","updated":"22-12-2025"}
 ---
 
 Directors: [[Sources/George Miller\|George Miller]]

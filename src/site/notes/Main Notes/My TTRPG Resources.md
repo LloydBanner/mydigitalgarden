@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-ttrpg-resources/","tags":["ttrpgs","draft"],"created":"2026-01-13T17:25:51.203+00:00","updated":"2026-01-13T17:25:51.203+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-ttrpg-resources/","tags":["ttrpgs","draft"],"created":"21-04-2025","updated":"23-12-2025"}
 ---
 
 Here you will find resources I have made to be used while running [[Main Notes/OSE\|OSE]] [[Main Notes/TTRPG\|TTRPG]] games.

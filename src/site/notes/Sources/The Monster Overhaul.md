@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-monster-overhaul/","tags":["books","sources","theBest","fantasy","ttrpgResources"],"created":"2026-01-13T17:25:55.211+00:00","updated":"2026-01-13T17:25:55.211+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-monster-overhaul/","tags":["books","sources","theBest","fantasy","ttrpgResources"],"created":"11-11-2025","updated":"11-11-2025"}
 ---
 
 Author: [[Sources/Skerples\|Skerples]]

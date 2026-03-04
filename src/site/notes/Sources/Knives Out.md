@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/knives-out/","tags":["films","sources","mystery","theBest","thriller"],"created":"2026-01-13T17:30:01.151+00:00","updated":"2026-01-13T17:30:01.151+00:00"}
+{"dg-publish":true,"permalink":"/sources/knives-out/","tags":["films","sources","mystery","theBest","thriller"],"created":"30-12-2025","updated":"30-12-2025"}
 ---
 
 Directors: [[Sources/Rian Johnson\|Rian Johnson]]

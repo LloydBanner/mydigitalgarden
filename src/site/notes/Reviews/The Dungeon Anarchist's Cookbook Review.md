@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/the-dungeon-anarchist-s-cookbook-review/","tags":["feed","reviews","developing"],"created":"2026-01-13T17:25:31.312+00:00","updated":"2026-01-13T17:25:31.980+00:00"}
+{"dg-publish":true,"permalink":"/reviews/the-dungeon-anarchist-s-cookbook-review/","tags":["feed","reviews","developing"],"created":"20-12-2025","updated":"20-12-2025"}
 ---
 
 Written: 20-12-2025

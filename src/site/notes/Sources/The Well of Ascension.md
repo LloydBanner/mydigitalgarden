@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-well-of-ascension/","tags":["books","sources","fantasy","theBest"],"created":"2026-01-13T17:28:32.899+00:00","updated":"2026-01-13T17:28:32.899+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-well-of-ascension/","tags":["books","sources","fantasy","theBest"],"created":"11-05-2025","updated":"11-05-2025"}
 ---
 
 Author: [[Sources/Brandon Sanderson\|Brandon Sanderson]]

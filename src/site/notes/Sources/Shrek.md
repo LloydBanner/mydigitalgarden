@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/shrek/","tags":["films","sources","theBest","kids","animated","fairyTale"],"created":"2026-01-13T17:25:45.900+00:00","updated":"2026-01-13T17:25:45.900+00:00"}
+{"dg-publish":true,"permalink":"/sources/shrek/","tags":["films","sources","theBest","kids","animated","fairyTale"],"created":"29-12-2025","updated":"29-12-2025"}
 ---
 
 Directors: [[Sources/Andrew Adamson\|Andrew Adamson]],[[Sources/Vicky Jenson\|Vicky Jenson]]

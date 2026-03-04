@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-favourite-video-games/","tags":["feed","developing"],"created":"2026-01-13T17:28:43.605+00:00","updated":"2026-01-13T17:28:43.658+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-favourite-video-games/","tags":["feed","developing"],"created":"19-04-2025","updated":"04-10-2025"}
 ---
 
 The unique element of [[Main Notes/Video Games\|video games]] is the interactivity. I tend to enjoy games that have more interactivity and have a greater gameplay focus than story focus. I also mostly play singleplayer games. There are a few things that will really take me out of a game like when control is taken away from the player especially when it is done often so I usually avoid games like this.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/edward-berger/","tags":["sources","directors"],"created":"2026-01-13T17:28:54.502+00:00","updated":"2026-01-13T17:28:54.502+00:00"}
+{"dg-publish":true,"permalink":"/sources/edward-berger/","tags":["sources","directors"],"created":"22-12-2025","updated":"22-12-2025"}
 ---
 
 ## Films

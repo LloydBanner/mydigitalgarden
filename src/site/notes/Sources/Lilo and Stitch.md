@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/lilo-and-stitch/","tags":["films","sources","animated","kids","theBest"],"created":"2026-01-13T17:26:19.139+00:00","updated":"2026-01-13T17:26:19.470+00:00"}
+{"dg-publish":true,"permalink":"/sources/lilo-and-stitch/","tags":["films","sources","animated","kids","theBest"],"created":"29-12-2025","updated":"29-12-2025"}
 ---
 
 Directors: [[Sources/Dean DeBlois\|Dean DeBlois]],[[Sources/Chris Sanders\|Chris Sanders]]

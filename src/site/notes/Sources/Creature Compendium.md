@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/creature-compendium/","tags":["books","sources","fantasy","ttrpgResources","theBest"],"created":"2026-01-13T17:27:01.040+00:00","updated":"2026-01-13T17:27:01.040+00:00"}
+{"dg-publish":true,"permalink":"/sources/creature-compendium/","tags":["books","sources","fantasy","ttrpgResources","theBest"],"created":"11-11-2025","updated":"11-11-2025"}
 ---
 
 Author: [[Sources/Richard LeBlanc\|Richard LeBlanc]]

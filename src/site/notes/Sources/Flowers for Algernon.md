@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/flowers-for-algernon/","tags":["books","sources","theBest","Sci-Fi","reviews","feed"],"created":"2026-01-13T17:30:51.016+00:00","updated":"2026-01-13T17:30:51.016+00:00"}
+{"dg-publish":true,"permalink":"/sources/flowers-for-algernon/","tags":["books","sources","theBest","Sci-Fi","reviews","feed"],"created":"26-08-2025","updated":"15-09-2025"}
 ---
 
 Author: [[Sources/Daniel Keyes\|Daniel Keyes]]

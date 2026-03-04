@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/the-banner-saga-review-2017/","tags":["reviews","feed","fantasy","developed"],"created":"2026-01-13T17:28:08.194+00:00","updated":"2026-01-13T17:28:08.194+00:00"}
+{"dg-publish":true,"permalink":"/reviews/the-banner-saga-review-2017/","tags":["reviews","feed","fantasy","developed"],"created":"24-10-2025","updated":"22-11-2025"}
 ---
 
 Written: 02-10-2017

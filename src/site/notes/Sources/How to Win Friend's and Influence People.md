@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/how-to-win-friend-s-and-influence-people/","tags":["books","sources","theBest","selfHelp"],"created":"2026-01-13T17:26:02.429+00:00","updated":"2026-01-13T17:26:02.429+00:00"}
+{"dg-publish":true,"permalink":"/sources/how-to-win-friend-s-and-influence-people/","tags":["books","sources","theBest","selfHelp"],"created":"01-06-2025","updated":"01-06-2025"}
 ---
 
 Author: [[Sources/Dale Carnegie\|Dale Carnegie]]

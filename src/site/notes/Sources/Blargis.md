@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/blargis/","tags":["sources","creators"],"created":"2026-01-13T17:30:43.114+00:00","updated":"2026-01-13T17:30:43.114+00:00"}
+{"dg-publish":true,"permalink":"/sources/blargis/","tags":["sources","creators"],"created":"07-09-2025","updated":"22-12-2025"}
 ---
 
 Blargis is a solo game developer who also has a [Youtube channel](https://m.youtube.com/@blargis3d) showcasing how he makes his games.

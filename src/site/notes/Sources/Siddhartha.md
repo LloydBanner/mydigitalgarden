@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/siddhartha/","tags":["books","sources","buddhism"],"created":"2026-01-13T17:29:33.238+00:00","updated":"2026-01-13T17:29:33.238+00:00"}
+{"dg-publish":true,"permalink":"/sources/siddhartha/","tags":["books","sources","buddhism"],"created":"28-11-2025","updated":"28-11-2025"}
 ---
 
 Author: [[Sources/Hermann Hesse\|Hermann Hesse]]

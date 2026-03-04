@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-muppets-christmas-carol/","tags":["films","sources","christmas","theBest","kids"],"created":"2026-01-13T17:31:36.206+00:00","updated":"2026-01-13T17:31:36.206+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-muppets-christmas-carol/","tags":["films","sources","christmas","theBest","kids"],"created":"23-12-2025","updated":"23-12-2025"}
 ---
 
 Directors: [[Sources/Brian Henson\|Brian Henson]]

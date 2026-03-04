@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/daniel-scheinert/","tags":["sources","directors"],"created":"2026-01-13T17:25:30.255+00:00","updated":"2026-01-13T17:25:30.255+00:00"}
+{"dg-publish":true,"permalink":"/sources/daniel-scheinert/","tags":["sources","directors"],"created":"22-12-2025","updated":"22-12-2025"}
 ---
 
 

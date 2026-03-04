@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/starfield-mods-i-would-like-to-see/","created":"2026-01-13T17:24:49.112+00:00","updated":"2026-01-13T17:24:49.825+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/starfield-mods-i-would-like-to-see/","created":"21-04-2025","updated":"22-04-2025"}
 ---
 
 [Starfield](Starfield.md) mods I would like to see

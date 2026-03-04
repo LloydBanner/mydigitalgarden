@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/peter-jackson/","tags":["sources","directors"],"created":"2026-01-13T17:30:34.204+00:00","updated":"2026-01-13T17:30:34.204+00:00"}
+{"dg-publish":true,"permalink":"/sources/peter-jackson/","tags":["sources","directors"],"created":"22-12-2025","updated":"29-12-2025"}
 ---
 
 ## Films Series

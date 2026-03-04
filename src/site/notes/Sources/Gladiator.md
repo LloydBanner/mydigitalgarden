@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/gladiator/","tags":["films","sources","historical","fantasy","theBest"],"created":"2026-01-13T17:25:59.950+00:00","updated":"2026-01-13T17:25:59.988+00:00"}
+{"dg-publish":true,"permalink":"/sources/gladiator/","tags":["films","sources","historical","fantasy","theBest"],"created":"03-06-2025","updated":"03-06-2025"}
 ---
 
 Director: [[Sources/Ridley Scott\|Ridley Scott]]

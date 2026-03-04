@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings/","tags":["lordOfTheRings","sources"],"created":"2026-01-13T17:31:15.192+00:00","updated":"2026-01-13T17:31:15.921+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings/","tags":["lordOfTheRings","sources"],"created":"21-04-2025","updated":"11-05-2025"}
 ---
 
 Not much needs to be said about this series. The best known fantasy story ever told, which practically all fantasy has been somewhat inspired by since. I like to think that I can avoid the trap of nostalgia tinting my view of things that I revisit, but this is a series where I think that trap is inescapable for me.

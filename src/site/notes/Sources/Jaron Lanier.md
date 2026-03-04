@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/jaron-lanier/","tags":["authors","sources"],"created":"2026-01-13T17:27:02.144+00:00","updated":"2026-01-13T17:27:02.985+00:00"}
+{"dg-publish":true,"permalink":"/sources/jaron-lanier/","tags":["authors","sources"],"created":"01-06-2025","updated":"01-06-2025"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-butcher-s-masquerade/","tags":["books","sources","theBest","litRPGs","fantasy","Sci-Fi"],"created":"2026-02-15T14:21:36.005+00:00","updated":"2026-02-15T14:22:59.983+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-butcher-s-masquerade/","tags":["books","sources","theBest","litRPGs","fantasy","Sci-Fi"],"created":"12-01-2026","updated":"15-02-2026"}
 ---
 
 Author: [[Sources/Matt Dinniman\|Matt Dinniman]]

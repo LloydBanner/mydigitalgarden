@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/in-bruges/","tags":["films","sources"],"created":"2026-02-15T13:56:21.227+00:00","updated":"2026-02-15T13:56:21.813+00:00"}
+{"dg-publish":true,"permalink":"/sources/in-bruges/","tags":["films","sources"],"created":"15-02-2026","updated":"15-02-2026"}
 ---
 
 Directors: [[Sources/Martin McDonagh\|Martin McDonagh]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/half-life/","tags":["videoGames","sources"],"created":"2026-01-25T18:13:46.570+00:00","updated":"2026-01-25T18:13:46.570+00:00"}
+{"dg-publish":true,"permalink":"/sources/half-life/","tags":["videoGames","sources"],"created":"24-01-2026","updated":"24-01-2026"}
 ---
 
 Developer: Valve

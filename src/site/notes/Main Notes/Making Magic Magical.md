@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/making-magic-magical/","tags":["thoughts","draft","fantasy","feed"],"created":"2026-01-13T17:28:05.463+00:00","updated":"2026-01-13T17:28:05.891+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/making-magic-magical/","tags":["thoughts","draft","fantasy","feed"],"created":"27-04-2025","updated":"27-04-2025"}
 ---
 
 Lots of writing tends to take the wonder out of magic by explaining the rules too much or making it work like modern day devices. This is my ideas on how to make magic feel magical for your audience.

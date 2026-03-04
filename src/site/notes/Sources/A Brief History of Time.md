@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/a-brief-history-of-time/","tags":["books","sources","theBest","non-fiction","science"],"created":"2026-01-13T17:29:28.736+00:00","updated":"2026-01-13T17:29:28.736+00:00"}
+{"dg-publish":true,"permalink":"/sources/a-brief-history-of-time/","tags":["books","sources","theBest","non-fiction","science"],"created":"01-06-2025","updated":"01-06-2025"}
 ---
 
 Author: [[Sources/Stephen Hawking\|Stephen Hawking]]

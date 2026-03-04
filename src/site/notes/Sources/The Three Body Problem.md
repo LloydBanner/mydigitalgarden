@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-three-body-problem/","tags":["books","sources","Sci-Fi"],"created":"2026-01-13T17:25:53.054+00:00","updated":"2026-01-13T17:25:53.673+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-three-body-problem/","tags":["books","sources","Sci-Fi"],"created":"26-04-2025","updated":"27-04-2025"}
 ---
 
 Author: [[Sources/Cixin Liu\|Cixin Liu]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-video/","tags":["sources","videos"],"created":"2026-01-13T17:24:42.400+00:00","updated":"2026-01-13T17:24:42.400+00:00"}
+{"dg-publish":true,"permalink":"/z-templates/template-video/","tags":["sources","videos"],"created":"{{date}}","updated":"07-09-2025"}
 ---
 
 First Watched: {{date}}

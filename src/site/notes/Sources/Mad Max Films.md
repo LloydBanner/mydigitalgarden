@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/mad-max-films/","tags":["sources","filmSeries"],"created":"2026-01-13T17:26:33.284+00:00","updated":"2026-01-13T17:26:33.284+00:00"}
+{"dg-publish":true,"permalink":"/sources/mad-max-films/","tags":["sources","filmSeries"],"created":"22-12-2025","updated":"22-12-2025"}
 ---
 
 Directors: [[Sources/George Miller\|George Miller]]

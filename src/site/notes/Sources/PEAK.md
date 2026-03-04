@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/peak/","tags":["videoGames","sources","climbing","theBest","feed","reviews","developing"],"created":"2026-01-13T17:30:37.237+00:00","updated":"2026-01-13T17:30:37.237+00:00"}
+{"dg-publish":true,"permalink":"/sources/peak/","tags":["videoGames","sources","climbing","theBest","feed","reviews","developing"],"created":"12-10-2025","updated":"28-11-2025"}
 ---
 
 Developer: Team PEAK

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/list-of-names/","created":"2026-01-13T17:29:26.606+00:00","updated":"2026-01-13T17:29:26.606+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/list-of-names/","created":"21-04-2025","updated":"21-04-2025"}
 ---
 
 Nicostratus  

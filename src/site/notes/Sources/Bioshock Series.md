@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/bioshock-series/","tags":["bioshock","sources"],"created":"2026-01-13T17:24:39.518+00:00","updated":"2026-01-13T17:24:39.518+00:00"}
+{"dg-publish":true,"permalink":"/sources/bioshock-series/","tags":["bioshock","sources"],"created":"21-04-2025","updated":"27-08-2025"}
 ---
 
 Bioshock series of action games with Immersive Sim elements. With a steampunk setting. They are well made and have pretty solid stories with interesting twists.

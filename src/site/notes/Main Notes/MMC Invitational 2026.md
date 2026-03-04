@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/mmc-invitational-2026/","tags":["feed","gaming","developing"],"created":"2026-01-16T12:57:54.763+00:00","updated":"2026-01-16T19:27:50.458+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/mmc-invitational-2026/","tags":["feed","gaming","developing"],"created":"16-01-2026","updated":"16-01-2026"}
 ---
 
 On the 14th of March 2026 I will be running a gaming tournament for my birthday. If I have sent you a link to this page you are invited. Below are the games we will be playing with the conditions we will be playing them in if you want to practice (you don't have to this is for fun). We can order some food somewhere along the way too.

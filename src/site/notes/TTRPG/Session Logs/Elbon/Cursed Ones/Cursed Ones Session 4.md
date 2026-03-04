@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-4/","tags":["feed","elbonLogs","developed"],"created":"2026-01-13T17:33:48.969+00:00","updated":"2026-03-03T18:36:05.451+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-4/","tags":["feed","elbonLogs","developed"],"created":"24-10-2025","updated":"24-10-2025"}
 ---
 
 **[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 26-3-569 - 28-3-596

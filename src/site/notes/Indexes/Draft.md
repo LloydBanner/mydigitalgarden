@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/draft/","created":"2026-01-13T17:33:12.810+00:00","updated":"2026-03-03T07:00:06.417+00:00"}
+{"dg-publish":true,"permalink":"/indexes/draft/","created":"27-04-2025","updated":"03-03-2026"}
 ---
 
 This is the feed of all my draft pages that I thought were feed worthy. If you only want to see pages at certain levels of development, which are defined on my [[Main Notes/Website\|Website]] page, use the links below.

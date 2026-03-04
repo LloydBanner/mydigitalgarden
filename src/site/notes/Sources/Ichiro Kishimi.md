@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/ichiro-kishimi/","tags":["authors","sources"],"created":"2026-01-13T17:28:49.046+00:00","updated":"2026-01-13T17:28:49.046+00:00"}
+{"dg-publish":true,"permalink":"/sources/ichiro-kishimi/","tags":["authors","sources"],"created":"23-08-2025","updated":"23-08-2025"}
 ---
 
 ## Books

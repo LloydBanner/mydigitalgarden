@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/toy-story/","tags":["films","sources","animated","theBest","kids"],"created":"2026-01-25T18:13:47.646+00:00","updated":"2026-01-25T18:13:47.646+00:00"}
+{"dg-publish":true,"permalink":"/sources/toy-story/","tags":["films","sources","animated","theBest","kids"],"created":"23-12-2025","updated":"24-01-2026"}
 ---
 
 Directors: [[Sources/John Lasseter\|John Lasseter]]

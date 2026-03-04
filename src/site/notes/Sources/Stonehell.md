@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/stonehell/","tags":["books","sources","ttrpgs","ttrpgResources"],"created":"2026-01-13T17:31:23.238+00:00","updated":"2026-01-13T17:31:23.984+00:00"}
+{"dg-publish":true,"permalink":"/sources/stonehell/","tags":["books","sources","ttrpgs","ttrpgResources"],"created":"15-09-2025","updated":"15-09-2025"}
 ---
 
 Author: Michael Curtis

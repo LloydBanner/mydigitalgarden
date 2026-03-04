@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/sarzan-note-on-becoming-necessary/","created":"2026-01-13T17:33:30.744+00:00","updated":"2026-01-17T08:22:10.445+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/sarzan-note-on-becoming-necessary/","created":"10-01-2026","updated":"10-01-2026"}
 ---
 
 **On Becoming Necessary**

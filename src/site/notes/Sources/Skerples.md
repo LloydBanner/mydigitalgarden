@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/skerples/","tags":["authors","sources"],"created":"2026-01-13T17:27:23.565+00:00","updated":"2026-01-13T17:27:23.565+00:00"}
+{"dg-publish":true,"permalink":"/sources/skerples/","tags":["authors","sources"],"created":"11-11-2025","updated":"11-11-2025"}
 ---
 
 

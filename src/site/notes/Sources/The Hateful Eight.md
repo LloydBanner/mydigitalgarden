@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-hateful-eight/","tags":["films","sources","western","prettyGood"],"created":"2026-01-13T17:28:14.006+00:00","updated":"2026-01-13T17:28:14.769+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-hateful-eight/","tags":["films","sources","western","prettyGood"],"created":"22-12-2025","updated":"22-12-2025"}
 ---
 
 Directors: [[Sources/Quentin Tarantino\|Quentin Tarantino]]

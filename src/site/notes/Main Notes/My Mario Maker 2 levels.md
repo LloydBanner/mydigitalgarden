@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-mario-maker-2-levels/","tags":["feed","developed"],"created":"2026-01-13T17:30:38.238+00:00","updated":"2026-01-13T17:30:38.238+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/my-mario-maker-2-levels/","tags":["feed","developed"],"created":"20-04-2025","updated":"21-04-2025"}
 ---
 
 I have been having fun looking back on some of the old stuff I created recently and [[Sources/Mario Maker 2\|Mario Maker 2]] levels are one thing that have been fun to look back at.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-nicomachean-ethics/","tags":["books","sources"],"created":"2026-01-13T17:26:36.489+00:00","updated":"2026-01-13T17:26:36.489+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-nicomachean-ethics/","tags":["books","sources"],"created":"28-11-2025","updated":"28-11-2025"}
 ---
 
 Author: [[Sources/Aristotle\|Aristotle]]

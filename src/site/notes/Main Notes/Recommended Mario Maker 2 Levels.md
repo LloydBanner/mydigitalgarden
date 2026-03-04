@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/recommended-mario-maker-2-levels/","tags":["feed"],"created":"2026-01-13T17:29:07.129+00:00","updated":"2026-01-13T17:29:07.984+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/recommended-mario-maker-2-levels/","tags":["feed"],"created":"20-04-2025","updated":"20-04-2025"}
 ---
 
 I think one of the biggest issues with [[Mario Maker 2 \|Mario Maker 2 ]]is the level and world searching functions and features. You can either find pretty poor levels by searching new or the same levels by looking at the highly rated stuff. The best way to find actually good stuff in game is finding creators that make fun levels and trying their other stuff. However you can also share level codes, so here are a few I really liked.

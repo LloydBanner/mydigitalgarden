@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/12-rules-for-life/","tags":["books","sources","theBest","selfHelp"],"created":"2026-01-13T17:25:30.441+00:00","updated":"2026-01-13T17:25:30.441+00:00"}
+{"dg-publish":true,"permalink":"/sources/12-rules-for-life/","tags":["books","sources","theBest","selfHelp"],"created":"01-06-2025","updated":"01-06-2025"}
 ---
 
 Author: [[Sources/Jordan Peterson\|Jordan Peterson]]

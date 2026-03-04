@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-holdovers/","tags":["films","sources","christmas","theBest"],"created":"2026-01-13T17:26:20.536+00:00","updated":"2026-01-13T17:26:20.536+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-holdovers/","tags":["films","sources","christmas","theBest"],"created":"23-12-2025","updated":"23-12-2025"}
 ---
 
 Directors: [[Sources/Alexander Payne\|Alexander Payne]]

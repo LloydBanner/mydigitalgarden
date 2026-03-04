@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/a-wizard-of-earthsea/","tags":["books","sources","theBest","fantasy"],"created":"2026-01-13T17:24:59.139+00:00","updated":"2026-01-13T17:24:59.139+00:00"}
+{"dg-publish":true,"permalink":"/sources/a-wizard-of-earthsea/","tags":["books","sources","theBest","fantasy"],"created":"27-04-2025","updated":"27-04-2025"}
 ---
 
 Author: [[Sources/Ursula K. Le Guin\|Ursula K. Le Guin]]

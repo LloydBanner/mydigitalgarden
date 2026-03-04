@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/jedi-knight-ii-jedi-outcast/","tags":["starWars","theBest","videoGames","sources"],"created":"2026-01-13T17:30:30.399+00:00","updated":"2026-01-13T17:30:30.399+00:00"}
+{"dg-publish":true,"permalink":"/sources/jedi-knight-ii-jedi-outcast/","tags":["starWars","theBest","videoGames","sources"],"created":"19-04-2025","updated":"22-04-2025"}
 ---
 
 This and its sequel [[Sources/Jedi Knight Jedi Academy\|Jedi Knight Jedi Academy]] are in my opinion the best games that make you feel like you are a Jedi. They have a massive variety of force powers, options to play as Sith or Jedi and follow on from the original trilogy very nicely in the story. The start of the game is more first person shooter focused and play like Doom or Quake but is still fun, when you get your force abilities the game really picks up though.

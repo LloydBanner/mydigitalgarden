@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/how-to-train-your-dragon/","tags":["films","sources","animated","kids","fantasy","theBest"],"created":"2026-01-13T17:30:41.084+00:00","updated":"2026-01-13T17:30:41.084+00:00"}
+{"dg-publish":true,"permalink":"/sources/how-to-train-your-dragon/","tags":["films","sources","animated","kids","fantasy","theBest"],"created":"30-12-2025","updated":"30-12-2025"}
 ---
 
 Directors: [[Sources/Dean DeBlois\|Dean DeBlois]],[[Sources/Chris Sanders\|Chris Sanders]]

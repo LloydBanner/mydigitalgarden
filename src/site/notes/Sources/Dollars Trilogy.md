@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/dollars-trilogy/","tags":["sources","filmSeries"],"created":"2026-01-13T17:29:09.049+00:00","updated":"2026-01-13T17:29:09.550+00:00"}
+{"dg-publish":true,"permalink":"/sources/dollars-trilogy/","tags":["sources","filmSeries"],"created":"05-10-2025","updated":"22-12-2025"}
 ---
 
 Directors: [[Sources/Sergio Leone\|Sergio Leone]]

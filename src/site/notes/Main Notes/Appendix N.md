@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/appendix-n/","tags":["ttrpgs","developing","feed"],"created":"2026-01-13T17:30:40.453+00:00","updated":"2026-01-13T17:30:40.453+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/appendix-n/","tags":["ttrpgs","developing","feed"],"created":"21-04-2025","updated":"11-11-2025"}
 ---
 
 In the original publishing of Advanced Dungeons and Dragons, 'Appendix N: Inspirational and Educational Reading' was a list of authors and works that were identified by Gary Gygax, the writer of Dungeons and Dragons, as the source of many concepts, tropes, spells, and monsters that were used in the development of D&D.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/spark-joy/","tags":["books","sources","non-fiction","selfHelp","theBest"],"created":"2026-01-13T17:27:43.172+00:00","updated":"2026-01-13T17:27:43.750+00:00"}
+{"dg-publish":true,"permalink":"/sources/spark-joy/","tags":["books","sources","non-fiction","selfHelp","theBest"],"created":"01-06-2025","updated":"01-06-2025"}
 ---
 
 Author: [[Sources/Marie Kondō\|Marie Kondō]]

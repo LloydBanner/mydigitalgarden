@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-tombs-of-atuan/","tags":["books","sources","fantasy","theBest"],"created":"2026-01-13T17:27:23.461+00:00","updated":"2026-01-13T17:27:23.461+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-tombs-of-atuan/","tags":["books","sources","fantasy","theBest"],"created":"27-04-2025","updated":"11-05-2025"}
 ---
 
 Author: [[Sources/Ursula K. Le Guin\|Ursula K. Le Guin]]

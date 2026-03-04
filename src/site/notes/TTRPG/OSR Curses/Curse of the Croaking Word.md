@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/osr-curses/curse-of-the-croaking-word/","tags":["ttrpgResources","osrCurses","developing"],"created":"2026-01-13T17:27:56.537+00:00","updated":"2026-01-13T17:27:56.537+00:00"}
+{"dg-publish":true,"permalink":"/ttrpg/osr-curses/curse-of-the-croaking-word/","tags":["ttrpgResources","osrCurses","developing"],"created":"07-06-2025","updated":"07-06-2025"}
 ---
 
 **Effect:** Each day, the cursed PC must choose one word they’re not allowed to say (DM can pick randomly too). If they say it, they croak like a frog and are silenced for 1d4 rounds.

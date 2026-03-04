@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/ttrpg-session-logs/","tags":["developing"],"created":"2026-01-13T17:33:18.209+00:00","updated":"2026-03-02T21:18:28.909+00:00"}
+{"dg-publish":true,"permalink":"/main-notes/ttrpg-session-logs/","tags":["developing"],"created":"19-04-2025","updated":"04-10-2025"}
 ---
 
 Session logs from my [[Main Notes/TTRPG\|TTRPG]] games.

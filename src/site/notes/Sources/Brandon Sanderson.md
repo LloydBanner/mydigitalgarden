@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/brandon-sanderson/","tags":["authors","sources"],"created":"2026-01-13T17:26:06.335+00:00","updated":"2026-01-13T17:26:06.335+00:00"}
+{"dg-publish":true,"permalink":"/sources/brandon-sanderson/","tags":["authors","sources"],"created":"27-04-2025","updated":"27-04-2025"}
 ---
 
 Brandon Winn Sanderson (born December 19, 1975) is an American author of high fantasy, science fiction, and young adult books.

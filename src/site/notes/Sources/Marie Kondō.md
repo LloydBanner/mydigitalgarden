@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/marie-kondo/","tags":["authors","sources"],"created":"2026-01-13T17:24:56.273+00:00","updated":"2026-01-13T17:24:56.273+00:00"}
+{"dg-publish":true,"permalink":"/sources/marie-kondo/","tags":["authors","sources"],"created":"01-06-2025","updated":"01-06-2025"}
 ---
 
 Marie Kondō is a Japanese organizing consultant and author.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/writing/","created":"2026-01-13T17:33:12.917+00:00","updated":"2026-03-02T21:19:35.610+00:00"}
+{"dg-publish":true,"permalink":"/indexes/writing/","created":"18-04-2025","updated":"02-03-2026"}
 ---
 
 A page to collect all the things I have written. This will include, but is not limited to, books, short stories and ideas. 

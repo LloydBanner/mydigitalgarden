@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/ten-arguments-for-deleting-your-social-media-accounts-right-now/","tags":["books","sources","non-fiction","theBest"],"created":"2026-01-13T17:30:47.420+00:00","updated":"2026-01-13T17:30:47.420+00:00"}
+{"dg-publish":true,"permalink":"/sources/ten-arguments-for-deleting-your-social-media-accounts-right-now/","tags":["books","sources","non-fiction","theBest"],"created":"01-06-2025","updated":"13-09-2025"}
 ---
 
 Author: [[Sources/Jaron Lanier\|Jaron Lanier]]

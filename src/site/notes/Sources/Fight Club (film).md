@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/fight-club-film/","tags":["films","sources","theBest"],"created":"2026-01-13T17:27:28.533+00:00","updated":"2026-01-13T17:27:28.533+00:00"}
+{"dg-publish":true,"permalink":"/sources/fight-club-film/","tags":["films","sources","theBest"],"created":"03-09-2025","updated":"03-09-2025"}
 ---
 
 Directors: [[Sources/David Fincher\|David Fincher]]

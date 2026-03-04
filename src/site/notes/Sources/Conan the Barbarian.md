@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/conan-the-barbarian/","tags":["films","sources","fantasy","theBest"],"created":"2026-01-13T17:26:56.674+00:00","updated":"2026-01-13T17:26:56.674+00:00"}
+{"dg-publish":true,"permalink":"/sources/conan-the-barbarian/","tags":["films","sources","fantasy","theBest"],"created":"18-05-2025","updated":"18-05-2025"}
 ---
 
 Director: [[Sources/John Milius\|John Milius]]
