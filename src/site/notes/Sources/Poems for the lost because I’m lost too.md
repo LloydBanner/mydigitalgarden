@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/poems-for-the-lost-because-i-m-lost-too/","tags":["books","sources","poems","theBest"],"created":"2026-01-13T17:31:34.643+00:00","updated":"2026-01-13T17:31:34.806+00:00"}
+{"dg-publish":true,"permalink":"/sources/poems-for-the-lost-because-i-m-lost-too/","tags":["books","sources","poems","theBest"],"created":"26-04-2025","updated":"11-05-2025"}
 ---
 
 Author [[Sources/Exurb1a\|Exurb1a]]

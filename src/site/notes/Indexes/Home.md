@@ -22,9 +22,10 @@ If you want to contact me, about this website or anything else, comments are now
 - [[Main Notes/Films\|Films]]
  
 **Feed (A Bit of Everything) (Sorted by Last Update)**
+- [[The Eye of the Bedlam Bride Review\|The Eye of the Bedlam Bride Review]]: 06-03-2026
+- [[Reviews/The Butcher's Masquerade Review\|The Butcher's Masquerade Review]]: 06-03-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 02-03-2026
 - [[Main Notes/Good Words\|Good Words]]: 25-02-2026
-- [[Reviews/The Butcher's Masquerade Review\|The Butcher's Masquerade Review]]: 15-02-2026
 - [[Reviews/Black Mesa Review\|Black Mesa Review]]: 28-01-2026
 - [[Main Notes/MMC Invitational 2026\|MMC Invitational 2026]]: 16-01-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 13-01-2026
@@ -51,7 +52,6 @@ If you want to contact me, about this website or anything else, comments are now
 - [[Reviews/Carl's Doomsday Scenario Review\|Carl's Doomsday Scenario Review]]: 14-12-2025
 - [[Reviews/Dungeon Crawler Carl Review\|Dungeon Crawler Carl Review]]: 08-12-2025
 - [[Sources/PEAK\|PEAK]]: 28-11-2025
-- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 28-11-2025
 
 { .block-language-dataview}
 

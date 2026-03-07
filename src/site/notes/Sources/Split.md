@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/split/","tags":["films","sources","theBest","thriller"],"created":"2026-01-13T17:28:39.133+00:00","updated":"2026-01-13T17:28:39.893+00:00"}
+{"dg-publish":true,"permalink":"/sources/split/","tags":["films","sources","theBest","thriller"],"created":"31-12-2025","updated":"31-12-2025"}
 ---
 
 Directors: [[Sources/M. Night Shyamalan\|M. Night Shyamalan]]

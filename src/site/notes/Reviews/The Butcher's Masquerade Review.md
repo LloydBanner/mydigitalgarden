@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/the-butcher-s-masquerade-review/","tags":["feed","reviews","developed"],"created":"15-02-2026","updated":"15-02-2026"}
+{"dg-publish":true,"permalink":"/reviews/the-butcher-s-masquerade-review/","tags":["feed","reviews","developed"],"created":"15-02-2026","updated":"06-03-2026"}
 ---
 
 Written: 15-02-2026
@@ -14,4 +14,6 @@ A few more bits that I really enjoyed, were the bargaining to get the special ab
 
 Overall, another great entry to the series and possibly one of my favourites. As the series goes on, I'm more and more interested to see what happens on the 9th floor. Other than the dip in pacing with Signet this is an excellent book in my opinion.
 
+**06-03-2026 Amendment:**
+The other thing I would like to mention that I somehow forgot was how the book addresses burnout. I have been burnt out recently with life and work and found this really relatable and well written. The way Carl is suppressing the 'river' but it keeps coming back stronger is something I have dealt with before.
 

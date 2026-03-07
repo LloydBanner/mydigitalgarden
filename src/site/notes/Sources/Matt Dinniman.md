@@ -8,6 +8,8 @@
 
 { .block-language-dataview}
 ## Books
+- [[The Eye of the Bedlam Bride\|The Eye of the Bedlam Bride]]
+- [[This Inevitable Ruin\|This Inevitable Ruin]]
 - [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]
 - [[Sources/The Dungeon Anarchist's Cookbook\|The Dungeon Anarchist's Cookbook]]
 - [[Sources/The Gate of the Feral Gods\|The Gate of the Feral Gods]]

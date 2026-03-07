@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-super-mario-bros-movie/","tags":["films","sources","kids","animated","prettyGood","gaming"],"created":"2026-01-13T17:29:47.604+00:00","updated":"2026-01-13T17:29:47.604+00:00"}
+{"dg-publish":true,"permalink":"/sources/the-super-mario-bros-movie/","tags":["films","sources","kids","animated","prettyGood","gaming"],"created":"29-12-2025","updated":"29-12-2025"}
 ---
 
 Directors: [[Sources/Aaron Horvath\|Aaron Horvath]],[[Sources/Michael Jelenic\|Michael Jelenic]]
