@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/developing/","created":"27-04-2025","updated":"04-10-2025"}
+{"dg-publish":true,"permalink":"/indexes/developing-sync-conflict-20260307-122334-zeozd-26/","created":"27-04-2025","updated":"04-10-2025"}
 ---
 
 This is the feed of all my draft pages that I thought were feed worthy. If you only want to see pages at certain levels of development, which are defined on my [[Main Notes/Website\|Website]] page, use the links below.
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
-## Developing Feed (Sorted by Last Update)
+## Developing Feed (sorted by last update)
 - [[Main Notes/MMC Invitational 2026\|MMC Invitational 2026]]: 16-01-2026
 - [[Reviews/The Gate of the Feral Gods Review\|The Gate of the Feral Gods Review]]: 12-01-2026
 - [[Cooking Recipes/Slow Cooked Beef and Red Wine Stew\|Slow Cooked Beef and Red Wine Stew]]: 10-01-2026

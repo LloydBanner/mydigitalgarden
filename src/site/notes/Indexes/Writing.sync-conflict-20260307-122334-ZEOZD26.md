@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/writing/","created":"18-04-2025","updated":"02-03-2026"}
+{"dg-publish":true,"permalink":"/indexes/writing-sync-conflict-20260307-122334-zeozd-26/","created":"18-04-2025","updated":"22-12-2025"}
 ---
 
 A page to collect all the things I have written. This will include, but is not limited to, books, short stories and ideas. 
 
-## Books (Sorted by Release)
+# Books (sorted by release)
 - [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 27-12-2023
 - [[Main Notes/A Curse Upon Mistrun\|A Curse Upon Mistrun]]: 30-08-2021
 - [[Main Notes/Crumbling World\|Crumbling World]]: 15-09-2018
 
 { .block-language-dataview}
-## Short Stories (Sorted by Date I Finished Writing)
+## Short Stories (sorted by date I finished writing)
 - [[Main Notes/Two of Me\|Two of Me]]: 21-06-2018
 - [[Main Notes/The Artificial World\|The Artificial World]]: 09-03-2013
 
 { .block-language-dataview}
-## Thoughts (Sorted by Last Update)
+## Thoughts (sorted by last update)
 - [[Main Notes/Good Words\|Good Words]]: 25-02-2026
 - [[Main Notes/Good Words.sync-conflict-20260307-122335-XDJHJKG\|Good Words.sync-conflict-20260307-122335-XDJHJKG]]: 28-12-2025
 - [[Main Notes/Insighting Quotes\|Insighting Quotes]]: 23-12-2025

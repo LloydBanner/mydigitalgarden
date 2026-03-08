@@ -94,12 +94,13 @@
 | Character                 | XP After Last Session | Current XP                                            |
 | ------------------------- | --------------------- | ----------------------------------------------------- |
 | Jatumal (Wood-Elf4)       | 10991                 | 13813 (Level up! Need to get to 24000 xp to level up) |
-| Breadwig (Magic-User4)    | 16238                 | 13416 (Need to get to 20000 xp to level up)           |
+| Breadwig (Magic-User4)    | 13416                 | 16238 (Need to get to 20000 xp to level up)           |
 | Maia (Drow3)              | 9079                  | 11901 (Need to get to 16000 xp to level up)           |
 | Geog (Dwarf4)             | 11056                 | 13878 (Need to get to 17000 xp to level up)           |
 | Magmaranium (Dragonborn2) | 298                   | 3120 (Level up! Need to get to 6000 xp to level up)   |
 | Jutara (Tiefling2)        | 298                   | 3120 (Level up! Need to get to 5000 xp to level up)   |
 | Smuv (Arcane-Bard2)       | 298                   | 3120 (Level up! Need to get to 4000 xp to level up)   |
+|                           |                       |                                                       |
 |                           |                       |                                                       |
 
 #### Published Content Used

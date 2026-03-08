@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/draft/","created":"27-04-2025","updated":"03-03-2026"}
+{"dg-publish":true,"permalink":"/indexes/draft-sync-conflict-20260307-122337-zeozd-26/","created":"27-04-2025","updated":"04-10-2025"}
 ---
 
 This is the feed of all my draft pages that I thought were feed worthy. If you only want to see pages at certain levels of development, which are defined on my [[Main Notes/Website\|Website]] page, use the links below.
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
-## Draft Feed (Sorted by Last Update)
+## Draft Feed (a bit of everything) (sorted by last update)
 - [[Main Notes/Good Words\|Good Words]]: 25-02-2026
 - [[Main Notes/Good Words.sync-conflict-20260307-122335-XDJHJKG\|Good Words.sync-conflict-20260307-122335-XDJHJKG]]: 28-12-2025
 - [[Main Notes/The Best Christmas Films\|The Best Christmas Films]]: 23-12-2025

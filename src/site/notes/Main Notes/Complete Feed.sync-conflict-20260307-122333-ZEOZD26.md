@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/complete-feed/","created":"27-04-2025","updated":"04-10-2025"}
+{"dg-publish":true,"permalink":"/main-notes/complete-feed-sync-conflict-20260307-122333-zeozd-26/","created":"27-04-2025","updated":"04-10-2025"}
 ---
 
 This is the feed of all the information that I thought was feed worthy.
 If you only want to see pages at certain levels of development, which are defined on my [[Main Notes/Website\|Website]] page, use the links below.
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
-## Feed (a Bit of Everything) (Sorted by Last Update)
+## Feed (a bit of everything) (sorted by last update)
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 19\|Magic Shop Owners Session 19]]: 08-03-2026
 - [[The Eye of the Bedlam Bride Review\|The Eye of the Bedlam Bride Review]]: 06-03-2026
 - [[Reviews/The Butcher's Masquerade Review\|The Butcher's Masquerade Review]]: 06-03-2026
