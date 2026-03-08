@@ -6,19 +6,22 @@
 
 **[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 35-3-596 - 36-3-596
 
+[AI Podcast Overview](https://drive.google.com/file/d/1XaZM52459uTqxajyTgwJbDm5ZWPkSrAa/view?usp=drive_link) (From [[Sources/NotebookLM\|NotebookLM]])
 ### The Beast Emerges
 
 - As silence settled over the hole that was once Stagbrook. A scurrying came from the hole. Thousands of legs crawling. Ants came running from the hole in great numbers, but ignored the party. The Spiders from the keep followed them also running straight by. Then for a few moments there was silence. Then crash, crash, crash. Steps echoed up from the hole. Crash, crash, crash. They keep getting louder. The earth shook with each crash, crash, crash.
 - The party hid behind a nearby rock as the Tarrasque emerged from the hole. It was a huge scaled creature with a terrifying aura
 - Maia and Geog began to flee from their cover in fear while, Jutara and Smuv were frozen in place
-- The beast who had been charging after the ants saw Geog and charged at him impaling him with its horn and then throwing Geog into a nearby cliff
+- The beast who had been charging after the ants saw Geog and charged at him impaling him with its horn and then throwing Geog into a nearby cliff nearly killing him
 - Jatumal attempted to fire a cupid arrow at the beast but even with his incredible marksmanship the arrow deflected off the Tarrasque's natural armour. Jutara used here magi missile on the creature which hit, but the beast was unfazed and continued its charge after the giant insects and towards the Howling Woods.
 - After the encounter the party knew they were not ready to face the creature, but also wanted to stop this terror they had unleashed onto the lands
+- Maia use her cure light wounds spell on Geog but he was still in a bad way
 - They entered the original Sarzan painting which Jatumal had stored in the magic boat, The Kraken, and hadn't been destroyed by the collapse of Stagbrook
 - Inside the asked Sarzan about the creature. He identified it as the Tarrasque. He had managed to trap it below the keep where it had been in an eternal slumber when he was still alive. He explained its incredible strength. It had near impenetrable armour, could only be harmed by magical items or spells and had incredible regeneration capabilities which could only be stopped by the use of a wish.
 - Sarzan even suggested that an army may be needed to stop the creature.
-- He said there was a tomb in the desert to the north of The Rocky Slopes, called The Tomb of the Elephant King, where they might find a Djinni that could grant a wish. However, it was heavily trapped and few knew the location of it.
+- He said there was a tomb in the desert to the north of The Rocky Slopes, called the Tomb of the Elephant King, where they might find a Djinni that could grant a wish. However, it was heavily trapped and few knew the location of it.
 ### A New Quest
+**Rocky Slopes Hex Map (the Emerald Desert is north of this):**
 ![rockyslopeshex.png|400](/img/user/z_assets/TTRPG/Place%20Pictures/Rocky%20Slopes/rockyslopeshex.png)
 
 - With this the party decided their new goal was to gather people to fight the tarrasque, to find a wish and to kill the beast.
@@ -40,11 +43,11 @@
 - They would convey all this to their leader, but could not allow them to enter the castle due to Magma's banishment. The provided a small camp for them to stay in outside the castle overnight and sold some supplies and rations to the party. Geog notably bought some dragon forage plate which had fire resistance properties and Jatumal bough dragon forged chain
 - Overnight the party took turns taking watch. On Jatumal's shift he gambled with Gunther and Lando, but in the middle of this was taken by surprise by a snake. He managed to knock it away and Gunther chopped off its head. He was impressed with himself
 - Jatumal found out that Gunther and Lando had been teaching each other words from their languages. They had each claimed to teach each other how to say hello, but Lando had actually taught Gunther to swear
-- Before leaving the Dragi supplied the party with a map to The Tomb of the Elephant King, but warned they had sent many there before and none had returned
-- The party continued their journey north and slowly the rocky crags were replaced by the green sand dunes of The Emerald Desert. Along their way into the desert they came across a band of hobgoblins who had the same banners as the hobgoblins from Stonehaven. The hobgoblins drew their weapons upon seeing the part, but when Maia spoke to them in goblin they lowered their weapons
+- Before leaving the Dragi supplied the party with a map to the Tomb of the Elephant King, but warned they had sent many there before and none had returned
+- The party continued their journey north and slowly the rocky crags were replaced by the green sand dunes of the Emerald Desert. Along their way into the desert they came across a band of hobgoblins who had the same banners as the hobgoblins from Stonehaven. The hobgoblins drew their weapons upon seeing the part, but when Maia spoke to them in goblin they lowered their weapons
 - The hobgoblins were on their way to Stonehell/Stonehaven to meet up with the rest of the hobgoblins who had been a scouting force to set up a base there. They were planning to use it as a base to raid the towns in Elbon. Geog and Maia suggested that this wouldn't be profitable and that they could give the hobgoblins all of their desires if they worked for them. They told them to go and work for the goblins in Stonehaven and said they would be called to fight the tarrasque. Jatumal used his charm ring on the lead hobgoblin and he agreed although they weren't entirely happy the goblins rather than hobgoblins were in charge in Stonehaven
 - Geog gave one of the hobgoblins his ring of cleaning and said that it might be helpful in Stonehaven
-- Soon they were in the desert proper. Maia wrapped herself up carefully to protect against her light sensitivity and they continued their march to The Tomb of the Elephant King.
+- Soon they were in the desert proper. Maia wrapped herself up carefully to protect against her light sensitivity and they continued their march to the Tomb of the Elephant King.
 ##### XP
 750 xp = 50 x Hobgoblin
 50 xp = Mountain Lion
