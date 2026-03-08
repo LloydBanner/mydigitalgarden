@@ -3,7 +3,7 @@
 ---
 
 # Home
-Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software engineer, but also like to pursue different projects in my free time. This is my little corner of the internet which I will use to share things I have made, reviews, and other things I think are cool or interesting. I'm going to try to keep this site a positive place as I think there is too much negativity around these days.
+Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software engineer, but also like to pursue different projects in my free time. This is my little corner of the internet which I will use to share things I have made, reviews, and other things I think are cool or interesting. I'm going to try to keep this site a positive place as I think there is too much negativity around these days. 
 
 If you want to contact me, about this website or anything else, comments are now active on most pages on this site or you can use contact@lloydbanner.com.
 
