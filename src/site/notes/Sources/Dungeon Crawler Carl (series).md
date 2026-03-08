@@ -11,10 +11,7 @@ A man. His ex-girlfriend's cat. A sadistic game show unlike anything in the univ
 - [[Sources/The Gate of the Feral Gods\|The Gate of the Feral Gods]]
 - [[Sources/The Dungeon Anarchist's Cookbook\|The Dungeon Anarchist's Cookbook]]
 - [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]
-- [[The Eye of the Bedlam Bride\|The Eye of the Bedlam Bride]]
-- [[This Inevitable Ruin\|This Inevitable Ruin]]
-- [[Sources/Carl's Doomsday Scenario.sync-conflict-20260307-122335-XDJHJKG\|Carl's Doomsday Scenario.sync-conflict-20260307-122335-XDJHJKG]]
-- [[Sources/The Gate of the Feral Gods.sync-conflict-20260307-122333-XDJHJKG\|The Gate of the Feral Gods.sync-conflict-20260307-122333-XDJHJKG]]
-- [[Sources/The Dungeon Anarchist's Cookbook.sync-conflict-20260307-122334-XDJHJKG\|The Dungeon Anarchist's Cookbook.sync-conflict-20260307-122334-XDJHJKG]]
+- [[Sources/The Eye of the Bedlam Bride\|The Eye of the Bedlam Bride]]
+- [[Sources/This Inevitable Ruin\|This Inevitable Ruin]]
 
 { .block-language-dataview}

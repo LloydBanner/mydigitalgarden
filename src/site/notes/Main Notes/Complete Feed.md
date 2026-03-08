@@ -8,8 +8,8 @@ If you only want to see pages at certain levels of development, which are define
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a Bit of Everything) (Sorted by Last Update)
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 19\|Magic Shop Owners Session 19]]: 08-03-2026
-- [[The Eye of the Bedlam Bride Review\|The Eye of the Bedlam Bride Review]]: 06-03-2026
 - [[Reviews/The Butcher's Masquerade Review\|The Butcher's Masquerade Review]]: 06-03-2026
+- [[Reviews/The Eye of the Bedlam Bride Review\|The Eye of the Bedlam Bride Review]]: 06-03-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 02-03-2026
 - [[Main Notes/Good Words\|Good Words]]: 25-02-2026
 - [[Reviews/Black Mesa Review\|Black Mesa Review]]: 28-01-2026
@@ -19,8 +19,6 @@ If you only want to see pages at certain levels of development, which are define
 - [[Cooking Recipes/Slow Cooked Beef and Red Wine Stew\|Slow Cooked Beef and Red Wine Stew]]: 10-01-2026
 - [[Reviews/Alien Earth Season 1 Review\|Alien Earth Season 1 Review]]: 09-01-2026
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 04-01-2026
-- [[Main Notes/2025 Reading One Book a Month.sync-conflict-20260307-122336-ZEOZD26\|2025 Reading One Book a Month.sync-conflict-20260307-122336-ZEOZD26]]: 04-01-2026
-- [[Main Notes/Good Words.sync-conflict-20260307-122335-XDJHJKG\|Good Words.sync-conflict-20260307-122335-XDJHJKG]]: 28-12-2025
 - [[TTRPG/Random Tables/Fantasy Land Generation Tables\|Fantasy Land Generation Tables]]: 23-12-2025
 - [[TTRPG/Random Tables/Climate and Weather Tables\|Climate and Weather Tables]]: 23-12-2025
 - [[Main Notes/The Best Christmas Films\|The Best Christmas Films]]: 23-12-2025

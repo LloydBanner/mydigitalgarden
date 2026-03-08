@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"17-04-2025","updated":"03-03-2026"}
+{"dg-publish":true,"permalink":"/indexes/home/","tags":["gardenEntry"],"created":"17-04-2025","updated":"08-03-2026"}
 ---
 
 # Home
-Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software engineer, but also like to pursue different projects in my free time. This is my little corner of the internet which I will use to share things I have made, reviews, and other things I think are cool or interesting. I'm going to try to keep this site a positive place as I think there is too much negativity around these days. 
+Welcome to my [[Main Notes/Website\|Website]]! I'm Lloyd. I work as a software engineer, but also like to pursue different projects in my free time. This is my little corner of the internet which I will use to share things I have made, reviews, and other things I think are cool or interesting. I'm going to try to keep this site a positive place as I think there is too much negativity around these days.
 
 If you want to contact me, about this website or anything else, comments are now active on most pages on this site or you can use contact@lloydbanner.com.
 
@@ -23,8 +23,8 @@ If you want to contact me, about this website or anything else, comments are now
  
 **Feed (A Bit of Everything) (Sorted by Last Update)**
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 19\|Magic Shop Owners Session 19]]: 08-03-2026
-- [[The Eye of the Bedlam Bride Review\|The Eye of the Bedlam Bride Review]]: 06-03-2026
 - [[Reviews/The Butcher's Masquerade Review\|The Butcher's Masquerade Review]]: 06-03-2026
+- [[Reviews/The Eye of the Bedlam Bride Review\|The Eye of the Bedlam Bride Review]]: 06-03-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 02-03-2026
 - [[Main Notes/Good Words\|Good Words]]: 25-02-2026
 - [[Reviews/Black Mesa Review\|Black Mesa Review]]: 28-01-2026
@@ -34,8 +34,6 @@ If you want to contact me, about this website or anything else, comments are now
 - [[Cooking Recipes/Slow Cooked Beef and Red Wine Stew\|Slow Cooked Beef and Red Wine Stew]]: 10-01-2026
 - [[Reviews/Alien Earth Season 1 Review\|Alien Earth Season 1 Review]]: 09-01-2026
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 04-01-2026
-- [[Main Notes/2025 Reading One Book a Month.sync-conflict-20260307-122336-ZEOZD26\|2025 Reading One Book a Month.sync-conflict-20260307-122336-ZEOZD26]]: 04-01-2026
-- [[Main Notes/Good Words.sync-conflict-20260307-122335-XDJHJKG\|Good Words.sync-conflict-20260307-122335-XDJHJKG]]: 28-12-2025
 - [[TTRPG/Random Tables/Fantasy Land Generation Tables\|Fantasy Land Generation Tables]]: 23-12-2025
 - [[TTRPG/Random Tables/Climate and Weather Tables\|Climate and Weather Tables]]: 23-12-2025
 - [[Main Notes/The Best Christmas Films\|The Best Christmas Films]]: 23-12-2025
@@ -52,6 +50,8 @@ If you want to contact me, about this website or anything else, comments are now
 - [[Main Notes/My Minecraft Worlds, Maps and Packs\|My Minecraft Worlds, Maps and Packs]]: 15-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 14-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 3\|Magic Shop Owners Session 3]]: 14-12-2025
+- [[Reviews/Carl's Doomsday Scenario Review\|Carl's Doomsday Scenario Review]]: 14-12-2025
+- [[Reviews/Dungeon Crawler Carl Review\|Dungeon Crawler Carl Review]]: 08-12-2025
 
 { .block-language-dataview}
 
