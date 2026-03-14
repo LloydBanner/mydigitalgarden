@@ -3,7 +3,7 @@
 ---
 
 ## Games
-- [[Sources/The Banner Saga\|The Banner Saga]]
 - [[Sources/The Banner Saga 2\|The Banner Saga 2]]
+- [[Sources/The Banner Saga\|The Banner Saga]]
 
 { .block-language-dataview}

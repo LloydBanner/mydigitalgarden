@@ -3,7 +3,7 @@
 ---
 
 ## Games
-- [[Sources/Hades\|Hades]]
 - [[Sources/Hades II\|Hades II]]
+- [[Sources/Hades\|Hades]]
 
 { .block-language-dataview}
