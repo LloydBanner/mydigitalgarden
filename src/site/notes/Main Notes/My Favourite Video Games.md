@@ -14,14 +14,15 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 ## The List
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
+| [[Sources/Resident Evil 2 Remake\|Resident Evil 2 Remake]]                   |
 | [[Sources/Resident Evil 9 - Requiem\|Resident Evil 9 - Requiem]]             |
 | [[Sources/Hitman World of Assassination\|Hitman World of Assassination]]     |
 | [[Sources/Minecraft\|Minecraft]]                                             |
 | [[Sources/PEAK\|PEAK]]                                                       |
-| [[Sources/Hades\|Hades]]                                                     |
 | [[Sources/Hades II\|Hades II]]                                               |
-| [[Sources/The Banner Saga\|The Banner Saga]]                                 |
+| [[Sources/Hades\|Hades]]                                                     |
 | [[Sources/The Banner Saga 2\|The Banner Saga 2]]                             |
+| [[Sources/The Banner Saga\|The Banner Saga]]                                 |
 | [[Sources/Slice & Dice\|Slice & Dice]]                                       |
 | [[Sources/Bloodthief\|Bloodthief]]                                           |
 | [[Sources/Ico\|Ico]]                                                         |

@@ -19,12 +19,12 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 - [[Reviews/The Dungeon Anarchist's Cookbook Review\|The Dungeon Anarchist's Cookbook Review]]: 20-12-2025
 - [[Main Notes/My Minecraft Worlds, Maps and Packs\|My Minecraft Worlds, Maps and Packs]]: 15-12-2025
 - [[z_templates/Template Review\|Template Review]]: 28-11-2025
-- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 28-11-2025
 - [[Sources/PEAK\|PEAK]]: 28-11-2025
 - [[Reviews/Siddhartha Review\|Siddhartha Review]]: 28-11-2025
 - [[Reviews/Old Moon Quarterly Issue 1 Review\|Old Moon Quarterly Issue 1 Review]]: 28-11-2025
-- [[Main Notes/Appendix N\|Appendix N]]: 11-11-2025
+- [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 28-11-2025
 - [[Sources/NotebookLM\|NotebookLM]]: 11-11-2025
+- [[Main Notes/Appendix N\|Appendix N]]: 11-11-2025
 - [[Main Notes/My Favourite Video Games\|My Favourite Video Games]]: 04-10-2025
 - [[Main Notes/Permadeath In Games\|Permadeath In Games]]: 03-09-2025
 - [[Main Notes/My Star Wars Watch Order\|My Star Wars Watch Order]]: 22-06-2025

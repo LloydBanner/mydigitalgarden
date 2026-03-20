@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"24-05-2025","updated":"13-03-2026"}
+{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"24-05-2025","updated":"20-03-2026"}
 ---
 
 A collection of good words for writing that I have discovered. Wanting to write more fantasy, I am collecting them to better describe different situations.
@@ -24,9 +24,10 @@ A collection of good words for writing that I have discovered. Wanting to write 
 - Recalcitrant = Uncooperative, particularly to authority. From [[Sources/The Gate of the Feral Gods\|The Gate of the Feral Gods]]
 - Reticent = Inclined to keep thoughts to oneself. Restrained. From [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]
 - Sedition = Actions or words to cause rebellion. From [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]
-- Gauche = Lacking graced. Crude. Tactless. From [[Sources/The Minstry of Ungentlemanly Warfare\|The Minstry of Ungentlemanly Warfare]]
+- Gauche = Lacking graced. Crude. Tactless. From [[Sources/The Ministry of Ungentlemanly Warfare\|The Ministry of Ungentlemanly Warfare]]
 - Purloined = To steal. From [[Sources/The Hobbit (book)\|The Hobbit]]
 - Requiem = An act or token of remembrance. From [[Sources/Resident Evil 9 - Requiem\|Resident Evil 9 - Requiem]]
+- Prodigal = Spending money or resources recklessly. Extravagant. From [[Sources/Resident Evil 9 - Requiem\|Resident Evil 9 - Requiem]]
 
 ## You May Also Like
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]
@@ -39,3 +40,6 @@ A collection of good words for writing that I have discovered. Wanting to write 
 - [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]
 - [[Sources/The Gate of the Feral Gods\|The Gate of the Feral Gods]]
 - [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]
+- [[Sources/The Ministry of Ungentlemanly Warfare\|The Ministry of Ungentlemanly Warfare]]
+- [[Sources/The Hobbit (book)\|The Hobbit (book)]]
+- [[Sources/Resident Evil 9 - Requiem\|Resident Evil 9 - Requiem]]
