@@ -4,12 +4,13 @@
 
 The unique element of [[Main Notes/Video Games\|video games]] is the interactivity. I tend to enjoy games that have more interactivity and have a greater gameplay focus than story focus. I also mostly play singleplayer games. There are a few things that will really take me out of a game like when control is taken away from the player especially when it is done often so I usually avoid games like this.
 
-## The key things I look for in a game
+## The Key Things I Look for in a Game
 - Player choice or expression
 - Emergent Gameplay and interactivity
 - Easy to Learn but Hard to Master
 - Meaningful Progression
 - Player Agency
+- Fun or Novel Concepts
 
 ## The List
 |                                                                                 |

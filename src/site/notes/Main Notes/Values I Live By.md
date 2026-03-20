@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/values-i-live-by/","tags":["thoughts","feed","developing"],"created":"13-09-2025","updated":"22-12-2025"}
+{"dg-publish":true,"permalink":"/main-notes/values-i-live-by/","tags":["thoughts","feed","developing"],"created":"13-09-2025","updated":"20-03-2026"}
 ---
 
-**Below are some values I try to live by. These are things I believe in and would like to maintain:**
+**Below are some values I try to live by. These are things I believe in and would like to maintain: (Not all of these things I implement as well as I would like)**
+- You don't always need more. There reaches a point where you have enough, you can stop reaching and pushing to get what you need, and you can settle. When you can, do this and use the time gained to pursue what you enjoy
+- Be you. Your life will be most miserable if you are fighting yourself and if you do not accept yourself
 - Don't let other people's opinions stop you from being yourself. You will never be happy if you are not whole. Say what you believe. Do not fear rejection, it is better to be rejected than not know. Talk to people, make eye contact, don't be timid 
 - Solitude is important. You need time to think alone. The answers to your problems are often within if you allow yourself to ruminate on them.
 > [[Sources/Digital Minimalism\|Digital Minimalism]]: Solitude can be banished in even the quietest settings if you allow input from other minds to intrude
@@ -11,8 +13,8 @@
 - Everything ends, don't hold onto things or try to claw them back after they have passed. Equally allow new things to start and make the most of what you do have
 - Live in the moment, what is happening right now is the most important. Embrace it and make the most of it instead of focusing too much on the past or the future 
 - Community, friends, and family should always be respected and supported 
-- Say the dangerous things, they are more interesting. To an extent anyway, I always worried to much before I spoke. Learning to speak out more was valuable to me 
-- You have to earn what you want, people won't hand it too you
+- Say the dangerous things, they are more interesting. To an extent anyway, I always worried too much before I spoke. Learning to speak out more was valuable to me 
+- You have to earn what you want, people won't hand it to you
 - Everything in moderation. Don't get too pulled into one thing. You can end up too focused in one area
 - You need to have good leisure time as well as time working. It is good for your brain
 - Be open to new ideas, approaches, and ways of thinking. You can learn a lot from watching and listening

@@ -4,10 +4,10 @@
 
 Developer: Capcom
 Publisher: Capcom
-Series: [[Sources/Resident Evil\|Resident Evil]]
+Series: [[Sources/Resident Evil (Series)\|Resident Evil (Series)]]
 released: 25-06-2019
 First Played: 01-01-2020
 Last Played: 01-01-2020
 Link: https://store.steampowered.com/agecheck/app/883710/
 
-Another great game in the [[Sources/Resident Evil\|Resident Evil]] series. It has some great organic chase sequences and you get to play as everyone's favourite [[Sources/Resident Evil\|Resident Evil]] character, Leon.
+Another great game in the [[Sources/Resident Evil (Series)\|Resident Evil (Series)]] series. It has some great organic chase sequences and you get to play as everyone's favourite [[Sources/Resident Evil (Series)\|Resident Evil (Series)]] character, Leon.

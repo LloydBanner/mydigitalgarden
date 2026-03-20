@@ -16,11 +16,10 @@ A page to collect all the things I have written. This will include, but is not l
 
 { .block-language-dataview}
 ## Thoughts (Sorted by Last Update)
+- [[Main Notes/Values I Live By\|Values I Live By]]: 20-03-2026
 - [[Main Notes/Good Words\|Good Words]]: 20-03-2026
 - [[Main Notes/Insighting Quotes\|Insighting Quotes]]: 23-12-2025
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 23-12-2025
-- [[Main Notes/Values I Live By\|Values I Live By]]: 22-12-2025
-- [[Main Notes/Notes While Consuming\|Notes While Consuming]]: 22-12-2025
 - [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 22-12-2025
 - [[Main Notes/Media Consumption\|Media Consumption]]: 01-06-2025
 - [[Main Notes/We Need More Optimistic Writing\|We Need More Optimistic Writing]]: 11-05-2025

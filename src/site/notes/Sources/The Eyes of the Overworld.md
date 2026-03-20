@@ -11,7 +11,7 @@ Link: https://www.goodreads.com/book/show/872816.The_Eyes_of_the_Overworld
 
 I really enjoyed this book. After reading [[Sources/The Dying Earth\|The Dying Earth]] I expected it to be another series of short stories and was initially disappointed it was not. Then when I began reading I found this story very compelling, because although Cugel, the main character, was not likeable, he was very interesting. He cared little for anyone but himself and this both got him into and out of increasingly absurd situations. [[Sources/Jack Vance\|Jack Vance]] writes these situations with great whit which had me laughing out loud multiple times, and the payoff at the end felt worthwhile. I also really enjoyed the settings and the idea of such a distant future that magic and technology are practically indistinguishable which caries over from the first book. I highly recommend trying this even if you didn't like the first book.
 
-## [[Main Notes/Notes While Consuming\|Notes While Consuming]]
+## [[Notes While Consuming\|Notes While Consuming]]
 
 **Don't read on if you don't want spoilers**
 

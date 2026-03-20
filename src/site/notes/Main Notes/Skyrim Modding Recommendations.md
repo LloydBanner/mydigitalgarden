@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/skyrim-modding-recommendations/","tags":["elderScrolls","feed","mods","developing"],"created":"20-04-2025","updated":"11-06-2025"}
+{"dg-publish":true,"permalink":"/main-notes/skyrim-modding-recommendations/","tags":["elderScrolls","feed","mods","developing","thoughts","videoGames"],"created":"20-04-2025","updated":"11-06-2025"}
 ---
 
 [[Sources/Skyrim\|Skyrim]] is a game that I come back to every few years though and I like to mix up the experience a bit when I do. This game, along with maybe [[Sources/Minecraft\|Minecraft]], has the greatest modding community I have ever seen. Personally I like to go with [[Main Notes/Lore Friendly\|Lore Friendly]] mods that add to the experience rather than trying to completely change it. I think this is an amazing way to add more to an already great game. 
