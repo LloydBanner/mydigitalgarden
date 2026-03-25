@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/website/","tags":["developing"],"created":"21-04-2025","updated":"03-03-2026"}
+{"dg-publish":true,"permalink":"/main-notes/website/","tags":["developing"],"created":"21-04-2025","updated":"21-03-2026"}
 ---
 
-My website follows the [Digital Garden](https://maggieappleton.com/garden-history/) philosophy. It is a place that is constantly evolving and growing. This allows freer form thinking and learning than traditional blogs. Most pages are not final and will change over time as I learn. On each page there are two timestamps, the first when the page was created, and the second when it was last updated. 
+My website follows the [Digital Garden](https://maggieappleton.com/garden-history/) philosophy. It is a place that is constantly evolving and growing. This allows freer form thinking and learning than traditional blogs. Most pages are not final and will change over time as I learn or change. On each page there are two timestamps, the first when the page was created, and the second when it was last updated. 
 
 On many pages you will find tags at the top. Since many ideas on this website are incomplete I use the tags bellow to signify how well formed my pages are.
 - [[Indexes/Draft\|Draft]] - a fledgling idea, thought, opinion, or whatever else is on the page
