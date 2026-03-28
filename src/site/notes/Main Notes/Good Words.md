@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"24-05-2025","updated":"21-03-2026"}
+{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"24-05-2025","updated":"28-03-2026"}
 ---
 
 A collection of good words for writing that I have discovered. Wanting to write more fantasy, I am collecting them to better describe different situations.
 ## The Words
 - Languid = Relaxed, Having or showing a disinclinations for physical effort or exertion. From [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]
-- Temporized = To act or speak in order to gain time, avoid an argument, or postpone a decision. From [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]
+- Temporized = To act or speak in order to gain time, avoid an argument, or postpone a decision. From [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]] 
 - Behest = A person's orders or command. From [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]] but also seen in other places
 - Cankerous = Canker a destructive fungal disease. From [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]
 - Maledictions = Curses. From [[Sources/The Eyes of the Overworld\|The Eyes of the Overworld]]
@@ -29,6 +29,7 @@ A collection of good words for writing that I have discovered. Wanting to write 
 - Requiem = An act or token of remembrance. From [[Sources/Resident Evil 9 - Requiem\|Resident Evil 9 - Requiem]]
 - Prodigal = Spending money or resources recklessly. Extravagant. From [[Sources/Resident Evil 9 - Requiem\|Resident Evil 9 - Requiem]]
 - Atrophy = Wasting away or declining in effectiveness, usually in regard to the body. From [[Sources/This Inevitable Ruin\|This Inevitable Ruin]]
+- Confusticate - confuse, confound, or perplex someone. From [[Sources/The Hobbit (book)\|The Hobbit]]
 
 ## You May Also Like
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]

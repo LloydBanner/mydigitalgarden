@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/reviews/a-knight-of-the-seven-kingdoms-season-1-review/","tags":["feed","reviews","developing","fantasy"],"created":"28-03-2026","updated":"28-03-2026"}
+---
+
+Written: 28-03-2026
+
+Over the past few weeks I have been watching [[Sources/A Knight of the Seven Kingdoms (TV)\|A Knight of the Seven Kingdoms]] with my parents, and I have enjoyed every minute of it. There's something about the world from [[Sources/Game of Thrones (TV)\|Game of Thrones]] mixed with a much more down to earth and comedic story that just works. Dunk and Egg are both great characters with depth, their goals are not unique from any other story, but their execution is spot on. Dunk has practically no character development, and it just stalwart in his values, but that makes him more lovable. Egg is smarter than Dunk, but also has a lot of respect for this knight with such strong values. The twist with egg I saw coming, but the others I did not and these kept a story with a relatively grounded setting interesting. The houses and politics of [[Sources/Game of Thrones (TV)\|Game of Thrones]] are mentioned in passing, but are not what is important about this story. This is just really a story about a man who wants to be as good and true a knight as he can, even if that may get him in to trouble. I also really like that this is a story that can be enjoyed on its own and doesn't require you to know much about [[Sources/Game of Thrones (TV)\|Game of Thrones]]. I will certainly be watching the next season.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/game-of-thrones-tv/","tags":["TV","sources","fantasy"],"created":"27-04-2025","updated":"24-05-2025"}
 ---
 
-Creators: [[Sources/Benioff and Weiss\|Benioff and Weiss]]
+Creators: [[Sources/Benioff and Weiss\|Benioff and Weiss]],[[Sources/George R. R, Martin\|George R. R, Martin]]
 released: 17-04-2011 - 19-05-2019
 First Watched: 2016
 Last Watched: 2024
