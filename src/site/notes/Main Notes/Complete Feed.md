@@ -9,6 +9,7 @@ If you only want to see pages at certain levels of development, which are define
 ## Feed (a Bit of Everything) (Sorted by Last Update)
 - [[Reviews/A Knight of the Seven Kingdoms Season 1 Review\|A Knight of the Seven Kingdoms Season 1 Review]]: 28-03-2026
 - [[Main Notes/Good Words\|Good Words]]: 28-03-2026
+- [[Reviews/Spec Ops - The Line Review\|Spec Ops - The Line Review]]: 28-03-2026
 - [[Main Notes/Values I Live By\|Values I Live By]]: 20-03-2026
 - [[Main Notes/Recommended Mario Maker 2 Levels\|Recommended Mario Maker 2 Levels]]: 20-03-2026
 - [[Reviews/Resident Evil 9 - Requiem Review\|Resident Evil 9 - Requiem Review]]: 14-03-2026

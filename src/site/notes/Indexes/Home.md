@@ -24,6 +24,7 @@ If you want to contact me, about this website or anything else, comments are now
 **Feed (A Bit of Everything) (Sorted by Last Update)**
 - [[Reviews/A Knight of the Seven Kingdoms Season 1 Review\|A Knight of the Seven Kingdoms Season 1 Review]]: 28-03-2026
 - [[Main Notes/Good Words\|Good Words]]: 28-03-2026
+- [[Reviews/Spec Ops - The Line Review\|Spec Ops - The Line Review]]: 28-03-2026
 - [[Main Notes/Values I Live By\|Values I Live By]]: 20-03-2026
 - [[Main Notes/Recommended Mario Maker 2 Levels\|Recommended Mario Maker 2 Levels]]: 20-03-2026
 - [[Reviews/Resident Evil 9 - Requiem Review\|Resident Evil 9 - Requiem Review]]: 14-03-2026
@@ -51,7 +52,6 @@ If you want to contact me, about this website or anything else, comments are now
 - [[Main Notes/A Curse Upon Mistrun\|A Curse Upon Mistrun]]: 22-12-2025
 - [[Reviews/The Dungeon Anarchist's Cookbook Review\|The Dungeon Anarchist's Cookbook Review]]: 20-12-2025
 - [[Main Notes/My Minecraft Worlds, Maps and Packs\|My Minecraft Worlds, Maps and Packs]]: 15-12-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 4\|Magic Shop Owners Session 4]]: 14-12-2025
 
 { .block-language-dataview}
 
