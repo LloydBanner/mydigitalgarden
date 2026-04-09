@@ -9,7 +9,7 @@ First Played: 23-07-2025
 Last Played: 23-07-2025
 Link: https://store.steampowered.com/app/2310/Quake/
 
-I started playing this after watching the Bloodthief dev logs from [Blargis](https://m.youtube.com/@Blargis3d). I had never played the game until 2025 but my dad had always said it was good and it looked well made. It holds up incredibly well for a 30 year old game, although I have been playing the updated version.
+I started playing this after watching the [[Sources/Bloodthief\|Bloodthief]] dev logs from [Blargis](https://m.youtube.com/@Blargis3d). I had never played the game until 2025 but my dad had always said it was good and it looked well made. It holds up incredibly well for a 30 year old game, although I have been playing the updated version.
 
 The movement is incredibly smooth, the enemy placement keeps you moving and keeps things reasonably fast paced, weapon and enemy variety is great, levels wrap around on themselves and are consistently well designed. All in all a great game. I only really got into it after playing the first episode of the base game though. I think it took a little time to get into the flow of things.
 

@@ -17,6 +17,9 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | ------------------------------------------------------------------------------- |
 | [[Sources/Resident Evil 2 Remake\|Resident Evil 2 Remake]]                   |
 | [[Sources/Resident Evil 9 - Requiem\|Resident Evil 9 - Requiem]]             |
+| [[Sources/Bioshock\|Bioshock]]                                               |
+| [[Sources/Skyrim\|Skyrim]]                                                   |
+| [[Sources/XCOM 2\|XCOM 2]]                                                   |
 | [[Sources/Hitman World of Assassination\|Hitman World of Assassination]]     |
 | [[Sources/Minecraft\|Minecraft]]                                             |
 | [[Sources/PEAK\|PEAK]]                                                       |
@@ -31,7 +34,6 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Into the Breach\|Into the Breach]]                                 |
 | [[Sources/Plants Vs Zombies\|Plants Vs Zombies]]                             |
 | [[Sources/Oblivion\|Oblivion]]                                               |
-| [[Sources/Bioshock\|Bioshock]]                                               |
 | [[Sources/Blade and Sorcery\|Blade and Sorcery]]                             |
 | [[Sources/Celeste\|Celeste]]                                                 |
 | [[Sources/Dark Souls\|Dark Souls]]                                           |
@@ -53,9 +55,7 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Mount and Blade Bannerlord\|Mount and Blade Bannerlord]]           |
 | [[Sources/Mount and Blade Warband\|Mount and Blade Warband]]                 |
 | [[Sources/Prey (2017)\|Prey (2017)]]                                         |
-| [[Sources/Skyrim\|Skyrim]]                                                   |
 | [[Sources/Star Wars Battlefront II (2005)\|Star Wars Battlefront II (2005)]] |
-| [[Sources/XCOM 2\|XCOM 2]]                                                   |
 | [[Sources/XCOM\|XCOM]]                                                       |
 
 { .block-language-dataview}
