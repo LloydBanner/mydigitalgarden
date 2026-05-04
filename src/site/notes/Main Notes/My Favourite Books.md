@@ -5,6 +5,7 @@
 **The List:**
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/This Inevitable Ruin\|This Inevitable Ruin]]                                                                                       |
 | [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]                                                                               |
 | [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]                                                                               |
 | [[Sources/The Dungeon Anarchist's Cookbook\|The Dungeon Anarchist's Cookbook]]                                                               |
@@ -43,8 +44,8 @@
 | [[Sources/The Hobbit (book)\|The Hobbit (book)]]                                                                                             |
 | [[Sources/The Prince\|The Prince]]                                                                                                           |
 | [[Sources/The Return of the King (book)\|The Return of the King (book)]]                                                                     |
-| [[Sources/The Two Towers (book)\|The Two Towers (book)]]                                                                                     |
 | [[Sources/The Tombs of Atuan\|The Tombs of Atuan]]                                                                                           |
+| [[Sources/The Two Towers (book)\|The Two Towers (book)]]                                                                                     |
 | [[Sources/The Ultimate Hitchhiker’s Guide to the Galaxy\|The Ultimate Hitchhiker’s Guide to the Galaxy]]                                     |
 | [[Sources/The Way of Kings\|The Way of Kings]]                                                                                               |
 | [[Sources/The Well of Ascension\|The Well of Ascension]]                                                                                     |

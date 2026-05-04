@@ -5,6 +5,12 @@
 **The List:**
 |                                                                                             |
 | ------------------------------------------------------------------------------------------- |
+| [[Sources/2001 A Space Odyssey\|2001 A Space Odyssey]]                                   |
+| [[Sources/District 9\|District 9]]                                                       |
+| [[Sources/Moon\|Moon]]                                                                   |
+| [[Sources/Upgrade\|Upgrade]]                                                             |
+| [[Sources/What We Do In The Shadows\|What We Do In The Shadows]]                         |
+| [[Sources/Project Hail Mary\|Project Hail Mary]]                                         |
 | [[Sources/Knives Out\|Knives Out]]                                                       |
 | [[Sources/The Ministry of Ungentlemanly Warfare\|The Ministry of Ungentlemanly Warfare]] |
 | [[Sources/28 Days Later\|28 Days Later]]                                                 |

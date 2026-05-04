@@ -22,10 +22,14 @@ If you want to contact me, about this website or anything else, comments are now
 - [[Main Notes/Films\|Films]]
  
 **Feed (A Bit of Everything) (Sorted by Last Update)**
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 20\|Magic Shop Owners Session 20]]: 04-05-2026
+- [[Does Adventure Have To Involve Combat\|Does Adventure Have To Involve Combat]]: 03-05-2026
+- [[Main Notes/Good Words\|Good Words]]: 23-04-2026
+- [[Reviews/This Inevitable Ruin Review\|This Inevitable Ruin Review]]: 20-04-2026
+- [[Reviews/Project Hail Mary Review\|Project Hail Mary Review]]: 20-04-2026
 - [[Reviews/Blue Prince Review\|Blue Prince Review]]: 29-03-2026
 - [[Reviews/Spec Ops - The Line Review\|Spec Ops - The Line Review]]: 28-03-2026
 - [[Reviews/A Knight of the Seven Kingdoms Season 1 Review\|A Knight of the Seven Kingdoms Season 1 Review]]: 28-03-2026
-- [[Main Notes/Good Words\|Good Words]]: 28-03-2026
 - [[Main Notes/Values I Live By\|Values I Live By]]: 20-03-2026
 - [[Main Notes/Recommended Mario Maker 2 Levels\|Recommended Mario Maker 2 Levels]]: 20-03-2026
 - [[Reviews/Resident Evil 9 - Requiem Review\|Resident Evil 9 - Requiem Review]]: 14-03-2026
@@ -48,10 +52,6 @@ If you want to contact me, about this website or anything else, comments are now
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 22-12-2025
 - [[Main Notes/My Favourite Films\|My Favourite Films]]: 22-12-2025
 - [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 22-12-2025
-- [[Main Notes/Life is Better this Way\|Life is Better this Way]]: 22-12-2025
-- [[Main Notes/Crumbling World\|Crumbling World]]: 22-12-2025
-- [[Main Notes/A Curse Upon Mistrun\|A Curse Upon Mistrun]]: 22-12-2025
-- [[Reviews/The Dungeon Anarchist's Cookbook Review\|The Dungeon Anarchist's Cookbook Review]]: 20-12-2025
 
 { .block-language-dataview}
 

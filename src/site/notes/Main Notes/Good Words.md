@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"24-05-2025","updated":"28-03-2026"}
+{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"24-05-2025","updated":"23-04-2026"}
 ---
 
 A collection of good words for writing that I have discovered. Wanting to write more fantasy, I am collecting them to better describe different situations.
@@ -32,6 +32,10 @@ A collection of good words for writing that I have discovered. Wanting to write 
 - Confusticate - confuse, confound, or perplex someone. From [[Sources/The Hobbit (book)\|The Hobbit]]
 - Tomnoddy - A fool, a dunce, a noddy. From [[Sources/The Hobbit (book)\|The Hobbit]]
 - Attercop - Spider or a peevish ill-natured person. From [[Sources/The Hobbit (book)\|The Hobbit]]
+- Spoor - The track or scent of an animal. From [[Nine Princes in Amber\|Nine Princes in Amber]]
+- Rakish - Having or displaying a dashing, jaunty, or disreputable quality - From [[Nine Princes in Amber\|Nine Princes in Amber]]
+- Fink - contemptible, unpleasant person - From [[Nine Princes in Amber\|Nine Princes in Amber]]
+- Impetuosity - Doing something quickly without thought or care - From [[Nine Princes in Amber\|Nine Princes in Amber]]
 
 ## You May Also Like
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]

@@ -7,10 +7,14 @@ If you only want to see pages at certain levels of development, which are define
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a Bit of Everything) (Sorted by Last Update)
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 20\|Magic Shop Owners Session 20]]: 04-05-2026
+- [[Does Adventure Have To Involve Combat\|Does Adventure Have To Involve Combat]]: 03-05-2026
+- [[Main Notes/Good Words\|Good Words]]: 23-04-2026
+- [[Reviews/This Inevitable Ruin Review\|This Inevitable Ruin Review]]: 20-04-2026
+- [[Reviews/Project Hail Mary Review\|Project Hail Mary Review]]: 20-04-2026
 - [[Reviews/Blue Prince Review\|Blue Prince Review]]: 29-03-2026
 - [[Reviews/Spec Ops - The Line Review\|Spec Ops - The Line Review]]: 28-03-2026
 - [[Reviews/A Knight of the Seven Kingdoms Season 1 Review\|A Knight of the Seven Kingdoms Season 1 Review]]: 28-03-2026
-- [[Main Notes/Good Words\|Good Words]]: 28-03-2026
 - [[Main Notes/Values I Live By\|Values I Live By]]: 20-03-2026
 - [[Main Notes/Recommended Mario Maker 2 Levels\|Recommended Mario Maker 2 Levels]]: 20-03-2026
 - [[Reviews/Resident Evil 9 - Requiem Review\|Resident Evil 9 - Requiem Review]]: 14-03-2026
@@ -50,12 +54,12 @@ If you only want to see pages at certain levels of development, which are define
 - [[Reviews/The Banner Saga 2 Review 2018\|The Banner Saga 2 Review 2018]]: 22-11-2025
 - [[Main Notes/My OSE Monsters\|My OSE Monsters]]: 22-11-2025
 - [[Main Notes/My OSE Magic Items\|My OSE Magic Items]]: 22-11-2025
-- [[Sources/NotebookLM\|NotebookLM]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 8\|Magic Shop Owners Session 8]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 16\|Magic Shop Owners Session 16]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 12\|Magic Shop Owners Session 12]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 11-11-2025
+- [[Sources/NotebookLM\|NotebookLM]]: 11-11-2025
 - [[Main Notes/Appendix N\|Appendix N]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|Magic Shop Owners Session 14]]: 09-11-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 3\|Cursed Ones Session 3]]: 09-11-2025
@@ -102,9 +106,9 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/The Battle of Scarif is a Fun Alternate Way to Watch Rogue One\|The Battle of Scarif is a Fun Alternate Way to Watch Rogue One]]: 22-04-2025
 - [[Main Notes/Morrowind's Biggest Mods\|Morrowind's Biggest Mods]]: 22-04-2025
 - [[Main Notes/Getting into Morrowind\|Getting into Morrowind]]: 22-04-2025
-- [[Main Notes/Elden Ring Review\|Elden Ring Review]]: 22-04-2025
 - [[Main Notes/Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game\|Elder Kings II Converts Crusader Kings III into an Elder Scrolls Game]]: 22-04-2025
 - [[Main Notes/Elden Ring Shadow of The Erdtree Review\|Elden Ring Shadow of The Erdtree Review]]: 22-04-2025
+- [[Main Notes/Elden Ring Review\|Elden Ring Review]]: 22-04-2025
 - [[Main Notes/Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 22-04-2025
 - [[Main Notes/Blade and Sorcery is the Best VR Star Wars Game\|Blade and Sorcery is the Best VR Star Wars Game]]: 22-04-2025
 - [[Main Notes/Zombie Game\|Zombie Game]]: 21-04-2025

@@ -8,9 +8,9 @@ Director Ridley Scott was born on November 30, 1937 in South Shields, Tyne and W
 
 { .block-language-dataview}
 ## Films
+- [[Sources/Gladiator\|Gladiator]]
 - [[Sources/Gladiator 2\|Gladiator 2]]
 - [[Sources/Blade Runner\|Blade Runner]]
-- [[Sources/Gladiator\|Gladiator]]
 
 { .block-language-dataview}
 ## TV Shows

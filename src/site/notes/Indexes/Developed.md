@@ -6,6 +6,9 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Developed Feed (Sorted by Last Update)
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 20\|Magic Shop Owners Session 20]]: 04-05-2026
+- [[Reviews/This Inevitable Ruin Review\|This Inevitable Ruin Review]]: 20-04-2026
+- [[Reviews/Project Hail Mary Review\|Project Hail Mary Review]]: 20-04-2026
 - [[Reviews/Blue Prince Review\|Blue Prince Review]]: 29-03-2026
 - [[Reviews/Spec Ops - The Line Review\|Spec Ops - The Line Review]]: 28-03-2026
 - [[Reviews/Resident Evil 9 - Requiem Review\|Resident Evil 9 - Requiem Review]]: 14-03-2026

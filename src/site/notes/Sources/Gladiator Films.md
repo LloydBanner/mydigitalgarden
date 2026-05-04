@@ -4,7 +4,7 @@
 
 Directors: [[Sources/Ridley Scott\|Ridley Scott]]
 ## Films
-- [[Sources/Gladiator\|Gladiator]]
 - [[Sources/Gladiator 2\|Gladiator 2]]
+- [[Sources/Gladiator\|Gladiator]]
 
 { .block-language-dataview}
