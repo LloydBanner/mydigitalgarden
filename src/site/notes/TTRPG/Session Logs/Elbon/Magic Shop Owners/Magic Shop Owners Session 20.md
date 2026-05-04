@@ -67,9 +67,7 @@
 ![Infamous Wheel Trap.png](/img/user/z_assets/TTRPG/Place%20Pictures/Emerald%20Desert/Tomb%20of%20The%20Elephant%20King/Infamous%20Wheel%20Trap.png)
 - A huge cylinder began rolling down a slope towards them, there were alcoves with barrels on either side of them and a trench in the middle of the slope. One of the other adventurers dived into the trench while everyone else tried to scramble over the barrels following Jatumal.
 - Two adventures did not make it over the barrels and were crushed by the cylinder. Another smaller cylinder rolled down the trench crushing the adventurer who had dived there. The cylinder also broke many of the barrels which released floods of acid into the room. The party found a door in the alcove but it was stuck. Everyone battered against it until it swung open. They fell in and Geog slammed the door behind them. They could hear the acid bubbling on the other side, but it did not come through.
-- The air in the room was stale, it was filled with rotten cloth and crates of grain. The party realised that they may have been under prepared for this.
-
-[[TTRPG/Elbon Setting/Parties/Magic Shop Owners/Magic Shop Owners Session 20 Plan\|Magic Shop Owners Session 20 Plan]]
+- The air in the room was stale, it was filled with rotten cloth and crates of grain. The party realised that they may have been underprepared for this.
 
 ##### XP
 650 xp = Sand Elemental
