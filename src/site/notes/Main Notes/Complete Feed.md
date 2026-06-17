@@ -7,8 +7,8 @@ If you only want to see pages at certain levels of development, which are define
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a Bit of Everything) (Sorted by Last Update)
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 21\|Magic Shop Owners Session 21]]: 17-06-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 20\|Magic Shop Owners Session 20]]: 17-06-2026
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 21\|Magic Shop Owners Session 21]]: 17-06-2026
 - [[Main Notes/Good Words\|Good Words]]: 19-05-2026
 - [[Reviews/This Inevitable Ruin Review\|This Inevitable Ruin Review]]: 20-04-2026
 - [[Reviews/Project Hail Mary Review\|Project Hail Mary Review]]: 20-04-2026
