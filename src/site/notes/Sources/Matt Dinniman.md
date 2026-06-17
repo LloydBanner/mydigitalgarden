@@ -8,6 +8,7 @@
 
 { .block-language-dataview}
 ## Books
+- [[Sources/A Parade of Horribles\|A Parade of Horribles]]
 - [[Sources/This Inevitable Ruin\|This Inevitable Ruin]]
 - [[Sources/The Eye of the Bedlam Bride\|The Eye of the Bedlam Bride]]
 - [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]

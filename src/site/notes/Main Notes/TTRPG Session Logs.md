@@ -7,6 +7,7 @@ Session logs from my [[Main Notes/TTRPG\|TTRPG]] games.
 [[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Elbon Calendar]]
 
 **Session Logs Elbon Campaign Setting (Sorted by Session Date)**
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 21\|Magic Shop Owners Session 21]]: 31-05-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 20\|Magic Shop Owners Session 20]]: 26-04-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 19\|Magic Shop Owners Session 19]]: 07-03-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 13-01-2026

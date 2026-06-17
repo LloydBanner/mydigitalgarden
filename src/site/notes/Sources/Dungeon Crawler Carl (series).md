@@ -13,5 +13,6 @@ A man. His ex-girlfriend's cat. A sadistic game show unlike anything in the univ
 - [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]
 - [[Sources/The Eye of the Bedlam Bride\|The Eye of the Bedlam Bride]]
 - [[Sources/This Inevitable Ruin\|This Inevitable Ruin]]
+- [[Sources/A Parade of Horribles\|A Parade of Horribles]]
 
 { .block-language-dataview}

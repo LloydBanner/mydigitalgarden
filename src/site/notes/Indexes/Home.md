@@ -22,9 +22,9 @@ If you want to contact me, about this website or anything else, comments are now
 - [[Main Notes/Films\|Films]]
  
 **Feed (A Bit of Everything) (Sorted by Last Update)**
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 21\|Magic Shop Owners Session 21]]: 17-06-2026
+- [[Main Notes/Good Words\|Good Words]]: 19-05-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 20\|Magic Shop Owners Session 20]]: 04-05-2026
-- [[Does Adventure Have To Involve Combat\|Does Adventure Have To Involve Combat]]: 03-05-2026
-- [[Main Notes/Good Words\|Good Words]]: 23-04-2026
 - [[Reviews/This Inevitable Ruin Review\|This Inevitable Ruin Review]]: 20-04-2026
 - [[Reviews/Project Hail Mary Review\|Project Hail Mary Review]]: 20-04-2026
 - [[Reviews/Blue Prince Review\|Blue Prince Review]]: 29-03-2026
