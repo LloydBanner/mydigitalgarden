@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-20/","tags":["feed","elbonLogs","developed"],"created":"26-04-2026","updated":"04-05-2026"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-20/","tags":["feed","elbonLogs","developed"],"created":"26-04-2026","updated":"17-06-2026"}
 ---
 
 ## Session Notes
@@ -8,6 +8,7 @@
 
 [AI Podcast Overview](https://drive.google.com/file/d/1UQ2hgWLa1uMMPWVsIU0HzUTyKUw_w2K9/view?usp=drive_link) (From [[Sources/NotebookLM\|NotebookLM]])
 ### Travelling to Neverwell
+**Emerald Desert Map:**
 ![Emerald Desert.png](/img/user/z_assets/TTRPG/Place%20Pictures/Emerald%20Desert/Emerald%20Desert.png)
 - The rest of the party were tired and stayed in the Sarzan painting while Geog, Breadwig and Jatumal ventured into the Emerald Desert
 - Following their map that they had gotten from the Dragi Castle they headed towards Neverwell, the town in the centre of the desert. Notably on the map there was a dotted line from Neverwell to the Tomb of the Elephant king that circled around the tomb and approached it from the east. There was also a riddle that read: "When light is first born, it must be shone, the Elephant King upon."
@@ -64,6 +65,7 @@
 - Geog used his sword to direct the sunlight and the fuzziness at the edge of the image faded
 - They sent the rogue from the group of adventurers forward first. He said the coast was clear and they all cautiously made their way toward the great gates of the tomb
 - The rogue opened the door and stepped inside, he said he could not see any traps and the others began to follow. At this moment Jatumal remembered the book of trap schematics and quickly flicked to a page. He was fortunate to find a diagram of the trap they had just walked into allowing him to see an escape. The door slammed shut behind them.
+**Infamous Wheel Trap (Grimtooth):**
 ![Infamous Wheel Trap.png](/img/user/z_assets/TTRPG/Place%20Pictures/Emerald%20Desert/Tomb%20of%20The%20Elephant%20King/Infamous%20Wheel%20Trap.png)
 - A huge cylinder began rolling down a slope towards them, there were alcoves with barrels on either side of them and a trench in the middle of the slope. One of the other adventurers dived into the trench while everyone else tried to scramble over the barrels following Jatumal.
 - Two adventures did not make it over the barrels and were crushed by the cylinder. Another smaller cylinder rolled down the trench crushing the adventurer who had dived there. The cylinder also broke many of the barrels which released floods of acid into the room. The party found a door in the alcove but it was stuck. Everyone battered against it until it swung open. They fell in and Geog slammed the door behind them. They could hear the acid bubbling on the other side, but it did not come through.

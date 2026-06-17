@@ -8,6 +8,7 @@
 
 [AI Podcast Overview](https://drive.google.com/file/d/1X2i4-PLT6MwHo595DrESuRoFMvGo6jYn/view?usp=drive_link) (From [[Sources/NotebookLM\|NotebookLM]])
 ### The Tomb
+**Where the Adventurers Explored in the Tomb:**
 ![ElephantkingExploration.jpeg](/img/user/z_assets/TTRPG/Place%20Pictures/Emerald%20Desert/ElephantkingExploration.jpeg)
 - The party got their bearings within the stale storeroom of the Tomb of the Elephant King
 - The other came out of the painting
@@ -20,11 +21,13 @@
 - They cautiously approached, but Maia recognised what this trap might be from the trap book. There was an invisible wall on the other side of the pit if she was right.
 - Breadwig poked across with his ten foot pole and felt resistance from the invisible wall.
 - Everyone began searching for a way to disable it. Magma found a button and there was a slight shimmering where the wall was that slowly faded
+**Hop Skip Jump Trap (Grimtooth):**
 ![hop skip jump.png](/img/user/z_assets/TTRPG/Place%20Pictures/Emerald%20Desert/Tomb%20of%20The%20Elephant%20King/hop%20skip%20jump.png)
 - Maia flew across with her levitation boots without issue and then took everyone across one by one
 - They eventually reach a room at the end of the sandstone corridor that was open and covered with murals depicting the life of the elephant king. This room had many doors and some stairs that lead down to the lower floor
 - Maia was cautious of the stairs after seeing a trap that would activate if someone stood on a false step and snare them in the trap book.
 - She warned the others and they tapped the stairs in front of them, identifying, and avoiding the trapped step
+**Stair Snare Trap**
 ![Stair snare.png](/img/user/z_assets/TTRPG/Place%20Pictures/Emerald%20Desert/Tomb%20of%20The%20Elephant%20King/Stair%20snare.png)
 - As they made their way down though the ceiling of the upper floor began pouring heaps of sand
 - Acting quickly Magma used his dragonborn fire breath and turned the glass to sand blocking the hole it had flooded from
@@ -73,6 +76,8 @@
 - They then went down the ramp, pushed the rolling trap out of the way, lifted the door and exited the tomb to find themselves on an island. They were completely surrounded by water. It seemed the djinni may have overcompensated 
 - Fortunately the party had the Kraken. Jatumal pulled it out and everyone hoped on
 - They sailed to where Neverwell had been, bit having been in a quarry it was completely submerged. They saved the survivors they could who were floating on debris from the town, managing to get around 100 people onto the boat and the made their way south back to the Rocky Slopes
+**The Full Map of the Tomb**
+![ElephantKingWithAnnotations.png](/img/user/z_assets/TTRPG/Place%20Pictures/Emerald%20Desert/ElephantKingWithAnnotations.png)
 ##### XP
 30000 xp = Treasure
 4600 xp = 2 x Stone Golem
