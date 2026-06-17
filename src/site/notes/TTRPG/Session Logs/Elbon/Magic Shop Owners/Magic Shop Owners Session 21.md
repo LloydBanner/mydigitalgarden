@@ -6,7 +6,7 @@
 
 **[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 40-3-596 - 42-3-596
 
-[AI Podcast Overview](https://drive.google.com/file/d/1UQ2hgWLa1uMMPWVsIU0HzUTyKUw_w2K9/view?usp=drive_link) (From [[Sources/NotebookLM\|NotebookLM]])
+[AI Podcast Overview](https://drive.google.com/file/d/1X2i4-PLT6MwHo595DrESuRoFMvGo6jYn/view?usp=drive_link) (From [[Sources/NotebookLM\|NotebookLM]])
 ### The Tomb
 ![ElephantkingExploration.jpeg](/img/user/z_assets/TTRPG/Place%20Pictures/Emerald%20Desert/ElephantkingExploration.jpeg)
 - The party got their bearings within the stale storeroom of the Tomb of the Elephant King
