@@ -22,6 +22,7 @@ If you want to contact me, about this website or anything else, comments are now
 - [[Main Notes/Films\|Films]]
  
 **Feed (A Bit of Everything) (Sorted by Last Update)**
+- [[A Parade of Horribles Review\|A Parade of Horribles Review]]: 18-06-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 20\|Magic Shop Owners Session 20]]: 17-06-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 21\|Magic Shop Owners Session 21]]: 17-06-2026
 - [[Main Notes/Good Words\|Good Words]]: 19-05-2026
@@ -51,7 +52,6 @@ If you want to contact me, about this website or anything else, comments are now
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 23-12-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 22-12-2025
 - [[Main Notes/My Favourite Films\|My Favourite Films]]: 22-12-2025
-- [[Main Notes/Maybe You Don't Always Need a Goal\|Maybe You Don't Always Need a Goal]]: 22-12-2025
 
 { .block-language-dataview}
 

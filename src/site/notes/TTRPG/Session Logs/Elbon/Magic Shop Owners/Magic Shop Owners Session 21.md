@@ -18,9 +18,9 @@
 - No traps were triggered and many other corridors were revealed
 - They decided to take the first corridor on the right
 - They walked for a long way before seeing a glow in the distance. It appeared to be a pit filled with lava
-- They cautiously approached, but Maia recognised what this trap might be from the trap book. There was an invisible wall on the other side of the pit if she was right.
+- They cautiously approached, but Maia recognised what this trap might be from the trap book. There was an invisible wall on the other side of the pit if she was right
 - Breadwig poked across with his ten foot pole and felt resistance from the invisible wall.
-- Everyone began searching for a way to disable it. Magma found a button and there was a slight shimmering where the wall was that slowly faded
+- Everyone began searching for a way to disable it. Magma found a button and there was a slight shimmering where the wall was that slowly faded 
 **Hop Skip Jump Trap (Grimtooth):**
 ![hop skip jump.png](/img/user/z_assets/TTRPG/Place%20Pictures/Emerald%20Desert/Tomb%20of%20The%20Elephant%20King/hop%20skip%20jump.png)
 - Maia flew across with her levitation boots without issue and then took everyone across one by one
