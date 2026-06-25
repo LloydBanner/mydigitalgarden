@@ -13,4 +13,4 @@ Link: https://www.goodreads.com/book/show/228928465-a-parade-of-horribles
 
 As chaos and mass panic spread outside the dungeon in the wake of Faction Wars, Carl and Donut find themselves on the tenth floor, where they’re forced to compete in a surprisingly normal set of tasks. Well, normal for the dungeon.
 
-[[A Parade of Horribles Review\|A Parade of Horribles Review]]
+[[Reviews/A Parade of Horribles Review\|A Parade of Horribles Review]]

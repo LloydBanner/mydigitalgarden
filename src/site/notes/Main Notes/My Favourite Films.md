@@ -37,8 +37,8 @@
 | [[Sources/The Holdovers\|The Holdovers]]                                                 |
 | [[Sources/The Muppets Christmas Carol\|The Muppets Christmas Carol]]                     |
 | [[Sources/The Snowman\|The Snowman]]                                                     |
-| [[Sources/Toy Story 3\|Toy Story 3]]                                                     |
 | [[Sources/Toy Story 2\|Toy Story 2]]                                                     |
+| [[Sources/Toy Story 3\|Toy Story 3]]                                                     |
 | [[Sources/All Quiet on the Western Front\|All Quiet on the Western Front]]               |
 | [[Sources/Django Unchained\|Django Unchained]]                                           |
 | [[Sources/Dune - Part One\|Dune - Part One]]                                             |

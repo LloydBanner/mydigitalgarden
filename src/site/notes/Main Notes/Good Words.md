@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"24-05-2025","updated":"19-05-2026"}
+{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"24-05-2025","updated":"18-06-2026"}
 ---
 
 A collection of good words for writing that I have discovered. Wanting to write more fantasy, I am collecting them to better describe different situations.
@@ -38,6 +38,9 @@ A collection of good words for writing that I have discovered. Wanting to write 
 - Impetuosity - Doing something quickly without thought or care - From [[Sources/Nine Princes in Amber\|Nine Princes in Amber]]
 - Torrid - Hot and dry or hot and passionate - From [[Sources/A Parade of Horribles\|A Parade of Horribles]]
 - Intestate - Not having made a will before dying - From [[Sources/A Parade of Horribles\|A Parade of Horribles]]
+- Caesura - A break between worlds - From [[Light of the Jedi\|Light of the Jedi]]
+- Fermata - A pause of unspecified length - From [[Light of the Jedi\|Light of the Jedi]]
+- Presage - A sign or warning- From [[Light of the Jedi\|Light of the Jedi]]
 
 ## You May Also Like
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]
@@ -54,3 +57,5 @@ A collection of good words for writing that I have discovered. Wanting to write 
 - [[Sources/The Hobbit (book)\|The Hobbit (book)]]
 - [[Sources/Resident Evil 9 - Requiem\|Resident Evil 9 - Requiem]]
 - [[Sources/This Inevitable Ruin\|This Inevitable Ruin]]
+- [[Sources/Nine Princes in Amber\|Nine Princes in Amber]]
+- [[Sources/A Parade of Horribles\|A Parade of Horribles]]

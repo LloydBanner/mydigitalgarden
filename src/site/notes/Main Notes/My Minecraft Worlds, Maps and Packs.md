@@ -2,14 +2,19 @@
 {"dg-publish":true,"permalink":"/main-notes/my-minecraft-worlds-maps-and-packs/","tags":["feed","developing"],"created":"20-04-2025","updated":"15-12-2025"}
 ---
 
+## Singleplayer 2025-2026
+After Finishing up on the modded server I finally got to playing some singleplayer [[Sources/Minecraft\|Minecraft]]. I have been building Stagbrook from my Dungeons and Dragons campaign ([[Main Notes/TTRPG Session Logs\|You can see the session logs here]]). I have also built a few farms such as an enderman xp farm, A bee farm, a moss farm and a mud farm. I have gotten a little bored with the main Stagbrook build though so may move onto something else for a while next time I come back to the world.
+
+[Forever World Download](https://drive.google.com/file/d/1HFQ6qDO-IAsY2y85Ettixh-zon47zmSp/view?usp=drive_link)
 ## Modded Server 1.20.1 (Jan-April 2025)
 So after planning to play some more singleplayer [[Sources/Minecraft\|Minecraft]] I got chatting to some friends and we said we should all play together. After some discussion we decided we should play modded and have made our own [Mod Pack](https://modrinth.com/modpack/packofmods/) it was a lot of fun. We had a nice small set of mods that fit well together. There was a small group of us and having a proximity chat mod made this work really well. Give the pack a go if you are interested, there is also a server version if you want to host your own server. I think the pack is really quite good, it is just a shame the Better Nether and Better End stuff don't work so well with EMI which tells you recipes. I would probably replace these with Incendium and Nullscape if we were to start again.
 
 [Moyds Mods World Download](https://drive.google.com/drive/folders/1BNkjQJgX8qm6alPi1kEkPcqBGLl1W6lO?usp=drive_link) (Named by Mike)
-## Current Singleplayer Plans 2024+
+
+## Singleplayer Plans 2024+
 I found a tool called [MCA Selector](https://github.com/Querz/mcaselector) which can be used to copy or delete chunks. I have copied the biggest survival builds and things I have done from my previous worlds and put them all together. I intend to only play in this world now. My first plan is to travel quite far from my home base and start in an area with new world generation though. Then I want to try and collect all the different items from survival. I won't take my old gear with me and I will avoid certain automatons that feel very powerful like iron farms. Essentially, a fresh start in the same world but I may run into some of my old builds and at some point I can connect back to my main base.
 
-[World After Combination](https://drive.google.com/file/d/1HFQ6qDO-IAsY2y85Ettixh-zon47zmSp/view?usp=drive_link)
+[World After Combination](https://drive.google.com/file/d/1Mx9_SMbFAma8hdfBxfgqX-oUApuaT-dP/view?usp=sharing)
 
 I am having a lot of fun with this so far. I started in version 1.21.4 and I'm really enjoying the new caves/world generation and music some of which is made by Lena Raine the creator of the music for [[Sources/Celeste\|Celeste]]!
 
