@@ -6,6 +6,7 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Developing Feed (Sorted by Last Update)
+- [[Main Notes/Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 27-06-2026
 - [[Reviews/A Parade of Horribles Review\|A Parade of Horribles Review]]: 18-06-2026
 - [[Reviews/A Knight of the Seven Kingdoms Season 1 Review\|A Knight of the Seven Kingdoms Season 1 Review]]: 28-03-2026
 - [[Main Notes/Values I Live By\|Values I Live By]]: 20-03-2026
