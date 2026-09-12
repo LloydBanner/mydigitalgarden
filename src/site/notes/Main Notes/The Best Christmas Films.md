@@ -6,6 +6,6 @@ A list of my favourite Christmas films:
 - [[Sources/Home Alone\|Home Alone]]
 - [[Sources/The Holdovers\|The Holdovers]]
 - [[Sources/National Lampoon's Christmas Vacation\|National Lampoon's Christmas Vacation]]
-- [[Sources/The Muppets Christmas Carol\|The Muppets Christmas Carol]]
+- [[Sources/The Muppet's Christmas Carol\|The Muppet's Christmas Carol]]
 - [[Sources/Love Actually\|Love Actually]]
 - [[Sources/The Snowman\|The Snowman]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/hitman-world-of-assassination/","tags":["videoGames","theBest","sources"],"created":"16-07-2025","updated":"16-01-2026"}
+{"dg-publish":true,"permalink":"/sources/hitman-world-of-assassination/","tags":["videoGames","theBest","sources"],"created":"16-07-2025","updated":"10-09-2026"}
 ---
 
 Developer: IOI
@@ -11,6 +11,7 @@ Link: https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/
 
 - [[Sources/Hitman Elusive Targets\|Elusive Targets]]
 - [[Sources/Hitman Maps\|Maps]]
+- [[Main Notes/Freelancer Maps\|Freelancer Maps]]
 
 This is the most recent Hitman trilogy compiled into one game with a much smaller file size. I think this is the best way to play Hitman and this plays better than almost all the old games.
 

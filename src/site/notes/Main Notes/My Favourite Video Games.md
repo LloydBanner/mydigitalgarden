@@ -15,12 +15,12 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 ## The List
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
+| [[Sources/Hitman World of Assassination\|Hitman World of Assassination]]     |
+| [[Sources/XCOM 2\|XCOM 2]]                                                   |
 | [[Sources/Resident Evil 2 Remake\|Resident Evil 2 Remake]]                   |
 | [[Sources/Resident Evil 9 - Requiem\|Resident Evil 9 - Requiem]]             |
 | [[Sources/Bioshock\|Bioshock]]                                               |
 | [[Sources/Skyrim\|Skyrim]]                                                   |
-| [[Sources/XCOM 2\|XCOM 2]]                                                   |
-| [[Sources/Hitman World of Assassination\|Hitman World of Assassination]]     |
 | [[Sources/Minecraft\|Minecraft]]                                             |
 | [[Sources/PEAK\|PEAK]]                                                       |
 | [[Sources/Hades II\|Hades II]]                                               |

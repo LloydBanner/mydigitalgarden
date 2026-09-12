@@ -7,6 +7,7 @@ If you only want to see pages at certain levels of development, which are define
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a Bit of Everything) (Sorted by Last Update)
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 22\|Magic Shop Owners Session 22]]: 12-09-2026
 - [[Main Notes/Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 27-06-2026
 - [[Reviews/A Parade of Horribles Review\|A Parade of Horribles Review]]: 18-06-2026
 - [[Main Notes/Good Words\|Good Words]]: 18-06-2026

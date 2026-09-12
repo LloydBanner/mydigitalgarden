@@ -22,6 +22,7 @@ If you want to contact me, about this website or anything else, comments are now
 - [[Main Notes/Films\|Films]]
  
 **Feed (A Bit of Everything) (Sorted by Last Update)**
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 22\|Magic Shop Owners Session 22]]: 12-09-2026
 - [[Main Notes/Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 27-06-2026
 - [[Reviews/A Parade of Horribles Review\|A Parade of Horribles Review]]: 18-06-2026
 - [[Main Notes/Good Words\|Good Words]]: 18-06-2026
@@ -51,7 +52,6 @@ If you want to contact me, about this website or anything else, comments are now
 - [[Main Notes/The Best Christmas Films\|The Best Christmas Films]]: 23-12-2025
 - [[Main Notes/Insighting Quotes\|Insighting Quotes]]: 23-12-2025
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 23-12-2025
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 22-12-2025
 
 { .block-language-dataview}
 

@@ -35,7 +35,7 @@
 | [[Sources/National Lampoon's Christmas Vacation\|National Lampoon's Christmas Vacation]] |
 | [[Sources/Spirited Away\|Spirited Away]]                                                 |
 | [[Sources/The Holdovers\|The Holdovers]]                                                 |
-| [[Sources/The Muppets Christmas Carol\|The Muppets Christmas Carol]]                     |
+| [[Sources/The Muppet's Christmas Carol\|The Muppet's Christmas Carol]]                   |
 | [[Sources/The Snowman\|The Snowman]]                                                     |
 | [[Sources/Toy Story 2\|Toy Story 2]]                                                     |
 | [[Sources/Toy Story 3\|Toy Story 3]]                                                     |
