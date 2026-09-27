@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/osamu-dazai/","tags":["authors","sources"],"created":"11-05-2025","updated":"11-05-2025"}
+{"dg-publish":true,"permalink":"/sources/osamu-dazai/","tags":["authors","sources"],"created":"11-05-2025","updated":"11-05-2025","dg-note-properties":{"created":"11-05-2025","updated":"11-05-2025","tags":["authors","sources"],"category":"[[Authors]]"}}
 ---
 
 Osamu DAZAI (native name: 太宰治, real name Shūji Tsushima) was a Japanese author who is considered one of the foremost fiction writers of 20th-century Japan. A number of his most popular works, such as Shayō (The Setting Sun) and Ningen Shikkaku (No Longer Human), are considered modern-day classics in Japan.

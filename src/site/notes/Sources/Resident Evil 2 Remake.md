@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/resident-evil-2-remake/","tags":["videoGames","sources","theBest","horror","zombies"],"created":"20-03-2026","updated":"20-03-2026"}
+{"dg-publish":true,"permalink":"/sources/resident-evil-2-remake/","tags":["videoGames","sources","theBest","horror","zombies"],"created":"20-03-2026","updated":"20-03-2026","dg-note-properties":{"created":"20-03-2026","updated":"20-03-2026","tags":["videoGames","sources","theBest","horror","zombies"],"category":"[[Main Notes/Video Games]]","developer":"Capcom","publisher":"Capcom","series":"[[Sources/Resident Evil (Series)]]","released":"25-06-2019","first":"01-01-2020","last":"01-01-2020","link":"https://store.steampowered.com/agecheck/app/883710/","owned":"Steam"}}
 ---
 
 Developer: Capcom

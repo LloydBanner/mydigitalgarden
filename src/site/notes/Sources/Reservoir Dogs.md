@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/reservoir-dogs/","tags":["films","sources","crime","theBest","thriller"],"created":"01-06-2025","updated":"22-12-2025"}
+{"dg-publish":true,"permalink":"/sources/reservoir-dogs/","tags":["films","sources","crime","theBest","thriller"],"created":"01-06-2025","updated":"22-12-2025","dg-note-properties":{"created":"01-06-2025","updated":"22-12-2025","tags":["films","sources","crime","theBest","thriller"],"category":"[[Main Notes/Films]]","directors":"[[Sources/Quentin Tarantino]]","cast":["[[Tim Roth]]","[[Harvey Keitel]]","[[Michael Madsen]]","[[Steve Buscemi]]"],"released":"21-01-1992","last":"2019","first":"31-05-2025","link":"https://m.imdb.com/title/tt0105236/"}}
 ---
 
 Director: `= this.director`

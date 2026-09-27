@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/rhythm-of-war/","tags":["books","sources","fantasy"],"created":"11-05-2025","updated":"11-05-2025"}
+{"dg-publish":true,"permalink":"/sources/rhythm-of-war/","tags":["books","sources","fantasy"],"created":"11-05-2025","updated":"11-05-2025","dg-note-properties":{"created":"11-05-2025","updated":"11-05-2025","tags":["books","sources","fantasy"],"category":"[[Main Notes/Books]]","author":"[[Sources/Brandon Sanderson]]","released":"17-11-2020","last":"2021","first":"2021","link":"https://www.goodreads.com/book/show/49021976-rhythm-of-war","series":"[[Sources/The Stormlight Archive]]"}}
 ---
 
 Author: [[Sources/Brandon Sanderson\|Brandon Sanderson]]

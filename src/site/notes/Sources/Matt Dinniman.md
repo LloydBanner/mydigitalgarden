@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/matt-dinniman/","tags":["authors","sources"],"created":"08-12-2025","updated":"08-12-2025"}
+{"dg-publish":true,"permalink":"/sources/matt-dinniman/","tags":["authors","sources"],"created":"08-12-2025","updated":"08-12-2025","dg-note-properties":{"created":"08-12-2025","updated":"08-12-2025","tags":["authors","sources"],"category":"[[Authors]]"}}
 ---
 
 

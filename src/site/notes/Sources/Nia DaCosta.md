@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/nia-da-costa/","tags":["sources","directors"],"created":"24-01-2026","updated":"24-01-2026"}
+{"dg-publish":true,"permalink":"/sources/nia-da-costa/","tags":["sources","directors"],"created":"24-01-2026","updated":"24-01-2026","dg-note-properties":{"created":"24-01-2026","updated":"24-01-2026","tags":["sources","directors"],"category":"[[Directors]]"}}
 ---
 
 

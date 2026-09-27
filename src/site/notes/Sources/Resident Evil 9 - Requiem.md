@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/resident-evil-9-requiem/","tags":["videoGames","sources","horror","residentEvil","theBest"],"created":"13-03-2026","updated":"14-03-2026"}
+{"dg-publish":true,"permalink":"/sources/resident-evil-9-requiem/","tags":["videoGames","sources","horror","residentEvil","theBest"],"created":"13-03-2026","updated":"14-03-2026","dg-note-properties":{"created":"13-03-2026","updated":"14-03-2026","tags":["videoGames","sources","horror","residentEvil","theBest"],"category":"[[Main Notes/Video Games]]","developer":"Capcom","publisher":"Capcom","series":"[[Sources/Resident Evil (Series)]]","released":"27-02-2026","first":"27-02-2026","last":"13-03-2026","link":"https://store.steampowered.com/app/3764200/Resident_Evil_Requiem/","owned":"Steam"}}
 ---
 
 Developer: Capcom

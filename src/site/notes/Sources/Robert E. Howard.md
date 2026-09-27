@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/robert-e-howard/","tags":["authors","sources"],"created":"08-05-2025","updated":"08-05-2025"}
+{"dg-publish":true,"permalink":"/sources/robert-e-howard/","tags":["authors","sources"],"created":"08-05-2025","updated":"08-05-2025","dg-note-properties":{"created":"08-05-2025","updated":"08-05-2025","tags":["authors","sources"],"category":"[[Authors]]"}}
 ---
 
 Robert Ervin Howard (January 22, 1906 – June 11, 1936) was an American writer who wrote pulp fiction in a diverse range of genres.

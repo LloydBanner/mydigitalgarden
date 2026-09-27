@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/roger-zelazny/","tags":["authors","sources"],"created":"26-05-2026","updated":"26-05-2026"}
+{"dg-publish":true,"permalink":"/sources/roger-zelazny/","tags":["authors","sources"],"created":"26-05-2026","updated":"26-05-2026","dg-note-properties":{"created":"26-05-2026","updated":"26-05-2026","tags":["authors","sources"],"category":"[[Authors]]"}}
 ---
 
 ## Book Series

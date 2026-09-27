@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/night-security/","tags":["videoGames","sources","horror"],"created":"20-03-2026","updated":"20-03-2026"}
+{"dg-publish":true,"permalink":"/sources/night-security/","tags":["videoGames","sources","horror"],"created":"20-03-2026","updated":"20-03-2026","dg-note-properties":{"created":"20-03-2026","updated":"20-03-2026","tags":["videoGames","sources","horror"],"category":"[[Main Notes/Video Games]]","developer":"Chilla's Art","publisher":"Chilla's Art","series":"[[Chilla's Art]]","released":"17-06-2023","first":"19-03-2026","last":"19-03-2026","link":"https://store.steampowered.com/app/2367230/Chillas_Art_Night_Security/","owned":"Steam"}}
 ---
 
 Developer: Chilla's Art

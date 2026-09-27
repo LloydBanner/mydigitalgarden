@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/poul-anderson/","tags":["authors","sources"],"created":"11-05-2025","updated":"11-05-2025"}
+{"dg-publish":true,"permalink":"/sources/poul-anderson/","tags":["authors","sources"],"created":"11-05-2025","updated":"11-05-2025","dg-note-properties":{"created":"11-05-2025","updated":"11-05-2025","tags":["authors","sources"],"category":"[[Authors]]"}}
 ---
 
 Poul William Anderson was an American science fiction author who began his career during one of the Golden Ages of the genre and continued to write and remain popular into the 21st century.

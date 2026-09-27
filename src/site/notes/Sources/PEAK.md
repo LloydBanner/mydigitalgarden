@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/peak/","tags":["videoGames","sources","climbing","theBest","feed","reviews","developing"],"created":"12-10-2025","updated":"28-11-2025"}
+{"dg-publish":true,"permalink":"/sources/peak/","tags":["videoGames","sources","climbing","theBest","feed","reviews","developing"],"created":"12-10-2025","updated":"28-11-2025","dg-note-properties":{"created":"12-10-2025","updated":"28-11-2025","tags":["videoGames","sources","climbing","theBest","feed","reviews","developing"],"category":"[[Main Notes/Video Games]]","developer":"Team PEAK","publisher":"Aggro Crab and Landfall","released":"16-06-2025","last":"23-11-2025","first":"07-10-2025","link":"https://store.steampowered.com/app/3527290/PEAK/","owned":"Steam"}}
 ---
 
 Developer: Team PEAK

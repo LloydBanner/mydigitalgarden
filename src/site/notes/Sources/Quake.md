@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/quake/","tags":["videoGames","sources","theBest","fantasy","Sci-Fi"],"created":"23-07-2025","updated":"24-07-2025"}
+{"dg-publish":true,"permalink":"/sources/quake/","tags":["videoGames","sources","theBest","fantasy","Sci-Fi"],"created":"23-07-2025","updated":"24-07-2025","dg-note-properties":{"created":"23-07-2025","updated":"24-07-2025","tags":["videoGames","sources","theBest","fantasy","Sci-Fi"],"category":"[[Main Notes/Video Games]]","developer":"ID","publisher":"GT Interactive","released":"22-06-1996","last":"23-07-2025","first":"23-07-2025","link":"https://store.steampowered.com/app/2310/Quake/","owned":"On NAS"}}
 ---
 
 Developer: ID

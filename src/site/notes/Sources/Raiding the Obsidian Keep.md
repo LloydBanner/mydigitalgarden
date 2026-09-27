@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/raiding-the-obsidian-keep/","tags":["ttrpgResources","sources","books","fantasy","theBest"],"created":"17-05-2025","updated":"04-07-2025"}
+{"dg-publish":true,"permalink":"/sources/raiding-the-obsidian-keep/","tags":["ttrpgResources","sources","books","fantasy","theBest"],"created":"17-05-2025","updated":"04-07-2025","dg-note-properties":{"created":"17-05-2025","updated":"04-07-2025","tags":["ttrpgResources","sources","books","fantasy","theBest"],"category":"[[Main Notes/Books]]","author":"Joseph R. Lewis","released":"2023","last":"01-01-2025","first":"17-05-2025","link":"https://www.themerrymushmen.com/product/raiding-the-obsidian-keep/","series":null}}
 ---
 
 Author: Joseph R. Lewis

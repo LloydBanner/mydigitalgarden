@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/project-hail-mary/","tags":["films","sources","theBest","Sci-Fi","comedy"],"created":"20-04-2026","updated":"20-04-2026"}
+{"dg-publish":true,"permalink":"/sources/project-hail-mary/","tags":["films","sources","theBest","Sci-Fi","comedy"],"created":"20-04-2026","updated":"20-04-2026","dg-note-properties":{"created":"20-04-2026","updated":"20-04-2026","tags":["films","sources","theBest","Sci-Fi","comedy"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Phil Lord]]","[[Sources/Christopher Miller]]"],"cast":["[[Ryan Gosling]]","[[Sandra Hüller]]","[[James Ortiz]]"],"released":"09-03-2026","last":"15-04-2026","first":"15-04-2026","link":"https://www.imdb.com/title/tt12042730/","owned":"On NAS"}}
 ---
 
 Directors: [[Sources/Phil Lord\|Phil Lord]],[[Sources/Christopher Miller\|Christopher Miller]]

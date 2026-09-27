@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/norse-mythology/","tags":["books","sources","history","theBest"],"created":"01-06-2025","updated":"01-06-2025"}
+{"dg-publish":true,"permalink":"/sources/norse-mythology/","tags":["books","sources","history","theBest"],"created":"01-06-2025","updated":"01-06-2025","dg-note-properties":{"created":"01-06-2025","updated":"01-06-2025","tags":["books","sources","history","theBest"],"category":"[[Main Notes/Books]]","author":"[[Sources/Neil Gaiman]]","released":"07-02-2017","last":"2020","first":"2020","link":"https://www.goodreads.com/book/show/37903770-norse-mythology?ac=1","series":null}}
 ---
 
 Author: [[Sources/Neil Gaiman\|Neil Gaiman]]

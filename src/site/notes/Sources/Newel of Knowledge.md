@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/newel-of-knowledge/","tags":["sources","creators"],"created":"07-09-2025","updated":"07-09-2025"}
+{"dg-publish":true,"permalink":"/sources/newel-of-knowledge/","tags":["sources","creators"],"created":"07-09-2025","updated":"07-09-2025","dg-note-properties":{"created":"07-09-2025","updated":"07-09-2025","tags":["sources","creators"],"category":"[[Creators]]"}}
 ---
 
 [Newel of Knowledge](https://m.youtube.com/@NewelOfKnowledge) is a Youtube creator who gives advice on life and how to get the most out of it. He has made me rethink a lot of my perspectives in life and I think he has a very positive approach to the topic.

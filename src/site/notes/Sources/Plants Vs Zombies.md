@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/plants-vs-zombies/","tags":["videoGames","sources","theBest"],"created":"22-06-2025","updated":"22-06-2025"}
+{"dg-publish":true,"permalink":"/sources/plants-vs-zombies/","tags":["videoGames","sources","theBest"],"created":"22-06-2025","updated":"22-06-2025","dg-note-properties":{"created":"22-06-2025","updated":"22-06-2025","tags":["videoGames","sources","theBest"],"category":"[[Main Notes/Video Games]]","developer":"Popcap","publisher":"Popcap","released":"05-05-2009","last":"22-06-2025","first":"2009","link":"https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/","owned":"Steam"}}
 ---
 
 Developer: Popcap

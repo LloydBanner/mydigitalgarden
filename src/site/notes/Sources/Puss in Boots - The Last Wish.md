@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/puss-in-boots-the-last-wish/","tags":["films","sources","theBest","fairyTale","comedy","kids","animated"],"created":"22-12-2025","updated":"22-12-2025"}
+{"dg-publish":true,"permalink":"/sources/puss-in-boots-the-last-wish/","tags":["films","sources","theBest","fairyTale","comedy","kids","animated"],"created":"22-12-2025","updated":"22-12-2025","dg-note-properties":{"created":"22-12-2025","updated":"22-12-2025","tags":["films","sources","theBest","fairyTale","comedy","kids","animated"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Joel Crawford]]","[[Sources/Januel Mercado]]"],"cast":["[[Antonio Banderas]]","[[Salma Hayek]]","[[Harvey Guillén]]","[[Florence Pugh]]","[[Oliva Coleman]]"],"released":"26-11-2022","last":"2022","first":"2022","link":"https://www.imdb.com/title/tt3915174","owned":"2160p NAS","series":"[[Sources/Shrek Films]]"}}
 ---
 
 Directors: [[Sources/Joel Crawford\|Joel Crawford]],[[Sources/Januel Mercado\|Januel Mercado]]

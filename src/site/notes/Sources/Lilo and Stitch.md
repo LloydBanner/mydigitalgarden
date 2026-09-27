@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/lilo-and-stitch/","tags":["films","sources","animated","kids","theBest"],"created":"29-12-2025","updated":"29-12-2025"}
+{"dg-publish":true,"permalink":"/sources/lilo-and-stitch/","tags":["films","sources","animated","kids","theBest"],"created":"29-12-2025","updated":"29-12-2025","dg-note-properties":{"created":"29-12-2025","updated":"29-12-2025","tags":["films","sources","animated","kids","theBest"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Dean DeBlois]]","[[Sources/Chris Sanders]]"],"cast":["[[Daveigh Chase]]","[[Sources/Chris Sanders]]","[[Tia Carrere]]"],"released":"16-06-2002","last":"2012","first":"2006","link":"https://www.imdb.com/title/","owned":"On NAS"}}
 ---
 
 Directors: [[Sources/Dean DeBlois\|Dean DeBlois]],[[Sources/Chris Sanders\|Chris Sanders]]

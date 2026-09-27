@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/knock-issue-1/","tags":["books","sources"],"created":"13-05-2025","updated":"18-05-2025"}
+{"dg-publish":true,"permalink":"/sources/knock-issue-1/","tags":["books","sources"],"created":"13-05-2025","updated":"18-05-2025","dg-note-properties":{"created":"13-05-2025","updated":"18-05-2025","tags":["books","sources"],"category":"[[Main Notes/Books]]","author":"Various","released":"2-5-2021","last":"13-05-2025","first":"13-05-2025","link":"https://www.themerrymushmen.com/product/knock-1-tmm/","series":"[[Sources/Knock]]"}}
 ---
 
 Author: Various

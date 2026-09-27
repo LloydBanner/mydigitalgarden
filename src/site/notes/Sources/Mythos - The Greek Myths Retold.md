@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/mythos-the-greek-myths-retold/","tags":["books","sources","history","theBest"],"created":"01-06-2025","updated":"07-09-2025"}
+{"dg-publish":true,"permalink":"/sources/mythos-the-greek-myths-retold/","tags":["books","sources","history","theBest"],"created":"01-06-2025","updated":"07-09-2025","dg-note-properties":{"created":"01-06-2025","updated":"07-09-2025","tags":["books","sources","history","theBest"],"category":"[[Main Notes/Books]]","author":"[[Sources/Stephen Fry]]","released":"02-11-2017","last":"2018","first":"2018","link":"https://www.goodreads.com/book/show/35074096-mythos?from_search=true&from_srp=true&qid=jw2RaPr8Wl&rank=1","series":"[[Sources/Stephen Fry's Great Mythology Series]]"}}
 ---
 
 Author: [[Sources/Stephen Fry\|Stephen Fry]]

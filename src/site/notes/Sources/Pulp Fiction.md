@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/pulp-fiction/","tags":["films","sources","theBest","crime","drama"],"created":"07-09-2025","updated":"22-12-2025"}
+{"dg-publish":true,"permalink":"/sources/pulp-fiction/","tags":["films","sources","theBest","crime","drama"],"created":"07-09-2025","updated":"22-12-2025","dg-note-properties":{"created":"07-09-2025","updated":"22-12-2025","tags":["films","sources","theBest","crime","drama"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Quentin Tarantino]]"],"cast":["[[Sources/Quentin Tarantino]]","[[Tim Roth]]","[[Samuel L. Jackson]]","[[John Travolta]]","[[Christopher Walken]]","[[Bruce Willis]]","[[Uma Thurman]]"],"released":"24-05-1994","last":"07-09-2025","first":"2020","link":"https://m.imdb.com/title/tt0110912/","owned":"1080p NAS"}}
 ---
 
 Directors: [[Sources/Quentin Tarantino\|Quentin Tarantino]]

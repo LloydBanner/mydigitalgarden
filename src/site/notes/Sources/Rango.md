@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/rango/","tags":["films","sources","western","fantasy","theBest","animated"],"created":"03-06-2025","updated":"03-06-2025"}
+{"dg-publish":true,"permalink":"/sources/rango/","tags":["films","sources","western","fantasy","theBest","animated"],"created":"03-06-2025","updated":"03-06-2025","dg-note-properties":{"created":"03-06-2025","updated":"03-06-2025","tags":["films","sources","western","fantasy","theBest","animated"],"category":"[[Main Notes/Films]]","director":"[[Sources/Gore Verbinski]]","cast":["[[Johnny Depp]]"],"released":"14-02-2011","last":"2024","first":"2024","link":"https://www.imdb.com/title/tt1192628/releaseinfo/","owned":"2160p NAS"}}
 ---
 
 Director: [[Sources/Gore Verbinski\|Gore Verbinski]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/overlord/","tags":["films","sources","military","horror","prettyGood","zombies"],"created":"03-05-2026","updated":"03-05-2026"}
+{"dg-publish":true,"permalink":"/sources/overlord/","tags":["films","sources","military","horror","prettyGood","zombies"],"created":"03-05-2026","updated":"03-05-2026","dg-note-properties":{"created":"03-05-2026","updated":"03-05-2026","tags":["films","sources","military","horror","prettyGood","zombies"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Julius Avery]]"],"cast":["[[Jovan Adepo]]","[[Wyatt Russell]]","[[Mathilde Ollivier]]"],"released":"22-09-2018","last":"02-05-2026","first":"02-05-2026","link":"https://www.imdb.com/title/tt4530422/","owned":"2160p NAS"}}
 ---
 
 Directors: [[Sources/Julius Avery\|Julius Avery]]

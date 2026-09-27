@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/revenge-of-the-sith/","tags":["theBest","starWars","films","sources"],"created":"18-04-2025","updated":"06-05-2025"}
+{"dg-publish":true,"permalink":"/sources/revenge-of-the-sith/","tags":["theBest","starWars","films","sources"],"created":"18-04-2025","updated":"06-05-2025","dg-note-properties":{"created":"18-04-2025","updated":"06-05-2025","tags":["theBest","starWars","films","sources"],"category":"[[Main Notes/Films]]","director":"[[Sources/George Lucas]]","cast":["[[hayden Christensen]]","[[Ewan McGregor]]","[[Natalie Portman]]"],"released":"22-04-2005","last":"25-04-2005","first":"25-04-2025","link":"https://m.imdb.com/title/tt0121766/"}}
 ---
 
 Director: [[Sources/George Lucas\|George Lucas]]

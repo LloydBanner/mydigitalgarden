@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/neil-gaiman/","tags":["authors","sources"],"created":"01-06-2025","updated":"01-06-2025"}
+{"dg-publish":true,"permalink":"/sources/neil-gaiman/","tags":["authors","sources"],"created":"01-06-2025","updated":"01-06-2025","dg-note-properties":{"created":"01-06-2025","updated":"01-06-2025","tags":["authors","sources"],"category":"[[Authors]]"}}
 ---
 
 Neil Richard MacKinnon Gaiman (born Neil Richard Gaiman; 10 November 1960) is an English author of short fiction, novels, comic books, audio theatre, and screenplays.

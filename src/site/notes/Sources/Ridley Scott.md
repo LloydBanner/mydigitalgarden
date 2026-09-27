@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/ridley-scott/","tags":["sources","directors"],"created":"03-06-2025","updated":"03-06-2025"}
+{"dg-publish":true,"permalink":"/sources/ridley-scott/","tags":["sources","directors"],"created":"03-06-2025","updated":"03-06-2025","dg-note-properties":{"created":"03-06-2025","updated":"03-06-2025","tags":["sources","directors"],"category":"[[Directors]]"}}
 ---
 
 Director Ridley Scott was born on November 30, 1937 in South Shields, Tyne and Wear.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/mad-max-fury-road/","tags":["films","sources","postApocalyptic","theBest"],"created":"22-12-2025","updated":"22-12-2025"}
+{"dg-publish":true,"permalink":"/sources/mad-max-fury-road/","tags":["films","sources","postApocalyptic","theBest"],"created":"22-12-2025","updated":"22-12-2025","dg-note-properties":{"created":"22-12-2025","updated":"22-12-2025","tags":["films","sources","postApocalyptic","theBest"],"category":"[[Main Notes/Films]]","directors":["[[Sources/George Miller]]"],"cast":["[[Tom Hardy]]"],"released":"07-05-2015","last":"2017","first":"2017","link":"https://www.imdb.com/title/tt1392190/","owned":"2160p NAS","series":"[[Sources/Mad Max Films]]"}}
 ---
 
 Directors: [[Sources/George Miller\|George Miller]]

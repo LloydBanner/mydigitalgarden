@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/planet-of-no-return/","tags":["books","sources"],"created":"11-05-2025","updated":"01-06-2025"}
+{"dg-publish":true,"permalink":"/sources/planet-of-no-return/","tags":["books","sources"],"created":"11-05-2025","updated":"01-06-2025","dg-note-properties":{"created":"11-05-2025","updated":"01-06-2025","tags":["books","sources"],"category":"[[Main Notes/Books]]","author":"[[Sources/Poul Anderson]]","released":"01-01-1956","last":"11-03-2025","first":"11-03-2025","link":"https://www.goodreads.com/book/show/16108419-planet-of-no-return-star-guard?ac=1","series":null}}
 ---
 
 Author: [[Sources/Poul Anderson\|Poul Anderson]]

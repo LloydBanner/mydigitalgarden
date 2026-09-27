@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/no-longer-human/","tags":["books","sources","theBest"],"created":"11-05-2025","updated":"11-05-2025"}
+{"dg-publish":true,"permalink":"/sources/no-longer-human/","tags":["books","sources","theBest"],"created":"11-05-2025","updated":"11-05-2025","dg-note-properties":{"created":"11-05-2025","updated":"11-05-2025","tags":["books","sources","theBest"],"category":"[[Main Notes/Books]]","author":"[[Sources/Osamu Dazai]]","released":"01-01-1948","last":"2017","first":"2017","link":"https://www.goodreads.com/book/show/194746.No_Longer_Human?ac=1","series":null}}
 ---
 
 Author: [[Sources/Osamu Dazai\|Osamu Dazai]]
