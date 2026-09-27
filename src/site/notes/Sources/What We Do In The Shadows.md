@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/what-we-do-in-the-shadows/","tags":["films","sources","comedy","fantasy","theBest","vampires"],"created":"03-05-2026","updated":"03-05-2026"}
+{"dg-publish":true,"permalink":"/sources/what-we-do-in-the-shadows/","tags":["films","sources","comedy","fantasy","theBest","vampires"],"created":"03-05-2026","updated":"03-05-2026","dg-note-properties":{"created":"03-05-2026","updated":"03-05-2026","tags":["films","sources","comedy","fantasy","theBest","vampires"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Jemaine Clement]]","[[Sources/Taika Waititi]]"],"cast":["[[Sources/Jemaine Clement]]","[[Sources/Taika Waititi]]","[[Jonny Brugh]]","[[Cori Gonzalez-Macuer]]","[[Stu Rutherford]]","[[Ben Fransham]]","[[Jackie van Beek]]"],"released":"19-01-2014","last":"03-05-2026","first":"03-05-2026","link":"https://www.imdb.com/title/tt3416742/","owned":"1080p NAS"}}
 ---
 
 Directors: [[Sources/Jemaine Clement\|Jemaine Clement]],[[Sources/Taika Waititi\|Taika Waititi]]

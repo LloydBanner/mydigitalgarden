@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/calendar/elbon-year-569/","tags":["ttrpgs","draft"],"created":"25-06-2025","updated":"25-06-2025"}
+{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/calendar/elbon-year-569/","tags":["ttrpgs","draft"],"created":"25-06-2025","updated":"25-06-2025","dg-note-properties":{"created":"25-06-2025","updated":"25-06-2025","tags":["ttrpgs","draft"]}}
 ---
 
 # Seasons

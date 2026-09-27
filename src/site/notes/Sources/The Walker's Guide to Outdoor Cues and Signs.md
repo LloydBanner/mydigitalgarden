@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-walker-s-guide-to-outdoor-cues-and-signs/","tags":["books","sources","non-fiction","theBest"],"created":"01-06-2025","updated":"01-06-2025"}
+{"dg-publish":true,"permalink":"/sources/the-walker-s-guide-to-outdoor-cues-and-signs/","tags":["books","sources","non-fiction","theBest"],"created":"01-06-2025","updated":"01-06-2025","dg-note-properties":{"created":"01-06-2025","updated":"01-06-2025","tags":["books","sources","non-fiction","theBest"],"category":"[[Main Notes/Books]]","author":"[[Sources/Tristan Gooley]]","released":"01-01-2014","last":"2021","first":"2021","link":"https://www.goodreads.com/book/show/21118222-the-walker-s-guide-to-outdoor-clues-and-signs?ac=1&from_search=true&qid=6ZkamIZBWZ&rank=1","series":null}}
 ---
 
 Author: [[Sources/Tristan Gooley\|Tristan Gooley]]

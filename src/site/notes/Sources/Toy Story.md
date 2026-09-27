@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/toy-story/","tags":["films","sources","animated","theBest","kids"],"created":"23-12-2025","updated":"24-01-2026"}
+{"dg-publish":true,"permalink":"/sources/toy-story/","tags":["films","sources","animated","theBest","kids"],"created":"23-12-2025","updated":"24-01-2026","dg-note-properties":{"created":"23-12-2025","updated":"24-01-2026","tags":["films","sources","animated","theBest","kids"],"category":"[[Main Notes/Films]]","directors":["[[Sources/John Lasseter]]"],"cast":["[[Tom Hanks]]","[[Tim Allen]]","[[Don Rickles]]","[[Jim Varney]]"],"released":"19-11-1995","last":"A long time ago","first":"A long time ago","link":"https://www.imdb.com/title/tt0114709","owned":"2160p NAS","series":"[[Sources/Toy Story Films]]"}}
 ---
 
 Directors: [[Sources/John Lasseter\|John Lasseter]]

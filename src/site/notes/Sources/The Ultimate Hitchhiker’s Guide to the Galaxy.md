@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-ultimate-hitchhiker-s-guide-to-the-galaxy/","tags":["books","sources","theBest","Sci-Fi"],"created":"11-05-2025","updated":"11-05-2025"}
+{"dg-publish":true,"permalink":"/sources/the-ultimate-hitchhiker-s-guide-to-the-galaxy/","tags":["books","sources","theBest","Sci-Fi"],"created":"11-05-2025","updated":"11-05-2025","dg-note-properties":{"created":"11-05-2025","updated":"11-05-2025","tags":["books","sources","theBest","Sci-Fi"],"category":"[[Main Notes/Books]]","author":"[[Sources/Douglas Adams]]","released":"17-01-1996","last":"2016","first":"2016","link":"https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy","series":"The Hitchhiker’s Guide to the Galaxy"}}
 ---
 
 Author: [[Sources/Douglas Adams\|Douglas Adams]]

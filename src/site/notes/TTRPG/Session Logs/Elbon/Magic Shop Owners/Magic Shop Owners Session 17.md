@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-17/","tags":["feed","elbonLogs","developed"],"created":"14-12-2025","updated":"13-01-2026"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-17/","tags":["feed","elbonLogs","developed"],"created":"14-12-2025","updated":"13-01-2026","dg-note-properties":{"created":"14-12-2025","updated":"13-01-2026","tags":["feed","elbonLogs","developed"],"sessionDate":"13-12-2025"}}
 ---
 
 ## Session Notes

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/toy-story-2/","tags":["films","sources","animated","kids","theBest"],"created":"23-12-2025","updated":"23-12-2025"}
+{"dg-publish":true,"permalink":"/sources/toy-story-2/","tags":["films","sources","animated","kids","theBest"],"created":"23-12-2025","updated":"23-12-2025","dg-note-properties":{"created":"23-12-2025","updated":"23-12-2025","tags":["films","sources","animated","kids","theBest"],"category":"[[Main Notes/Films]]","directors":["[[Sources/John Lasseter]]","[[Sources/Lee Unkrich]]","[[Sources/Ash Brannon]]"],"cast":["[[Tom Hanks]]","[[Tim Allen]]","[[Joan Cusack]]","[[Don Rickles]]","[[Jim Varney]]"],"released":"13-11-1999","last":"A long time ago","first":"A long time ago","link":"https://www.imdb.com/title/tt0120363","owned":"2160p NAS","series":"[[Sources/Toy Story Films]]"}}
 ---
 
 Directors: [[Sources/John Lasseter\|John Lasseter]],[[Sources/Lee Unkrich\|Lee Unkrich]],[[Sources/Ash Brannon\|Ash Brannon]]

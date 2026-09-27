@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/osr-curses/curse-of-the-echoing-name/","tags":["ttrpgResources","osrCurses","developing"],"created":"07-06-2025","updated":"07-06-2025"}
+{"dg-publish":true,"permalink":"/ttrpg/osr-curses/curse-of-the-echoing-name/","tags":["ttrpgResources","osrCurses","developing"],"created":"07-06-2025","updated":"07-06-2025","dg-note-properties":{"created":"07-06-2025","updated":"07-06-2025","tags":["ttrpgResources","osrCurses","developing"]}}
 ---
 
 **Effect:** Every time the cursed character says their own name, it echoes unnaturally loud, so loud it risks alerting enemies nearby (1-in-6 chance per instance if hiding).

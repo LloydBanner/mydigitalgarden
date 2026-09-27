@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/upgrade/","tags":["films","sources","theBest","Sci-Fi"],"created":"03-05-2026","updated":"03-05-2026"}
+{"dg-publish":true,"permalink":"/sources/upgrade/","tags":["films","sources","theBest","Sci-Fi"],"created":"03-05-2026","updated":"03-05-2026","dg-note-properties":{"created":"03-05-2026","updated":"03-05-2026","tags":["films","sources","theBest","Sci-Fi"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Leigh Whannell]]"],"cast":["[[Logan Marshall-Green]]","[[Abby Craden]]"],"released":"10-03-2018","last":"2020","first":"2020","link":"https://www.imdb.com/title/tt6499752/","owned":"2160p NAS"}}
 ---
 
 Directors: [[Sources/Leigh Whannell\|Leigh Whannell]]

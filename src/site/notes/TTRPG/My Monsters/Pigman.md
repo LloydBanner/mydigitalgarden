@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/my-monsters/pigman/","tags":["ttrpgResources","OSEMonsters","lloydsOSEMonsters","developing"],"created":"12-06-2025","updated":"22-06-2025"}
+{"dg-publish":true,"permalink":"/ttrpg/my-monsters/pigman/","tags":["ttrpgResources","OSEMonsters","lloydsOSEMonsters","developing"],"created":"12-06-2025","updated":"22-06-2025","dg-note-properties":{"created":"12-06-2025","updated":"22-06-2025","tags":["ttrpgResources","OSEMonsters","lloydsOSEMonsters","developing"],"hitDice":"2","types":["humanoid","beast"],"habitats":["plains","forests"],"climates":["temperate","cold"],"sources":["Lloyd's Brain"],"aliases":["Pigmen"]}}
 ---
 
 # Pigman
@@ -8,7 +8,7 @@ Pigmen are brutish humanoids with bloated, pig-like heads, yellowed tusks, and b
 
 (Just a quick sketch for this one)
 
-![pigman.png|300](/img/user/z_assets/TTRPG/My%20Monsters/pigman.png)
+![pigman.png\|300](/img/user/z_assets/TTRPG/My%20Monsters/pigman.png)
 
 ---
 

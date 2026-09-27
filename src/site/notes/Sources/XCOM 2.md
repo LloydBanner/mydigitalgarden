@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/xcom-2/","tags":["theBest","videoGames","sources"],"created":"01-04-2026","updated":"08-09-2026"}
+{"dg-publish":true,"permalink":"/sources/xcom-2/","tags":["theBest","videoGames","sources"],"created":"01-04-2026","updated":"08-09-2026","dg-note-properties":{"created":"01-04-2026","updated":"08-09-2026","tags":["theBest","videoGames","sources"],"category":"[[Main Notes/Video Games]]","developer":"Firaxis Games","publisher":"2K","series":"[[XCOM Series]]","released":"04-02-2016","first":"2018","last":"01-06-2026","link":"https://store.steampowered.com/app/268500/XCOM_2/","owned":"On NAS"}}
 ---
 
 Developer: Firaxis Games

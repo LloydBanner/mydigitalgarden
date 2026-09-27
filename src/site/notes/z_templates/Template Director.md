@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-director/","tags":["sources","directors"],"created":"{{date}}","updated":"22-12-2025"}
+{"dg-publish":true,"permalink":"/z-templates/template-director/","tags":["sources","directors"],"created":"{{date}}","updated":"22-12-2025","dg-note-properties":{"created":"{{date}}","updated":"22-12-2025","tags":["sources","directors"],"category":"[[Directors]]"}}
 ---
 
 
