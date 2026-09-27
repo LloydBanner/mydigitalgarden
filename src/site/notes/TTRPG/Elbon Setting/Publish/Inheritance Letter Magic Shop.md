@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/publish/inheritance-letter-magic-shop/","tags":["developed"],"created":"22-12-2025","updated":"22-12-2025"}
+{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/publish/inheritance-letter-magic-shop/","tags":["developed"],"created":"22-12-2025","updated":"22-12-2025","dg-note-properties":{"created":"22-12-2025","updated":"22-12-2025","tags":["developed"]}}
 ---
 
 ### You each receive a letter that reads...

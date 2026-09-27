@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/spec-ops-the-line/","tags":["videoGames","sources","military"],"created":"28-03-2026","updated":"28-03-2026"}
+{"dg-publish":true,"permalink":"/sources/spec-ops-the-line/","tags":["videoGames","sources","military"],"created":"28-03-2026","updated":"28-03-2026","dg-note-properties":{"created":"28-03-2026","updated":"28-03-2026","tags":["videoGames","sources","military"],"category":"[[Main Notes/Video Games]]","developer":"YAGER","publisher":"2K","series":null,"released":"29-06-2012","first":"20-03-2026","last":"25-03-2026","link":"https://store.steampowered.com/app/50300/Spec_Ops_The_Line/","owned":"Steam"}}
 ---
 
 Developer: YAGER

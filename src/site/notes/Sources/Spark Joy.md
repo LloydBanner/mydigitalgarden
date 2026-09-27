@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/spark-joy/","tags":["books","sources","non-fiction","selfHelp","theBest"],"created":"01-06-2025","updated":"01-06-2025"}
+{"dg-publish":true,"permalink":"/sources/spark-joy/","tags":["books","sources","non-fiction","selfHelp","theBest"],"created":"01-06-2025","updated":"01-06-2025","dg-note-properties":{"created":"01-06-2025","updated":"01-06-2025","tags":["books","sources","non-fiction","selfHelp","theBest"],"category":"[[Main Notes/Books]]","author":"[[Sources/Marie Kondō]]","released":"09-10-2012","last":"2021","first":"2021","link":"https://www.goodreads.com/book/show/25614984-spark-joy?ac=1","series":null}}
 ---
 
 Author: [[Sources/Marie Kondō\|Marie Kondō]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-films/","tags":["lordOfTheRings","sources","filmSeries"],"created":"29-12-2025","updated":"29-12-2025"}
+{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-films/","tags":["lordOfTheRings","sources","filmSeries"],"created":"29-12-2025","updated":"29-12-2025","dg-note-properties":{"created":"29-12-2025","updated":"29-12-2025","tags":["lordOfTheRings","sources","filmSeries"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Peter Jackson]]","[[Sources/Kenji Kamiyama]]"]}}
 ---
 
 Directors: [[Sources/Peter Jackson\|Peter Jackson]],[[Sources/Kenji Kamiyama\|Kenji Kamiyama]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-hobbit-book/","tags":["books","sources","fantasy","lordOfTheRings","theBest"],"created":"22-04-2025","updated":"11-05-2025"}
+{"dg-publish":true,"permalink":"/sources/the-hobbit-book/","tags":["books","sources","fantasy","lordOfTheRings","theBest"],"created":"22-04-2025","updated":"11-05-2025","dg-note-properties":{"created":"22-04-2025","updated":"11-05-2025","tags":["books","sources","fantasy","lordOfTheRings","theBest"],"category":"[[Main Notes/Books]]","author":"[[Sources/J. R. R. Tolkien]]","released":"21-09-1937","last":null,"first":null,"link":"https://www.goodreads.com/book/show/5907.The_Hobbit","series":"[[Sources/The Lord of the Rings Books]]"}}
 ---
 
 Author: [[Sources/J. R. R. Tolkien\|J. R. R. Tolkien]]

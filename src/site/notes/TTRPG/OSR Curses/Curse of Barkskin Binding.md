@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/osr-curses/curse-of-barkskin-binding/","tags":["ttrpgResources","osrCurses","developing"],"created":"07-06-2025","updated":"07-06-2025"}
+{"dg-publish":true,"permalink":"/ttrpg/osr-curses/curse-of-barkskin-binding/","tags":["ttrpgResources","osrCurses","developing"],"created":"07-06-2025","updated":"07-06-2025","dg-note-properties":{"created":"07-06-2025","updated":"07-06-2025","tags":["ttrpgResources","osrCurses","developing"]}}
 ---
 
 **Rhyme:**  

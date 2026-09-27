@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-11/","tags":["feed","elbonLogs","developed"],"created":"20-04-2025","updated":"04-10-2025"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-11/","tags":["feed","elbonLogs","developed"],"created":"20-04-2025","updated":"04-10-2025","dg-note-properties":{"created":"20-04-2025","updated":"04-10-2025","tags":["feed","elbonLogs","developed"],"sessionDate":"19-04-2025"}}
 ---
 
 ## Session Notes
 
 **[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 14-3-569
 ### Survivor Beach
-![survivorBeach.png|300](/img/user/z_assets/TTRPG/Place%20Pictures/Obsidian%20Keep/survivorBeach.png)
+![survivorBeach.png\|300](/img/user/z_assets/TTRPG/Place%20Pictures/Obsidian%20Keep/survivorBeach.png)
 
 The party rested on The Kraken with their new party members: Rosetta the maid, and sailors Ivano, Donato, Antony, Leo, Marco and Paul. After the night, they travelled to a cave which had a fully intact boat sheltered inside. They met a man and his daughter who were braiding ropes in preparation to leave the island. The man was a fisherman who was helpful but didn’t know too much, but his daughter and young child saw the adventurers and wanted to hear stories about monsters. The party happily obliged and started explaining about the lich they had defeated before her father told them that they would scare her. They did find out that there was a secret entrance into the castle that the children used to play near, but Nora, the girl, didn’t hang around with those kids. 
 

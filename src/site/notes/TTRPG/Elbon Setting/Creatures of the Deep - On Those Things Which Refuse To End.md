@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/creatures-of-the-deep-on-those-things-which-refuse-to-end/","created":"10-01-2026","updated":"16-01-2026"}
+{"dg-publish":true,"permalink":"/ttrpg/elbon-setting/creatures-of-the-deep-on-those-things-which-refuse-to-end/","created":"10-01-2026","updated":"16-01-2026","dg-note-properties":{"created":"10-01-2026","updated":"16-01-2026"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/my-random-tables/","tags":["ttrpgs","draft"],"created":"23-12-2025","updated":"23-12-2025"}
+{"dg-publish":true,"permalink":"/ttrpg/my-random-tables/","tags":["ttrpgs","draft"],"created":"23-12-2025","updated":"23-12-2025","dg-note-properties":{"created":"23-12-2025","updated":"23-12-2025","tags":["ttrpgs","draft"]}}
 ---
 
 Some random tables I have created for use with [[Main Notes/TTRPG\|TTRPGS]]:

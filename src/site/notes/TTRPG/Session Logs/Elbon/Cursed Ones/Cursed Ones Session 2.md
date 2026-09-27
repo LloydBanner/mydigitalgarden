@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-2/","tags":["feed","elbonLogs","developed"],"created":"31-07-2025","updated":"09-11-2025"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/cursed-ones/cursed-ones-session-2/","tags":["feed","elbonLogs","developed"],"created":"31-07-2025","updated":"09-11-2025","dg-note-properties":{"created":"31-07-2025","updated":"09-11-2025","tags":["feed","elbonLogs","developed"],"sessionDate":"31-07-2025"}}
 ---
 
 ## Session Notes
