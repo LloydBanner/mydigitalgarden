@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/skyrim/","tags":["videoGames","elderScrolls","theBest","VR","sources"],"created":"01-04-2026","updated":"24-01-2026"}
+{"dg-publish":true,"permalink":"/sources/skyrim/","tags":["videoGames","elderScrolls","theBest","VR","sources"],"created":"01-04-2026","updated":"24-01-2026","dg-note-properties":{"created":"01-04-2026","updated":"24-01-2026","tags":["videoGames","elderScrolls","theBest","VR","sources"],"category":"[[Main Notes/Video Games]]","developer":"Bethesda Game Studios","publisher":"Bethesda Softworks","series":"[[Sources/The Elder Scrolls]]","released":"11-11-2011","first":"01-04-2026","last":"01-04-2026","link":"https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/","owned":"On NAS"}}
 ---
 
 Developer: Bethesda Game Studios

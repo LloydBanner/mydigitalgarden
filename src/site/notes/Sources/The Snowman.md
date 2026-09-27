@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-snowman/","tags":["films","sources","christmas","theBest","animated","kids"],"created":"23-12-2025","updated":"23-12-2025"}
+{"dg-publish":true,"permalink":"/sources/the-snowman/","tags":["films","sources","christmas","theBest","animated","kids"],"created":"23-12-2025","updated":"23-12-2025","dg-note-properties":{"created":"23-12-2025","updated":"23-12-2025","tags":["films","sources","christmas","theBest","animated","kids"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Dianne Jackson]]","[[Sources/Jimmy T. Murakami]]"],"cast":["[[David Bowie]]","[[Raymond Briggs]]","[[Mel Smith]]"],"released":"24-12-1982","last":"2024","first":"A long time ago","link":"https://www.imdb.com/title/tt0084701/","owned":"On NAS"}}
 ---
 
 Directors: [[Sources/Dianne Jackson\|Dianne Jackson]],[[Sources/Jimmy T. Murakami\|Jimmy T. Murakami]]

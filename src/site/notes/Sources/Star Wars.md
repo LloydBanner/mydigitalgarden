@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/star-wars/","tags":["starWars","sources","filmSeries"],"created":"18-04-2025","updated":"22-06-2025"}
+{"dg-publish":true,"permalink":"/sources/star-wars/","tags":["starWars","sources","filmSeries"],"created":"18-04-2025","updated":"22-06-2025","dg-note-properties":{"created":"18-04-2025","updated":"22-06-2025","tags":["starWars","sources","filmSeries"],"directors":["[[Sources/George Lucas]]","[[Sources/Gareth Edwards]]","[[Sources/Tony Gilroy]]"]}}
 ---
 
 A very well known series but one that I have always loved. That is not to say I love every part of it though. See [[Main Notes/My Star Wars Watch Order\|My Star Wars Watch Order]] for the films and TV shows I think are worth watching in the order I think you should watch them. 

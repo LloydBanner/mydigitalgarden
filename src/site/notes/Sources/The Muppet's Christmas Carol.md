@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-muppet-s-christmas-carol/","tags":["films","sources","christmas","theBest","kids"],"created":"23-12-2025","updated":"23-12-2025"}
+{"dg-publish":true,"permalink":"/sources/the-muppet-s-christmas-carol/","tags":["films","sources","christmas","theBest","kids"],"created":"23-12-2025","updated":"23-12-2025","dg-note-properties":{"created":"23-12-2025","updated":"23-12-2025","tags":["films","sources","christmas","theBest","kids"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Brian Henson]]"],"cast":["[[Michael Caine]]","[[Dave Goelz]]","[[Steve Whitmire]]","[[Jerry Nelson]]","[[Frank Oz]]"],"released":"06-12-1992","last":"2022","first":"A long time ago","link":"https://www.imdb.com/title/tt0104940/","owned":"On NAS"}}
 ---
 
 Directors: [[Sources/Brian Henson\|Brian Henson]]

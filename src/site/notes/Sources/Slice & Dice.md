@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/slice-and-dice/","tags":["videoGames","sources","fantasy","theBest","strategy","rougelike"],"created":"30-10-2025","updated":"30-10-2025"}
+{"dg-publish":true,"permalink":"/sources/slice-and-dice/","tags":["videoGames","sources","fantasy","theBest","strategy","rougelike"],"created":"30-10-2025","updated":"30-10-2025","dg-note-properties":{"created":"30-10-2025","updated":"30-10-2025","tags":["videoGames","sources","fantasy","theBest","strategy","rougelike"],"category":"[[Main Notes/Video Games]]","developer":"Tann","publisher":"Tann","released":"24-03-2024","last":"30-10-2025","first":"19-10-2025","link":"https://store.steampowered.com/app/1775490/Slice__Dice/","owned":"On NAS (Steam)"}}
 ---
 
 Developer: Tann

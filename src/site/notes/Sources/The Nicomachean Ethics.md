@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-nicomachean-ethics/","tags":["books","sources"],"created":"28-11-2025","updated":"28-11-2025"}
+{"dg-publish":true,"permalink":"/sources/the-nicomachean-ethics/","tags":["books","sources"],"created":"28-11-2025","updated":"28-11-2025","dg-note-properties":{"created":"28-11-2025","updated":"28-11-2025","tags":["books","sources"],"category":"[[Main Notes/Books]]","author":["[[Sources/Aristotle]]"],"released":"01-01-351 (BC)","last":"28-11-2025","first":"28-11-2025","link":"https://www.goodreads.com/book/show/19068.The_Nicomachean_Ethics","series":null,"owned":"Bookshelf"}}
 ---
 
 Author: [[Sources/Aristotle\|Aristotle]]

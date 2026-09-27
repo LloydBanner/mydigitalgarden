@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-eye-of-the-bedlam-bride/","tags":["books","sources"],"created":"06-03-2026","updated":"06-03-2026"}
+{"dg-publish":true,"permalink":"/sources/the-eye-of-the-bedlam-bride/","tags":["books","sources"],"created":"06-03-2026","updated":"06-03-2026","dg-note-properties":{"created":"06-03-2026","updated":"06-03-2026","tags":["books","sources"],"category":"[[Main Notes/Books]]","author":["[[Sources/Matt Dinniman]]"],"released":"02-07-2023","last":"04-03-2026","first":"11-01-2026","link":"https://www.goodreads.com/book/show/125887685-the-eye-of-the-bedlam-bride","series":"[[Sources/Dungeon Crawler Carl (series)]]","owned":"Bookshelf"}}
 ---
 
 Author: [[Sources/Matt Dinniman\|Matt Dinniman]]

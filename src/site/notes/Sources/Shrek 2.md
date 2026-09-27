@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/shrek-2/","tags":["films","sources","theBest","fairyTale","kids","animated"],"created":"29-12-2025","updated":"29-12-2025"}
+{"dg-publish":true,"permalink":"/sources/shrek-2/","tags":["films","sources","theBest","fairyTale","kids","animated"],"created":"29-12-2025","updated":"29-12-2025","dg-note-properties":{"created":"29-12-2025","updated":"29-12-2025","tags":["films","sources","theBest","fairyTale","kids","animated"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Andrew Adamson]]","[[Sources/Kelly Asbury]]","[[Sources/Conrad Vernon]]"],"cast":["[[Mike Myers]]","[[Cameron Diaz]]","[[Eddie Murphy]]","[[Antonio Banderas]]","[[Julie Andrews]]","[[John Cleese]]"],"released":"08-05-2004","last":"2019","first":"2008","link":"https://www.imdb.com/title/tt0298148/","owned":"On NAS","series":"[[Sources/Shrek Films]]"}}
 ---
 
 Directors: [[Sources/Andrew Adamson\|Andrew Adamson]],[[Sources/Kelly Asbury\|Kelly Asbury]],[[Sources/Conrad Vernon\|Conrad Vernon]]

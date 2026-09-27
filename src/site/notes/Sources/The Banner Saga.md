@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-banner-saga/","tags":["videoGames","sources","theBest","fantasy","strategy"],"created":"24-10-2025","updated":"22-11-2025"}
+{"dg-publish":true,"permalink":"/sources/the-banner-saga/","tags":["videoGames","sources","theBest","fantasy","strategy"],"created":"24-10-2025","updated":"22-11-2025","dg-note-properties":{"created":"24-10-2025","updated":"22-11-2025","tags":["videoGames","sources","theBest","fantasy","strategy"],"category":"[[Main Notes/Video Games]]","developer":"Stoic","publisher":"Stoic","series":"[[Sources/Banner Saga Trilogy]]","released":"14-01-2014","last":"17-10-2025","first":"2017","link":"https://store.steampowered.com/app/237990/The_Banner_Saga/","owned":"Steam"}}
 ---
 
 Developer: Stoic

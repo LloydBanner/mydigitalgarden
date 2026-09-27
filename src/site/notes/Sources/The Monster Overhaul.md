@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-monster-overhaul/","tags":["books","sources","theBest","fantasy","ttrpgResources"],"created":"11-11-2025","updated":"11-11-2025"}
+{"dg-publish":true,"permalink":"/sources/the-monster-overhaul/","tags":["books","sources","theBest","fantasy","ttrpgResources"],"created":"11-11-2025","updated":"11-11-2025","dg-note-properties":{"created":"11-11-2025","updated":"11-11-2025","tags":["books","sources","theBest","fantasy","ttrpgResources"],"category":"[[Main Notes/Books]]","author":["[[Sources/Skerples]]"],"released":"13-2-2023","last":"2025","first":"2025","link":"https://coinsandscrolls.blogspot.com/2023/02/osr-monster-overhaul-megapost.html","series":null,"owned":"Bookshelf"}}
 ---
 
 Author: [[Sources/Skerples\|Skerples]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/ten-arguments-for-deleting-your-social-media-accounts-right-now/","tags":["books","sources","non-fiction","theBest"],"created":"01-06-2025","updated":"13-09-2025"}
+{"dg-publish":true,"permalink":"/sources/ten-arguments-for-deleting-your-social-media-accounts-right-now/","tags":["books","sources","non-fiction","theBest"],"created":"01-06-2025","updated":"13-09-2025","dg-note-properties":{"created":"01-06-2025","updated":"13-09-2025","tags":["books","sources","non-fiction","theBest"],"category":"[[Main Notes/Books]]","author":"[[Sources/Jaron Lanier]]","released":"29-05-2018","last":"2022","first":"2022","link":"https://www.goodreads.com/book/show/37830765-ten-arguments-for-deleting-your-social-media-accounts-right-now","series":null}}
 ---
 
 Author: [[Sources/Jaron Lanier\|Jaron Lanier]]
