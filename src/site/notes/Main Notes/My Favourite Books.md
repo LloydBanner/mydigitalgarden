@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-favourite-books/","created":"11-05-2025","updated":"22-12-2025"}
+{"dg-publish":true,"permalink":"/main-notes/my-favourite-books/","created":"11-05-2025","updated":"22-12-2025","dg-note-properties":{"created":"11-05-2025","updated":"22-12-2025"}}
 ---
 
 **The List:**
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sources/Books/Notes/Piranesi\|Piranesi]]                                                                                                   |
 | [[Sources/This Inevitable Ruin\|This Inevitable Ruin]]                                                                                       |
 | [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]                                                                               |
 | [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]                                                                               |

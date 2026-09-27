@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-development/trenchbroom/","tags":["sources"],"created":"21-04-2025","updated":"26-08-2025"}
+{"dg-publish":true,"permalink":"/game-development/trenchbroom/","tags":["sources"],"created":"21-04-2025","updated":"26-08-2025","dg-note-properties":{"created":"21-04-2025","updated":"26-08-2025","tags":["sources"]}}
 ---
 
 ## Web Description

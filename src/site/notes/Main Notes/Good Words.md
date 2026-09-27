@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"24-05-2025","updated":"18-06-2026"}
+{"dg-publish":true,"permalink":"/main-notes/good-words/","tags":["thoughts","draft","feed"],"created":"24-05-2025","updated":"18-06-2026","dg-note-properties":{"created":"24-05-2025","updated":"18-06-2026","category":"[[Thoughts]]","tags":["thoughts","draft","feed"]}}
 ---
 
 A collection of good words for writing that I have discovered. Wanting to write more fantasy, I am collecting them to better describe different situations.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/dartmore-freelancer/","created":"12-09-2026","updated":"12-09-2026"}
+{"dg-publish":true,"permalink":"/main-notes/dartmore-freelancer/","created":"12-09-2026","updated":"12-09-2026","dg-note-properties":{"created":"12-09-2026","updated":"12-09-2026"}}
 ---
 
 ### Free Items

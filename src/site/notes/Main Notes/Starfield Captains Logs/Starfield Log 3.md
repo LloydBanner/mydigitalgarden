@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/starfield-captains-logs/starfield-log-3/","created":"21-04-2025","updated":"21-04-2025"}
+{"dg-publish":true,"permalink":"/main-notes/starfield-captains-logs/starfield-log-3/","created":"21-04-2025","updated":"21-04-2025","dg-note-properties":{"created":"21-04-2025","updated":"21-04-2025"}}
 ---
 
-[Captains Logs](Starfield%20Captains%20Logs.md)
+[[Main Notes/Starfield Captains Logs/Starfield Captains Logs\|Captains Logs]]
 
 My first Freestar bounty was on an outlaw game boss. They were inside an abandoned research facility on a moon in the Akila system. Oddly enough, when I arrived, I heard shooting. There was a fight going on inside the outpost. Everyone fighting was wearing ecliptic gear, so it seemed some form of mutiny was happening. I used the fighting to my advantage and snuck my way through, taking out the ecliptic that I had to. When I got to the command centre, my target was already dead. I was still able to claim the bounty, I should have been happy, but it unsettled me. It was like someone had followed me and killed my target to prove a point. They knew what I was doing and could do it better than I.
 

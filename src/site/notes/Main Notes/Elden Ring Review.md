@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/elden-ring-review/","tags":["feed","reviews"],"created":"21-04-2025","updated":"22-04-2025"}
+{"dg-publish":true,"permalink":"/main-notes/elden-ring-review/","tags":["feed","reviews"],"created":"21-04-2025","updated":"22-04-2025","dg-note-properties":{"created":"21-04-2025","updated":"22-04-2025","tags":["feed","reviews"]}}
 ---
 
 Written 20-03-2022

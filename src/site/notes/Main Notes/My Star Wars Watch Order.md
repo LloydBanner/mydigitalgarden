@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-star-wars-watch-order/","tags":["starWars","feed","developing"],"created":"20-04-2025","updated":"22-06-2025"}
+{"dg-publish":true,"permalink":"/main-notes/my-star-wars-watch-order/","tags":["starWars","feed","developing"],"created":"20-04-2025","updated":"22-06-2025","dg-note-properties":{"created":"20-04-2025","updated":"22-06-2025","tags":["starWars","feed","developing"]}}
 ---
 
 - [[Sources/Andor\|Andor]]

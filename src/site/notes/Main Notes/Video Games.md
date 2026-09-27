@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/video-games/","created":"19-04-2025","updated":"20-03-2026"}
+{"dg-publish":true,"permalink":"/main-notes/video-games/","created":"19-04-2025","updated":"20-03-2026","dg-note-properties":{"created":"19-04-2025","updated":"20-03-2026"}}
 ---
 
 I have always and probably will always enjoy video games. I think the interactivity of the medium and the problem solving that many games encourage are great. 

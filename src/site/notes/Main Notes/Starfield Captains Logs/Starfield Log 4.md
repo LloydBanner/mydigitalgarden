@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/starfield-captains-logs/starfield-log-4/","created":"21-04-2025","updated":"21-04-2025"}
+{"dg-publish":true,"permalink":"/main-notes/starfield-captains-logs/starfield-log-4/","created":"21-04-2025","updated":"21-04-2025","dg-note-properties":{"created":"21-04-2025","updated":"21-04-2025"}}
 ---
 
-[Captains Logs](Starfield%20Captains%20Logs.md)
+[[Main Notes/Starfield Captains Logs/Starfield Captains Logs\|Captains Logs]]
 
 I went back to Constellation. They seemed somewhat surprised but were happy to have me back. I went out into the galaxy looking for the artifacts which even after seeing their reactions with each other I thought were useless. We have six in total now and when another was added they floated together spinning to create a globe like shape. I thought it was just a useless affect of some old metals but now I know it's something more.
 

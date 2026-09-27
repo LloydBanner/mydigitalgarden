@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/complete-feed/","created":"27-04-2025","updated":"04-10-2025"}
+{"dg-publish":true,"permalink":"/main-notes/complete-feed/","created":"27-04-2025","updated":"04-10-2025","dg-note-properties":{"created":"27-04-2025","updated":"04-10-2025"}}
 ---
 
 This is the feed of all the information that I thought was feed worthy.

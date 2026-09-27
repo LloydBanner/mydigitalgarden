@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/revenge-of-the-sith-review-2025/","tags":["reviews","starWars","feed","developed"],"created":"06-05-2025","updated":"10-05-2025"}
+{"dg-publish":true,"permalink":"/main-notes/revenge-of-the-sith-review-2025/","tags":["reviews","starWars","feed","developed"],"created":"06-05-2025","updated":"10-05-2025","dg-note-properties":{"created":"06-05-2025","updated":"10-05-2025","tags":["reviews","starWars","feed","developed"]}}
 ---
 
 Written 06-05-2025

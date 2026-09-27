@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/books-i-want-to-read/","tags":["books","developing"],"created":"01-06-2025","updated":"22-12-2025"}
+{"dg-publish":true,"permalink":"/main-notes/books-i-want-to-read/","tags":["books","developing"],"created":"01-06-2025","updated":"22-12-2025","dg-note-properties":{"created":"01-06-2025","updated":"22-12-2025","tags":["books","developing"]}}
 ---
 
 - The Weirdest People in the World

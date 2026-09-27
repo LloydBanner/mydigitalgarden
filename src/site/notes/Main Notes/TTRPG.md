@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/ttrpg/","created":"17-04-2025","updated":"25-06-2025"}
+{"dg-publish":true,"permalink":"/main-notes/ttrpg/","created":"17-04-2025","updated":"25-06-2025","dg-note-properties":{"created":"17-04-2025","updated":"25-06-2025"}}
 ---
 
 I like playing table top roleplaying games (TTRPGs), the most well known one is Dungeons and Dragons (D&D) but there are plenty of others. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/the-best-star-wars-games/","tags":["feed","starWars","developing"],"created":"20-04-2025","updated":"21-04-2025"}
+{"dg-publish":true,"permalink":"/main-notes/the-best-star-wars-games/","tags":["feed","starWars","developing"],"created":"20-04-2025","updated":"21-04-2025","dg-note-properties":{"created":"20-04-2025","updated":"21-04-2025","tags":["feed","starWars","developing"]}}
 ---
 
 [[Sources/Star Wars\|Star Wars]] has a great setting and has created some great video game experiences both official and non-official. Below are my favourites.

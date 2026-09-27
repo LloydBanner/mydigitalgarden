@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cooking-recipes/chicken-and-bulgar-wheat-recipe/","tags":["feed","lloydsCookingRecipes","developed"],"created":"21-04-2025","updated":"21-04-2025"}
+{"dg-publish":true,"permalink":"/cooking-recipes/chicken-and-bulgar-wheat-recipe/","tags":["feed","lloydsCookingRecipes","developed"],"created":"21-04-2025","updated":"21-04-2025","dg-note-properties":{"created":"21-04-2025","updated":"21-04-2025","tags":["feed","lloydsCookingRecipes","developed"]}}
 ---
 
 Serves 2

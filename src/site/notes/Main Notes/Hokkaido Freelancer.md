@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/hokkaido-freelancer/","created":"10-09-2026","updated":"10-09-2026"}
+{"dg-publish":true,"permalink":"/main-notes/hokkaido-freelancer/","created":"10-09-2026","updated":"10-09-2026","dg-note-properties":{"created":"10-09-2026","updated":"10-09-2026"}}
 ---
 
 ### Free Items

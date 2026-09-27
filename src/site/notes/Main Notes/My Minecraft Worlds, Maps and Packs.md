@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/my-minecraft-worlds-maps-and-packs/","tags":["feed","developing"],"created":"20-04-2025","updated":"15-12-2025"}
+{"dg-publish":true,"permalink":"/main-notes/my-minecraft-worlds-maps-and-packs/","tags":["feed","developing"],"created":"20-04-2025","updated":"15-12-2025","dg-note-properties":{"created":"20-04-2025","updated":"15-12-2025","tags":["feed","developing"]}}
 ---
 
 ## Singleplayer 2025-2026

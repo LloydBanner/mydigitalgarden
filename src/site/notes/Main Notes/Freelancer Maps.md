@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/freelancer-maps/","created":"10-09-2026","updated":"12-09-2026"}
+{"dg-publish":true,"permalink":"/main-notes/freelancer-maps/","created":"10-09-2026","updated":"12-09-2026","dg-note-properties":{"created":"10-09-2026","updated":"12-09-2026"}}
 ---
 
 Info I found Useful for different maps in freelancer

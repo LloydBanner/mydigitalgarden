@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/starfield-captains-logs/starfield-log-1/","created":"21-04-2025","updated":"21-04-2025"}
+{"dg-publish":true,"permalink":"/main-notes/starfield-captains-logs/starfield-log-1/","created":"21-04-2025","updated":"21-04-2025","dg-note-properties":{"created":"21-04-2025","updated":"21-04-2025"}}
 ---
 
-[Captains Logs](Starfield%20Captains%20Logs.md)
+[[Main Notes/Starfield Captains Logs/Starfield Captains Logs\|Captains Logs]]
 
 I was lying low doing some mining jobs, since I had some heat, when I found an artefact. It gave me a nice little light show when I touched it, and when I woke up, a man had arrived asking me to take it to a group called Constellation. He lent his ship with some protocols to avoid me using it for anything else, so I could take the artefact to this Constellation while he cleaned up a mess he had made bringing pirates to the mining outpost. 
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/starfield-captains-logs/starfield-log-2/","created":"21-04-2025","updated":"21-04-2025"}
+{"dg-publish":true,"permalink":"/main-notes/starfield-captains-logs/starfield-log-2/","created":"21-04-2025","updated":"21-04-2025","dg-note-properties":{"created":"21-04-2025","updated":"21-04-2025"}}
 ---
 
-[Captains Logs](Starfield%20Captains%20Logs.md)
+[[Main Notes/Starfield Captains Logs/Starfield Captains Logs\|Captains Logs]]
 
 While searching for the ideal destination for lying low, I encountered a distress beacon in the outer reaches of the galaxy. When I went to help, spacers were attacking a Freestar outpost, and some UC marines had stopped off to help out. Neither of the groups fighting the spacers was in good shape when I arrived. I shot my way through to the Freestar group, and then together we found the UC captain, Myeong. At first, the Freestar were reluctant to help the UC, but I convinced them they all had a common goal. I never could stand spacers, tearing things apart and never building anything themselves.
 
