@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/rouge-one/","tags":["starWars","films","fanEdits","sources","theBest"],"created":"22-06-2025","updated":"22-06-2025"}
+{"dg-publish":true,"permalink":"/sources/rouge-one/","tags":["starWars","films","fanEdits","sources","theBest"],"created":"22-06-2025","updated":"22-06-2025","dg-note-properties":{"created":"22-06-2025","updated":"22-06-2025","tags":["starWars","films","fanEdits","sources","theBest"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Gareth Edwards]]","[[Sources/Tony Gilroy]]"],"cast":["[[Diego Luna]]"],"released":"13-12-2016","last":"14-06-2025","first":"2016","link":"https://m.imdb.com/title/tt3748528/","owned":"2160p NAS"}}
 ---
 
 Directors: [[Sources/Gareth Edwards\|Gareth Edwards]],[[Sources/Tony Gilroy\|Tony Gilroy]]
