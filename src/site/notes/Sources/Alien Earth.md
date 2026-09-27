@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/alien-earth/","tags":["TV","sources","theBest","Sci-Fi"],"created":"09-01-2026","updated":"09-01-2026"}
+{"dg-publish":true,"permalink":"/sources/alien-earth/","tags":["TV","sources","theBest","Sci-Fi"],"created":"09-01-2026","updated":"09-01-2026","dg-note-properties":{"created":"09-01-2026","updated":"09-01-2026","tags":["TV","sources","theBest","Sci-Fi"],"category":"[[TV]]","creators":["[[Sources/Noah Hawley]]"],"cast":["[[Sydney Chandler]]","[[Alex Lawther]]","[[Essie Davis]]","[[Samuel Blenkin]]","[[Babou Ceesay]]","[[Timothy Olyphant]]","[[Lily Newmark]]"],"released":"25-07-2025","last":"07-01-2026","first":"26-01-2025","link":"https://www.imdb.com/title/tt13623632/","owned":"no"}}
 ---
 
 Creators: [[Sources/Noah Hawley\|Noah Hawley]]

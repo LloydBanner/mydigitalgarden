@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/28-days-later/","tags":["films","sources","zombies","theBest"],"created":"12-10-2025","updated":"24-01-2026"}
+{"dg-publish":true,"permalink":"/sources/28-days-later/","tags":["films","sources","zombies","theBest"],"created":"12-10-2025","updated":"24-01-2026","dg-note-properties":{"created":"12-10-2025","updated":"24-01-2026","tags":["films","sources","zombies","theBest"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Danny Boyle]]"],"cast":["[[Cillian Murphy]]","[[Naomie Harris]]","[[Christopher Eccleston]]"],"released":"16-10-2002","last":"2010","first":"2010","link":"https://www.imdb.com/title/tt0289043/?ref_=nm_flmg_job_1_accord_2_cdt_t_18","owned":"1080p NAS","series":"[[Sources/28 Days Later (series)]]"}}
 ---
 
 Directors: [[Sources/Danny Boyle\|Danny Boyle]]

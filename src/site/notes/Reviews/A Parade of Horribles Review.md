@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/a-parade-of-horribles-review/","tags":["feed","reviews","developing"],"created":"18-06-2026","updated":"18-06-2026"}
+{"dg-publish":true,"permalink":"/reviews/a-parade-of-horribles-review/","tags":["feed","reviews","developing"],"created":"18-06-2026","updated":"18-06-2026","dg-note-properties":{"created":"18-06-2026","updated":"18-06-2026","written":"18-06-2026","tags":["feed","reviews","developing"]}}
 ---
 
 Written: 18-06-2026

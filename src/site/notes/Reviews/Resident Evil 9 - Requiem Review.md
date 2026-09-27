@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/resident-evil-9-requiem-review/","tags":["feed","reviews","developed"],"created":"14-03-2026","updated":"14-03-2026"}
+{"dg-publish":true,"permalink":"/reviews/resident-evil-9-requiem-review/","tags":["feed","reviews","developed"],"created":"14-03-2026","updated":"14-03-2026","dg-note-properties":{"created":"14-03-2026","updated":"14-03-2026","written":"14-03-2026","tags":["feed","reviews","developed"]}}
 ---
 
 Written: 14-03-2026

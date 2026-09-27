@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/blue-prince-review/","tags":["feed","reviews","developed"],"created":"29-03-2026","updated":"29-03-2026"}
+{"dg-publish":true,"permalink":"/reviews/blue-prince-review/","tags":["feed","reviews","developed"],"created":"29-03-2026","updated":"29-03-2026","dg-note-properties":{"created":"29-03-2026","updated":"29-03-2026","written":"29-03-2026","tags":["feed","reviews","developed"]}}
 ---
 
 Written: 29-03-2026

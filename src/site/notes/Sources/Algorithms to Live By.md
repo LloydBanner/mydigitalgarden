@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/algorithms-to-live-by/","tags":["books","sources","science","non-fiction","theBest"],"created":"01-06-2025","updated":"01-06-2025"}
+{"dg-publish":true,"permalink":"/sources/algorithms-to-live-by/","tags":["books","sources","science","non-fiction","theBest"],"created":"01-06-2025","updated":"01-06-2025","dg-note-properties":{"created":"01-06-2025","updated":"01-06-2025","tags":["books","sources","science","non-fiction","theBest"],"category":"[[Main Notes/Books]]","author":"[[Sources/Brian Christian]]","released":"19-04-2016","last":"2019","first":"2019","link":"https://www.goodreads.com/book/show/25666050-algorithms-to-live-by","series":null}}
 ---
 
 Author: [[Sources/Brian Christian\|Brian Christian]]

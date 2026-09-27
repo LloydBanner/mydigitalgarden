@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/batman-arkham-asylum/","tags":["videoGames","sources"],"created":"16-07-2025","updated":"16-07-2025"}
+{"dg-publish":true,"permalink":"/sources/batman-arkham-asylum/","tags":["videoGames","sources"],"created":"16-07-2025","updated":"16-07-2025","dg-note-properties":{"created":"16-07-2025","updated":"16-07-2025","tags":["videoGames","sources"],"category":"[[Main Notes/Video Games]]","developer":"Rocksteady","publisher":"WB Games","released":"26-03-2010","last":"01-07-2025","first":"2013","link":"https://store.steampowered.com/app/35140/Batman_Arkham_Asylum_Game_of_the_Year_Edition/","owned":"Steam"}}
 ---
 
 Developer: Rocksteady

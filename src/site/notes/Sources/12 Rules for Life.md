@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/12-rules-for-life/","tags":["books","sources","theBest","selfHelp"],"created":"01-06-2025","updated":"01-06-2025"}
+{"dg-publish":true,"permalink":"/sources/12-rules-for-life/","tags":["books","sources","theBest","selfHelp"],"created":"01-06-2025","updated":"01-06-2025","dg-note-properties":{"created":"01-06-2025","updated":"01-06-2025","tags":["books","sources","theBest","selfHelp"],"category":"[[Main Notes/Books]]","author":"[[Sources/Jordan Peterson]]","released":"16-01-2018","last":"2021","first":"2021","link":"https://www.goodreads.com/book/show/30257963-12-rules-for-life?ac=1","series":null}}
 ---
 
 Author: [[Sources/Jordan Peterson\|Jordan Peterson]]

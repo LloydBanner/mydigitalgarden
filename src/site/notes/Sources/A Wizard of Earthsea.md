@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/a-wizard-of-earthsea/","tags":["books","sources","theBest","fantasy"],"created":"27-04-2025","updated":"27-04-2025"}
+{"dg-publish":true,"permalink":"/sources/a-wizard-of-earthsea/","tags":["books","sources","theBest","fantasy"],"created":"27-04-2025","updated":"27-04-2025","dg-note-properties":{"created":"27-04-2025","updated":"27-04-2025","tags":["books","sources","theBest","fantasy"],"category":"[[Main Notes/Books]]","author":"[[Sources/Ursula K. Le Guin]]","released":"01-01-1968","last":"2021","first":"2021","link":"https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea","series":"[[Sources/Earthsea Cycle]]"}}
 ---
 
 Author: [[Sources/Ursula K. Le Guin\|Ursula K. Le Guin]]

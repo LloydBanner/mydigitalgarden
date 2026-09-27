@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/a-knight-of-the-seven-kingdoms-season-1-review/","tags":["feed","reviews","developing","fantasy"],"created":"28-03-2026","updated":"28-03-2026"}
+{"dg-publish":true,"permalink":"/reviews/a-knight-of-the-seven-kingdoms-season-1-review/","tags":["feed","reviews","developing","fantasy"],"created":"28-03-2026","updated":"28-03-2026","dg-note-properties":{"created":"28-03-2026","updated":"28-03-2026","written":"28-03-2026","tags":["feed","reviews","developing","fantasy"]}}
 ---
 
 Written: 28-03-2026

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/the-banner-saga-review-2017/","tags":["reviews","feed","fantasy","developed"],"created":"24-10-2025","updated":"22-11-2025"}
+{"dg-publish":true,"permalink":"/reviews/the-banner-saga-review-2017/","tags":["reviews","feed","fantasy","developed"],"created":"24-10-2025","updated":"22-11-2025","dg-note-properties":{"created":"24-10-2025","updated":"22-11-2025","tags":["reviews","feed","fantasy","developed"],"written":"02-10-2017"}}
 ---
 
 Written: 02-10-2017

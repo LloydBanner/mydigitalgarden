@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/christopher-miller/","tags":["sources","directors"],"created":"20-04-2026","updated":"20-04-2026"}
+{"dg-publish":true,"permalink":"/sources/christopher-miller/","tags":["sources","directors"],"created":"20-04-2026","updated":"20-04-2026","dg-note-properties":{"created":"20-04-2026","updated":"20-04-2026","tags":["sources","directors"],"category":"[[Directors]]"}}
 ---
 
 ## Films

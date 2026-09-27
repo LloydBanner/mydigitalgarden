@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/carl-s-doomsday-scenario/","tags":["books","sources","litRPGs","fantasy","Sci-Fi","theBest"],"created":"08-12-2025","updated":"12-01-2026"}
+{"dg-publish":true,"permalink":"/sources/carl-s-doomsday-scenario/","tags":["books","sources","litRPGs","fantasy","Sci-Fi","theBest"],"created":"08-12-2025","updated":"12-01-2026","dg-note-properties":{"created":"08-12-2025","updated":"12-01-2026","tags":["books","sources","litRPGs","fantasy","Sci-Fi","theBest"],"category":"[[Main Notes/Books]]","author":["[[Sources/Matt Dinniman]]"],"released":"06-01-2021","last":"12-12-2025","first":"07-12-2025","link":"https://www.goodreads.com/book/show/56377548-carl-s-doomsday-scenario","series":"[[Sources/Dungeon Crawler Carl (series)]]","owned":"Bookshelf"}}
 ---
 
 Author: [[Sources/Matt Dinniman\|Matt Dinniman]]

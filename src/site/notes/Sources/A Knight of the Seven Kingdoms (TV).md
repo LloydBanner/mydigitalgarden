@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/a-knight-of-the-seven-kingdoms-tv/","tags":["TV","sources","theBest","fantasy","comedy"],"created":"28-03-2026","updated":"28-03-2026"}
+{"dg-publish":true,"permalink":"/sources/a-knight-of-the-seven-kingdoms-tv/","tags":["TV","sources","theBest","fantasy","comedy"],"created":"28-03-2026","updated":"28-03-2026","dg-note-properties":{"created":"28-03-2026","updated":"28-03-2026","tags":["TV","sources","theBest","fantasy","comedy"],"category":"[[TV]]","creators":["[[Sources/George R. R, Martin]]","[[Sources/Ira Parker]]"],"cast":["[[Peter Claffey]]","[[Daniel Ings]]","[[Dexter Sol Ansell]]","[[Shaun Thomas]]"],"released":"18-01-2026","last":"21-03-2026","first":"01-03-2026","link":"https://www.imdb.com/title/tt27497448/","owned":"On NAS"}}
 ---
 
 Creators: [[Sources/George R. R, Martin\|George R. R, Martin]],[[Sources/Ira Parker\|Ira Parker]]

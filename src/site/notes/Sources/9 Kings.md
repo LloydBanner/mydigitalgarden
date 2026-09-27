@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/9-kings/","tags":["videoGames","sources","fantasy","strategy","rougelike"],"created":"03-09-2025","updated":"03-09-2025"}
+{"dg-publish":true,"permalink":"/sources/9-kings/","tags":["videoGames","sources","fantasy","strategy","rougelike"],"created":"03-09-2025","updated":"03-09-2025","dg-note-properties":{"created":"03-09-2025","updated":"03-09-2025","tags":["videoGames","sources","fantasy","strategy","rougelike"],"category":"[[Main Notes/Video Games]]","developer":"Sad Socket","publisher":"Hooded Horse and INSTINCT3","released":"23-05-2025","last":"03-09-2025","first":"28-08-2025","link":"https://store.steampowered.com/app/2784470/9_Kings/","owned":"Steam"}}
 ---
 
 Developer: Sad Socket

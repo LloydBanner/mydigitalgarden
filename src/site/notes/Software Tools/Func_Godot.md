@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software-tools/func-godot/","tags":["sources"],"created":"11-03-2025","updated":"26-08-2025"}
+{"dg-publish":true,"permalink":"/software-tools/func-godot/","tags":["sources"],"created":"11-03-2025","updated":"26-08-2025","dg-note-properties":{"created":"11-03-2025","updated":"26-08-2025","tags":["sources"]}}
 ---
 
 Func_Godot is a plugin for [[Software Tools/Godot\|Godot]] that allows you to use [[Game development/Trenchbroom\|Trenchbroom]] .map files. 

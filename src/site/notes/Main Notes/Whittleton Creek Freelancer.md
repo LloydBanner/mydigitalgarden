@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/main-notes/whittleton-creek-freelancer/","created":"10-09-2026","updated":"10-09-2026"}
+{"dg-publish":true,"permalink":"/main-notes/whittleton-creek-freelancer/","created":"10-09-2026","updated":"12-09-2026","dg-note-properties":{"created":"10-09-2026","updated":"12-09-2026"}}
 ---
 
 ### Free Items
@@ -10,3 +10,4 @@
 - Schmidt Property - Propane Flask
 - Cassidy Property - Car Battery, Fire extinguisher 
 - West Property - Lethal Pills
+- Garbage Man who enters house - Hackl 9S Covert

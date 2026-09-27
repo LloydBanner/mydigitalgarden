@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/2001-a-space-odyssey/","tags":["films","sources","theBest","Sci-Fi"],"created":"03-05-2026","updated":"03-05-2026"}
+{"dg-publish":true,"permalink":"/sources/2001-a-space-odyssey/","tags":["films","sources","theBest","Sci-Fi"],"created":"03-05-2026","updated":"03-05-2026","dg-note-properties":{"created":"03-05-2026","updated":"03-05-2026","tags":["films","sources","theBest","Sci-Fi"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Stanley Kubrick]]"],"cast":["[[Keir Dullea]]","[[Douglas Rain]]","[[Gary Lockwood]]","[[William Sylvester]]"],"released":"02-04-1968","last":"2012","first":"2012","link":"https://www.imdb.com/title/tt0062622/","owned":"2160p NAS"}}
 ---
 
 Directors: [[Sources/Stanley Kubrick\|Stanley Kubrick]]

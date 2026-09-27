@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/blue-prince/","tags":["videoGames","sources","rougelike","puzzle"],"created":"29-03-2026","updated":"29-03-2026"}
+{"dg-publish":true,"permalink":"/sources/blue-prince/","tags":["videoGames","sources","rougelike","puzzle"],"created":"29-03-2026","updated":"29-03-2026","dg-note-properties":{"created":"29-03-2026","updated":"29-03-2026","tags":["videoGames","sources","rougelike","puzzle"],"category":"[[Main Notes/Video Games]]","developer":"Dogubomb","publisher":"Raw Fury","series":null,"released":"10-04-2025","first":"24-03-2026","last":"29-03-2026","link":"https://store.steampowered.com/app/1569580/Blue_Prince/","owned":"Steam"}}
 ---
 
 Developer: Dogubomb

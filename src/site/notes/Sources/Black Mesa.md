@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/black-mesa/","tags":["videoGames","sources"],"created":"24-01-2026","updated":"28-01-2026"}
+{"dg-publish":true,"permalink":"/sources/black-mesa/","tags":["videoGames","sources"],"created":"24-01-2026","updated":"28-01-2026","dg-note-properties":{"created":"24-01-2026","updated":"28-01-2026","tags":["videoGames","sources"],"category":"[[Main Notes/Video Games]]","developer":"Crowbar Collective","publisher":"Crowbar Collective","series":"[[Sources/Half Life Games]]","released":"06-03-2020","first":"15-01-2026","last":"27-01-2026","link":"https://store.steampowered.com/app/362890/Black_Mesa/","owned":"Steam"}}
 ---
 
 Developer: Crowbar Collective

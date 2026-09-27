@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/bloodthief/","tags":["videoGames","sources","fantasy","fastpaced","theBest","feed","reviews","developed"],"created":"12-10-2025","updated":"12-10-2025"}
+{"dg-publish":true,"permalink":"/sources/bloodthief/","tags":["videoGames","sources","fantasy","fastpaced","theBest","feed","reviews","developed"],"created":"12-10-2025","updated":"12-10-2025","dg-note-properties":{"created":"12-10-2025","updated":"12-10-2025","tags":["videoGames","sources","fantasy","fastpaced","theBest","feed","reviews","developed"],"category":"[[Main Notes/Video Games]]","developer":"[[Sources/Blargis]]","publisher":"[[Sources/Blargis]]","released":"22-09-2025","last":"12-10-2025","first":"09-10-2025","link":"https://store.steampowered.com/app/2533600/Bloodthief/","owned":"Steam"}}
 ---
 
 Developer: [[Sources/Blargis\|Blargis]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/spec-ops-the-line-review/","tags":["feed","reviews","developed"],"created":"28-03-2026","updated":"28-03-2026"}
+{"dg-publish":true,"permalink":"/reviews/spec-ops-the-line-review/","tags":["feed","reviews","developed"],"created":"28-03-2026","updated":"28-03-2026","dg-note-properties":{"created":"28-03-2026","updated":"28-03-2026","written":"28-03-2026","tags":["feed","reviews","developed"]}}
 ---
 
 Written: 28-03-2026

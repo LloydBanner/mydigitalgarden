@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/black-mesa-review/","tags":["feed","reviews","developed"],"created":"28-01-2026","updated":"28-01-2026"}
+{"dg-publish":true,"permalink":"/reviews/black-mesa-review/","tags":["feed","reviews","developed"],"created":"28-01-2026","updated":"28-01-2026","dg-note-properties":{"created":"28-01-2026","updated":"28-01-2026","written":"28-01-2026","tags":["feed","reviews","developed"]}}
 ---
 
 Written: 28-01-2026

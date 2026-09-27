@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/the-eye-of-the-bedlam-bride-review/","tags":["feed","reviews","developed"],"created":"06-03-2026","updated":"06-03-2026"}
+{"dg-publish":true,"permalink":"/reviews/the-eye-of-the-bedlam-bride-review/","tags":["feed","reviews","developed"],"created":"06-03-2026","updated":"06-03-2026","dg-note-properties":{"created":"06-03-2026","updated":"06-03-2026","written":"06-03-2026","tags":["feed","reviews","developed"]}}
 ---
 
 Written: 06-03-2026

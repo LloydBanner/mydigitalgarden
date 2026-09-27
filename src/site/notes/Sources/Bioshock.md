@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/bioshock/","tags":["videoGames","theBest","bioshock","sources"],"created":"01-04-2026","updated":"24-01-2026"}
+{"dg-publish":true,"permalink":"/sources/bioshock/","tags":["videoGames","theBest","bioshock","sources"],"created":"01-04-2026","updated":"24-01-2026","dg-note-properties":{"created":"01-04-2026","updated":"24-01-2026","tags":["videoGames","theBest","bioshock","sources"],"category":"[[Main Notes/Video Games]]","developer":"2K","publisher":"2K","series":"[[Sources/Bioshock Series]]","released":"21-08-2007","first":"01-04-2026","last":"01-04-2026","link":"https://store.steampowered.com/app/7670/BioShock/","owned":"On NAS"}}
 ---
 
 Developer: 2K

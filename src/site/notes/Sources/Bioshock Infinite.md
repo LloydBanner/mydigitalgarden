@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/bioshock-infinite/","tags":["videoGames","sources","bioshock"],"created":"27-08-2025","updated":"27-08-2025"}
+{"dg-publish":true,"permalink":"/sources/bioshock-infinite/","tags":["videoGames","sources","bioshock"],"created":"27-08-2025","updated":"27-08-2025","dg-note-properties":{"created":"27-08-2025","updated":"27-08-2025","tags":["videoGames","sources","bioshock"],"category":"[[Main Notes/Video Games]]","developer":"Irrational Games","publisher":"2K","released":"25-03-2013","last":"2015","first":"2015","link":"https://steamcommunity.com/games/BioShockInfinite","owned":"On NAS"}}
 ---
 
 Developer: Irrational Games

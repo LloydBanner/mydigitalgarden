@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/jedi-knight-ii-jedi-outcast-review/","tags":["feed","starWars","reviews","developed"],"created":"20-04-2025","updated":"22-04-2025"}
+{"dg-publish":true,"permalink":"/reviews/jedi-knight-ii-jedi-outcast-review/","tags":["feed","starWars","reviews","developed"],"created":"20-04-2025","updated":"22-04-2025","dg-note-properties":{"created":"20-04-2025","updated":"22-04-2025","published":"17-05-2022","tags":["feed","starWars","reviews","developed"]}}
 ---
 
 Written: 17-05-2022

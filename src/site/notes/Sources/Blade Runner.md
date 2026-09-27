@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/blade-runner/","tags":["films","sources","Sci-Fi","theBest"],"created":"03-06-2025","updated":"03-06-2025"}
+{"dg-publish":true,"permalink":"/sources/blade-runner/","tags":["films","sources","Sci-Fi","theBest"],"created":"03-06-2025","updated":"03-06-2025","dg-note-properties":{"created":"03-06-2025","updated":"03-06-2025","tags":["films","sources","Sci-Fi","theBest"],"category":"[[Main Notes/Films]]","director":"[[Sources/Ridley Scott]]","cast":["[[Harison Ford]]"],"released":"25-06-1982","last":"01-03-2025","first":"2015","link":"https://m.imdb.com/title/tt0083658/?ref_=mv_sm","owned":"2160p NAS"}}
 ---
 
 Director: [[Sources/Ridley Scott\|Ridley Scott]]

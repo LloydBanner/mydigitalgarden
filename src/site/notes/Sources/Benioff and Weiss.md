@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/benioff-and-weiss/","created":"24-05-2025","updated":"24-05-2025"}
+{"dg-publish":true,"permalink":"/sources/benioff-and-weiss/","created":"24-05-2025","updated":"24-05-2025","dg-note-properties":{"created":"24-05-2025","updated":"24-05-2025","category":"[[Directors]]"}}
 ---
 
 ## TV Shows

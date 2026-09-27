@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/project-hail-mary-review/","tags":["feed","reviews","developed"],"created":"20-04-2026","updated":"20-04-2026"}
+{"dg-publish":true,"permalink":"/reviews/project-hail-mary-review/","tags":["feed","reviews","developed"],"created":"20-04-2026","updated":"20-04-2026","dg-note-properties":{"created":"20-04-2026","updated":"20-04-2026","written":"20-04-2026","tags":["feed","reviews","developed"]}}
 ---
 
 Written: 20-04-2026

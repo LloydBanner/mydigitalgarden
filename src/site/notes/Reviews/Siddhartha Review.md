@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/siddhartha-review/","tags":["feed","reviews","developing","stoicism","buddhism"],"created":"28-11-2025","updated":"28-11-2025"}
+{"dg-publish":true,"permalink":"/reviews/siddhartha-review/","tags":["feed","reviews","developing","stoicism","buddhism"],"created":"28-11-2025","updated":"28-11-2025","dg-note-properties":{"created":"28-11-2025","updated":"28-11-2025","written":"28-11-2025","tags":["feed","reviews","developing","stoicism","buddhism"]}}
 ---
 
 Written: 28-11-2025

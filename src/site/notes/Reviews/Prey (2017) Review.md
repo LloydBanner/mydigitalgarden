@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/prey-2017-review/","tags":["feed","reviews","developed"],"created":"20-04-2025","updated":"22-04-2025"}
+{"dg-publish":true,"permalink":"/reviews/prey-2017-review/","tags":["feed","reviews","developed"],"created":"20-04-2025","updated":"22-04-2025","dg-note-properties":{"created":"20-04-2025","updated":"22-04-2025","tags":["feed","reviews","developed"]}}
 ---
 
 Written: 24-01-2023

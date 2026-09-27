@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software-tools/gd-script/","tags":["sources"],"created":"11-03-2025","updated":"26-08-2025"}
+{"dg-publish":true,"permalink":"/software-tools/gd-script/","tags":["sources"],"created":"11-03-2025","updated":"26-08-2025","dg-note-properties":{"created":"11-03-2025","updated":"26-08-2025","tags":["sources"]}}
 ---
 
 GDScript is a language built for Godot to be able to make lightweight scripts.

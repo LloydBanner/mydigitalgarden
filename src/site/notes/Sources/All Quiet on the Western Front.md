@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/all-quiet-on-the-western-front/","tags":["films","sources","war","theBest"],"created":"22-12-2025","updated":"22-12-2025"}
+{"dg-publish":true,"permalink":"/sources/all-quiet-on-the-western-front/","tags":["films","sources","war","theBest"],"created":"22-12-2025","updated":"22-12-2025","dg-note-properties":{"created":"22-12-2025","updated":"22-12-2025","tags":["films","sources","war","theBest"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Edward Berger]]"],"cast":["[[Felix Kammerer]]","[[Albrecht Schuch]]","[[Aaron Hilmer]]"],"released":"12-09-2022","last":"2023","first":"2023","link":"https://www.imdb.com/title/tt1016150","owned":"On NAS"}}
 ---
 
 Directors: [[Sources/Edward Berger\|Edward Berger]]

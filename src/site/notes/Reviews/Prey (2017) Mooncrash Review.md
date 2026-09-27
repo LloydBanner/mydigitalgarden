@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/prey-2017-mooncrash-review/","tags":["reviews","feed","developed"],"created":"20-04-2025","updated":"04-10-2025"}
+{"dg-publish":true,"permalink":"/reviews/prey-2017-mooncrash-review/","tags":["reviews","feed","developed"],"created":"20-04-2025","updated":"04-10-2025","dg-note-properties":{"created":"20-04-2025","updated":"04-10-2025","published":"05-02-2023","tags":["reviews","feed","developed"]}}
 ---
 
 Written: 05-02-2023

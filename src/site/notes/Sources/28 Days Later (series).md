@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/28-days-later-series/","tags":["sources","filmSeries"],"created":"24-01-2026","updated":"24-01-2026"}
+{"dg-publish":true,"permalink":"/sources/28-days-later-series/","tags":["sources","filmSeries"],"created":"24-01-2026","updated":"24-01-2026","dg-note-properties":{"created":"24-01-2026","updated":"24-01-2026","tags":["sources","filmSeries"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Danny Boyle]]","[[Sources/Nia DaCosta]]"]}}
 ---
 
 Directors: [[Sources/Danny Boyle\|Danny Boyle]],[[Sources/Nia DaCosta\|Nia DaCosta]]

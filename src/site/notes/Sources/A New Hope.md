@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/a-new-hope/","tags":["theBest","starWars","films","sources"],"created":"18-04-2025","updated":"22-04-2025"}
+{"dg-publish":true,"permalink":"/sources/a-new-hope/","tags":["theBest","starWars","films","sources"],"created":"18-04-2025","updated":"22-04-2025","dg-note-properties":{"created":"18-04-2025","updated":"22-04-2025","tags":["theBest","starWars","films","sources"]}}
 ---
 
 My favourite [[Sources/Star Wars\|Star Wars]] film. I think this has incredible world building, introduces the wonder of [[Sources/Star Wars\|Star Wars]] perfectly and is just all around a great film. If you are not going to watch any other [[Sources/Star Wars\|Star Wars]] film watch this one!

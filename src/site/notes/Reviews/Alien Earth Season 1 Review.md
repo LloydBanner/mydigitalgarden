@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/alien-earth-season-1-review/","tags":["feed","reviews","developing","Sci-Fi"],"created":"09-01-2026","updated":"09-01-2026"}
+{"dg-publish":true,"permalink":"/reviews/alien-earth-season-1-review/","tags":["feed","reviews","developing","Sci-Fi"],"created":"09-01-2026","updated":"09-01-2026","dg-note-properties":{"created":"09-01-2026","updated":"09-01-2026","written":"09-01-2026","tags":["feed","reviews","developing","Sci-Fi"]}}
 ---
 
 Written: 09-01-2026

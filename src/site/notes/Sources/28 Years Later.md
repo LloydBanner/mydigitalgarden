@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/28-years-later/","tags":["films","sources","zombies"],"created":"12-10-2025","updated":"24-01-2026"}
+{"dg-publish":true,"permalink":"/sources/28-years-later/","tags":["films","sources","zombies"],"created":"12-10-2025","updated":"24-01-2026","dg-note-properties":{"created":"12-10-2025","updated":"24-01-2026","tags":["films","sources","zombies"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Danny Boyle]]"],"cast":["[[Jodie Comer]]","[[Aaron Taylor-Johnson]]","[[Ralph Fiennes]]","[[Alfie Williams]]"],"released":"18-06-2025","last":"01-10-2025","first":"01-10-2025","link":"https://www.imdb.com/title/tt10548174/","owned":"1080p NAS","series":"[[Sources/28 Days Later (series)]]"}}
 ---
 
 Directors: [[Sources/Danny Boyle\|Danny Boyle]]

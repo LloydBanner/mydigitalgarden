@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software-tools/state-machines/","tags":["sources"],"created":"25-03-2025","updated":"26-08-2025"}
+{"dg-publish":true,"permalink":"/software-tools/state-machines/","tags":["sources"],"created":"25-03-2025","updated":"26-08-2025","dg-note-properties":{"created":"25-03-2025","updated":"26-08-2025","tags":["sources"]}}
 ---
 
 State machines are a great way to make your code easy to read and manage. They ensure your code is always in a state and will have set options that can be made within it.

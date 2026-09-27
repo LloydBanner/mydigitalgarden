@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/andor/","tags":["TV","sources","starWars","theBest"],"created":"22-06-2025","updated":"22-06-2025"}
+{"dg-publish":true,"permalink":"/sources/andor/","tags":["TV","sources","starWars","theBest"],"created":"22-06-2025","updated":"22-06-2025","dg-note-properties":{"created":"22-06-2025","updated":"22-06-2025","tags":["TV","sources","starWars","theBest"],"category":"[[TV]]","creators":["[[Sources/Tony Gilroy]]"],"cast":["[[Diego Luna]]","[[Denise Gough]]","[[Stellan Skarsgård]]"],"released":"20-09-2022","last":"14-06-2025","first":"2022","link":"https://m.imdb.com/title/tt9253284/","owned":"no"}}
 ---
 
 Creators: [[Sources/Tony Gilroy\|Tony Gilroy]]

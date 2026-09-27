@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reviews/carl-s-doomsday-scenario-review/","tags":["feed","reviews","fantasy","developed","Sci-Fi","litRPGs","theBest"],"created":"13-12-2025","updated":"14-12-2025"}
+{"dg-publish":true,"permalink":"/reviews/carl-s-doomsday-scenario-review/","tags":["feed","reviews","fantasy","developed","Sci-Fi","litRPGs","theBest"],"created":"13-12-2025","updated":"14-12-2025","dg-note-properties":{"created":"13-12-2025","updated":"14-12-2025","written":"13-12-2025","tags":["feed","reviews","fantasy","developed","Sci-Fi","litRPGs","theBest"]}}
 ---
 
 Written: 13-12-2025
