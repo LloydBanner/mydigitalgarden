@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/george-r-r-martin/","tags":["authors","sources"],"created":"28-03-2026","updated":"28-03-2026"}
+{"dg-publish":true,"permalink":"/sources/george-r-r-martin/","tags":["authors","sources"],"created":"28-03-2026","updated":"28-03-2026","dg-note-properties":{"created":"28-03-2026","updated":"28-03-2026","tags":["authors","sources"],"category":"[[Authors]]"}}
 ---
 
 ## Book Series

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/dwellers-in-the-mirage/","tags":["books","sources","fantasy","horror"],"created":"11-05-2025","updated":"11-05-2025"}
+{"dg-publish":true,"permalink":"/sources/dwellers-in-the-mirage/","tags":["books","sources","fantasy","horror"],"created":"11-05-2025","updated":"11-05-2025","dg-note-properties":{"created":"11-05-2025","updated":"11-05-2025","tags":["books","sources","fantasy","horror"],"category":"[[Main Notes/Books]]","author":"[[Sources/A. Merritt]]","released":"23-01-1932","last":"01-02-2025","first":"01-02-2025","link":"https://www.goodreads.com/book/show/641141.Dwellers_in_the_Mirage","series":null}}
 ---
 
 Author: [[Sources/A. Merritt\|A. Merritt]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/earthsea-cycle/","tags":["booksSeries","sources","fantasy"],"created":"27-04-2025","updated":"27-04-2025"}
+{"dg-publish":true,"permalink":"/sources/earthsea-cycle/","tags":["booksSeries","sources","fantasy"],"created":"27-04-2025","updated":"27-04-2025","dg-note-properties":{"created":"27-04-2025","updated":"27-04-2025","tags":["booksSeries","sources","fantasy"],"category":"[[Main Notes/Books]]","author":"[[Sources/Ursula K. Le Guin]]"}}
 ---
 
 Author: [[Sources/Ursula K. Le Guin\|Ursula K. Le Guin]]

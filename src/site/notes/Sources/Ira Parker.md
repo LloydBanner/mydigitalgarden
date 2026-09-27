@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/ira-parker/","tags":["sources","directors"],"created":"28-03-2026","updated":"28-03-2026"}
+{"dg-publish":true,"permalink":"/sources/ira-parker/","tags":["sources","directors"],"created":"28-03-2026","updated":"28-03-2026","dg-note-properties":{"created":"28-03-2026","updated":"28-03-2026","tags":["sources","directors"],"category":"[[Directors]]"}}
 ---
 
 ## TV Shows

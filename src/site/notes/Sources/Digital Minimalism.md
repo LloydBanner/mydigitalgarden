@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/digital-minimalism/","tags":["books","sources","non-fiction","technology","theBest"],"created":"01-06-2025","updated":"15-09-2025"}
+{"dg-publish":true,"permalink":"/sources/digital-minimalism/","tags":["books","sources","non-fiction","technology","theBest"],"created":"01-06-2025","updated":"15-09-2025","dg-note-properties":{"created":"01-06-2025","updated":"15-09-2025","tags":["books","sources","non-fiction","technology","theBest"],"category":"[[Main Notes/Books]]","author":"[[Sources/Cal Newport]]","released":"01-01-2019","last":"15-09-2025","first":"2021","link":"https://www.goodreads.com/book/show/40672036-digital-minimalism?ac=1&from_search=true&qid=Wjr49xSMqs&rank=1","series":null}}
 ---
 
 Author: [[Sources/Cal Newport\|Cal Newport]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/dungeon-crawler-carl/","tags":["books","sources","fantasy","Sci-Fi","litRPGs","theBest"],"created":"08-12-2025","updated":"08-12-2025"}
+{"dg-publish":true,"permalink":"/sources/dungeon-crawler-carl/","tags":["books","sources","fantasy","Sci-Fi","litRPGs","theBest"],"created":"08-12-2025","updated":"08-12-2025","dg-note-properties":{"created":"08-12-2025","updated":"08-12-2025","tags":["books","sources","fantasy","Sci-Fi","litRPGs","theBest"],"category":"[[Main Notes/Books]]","author":["[[Sources/Matt Dinniman]]"],"released":"21-09-2021","last":"07-12-2025","first":"28-11-2025","link":"https://www.goodreads.com/book/show/56791389-dungeon-crawler-carl","series":"[[Sources/Dungeon Crawler Carl (series)]]","owned":"Bookshelf"}}
 ---
 
 Author: [[Sources/Matt Dinniman\|Matt Dinniman]]

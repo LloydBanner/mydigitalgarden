@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/dark-souls/","tags":["videoGames","theBest","fromSoftware","soulsLikes","sources"],"created":"21-04-2025","updated":"22-04-2025"}
+{"dg-publish":true,"permalink":"/sources/dark-souls/","tags":["videoGames","theBest","fromSoftware","soulsLikes","sources"],"created":"21-04-2025","updated":"22-04-2025","dg-note-properties":{"created":"21-04-2025","updated":"22-04-2025","tags":["videoGames","theBest","fromSoftware","soulsLikes","sources"]}}
 ---
 
 This game has amazing wrap around world design, a well realised fantasy setting and fun gameplay. Probably the best game in the Dark Souls Series.

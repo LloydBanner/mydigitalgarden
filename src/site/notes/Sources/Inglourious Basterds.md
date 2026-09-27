@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/inglourious-basterds/","tags":["films","sources","comedy","historical","theBest"],"created":"22-12-2025","updated":"22-12-2025"}
+{"dg-publish":true,"permalink":"/sources/inglourious-basterds/","tags":["films","sources","comedy","historical","theBest"],"created":"22-12-2025","updated":"22-12-2025","dg-note-properties":{"created":"22-12-2025","updated":"22-12-2025","tags":["films","sources","comedy","historical","theBest"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Quentin Tarantino]]"],"cast":["[[Brad Pitt]]","[[Eli Roth]]","[[Diane Kruger]]","[[Christoph Waltz]]","[[Michael Fassbender]]","[[Mélanie Laurent]]"],"released":"20-05-2009","last":"2021","first":"2025","link":"https://www.imdb.com/title/tt0361748/releaseinfo/","owned":"1080p NAS"}}
 ---
 
 Directors: [[Sources/Quentin Tarantino\|Quentin Tarantino]]

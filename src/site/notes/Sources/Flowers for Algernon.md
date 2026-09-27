@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/flowers-for-algernon/","tags":["books","sources","theBest","Sci-Fi","reviews","feed"],"created":"26-08-2025","updated":"15-09-2025"}
+{"dg-publish":true,"permalink":"/sources/flowers-for-algernon/","tags":["books","sources","theBest","Sci-Fi","reviews","feed"],"created":"26-08-2025","updated":"15-09-2025","dg-note-properties":{"created":"26-08-2025","updated":"15-09-2025","tags":["books","sources","theBest","Sci-Fi","reviews","feed"],"category":"[[Main Notes/Books]]","author":["[[Sources/Daniel Keyes]]"],"released":"01-04-1966","last":"26-08-2025","first":"26-08-2025","link":"https://www.goodreads.com/book/show/18373.Flowers_for_Algernon","series":null,"owned":"Bookshelf"}}
 ---
 
 Author: [[Sources/Daniel Keyes\|Daniel Keyes]]

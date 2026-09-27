@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/fight-club-film/","tags":["films","sources","theBest"],"created":"03-09-2025","updated":"03-09-2025"}
+{"dg-publish":true,"permalink":"/sources/fight-club-film/","tags":["films","sources","theBest"],"created":"03-09-2025","updated":"03-09-2025","dg-note-properties":{"created":"03-09-2025","updated":"03-09-2025","tags":["films","sources","theBest"],"category":"[[Main Notes/Films]]","directors":["[[Sources/David Fincher]]"],"cast":["[[Brad Pitt]]","[[Edward Norton]]","[[Helena Bonham Carter]]"],"released":"10-09-1999","last":"02-09-2025","first":"2019","link":"https://m.imdb.com/title/tt0137523/","owned":"1080p NAS"}}
 ---
 
 Directors: [[Sources/David Fincher\|David Fincher]]

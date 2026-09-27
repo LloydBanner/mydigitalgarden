@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/half-life/","tags":["videoGames","sources"],"created":"24-01-2026","updated":"24-01-2026"}
+{"dg-publish":true,"permalink":"/sources/half-life/","tags":["videoGames","sources"],"created":"24-01-2026","updated":"24-01-2026","dg-note-properties":{"created":"24-01-2026","updated":"24-01-2026","tags":["videoGames","sources"],"category":"[[Main Notes/Video Games]]","developer":"Valve","publisher":"Valve","series":"[[Sources/Half Life Games]]","released":"09-11-1998","first":"01-04-2022","last":"05-04-2022","link":"https://store.steampowered.com/app/70/HalfLife/","owned":"Steam"}}
 ---
 
 Developer: Valve

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/furiosa-a-mad-max-saga/","tags":["films","sources","theBest","postApocalyptic"],"created":"22-12-2025","updated":"22-12-2025"}
+{"dg-publish":true,"permalink":"/sources/furiosa-a-mad-max-saga/","tags":["films","sources","theBest","postApocalyptic"],"created":"22-12-2025","updated":"22-12-2025","dg-note-properties":{"created":"22-12-2025","updated":"22-12-2025","tags":["films","sources","theBest","postApocalyptic"],"category":"[[Main Notes/Films]]","directors":["[[Sources/George Miller]]"],"cast":["[[Anya Taylor-Joy]]","[[Chris Hemsworth]]","[[Tom Burke]]"],"released":"15-05-2024","last":"2024","first":"2024","link":"https://www.imdb.com/title/tt12037194/","owned":"2160p NAS","series":"[[Sources/Mad Max Films]]"}}
 ---
 
 Directors: [[Sources/George Miller\|George Miller]]

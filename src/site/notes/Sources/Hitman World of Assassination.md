@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/hitman-world-of-assassination/","tags":["videoGames","theBest","sources"],"created":"16-07-2025","updated":"10-09-2026"}
+{"dg-publish":true,"permalink":"/sources/hitman-world-of-assassination/","tags":["videoGames","theBest","sources"],"created":"16-07-2025","updated":"10-09-2026","dg-note-properties":{"created":"16-07-2025","updated":"10-09-2026","tags":["videoGames","theBest","sources"],"category":"[[Main Notes/Video Games]]","developer":"IOI","publisher":"IOI","released":"20-01-2022","last":"16-01-2025","first":"2022 (2016 if you count the other games in the trilogy)","link":"https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/","owned":"Steam"}}
 ---
 
 Developer: IOI

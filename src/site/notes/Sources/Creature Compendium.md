@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/creature-compendium/","tags":["books","sources","fantasy","ttrpgResources","theBest"],"created":"11-11-2025","updated":"11-11-2025"}
+{"dg-publish":true,"permalink":"/sources/creature-compendium/","tags":["books","sources","fantasy","ttrpgResources","theBest"],"created":"11-11-2025","updated":"11-11-2025","dg-note-properties":{"created":"11-11-2025","updated":"11-11-2025","tags":["books","sources","fantasy","ttrpgResources","theBest"],"category":"[[Main Notes/Books]]","author":["[[Sources/Richard LeBlanc]]"],"released":"15-10-2014","last":"2025","first":"2025","link":"https://www.lulu.com/shop/richard-leblanc/old-school-adventures-accessory-cc1-creature-compendium/paperback/product-22110783.html?page=1&pageSize=4","series":null,"owned":"Bookshelf"}}
 ---
 
 Author: [[Sources/Richard LeBlanc\|Richard LeBlanc]]

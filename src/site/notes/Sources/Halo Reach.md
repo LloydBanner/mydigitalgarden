@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/halo-reach/","tags":["halo","videoGames","theBest","sources"],"created":"21-04-2025","updated":"22-04-2025"}
+{"dg-publish":true,"permalink":"/sources/halo-reach/","tags":["halo","videoGames","theBest","sources"],"created":"21-04-2025","updated":"22-04-2025","dg-note-properties":{"created":"21-04-2025","updated":"22-04-2025","tags":["halo","videoGames","theBest","sources"]}}
 ---
 
 The last game made by Bungie, the original developer of the Halo series, this one feels like a true send off for the series.

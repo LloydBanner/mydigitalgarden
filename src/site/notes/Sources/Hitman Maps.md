@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/hitman-maps/","created":"28-06-2025","updated":"06-02-2026"}
+{"dg-publish":true,"permalink":"/sources/hitman-maps/","created":"28-06-2025","updated":"06-02-2026","dg-note-properties":{"created":"28-06-2025","updated":"06-02-2026"}}
 ---
 
 - [[Sources/Chongquing\|Chongquing]]

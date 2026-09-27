@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/danny-boyle/","tags":["sources","directors"],"created":"12-10-2025","updated":"12-10-2025"}
+{"dg-publish":true,"permalink":"/sources/danny-boyle/","tags":["sources","directors"],"created":"12-10-2025","updated":"12-10-2025","dg-note-properties":{"created":"12-10-2025","updated":"12-10-2025","tags":["sources","directors"],"category":"[[Directors]]"}}
 ---
 
 

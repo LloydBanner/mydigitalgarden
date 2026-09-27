@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/gladiator-films/","tags":["sources","filmSeries"],"created":"03-06-2025","updated":"03-06-2025"}
+{"dg-publish":true,"permalink":"/sources/gladiator-films/","tags":["sources","filmSeries"],"created":"03-06-2025","updated":"03-06-2025","dg-note-properties":{"created":"03-06-2025","updated":"03-06-2025","tags":["sources","filmSeries"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Ridley Scott]]"]}}
 ---
 
 Directors: [[Sources/Ridley Scott\|Ridley Scott]]

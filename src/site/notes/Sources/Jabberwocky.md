@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/jabberwocky/","tags":["films","sources","comedy","fantasy"],"created":"25-12-2025","updated":"25-12-2025"}
+{"dg-publish":true,"permalink":"/sources/jabberwocky/","tags":["films","sources","comedy","fantasy"],"created":"25-12-2025","updated":"25-12-2025","dg-note-properties":{"created":"25-12-2025","updated":"25-12-2025","tags":["films","sources","comedy","fantasy"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Terry Gilliam]]"],"cast":["[[Micheal Palin]]","[[Harry H. Corbett]]","[[Warren Mitchell]]","[[Max Wall]]"],"released":"27-03-1977","last":"24-12-2025","first":"24-12-2025","link":"https://m.imdb.com/title/tt0076221/","owned":"no"}}
 ---
 
 Directors: [[Sources/Terry Gilliam\|Terry Gilliam]]

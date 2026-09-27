@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/epictetus/","tags":["authors","sources"],"created":"01-06-2025","updated":"01-06-2025"}
+{"dg-publish":true,"permalink":"/sources/epictetus/","tags":["authors","sources"],"created":"01-06-2025","updated":"01-06-2025","dg-note-properties":{"created":"01-06-2025","updated":"01-06-2025","tags":["authors","sources"],"category":"[[Authors]]"}}
 ---
 
 Epictetus was a Greek Stoic philosopher. He was probably born a slave at Hierapolis, Phrygia (present day Pamukkale, Turkey), and lived in Rome until his exile to Nicopolis in northwestern Greece, where he lived most of his life and died.Epictetus was a Greek Stoic philosopher. He was probably born a slave at Hierapolis, Phrygia (present day Pamukkale, Turkey), and lived in Rome until his exile to Nicopolis in northwestern Greece, where he lived most of his life and died.

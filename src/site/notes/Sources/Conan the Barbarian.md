@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/conan-the-barbarian/","tags":["films","sources","fantasy","theBest"],"created":"18-05-2025","updated":"18-05-2025"}
+{"dg-publish":true,"permalink":"/sources/conan-the-barbarian/","tags":["films","sources","fantasy","theBest"],"created":"18-05-2025","updated":"18-05-2025","dg-note-properties":{"created":"18-05-2025","updated":"18-05-2025","tags":["films","sources","fantasy","theBest"],"category":"[[Main Notes/Films]]","director":"[[Sources/John Milius]]","cast":["[[Arnold Schwarzenegger]]","[[James Earl Jones]]"],"released":"16-03-1982","last":"18-05-2025","first":"18-05-2025","link":"https://www.imdb.com/title/tt0082198/?ref_=ls_t_1","series":"[[Sources/Conan Films]]"}}
 ---
 
 Director: [[Sources/John Milius\|John Milius]]

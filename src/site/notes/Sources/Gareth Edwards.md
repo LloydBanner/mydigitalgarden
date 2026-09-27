@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/gareth-edwards/","tags":["sources","directors"],"created":"22-06-2025","updated":"22-06-2025"}
+{"dg-publish":true,"permalink":"/sources/gareth-edwards/","tags":["sources","directors"],"created":"22-06-2025","updated":"22-06-2025","dg-note-properties":{"created":"22-06-2025","updated":"22-06-2025","tags":["sources","directors"],"category":"[[Directors]]"}}
 ---
 
 Gareth James Edwards was born on June 1, 1975 in the English town of Nuneaton, Warwickshire. Growing up, he admired movies such as the 1977 classic "Star Wars", and went on to pursue a film career.
