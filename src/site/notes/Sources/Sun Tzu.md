@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/sun-tzu/","tags":["authors","sources"],"created":"01-06-2025","updated":"01-06-2025"}
+{"dg-publish":true,"permalink":"/sources/sun-tzu/","tags":["authors","sources"],"created":"01-06-2025","updated":"01-06-2025","dg-note-properties":{"created":"01-06-2025","updated":"01-06-2025","tags":["authors","sources"],"category":"[[Authors]]"}}
 ---
 
 Sun Tzu was a Chinese military general, strategist, philosopher, and writer who lived during the Eastern Zhou period (771–256 BC). Sun Tzu is traditionally credited as the author of The Art of War, an influential work of military strategy that has affected both Western and East Asian philosophy and military thought. Sun Tzu is revered in Chinese and East Asian culture as a legendary historical and military figure.

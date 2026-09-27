@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/sapiens/","tags":["books","sources","non-fiction","history","theBest"],"created":"01-06-2025","updated":"01-06-2025"}
+{"dg-publish":true,"permalink":"/sources/sapiens/","tags":["books","sources","non-fiction","history","theBest"],"created":"01-06-2025","updated":"01-06-2025","dg-note-properties":{"created":"01-06-2025","updated":"01-06-2025","tags":["books","sources","non-fiction","history","theBest"],"category":"[[Main Notes/Books]]","author":"[[Sources/Yuval Noah Harari]]","released":"01-01-2011","last":"2020","first":"2020","link":"https://www.goodreads.com/book/show/23692271-sapiens","series":null}}
 ---
 
 Author: [[Sources/Yuval Noah Harari\|Yuval Noah Harari]]

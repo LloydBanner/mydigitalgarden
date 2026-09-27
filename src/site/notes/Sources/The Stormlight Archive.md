@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-stormlight-archive/","tags":["booksSeries","sources","fantasy","theBest"],"created":"27-04-2025","updated":"11-05-2025"}
+{"dg-publish":true,"permalink":"/sources/the-stormlight-archive/","tags":["booksSeries","sources","fantasy","theBest"],"created":"27-04-2025","updated":"11-05-2025","dg-note-properties":{"created":"27-04-2025","updated":"11-05-2025","tags":["booksSeries","sources","fantasy","theBest"],"category":"[[Main Notes/Books]]","author":"[[Sources/Brandon Sanderson]]"}}
 ---
 
 Author: [[Sources/Brandon Sanderson\|Brandon Sanderson]]

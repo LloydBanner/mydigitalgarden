@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/send-help/","tags":["films","sources","survival"],"created":"20-02-2026","updated":"20-02-2026"}
+{"dg-publish":true,"permalink":"/sources/send-help/","tags":["films","sources","survival"],"created":"20-02-2026","updated":"20-02-2026","dg-note-properties":{"created":"20-02-2026","updated":"20-02-2026","tags":["films","sources","survival"],"category":"[[Main Notes/Films]]","directors":["[[Sam Rami]]"],"cast":["[[Rachel McAdams]]","[[Dylan O'Brien]]"],"released":"28-01-2026","last":"19-02-2026","first":"19-02-2026","link":"https://m.imdb.com/title/tt8036976/","owned":"On NAS"}}
 ---
 
 Directors: [[Sam Rami\|Sam Rami]]

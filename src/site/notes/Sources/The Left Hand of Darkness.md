@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-left-hand-of-darkness/","tags":["books","sources","theBest","Sci-Fi"],"created":"26-04-2025","updated":"26-04-2025"}
+{"dg-publish":true,"permalink":"/sources/the-left-hand-of-darkness/","tags":["books","sources","theBest","Sci-Fi"],"created":"26-04-2025","updated":"26-04-2025","dg-note-properties":{"created":"26-04-2025","updated":"26-04-2025","tags":["books","sources","theBest","Sci-Fi"],"category":"[[Main Notes/Books]]","author":"[[Sources/Ursula K. Le Guin]]","released":"01-01-1969","last":"2022","first":"2022"}}
 ---
 
 Author: [[Sources/Ursula K. Le Guin\|Ursula K. Le Guin]]

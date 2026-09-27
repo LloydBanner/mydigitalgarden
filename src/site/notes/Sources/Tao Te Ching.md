@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/tao-te-ching/","tags":["books","sources","philosophy","history","non-fiction"],"created":"01-06-2025","updated":"01-06-2025"}
+{"dg-publish":true,"permalink":"/sources/tao-te-ching/","tags":["books","sources","philosophy","history","non-fiction"],"created":"01-06-2025","updated":"01-06-2025","dg-note-properties":{"created":"01-06-2025","updated":"01-06-2025","tags":["books","sources","philosophy","history","non-fiction"],"category":"[[Main Notes/Books]]","author":"[[Sources/Lao Tzu]]","released":"01-01-351","last":"10-01-2025","first":"10-01-2025","link":"https://www.goodreads.com/book/show/67896.Tao_Te_Ching?ac=1","series":null}}
 ---
 
 Author: [[Sources/Lao Tzu\|Lao Tzu]]

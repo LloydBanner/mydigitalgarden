@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-dungeon-anarchist-s-cookbook/","tags":["books","sources","fantasy","Sci-Fi","litRPGs","theBest"],"created":"20-12-2025","updated":"12-01-2026"}
+{"dg-publish":true,"permalink":"/sources/the-dungeon-anarchist-s-cookbook/","tags":["books","sources","fantasy","Sci-Fi","litRPGs","theBest"],"created":"20-12-2025","updated":"12-01-2026","dg-note-properties":{"created":"20-12-2025","updated":"12-01-2026","tags":["books","sources","fantasy","Sci-Fi","litRPGs","theBest"],"category":"[[Main Notes/Books]]","author":["[[Sources/Matt Dinniman]]"],"released":"19-03-2021","last":"08-12-2025","first":"20-12-2025","link":"https://www.goodreads.com/book/show/57001971-the-dungeon-anarchist-s-cookbook","series":"[[Sources/Dungeon Crawler Carl (series)]]","owned":"Bookshelf"}}
 ---
 
 Author: [[Sources/Matt Dinniman\|Matt Dinniman]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-butcher-s-masquerade/","tags":["books","sources","theBest","litRPGs","fantasy","Sci-Fi"],"created":"12-01-2026","updated":"15-02-2026"}
+{"dg-publish":true,"permalink":"/sources/the-butcher-s-masquerade/","tags":["books","sources","theBest","litRPGs","fantasy","Sci-Fi"],"created":"12-01-2026","updated":"15-02-2026","dg-note-properties":{"created":"12-01-2026","updated":"15-02-2026","tags":["books","sources","theBest","litRPGs","fantasy","Sci-Fi"],"category":"[[Main Notes/Books]]","author":["[[Sources/Matt Dinniman]]"],"released":"28-02-2022","last":"01-02-2026","first":"10-01-2026","link":"https://www.goodreads.com/book/show/60233239-the-butcher-s-masquerade","series":"[[Sources/Dungeon Crawler Carl (series)]]","owned":"Bookshelf"}}
 ---
 
 Author: [[Sources/Matt Dinniman\|Matt Dinniman]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-courage-to-be-disliked/","tags":["books","sources","theBest","reviews","feed"],"created":"23-08-2025","updated":"26-08-2025"}
+{"dg-publish":true,"permalink":"/sources/the-courage-to-be-disliked/","tags":["books","sources","theBest","reviews","feed"],"created":"23-08-2025","updated":"26-08-2025","dg-note-properties":{"created":"23-08-2025","updated":"26-08-2025","tags":["books","sources","theBest","reviews","feed"],"category":"[[Main Notes/Books]]","authors":["[[Sources/Ichiro Kishimi]]","[[Sources/Fumitake Koga]]"],"released":"12-12-2014","last":"23-08-2025","first":"23-08-2025","link":"https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked","series":null,"owned":"Bookshelf"}}
 ---
 
 Authors: [[Sources/Ichiro Kishimi\|Ichiro Kishimi]],[[Sources/Fumitake Koga\|Fumitake Koga]]

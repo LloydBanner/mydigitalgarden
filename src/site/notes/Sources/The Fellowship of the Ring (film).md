@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-fellowship-of-the-ring-film/","tags":["films","theBest","lordOfTheRings","sources","fantasy"],"created":"29-12-2025","updated":"29-12-2025"}
+{"dg-publish":true,"permalink":"/sources/the-fellowship-of-the-ring-film/","tags":["films","theBest","lordOfTheRings","sources","fantasy"],"created":"29-12-2025","updated":"29-12-2025","dg-note-properties":{"created":"29-12-2025","updated":"29-12-2025","tags":["films","theBest","lordOfTheRings","sources","fantasy"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Peter Jackson]]"],"cast":["[[Elijah Wood]]","[[Ian McKellen]]","[[Orlando Bloom]]","[[Sean Astin]]","[[Sean Bean]]","[[Billy Boyd]]","[[Andy Serkis]]","[[Viggo Mortensen]]","[[Cate Blanchett]]","[[Ian Holm]]","[[Christopher Lee]]","[[Dominic Monaghan]]","[[Hugo Weaving]]","[[John Rhys-Davies]]","[[Liv Tyler]]"],"released":"10-12-2001","last":"2010","first":"2024","link":"https://www.imdb.com/title/tt0120737/","owned":"2160p NAS","series":"[[Sources/The Lord of the Rings Films]]"}}
 ---
 
 Directors: [[Sources/Peter Jackson\|Peter Jackson]]

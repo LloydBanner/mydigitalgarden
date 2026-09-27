@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-eyes-of-the-overworld/","tags":["theBest","sources","fantasy","Sci-Fi","books"],"created":"24-05-2025","updated":"01-06-2025"}
+{"dg-publish":true,"permalink":"/sources/the-eyes-of-the-overworld/","tags":["theBest","sources","fantasy","Sci-Fi","books"],"created":"24-05-2025","updated":"01-06-2025","dg-note-properties":{"created":"24-05-2025","updated":"01-06-2025","tags":["theBest","sources","fantasy","Sci-Fi","books"],"category":"[[Main Notes/Books]]","author":"[[Sources/Jack Vance]]","released":"01-01-1966","last":"30-05-2025","first":"23-05-2025","link":"https://www.goodreads.com/book/show/872816.The_Eyes_of_the_Overworld","series":"[[Sources/The Dying Earth Books]]"}}
 ---
 
 Author: [[Sources/Jack Vance\|Jack Vance]]

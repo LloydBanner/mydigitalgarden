@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-fellowship-of-the-ring-book/","tags":["books","sources","theBest","fantasy","lordOfTheRings"],"created":"11-05-2025","updated":"11-05-2025"}
+{"dg-publish":true,"permalink":"/sources/the-fellowship-of-the-ring-book/","tags":["books","sources","theBest","fantasy","lordOfTheRings"],"created":"11-05-2025","updated":"11-05-2025","dg-note-properties":{"created":"11-05-2025","updated":"11-05-2025","tags":["books","sources","theBest","fantasy","lordOfTheRings"],"category":"[[Main Notes/Books]]","author":"[[Sources/J. R. R. Tolkien]]","released":"19-07-1954","last":"2019","first":"2019","link":"https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring?ac=1","series":"[[Sources/The Lord of the Rings Books]]"}}
 ---
 
 Author: [[Sources/J. R. R. Tolkien\|J. R. R. Tolkien]]

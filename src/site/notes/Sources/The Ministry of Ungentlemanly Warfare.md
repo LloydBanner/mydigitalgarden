@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-ministry-of-ungentlemanly-warfare/","tags":["films","sources","war","theBest"],"created":"20-02-2026","updated":"20-02-2026"}
+{"dg-publish":true,"permalink":"/sources/the-ministry-of-ungentlemanly-warfare/","tags":["films","sources","war","theBest"],"created":"20-02-2026","updated":"20-02-2026","dg-note-properties":{"created":"20-02-2026","updated":"20-02-2026","tags":["films","sources","war","theBest"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Guy Ritchie]]"],"cast":["[[Henry Cavill]]","[[Alan Ritchson]]","[[Alex Pettyfer]]","[[Eiza González]]","[[Babs Olusanmokun]]"],"released":"13-04-2024","last":"20-02-2026","first":"20-02-2026","link":"https://m.imdb.com/title/tt5177120/","owned":"2160p NAS"}}
 ---
 
 Directors: [[Sources/Guy Ritchie\|Guy Ritchie]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-alloy-of-law/","tags":["books","sources","fantasy"],"created":"11-05-2025","updated":"11-05-2025"}
+{"dg-publish":true,"permalink":"/sources/the-alloy-of-law/","tags":["books","sources","fantasy"],"created":"11-05-2025","updated":"11-05-2025","dg-note-properties":{"created":"11-05-2025","updated":"11-05-2025","tags":["books","sources","fantasy"],"category":"[[Main Notes/Books]]","author":"[[Sources/Brandon Sanderson]]","released":"08-11-2011","last":"2013","first":"2013","link":"https://www.goodreads.com/book/show/10803121-the-alloy-of-law","series":"[[Sources/The Mistborn Saga]]"}}
 ---
 
 Author: [[Sources/Brandon Sanderson\|Brandon Sanderson]]

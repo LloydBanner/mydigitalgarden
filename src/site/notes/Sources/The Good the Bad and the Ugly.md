@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-good-the-bad-and-the-ugly/","tags":["films","sources","theBest","feed","western"],"created":"05-10-2025","updated":"12-10-2025"}
+{"dg-publish":true,"permalink":"/sources/the-good-the-bad-and-the-ugly/","tags":["films","sources","theBest","feed","western"],"created":"05-10-2025","updated":"12-10-2025","dg-note-properties":{"created":"05-10-2025","updated":"12-10-2025","tags":["films","sources","theBest","feed","western"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Sergio Leone]]"],"cast":["[[Clint Eastwood]]","[[Eli Wallach]]","[[Lee Van Cleef]]"],"released":"23-10-1966","last":"15-09-2025","first":"15-09-2025","link":"https://m.imdb.com/title/tt0060196/","owned":"2160p NAS","series":"[[Sources/Dollars Trilogy]]"}}
 ---
 
 Directors: [[Sources/Sergio Leone\|Sergio Leone]]

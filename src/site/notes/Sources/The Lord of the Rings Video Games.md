@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-video-games/","tags":["lordOfTheRings","sources"],"created":"21-04-2025","updated":"22-04-2025"}
+{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-video-games/","tags":["lordOfTheRings","sources"],"created":"21-04-2025","updated":"22-04-2025","dg-note-properties":{"created":"21-04-2025","updated":"22-04-2025","tags":["lordOfTheRings","sources"]}}
 ---
 
 [[Sources/The Lord of the Rings\|The Lord of the Rings]] is a great series that has spawned some great games. Below I have highlighted my favourites.

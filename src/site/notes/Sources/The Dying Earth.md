@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-dying-earth/","tags":["books","sources","fantasy","Sci-Fi","theBest"],"created":"24-05-2025","updated":"24-05-2025"}
+{"dg-publish":true,"permalink":"/sources/the-dying-earth/","tags":["books","sources","fantasy","Sci-Fi","theBest"],"created":"24-05-2025","updated":"24-05-2025","dg-note-properties":{"created":"24-05-2025","updated":"24-05-2025","tags":["books","sources","fantasy","Sci-Fi","theBest"],"category":"[[Main Notes/Books]]","author":"[[Sources/Jack Vance]]","released":"01-01-1950","last":"2024","first":"2024","link":"https://www.goodreads.com/book/show/951749.The_Dying_Earth","series":"[[Sources/The Dying Earth Books]]"}}
 ---
 
 Author: [[Sources/Jack Vance\|Jack Vance]]

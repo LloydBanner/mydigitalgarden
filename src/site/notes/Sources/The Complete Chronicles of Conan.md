@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-complete-chronicles-of-conan/","tags":["books","compilations","fantasy","sources"],"created":"26-04-2025","updated":"08-05-2025"}
+{"dg-publish":true,"permalink":"/sources/the-complete-chronicles-of-conan/","tags":["books","compilations","fantasy","sources"],"created":"26-04-2025","updated":"08-05-2025","dg-note-properties":{"created":"26-04-2025","updated":"08-05-2025","tags":["books","compilations","fantasy","sources"],"category":"[[Main Notes/Books]]","author":"[[Sources/Robert E. Howard]]","released":"19-01-2006","last":"08-05-2025","first":"22-04-2025","link":"https://goodreads.com/book/show/828878.The_Complete_Chronicles_of_Conan"}}
 ---
 
 Author: [[Sources/Robert E. Howard\|Robert E. Howard]]

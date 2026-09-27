@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/shrek-films/","tags":["sources","filmSeries"],"created":"22-12-2025","updated":"29-12-2025"}
+{"dg-publish":true,"permalink":"/sources/shrek-films/","tags":["sources","filmSeries"],"created":"22-12-2025","updated":"29-12-2025","dg-note-properties":{"created":"22-12-2025","updated":"29-12-2025","tags":["sources","filmSeries"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Joel Crawford]]","[[Sources/Januel Mercado]]","[[Sources/Chris Miller]]","[[Sources/Andrew Adamson]]","[[Sources/Vicky Jenson]]","[[Sources/Kelly Asbury]]","[[Sources/Conrad Vernon]]"]}}
 ---
 
 Directors: [[Sources/Joel Crawford\|Joel Crawford]],[[Sources/Januel Mercado\|Januel Mercado]],[[Sources/Chris Miller\|Chris Miller]],[[Sources/Andrew Adamson\|Andrew Adamson]],[[Sources/Vicky Jenson\|Vicky Jenson]],[[Sources/Kelly Asbury\|Kelly Asbury]],[[Sources/Conrad Vernon\|Conrad Vernon]]

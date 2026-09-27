@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-the-war-of-the-rohirrim/","tags":["films","sources","fantasy","prettyGood","lordOfTheRings"],"created":"29-12-2025","updated":"29-12-2025"}
+{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-the-war-of-the-rohirrim/","tags":["films","sources","fantasy","prettyGood","lordOfTheRings"],"created":"29-12-2025","updated":"29-12-2025","dg-note-properties":{"created":"29-12-2025","updated":"29-12-2025","tags":["films","sources","fantasy","prettyGood","lordOfTheRings"],"category":"[[Main Notes/Films]]","directors":["[[Sources/Kenji Kamiyama]]"],"cast":["[[Brian Cox (actor)]]","[[Gaia Wise]]","[[Miranda Otto]]","[[Luca Pasqualino]]","[[Lorraine Ashbourne]]","[[Shaun Dooley]]"],"released":"03-12-2024","last":"28-12-2025","first":"28-12-2025","link":"https://www.imdb.com/title/tt14824600/","owned":"On NAS","series":"[[Sources/The Lord of the Rings Films]]"}}
 ---
 
 Directors: [[Sources/Kenji Kamiyama\|Kenji Kamiyama]]

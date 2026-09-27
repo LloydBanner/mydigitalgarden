@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/split/","tags":["films","sources","theBest","thriller"],"created":"31-12-2025","updated":"31-12-2025"}
+{"dg-publish":true,"permalink":"/sources/split/","tags":["films","sources","theBest","thriller"],"created":"31-12-2025","updated":"31-12-2025","dg-note-properties":{"created":"31-12-2025","updated":"31-12-2025","tags":["films","sources","theBest","thriller"],"category":"[[Main Notes/Films]]","directors":["[[Sources/M. Night Shyamalan]]"],"cast":["[[James McAvoy]]","[[Anya Taylor-Joy]]","[[Haley Lu Richardson]]","[[Betty Buckley]]","[[Jessica Sula]]"],"released":"26-09-2016","last":"2019","first":"2019","link":"https://www.imdb.com/title/tt4972582/","owned":"On NAS"}}
 ---
 
 Directors: [[Sources/M. Night Shyamalan\|M. Night Shyamalan]]

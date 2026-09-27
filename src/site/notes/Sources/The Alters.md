@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-alters/","tags":["videoGames","sources","Sci-Fi","strategy","survival"],"created":"22-11-2025","updated":"22-11-2025"}
+{"dg-publish":true,"permalink":"/sources/the-alters/","tags":["videoGames","sources","Sci-Fi","strategy","survival"],"created":"22-11-2025","updated":"22-11-2025","dg-note-properties":{"created":"22-11-2025","updated":"22-11-2025","tags":["videoGames","sources","Sci-Fi","strategy","survival"],"category":"[[Main Notes/Video Games]]","developer":"11 Bit Studios","publisher":"11 Bit Studios","series":null,"released":"13-06-2025","last":"18-11-2025","first":"18-11-2025","link":"https://store.steampowered.com/app/1601570/The_Alters/","owned":"Steam"}}
 ---
 
 Developer: 11 Bit Studios

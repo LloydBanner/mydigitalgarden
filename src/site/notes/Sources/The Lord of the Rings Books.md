@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-books/","tags":["booksSeries","sources"],"created":"27-04-2025","updated":"11-05-2025"}
+{"dg-publish":true,"permalink":"/sources/the-lord-of-the-rings-books/","tags":["booksSeries","sources"],"created":"27-04-2025","updated":"11-05-2025","dg-note-properties":{"created":"27-04-2025","updated":"11-05-2025","tags":["booksSeries","sources"],"category":"[[Main Notes/Books]]","author":"[[Sources/J. R. R. Tolkien]]"}}
 ---
 
 Author: [[Sources/J. R. R. Tolkien\|J. R. R. Tolkien]]

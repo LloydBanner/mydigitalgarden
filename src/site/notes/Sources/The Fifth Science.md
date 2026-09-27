@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-fifth-science/","tags":["books","sources","theBest","Sci-Fi"],"created":"11-05-2025","updated":"11-05-2025"}
+{"dg-publish":true,"permalink":"/sources/the-fifth-science/","tags":["books","sources","theBest","Sci-Fi"],"created":"11-05-2025","updated":"11-05-2025","dg-note-properties":{"created":"11-05-2025","updated":"11-05-2025","tags":["books","sources","theBest","Sci-Fi"],"category":"[[Main Notes/Books]]","author":"[[Sources/Exurb1a]]","released":"24-08-2018","last":"2018","first":"2018","link":"https://www.goodreads.com/en/book/show/41580260","series":null}}
 ---
 
 Author: [[Sources/Exurb1a\|Exurb1a]]

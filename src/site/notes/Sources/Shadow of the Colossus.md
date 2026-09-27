@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/shadow-of-the-colossus/","tags":["videoGames","sources"],"created":"27-08-2025","updated":"28-08-2025"}
+{"dg-publish":true,"permalink":"/sources/shadow-of-the-colossus/","tags":["videoGames","sources"],"created":"27-08-2025","updated":"28-08-2025","dg-note-properties":{"created":"27-08-2025","updated":"28-08-2025","tags":["videoGames","sources"],"category":"[[Main Notes/Video Games]]","developer":"Team Ico","publisher":"Sony","released":"18-10-2005","last":"2015","first":"2015","link":"https://en.m.wikipedia.org/wiki/Shadow_of_the_Colossus","owned":"On NAS (EMU)"}}
 ---
 
 Developer: Team Ico
