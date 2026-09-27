@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-19/","tags":["feed","elbonLogs","developed"],"created":"08-03-2026","updated":"08-03-2026"}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-19/","tags":["feed","elbonLogs","developed"],"created":"08-03-2026","updated":"08-03-2026","dg-note-properties":{"created":"08-03-2026","updated":"08-03-2026","tags":["feed","elbonLogs","developed"],"sessionDate":"07-03-2026"}}
 ---
 
 ## Session Notes
@@ -22,7 +22,7 @@
 - He said there was a tomb in the desert to the north of The Rocky Slopes, called the Tomb of the Elephant King, where they might find a Djinni that could grant a wish. However, it was heavily trapped and few knew the location of it.
 ### A New Quest
 **Rocky Slopes Hex Map (the Emerald Desert is north of this):**
-![rockyslopeshex.png|400](/img/user/z_assets/TTRPG/Place%20Pictures/Rocky%20Slopes/rockyslopeshex.png)
+![rockyslopeshex.png\|400](/img/user/z_assets/TTRPG/Place%20Pictures/Rocky%20Slopes/rockyslopeshex.png)
 
 - With this the party decided their new goal was to gather people to fight the tarrasque, to find a wish and to kill the beast.
 - Along their way north the party stopped off at various locations recruiting people to help with the fight

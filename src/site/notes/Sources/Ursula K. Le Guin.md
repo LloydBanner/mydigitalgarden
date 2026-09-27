@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/ursula-k-le-guin/","tags":["authors","sources"],"created":"27-04-2025","updated":"27-04-2025"}
+{"dg-publish":true,"permalink":"/sources/ursula-k-le-guin/","tags":["authors","sources"],"created":"27-04-2025","updated":"27-04-2025","dg-note-properties":{"created":"27-04-2025","updated":"27-04-2025","tags":["authors","sources"],"category":"[[Authors]]"}}
 ---
 
 **Ursula Kroeber Le Guin** was an American author.

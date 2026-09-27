@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-templates/template-recipe/","tags":["lloydsCookingRecipes","feed","draft"],"created":"{{date}}","updated":"10-01-2026"}
+{"dg-publish":true,"permalink":"/z-templates/template-recipe/","tags":["lloydsCookingRecipes","feed","draft"],"created":"{{date}}","updated":"10-01-2026","dg-note-properties":{"created":"{{date}}","updated":"10-01-2026","tags":["lloydsCookingRecipes","feed","draft"]}}
 ---
 
 Serves

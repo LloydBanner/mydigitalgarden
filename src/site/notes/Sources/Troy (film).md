@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/troy-film/","tags":["films","sources","theBest","fantasy","battle","mythology"],"created":"07-09-2025","updated":"09-09-2025"}
+{"dg-publish":true,"permalink":"/sources/troy-film/","tags":["films","sources","theBest","fantasy","battle","mythology"],"created":"07-09-2025","updated":"09-09-2025","dg-note-properties":{"created":"07-09-2025","updated":"09-09-2025","tags":["films","sources","theBest","fantasy","battle","mythology"],"category":"[[Main Notes/Films]]","directors":["[[Wolfgang Petersen]]"],"cast":["[[Brad Pitt]]","[[Orlando Bloom]]"],"released":"09-05-2004","last":"07-09-2025","first":"07-09-2025","link":"https://m.imdb.com/title/tt0332452/","owned":"2160p NAS"}}
 ---
 
 Directors: [[Wolfgang Petersen\|Wolfgang Petersen]]

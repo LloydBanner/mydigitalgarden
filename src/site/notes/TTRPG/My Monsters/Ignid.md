@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/my-monsters/ignid/","tags":["lloydsOSEMonsters","developed","OSEMonsters"],"created":"21-04-2025","updated":"22-11-2025"}
+{"dg-publish":true,"permalink":"/ttrpg/my-monsters/ignid/","tags":["lloydsOSEMonsters","developed","OSEMonsters"],"created":"21-04-2025","updated":"22-11-2025","dg-note-properties":{"created":"21-04-2025","updated":"22-11-2025","tags":["lloydsOSEMonsters","developed","OSEMonsters"],"hitDice":"12","types":["magical","elemental","beast"],"habitats":["caves","depths"],"climates":["any"],"sources":["Lloyd's Brain"]}}
 ---
 
 This was a monster that I made for my Whiterock campaign, you can read about it in action in [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 6\|Magic Shop Owners Session 6]], ignid tooth daggers have also been used by my players since then. This was a really fun encounter I recommend giving it a go in your own games. It was generated with help from the [Random Esoteric Creature Generator](https://www.drivethrurpg.com/en/product/58916/Random-Esoteric-Creature-Generator-for-Classic-Fantasy-RolePlaying-Games-and-their-Modern-Simulacra).

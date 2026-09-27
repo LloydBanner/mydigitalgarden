@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/this-inevitable-ruin/","tags":["books","sources","theBest","litRPGs","fantasy","Sci-Fi"],"created":"06-03-2026","updated":"20-04-2026"}
+{"dg-publish":true,"permalink":"/sources/this-inevitable-ruin/","tags":["books","sources","theBest","litRPGs","fantasy","Sci-Fi"],"created":"06-03-2026","updated":"20-04-2026","dg-note-properties":{"created":"06-03-2026","updated":"20-04-2026","tags":["books","sources","theBest","litRPGs","fantasy","Sci-Fi"],"category":"[[Main Notes/Books]]","author":["[[Sources/Matt Dinniman]]"],"released":"03-11-2024","last":"16-04-2026","first":"05-03-2026","link":"https://www.goodreads.com/book/show/216017751-this-inevitable-ruin","series":"[[Sources/Dungeon Crawler Carl (series)]]","owned":"Bookshelf"}}
 ---
 
 Author: [[Sources/Matt Dinniman\|Matt Dinniman]]

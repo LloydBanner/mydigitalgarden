@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/the-way-of-kings/","tags":["books","sources","fantasy","theBest"],"created":"11-05-2025","updated":"11-05-2025"}
+{"dg-publish":true,"permalink":"/sources/the-way-of-kings/","tags":["books","sources","fantasy","theBest"],"created":"11-05-2025","updated":"11-05-2025","dg-note-properties":{"created":"11-05-2025","updated":"11-05-2025","tags":["books","sources","fantasy","theBest"],"category":"[[Main Notes/Books]]","author":"[[Sources/Brandon Sanderson]]","released":"31-08-2010","last":"2015","first":"2015","link":"https://www.goodreads.com/book/show/7235533-the-way-of-kings?ref=nav_sb_ss_1_18","series":"[[Sources/The Stormlight Archive]]"}}
 ---
 
 Author: [[Sources/Brandon Sanderson\|Brandon Sanderson]]

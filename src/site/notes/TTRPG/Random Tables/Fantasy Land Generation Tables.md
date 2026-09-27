@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/random-tables/fantasy-land-generation-tables/","tags":["ttrpgs","developing","feed","randomTables"],"created":"23-12-2025","updated":"23-12-2025"}
+{"dg-publish":true,"permalink":"/ttrpg/random-tables/fantasy-land-generation-tables/","tags":["ttrpgs","developing","feed","randomTables"],"created":"23-12-2025","updated":"23-12-2025","dg-note-properties":{"created":"23-12-2025","updated":"23-12-2025","tags":["ttrpgs","developing","feed","randomTables"]}}
 ---
 
 The idea of these tables is to create a region or area within a fantasy setting with unique features and inhabitants. Some of these are quite weird, but that is purposeful. You could role multiple times on the tables and combine features if you want more wacky results, but a good starting point is to role once on each table.

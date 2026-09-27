@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/my-monsters/ebonoss/","tags":["ttrpgResources","OSEMonsters","developed","lloydsOSEMonsters"],"created":"22-11-2025","updated":"22-11-2025"}
+{"dg-publish":true,"permalink":"/ttrpg/my-monsters/ebonoss/","tags":["ttrpgResources","OSEMonsters","developed","lloydsOSEMonsters"],"created":"22-11-2025","updated":"22-11-2025","dg-note-properties":{"created":"22-11-2025","updated":"22-11-2025","tags":["ttrpgResources","OSEMonsters","developed","lloydsOSEMonsters"],"hitDice":"8","types":["semi-intellegent","magical","horror"],"habitats":["depths","dungeons"],"climates":["any"],"sources":["Lloyd's Brain"]}}
 ---
 
 # Ebonoss
 
 An Ebonoss is a dark shadow of a creature with no true form. It forms around the bones of dead creatures turning them black and bringing them to life. It is made of a constantly moving black oil like substance.
 
-![dragonBones.jpeg|400](/img/user/z_assets/TTRPG/My%20Monsters/dragonBones.jpeg)
+![dragonBones.jpeg\|400](/img/user/z_assets/TTRPG/My%20Monsters/dragonBones.jpeg)
 
 ---
 

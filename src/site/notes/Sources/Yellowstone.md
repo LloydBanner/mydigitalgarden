@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/yellowstone/","tags":["TV","sources","western"],"created":"24-05-2025","updated":"24-05-2025"}
+{"dg-publish":true,"permalink":"/sources/yellowstone/","tags":["TV","sources","western"],"created":"24-05-2025","updated":"24-05-2025","dg-note-properties":{"created":"24-05-2025","updated":"24-05-2025","tags":["TV","sources","western"],"category":"[[TV]]","creators":["[[Sources/Taylor Sheridan]]"],"cast":["[[Kevin Costner]]","[[Luke Grimes]]","[[Kelly Reilly]]"],"released":"20-01-2020","last":"2022","first":"2025","link":"https://m.imdb.com/title/tt4236770/?ref_=nm_flmg_job_1_cdt_t_3"}}
 ---
 
 Creator: [[Sources/Taylor Sheridan\|Taylor Sheridan]]
