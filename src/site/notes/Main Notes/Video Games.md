@@ -5,6 +5,7 @@
 I have always and probably will always enjoy video games. I think the interactivity of the medium and the problem solving that many games encourage are great. 
 
 - [[Main Notes/My Favourite Video Games\|My Favourite Video Games]]
+- [[My Forever Games\|My Forever Games]]
 ## Gaming Related Things I Have Made
 - [[Main Notes/My Minecraft Worlds, Maps and Packs\|My Minecraft Worlds, Maps and Packs]]
 - [[Main Notes/My Mario Maker 2 levels\|My Mario Maker 2 levels]]

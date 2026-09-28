@@ -37,8 +37,8 @@ The unique element of [[Main Notes/Video Games\|video games]] is the interactivi
 | [[Sources/Blade and Sorcery\|Blade and Sorcery]]                             |
 | [[Sources/Celeste\|Celeste]]                                                 |
 | [[Sources/Dark Souls\|Dark Souls]]                                           |
-| [[Sources/Dishonored 2\|Dishonored 2]]                                       |
 | [[Sources/Dishonored\|Dishonored]]                                           |
+| [[Sources/Dishonored 2\|Dishonored 2]]                                       |
 | [[Sources/Elden Ring\|Elden Ring]]                                           |
 | [[Sources/Halo 3\|Halo 3]]                                                   |
 | [[Sources/Halo Combat Evolved\|Halo Combat Evolved]]                         |
