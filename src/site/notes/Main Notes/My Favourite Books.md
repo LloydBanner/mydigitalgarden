@@ -6,6 +6,7 @@
 |                                                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sources/Books/Notes/Piranesi\|Piranesi]]                                                                                                   |
+| [[Sources/Books/Notes/Piranesi.sync-conflict-20261025-123416-ZEOZD26\|Piranesi.sync-conflict-20261025-123416-ZEOZD26]]                       |
 | [[Sources/This Inevitable Ruin\|This Inevitable Ruin]]                                                                                       |
 | [[Sources/The Butcher's Masquerade\|The Butcher's Masquerade]]                                                                               |
 | [[Sources/Carl's Doomsday Scenario\|Carl's Doomsday Scenario]]                                                                               |

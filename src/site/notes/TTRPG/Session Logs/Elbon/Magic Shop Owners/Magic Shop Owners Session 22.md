@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-22/","tags":["feed","elbonLogs","developed"],"created":"09-06-2026","updated":"12-09-2026","dg-note-properties":{"created":"09-06-2026","updated":"12-09-2026","tags":["feed","elbonLogs","developed"],"sessionDate":"22-08-2026"}}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-22/","tags":["feed","elbonLogs","developed"],"created":"09-06-2026","updated":"28-10-2026","dg-note-properties":{"created":"09-06-2026","updated":"28-10-2026","tags":["feed","elbonLogs","developed"],"sessionDate":"22-08-2026"}}
 ---
 
 ## Session Notes
 
-**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 43-3-596 - 46-3-596
+**[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 47-3-596 - 48-3-596
 
-[AI Podcast Overview](https://drive.google.com/file/d/1lasDSXdnKbswJoTkNNgOvsOwrNmUxZu2/view?usp=drive_link) (From [[Sources/NotebookLM\|NotebookLM]])
+[AI Podcast Overview](https://drive.google.com/file/d/1lasDSXdnKbswJoTkNNgOvsOwrNmUxZu2/view?usp=drive_link) (From [[Sources/Gemini Notebook\|Gemini Notebook]])
 ### Returning to Stonehaven
 - The party and the peoples who travelled with them rested onboard the Kraken while they returned the Rocky Slopes
 - After arriving at the shore the party convinced the hundred or so people they had saved to come with them to Stonehaven and join the community there

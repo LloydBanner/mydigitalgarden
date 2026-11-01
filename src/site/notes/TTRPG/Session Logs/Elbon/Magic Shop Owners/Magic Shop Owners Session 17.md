@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-17/","tags":["feed","elbonLogs","developed"],"created":"14-12-2025","updated":"13-01-2026","dg-note-properties":{"created":"14-12-2025","updated":"13-01-2026","tags":["feed","elbonLogs","developed"],"sessionDate":"13-12-2025"}}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-17/","tags":["feed","elbonLogs","developed"],"created":"14-12-2025","updated":"02-03-2026","dg-note-properties":{"created":"14-12-2025","updated":"02-03-2026","tags":["feed","elbonLogs","developed"],"sessionDate":"13-12-2025"}}
 ---
 
 ## Session Notes
 
 **[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 27-3-596
 
-[AI Podcast Overview](https://drive.google.com/file/d/1ls17ICJyyNYlMUgZUaIq7EvBuz9E6goc/view?usp=drive_link) (From [[Sources/NotebookLM\|NotebookLM]])
+[AI Podcast Overview](https://drive.google.com/file/d/1ls17ICJyyNYlMUgZUaIq7EvBuz9E6goc/view?usp=drive_link) (From [[Sources/Gemini Notebook\|Gemini Notebook]])
 ### To Cook a Body and Cut a Hole in a Wall
 **Level 1 Map from this session:** 
 ![StagbrookKeepSession17.jpeg](/img/user/z_assets/TTRPG/Place%20Pictures/Stagbrook/StagbrookKeep/StagbrookKeepSession17.jpeg)

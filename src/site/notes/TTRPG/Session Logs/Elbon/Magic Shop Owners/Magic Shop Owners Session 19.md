@@ -6,7 +6,7 @@
 
 **[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 35-3-596 - 36-3-596
 
-[AI Podcast Overview](https://drive.google.com/file/d/1XaZM52459uTqxajyTgwJbDm5ZWPkSrAa/view?usp=drive_link) (From [[Sources/NotebookLM\|NotebookLM]])
+[AI Podcast Overview](https://drive.google.com/file/d/1XaZM52459uTqxajyTgwJbDm5ZWPkSrAa/view?usp=drive_link) (From [[Sources/Gemini Notebook\|Gemini Notebook]])
 ### The Beast Emerges
 
 - As silence settled over the hole that was once Stagbrook. A scurrying came from the hole. Thousands of legs crawling. Ants came running from the hole in great numbers, but ignored the party. The Spiders from the keep followed them also running straight by. Then for a few moments there was silence. Then crash, crash, crash. Steps echoed up from the hole. Crash, crash, crash. They keep getting louder. The earth shook with each crash, crash, crash.

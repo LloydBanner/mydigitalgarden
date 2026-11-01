@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-21/","tags":["feed","elbonLogs","developed"],"created":"09-06-2026","updated":"17-06-2026","dg-note-properties":{"created":"09-06-2026","updated":"17-06-2026","tags":["feed","elbonLogs","developed"],"sessionDate":"31-05-2026"}}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-21/","tags":["feed","elbonLogs","developed"],"created":"09-06-2026","updated":"18-06-2026","dg-note-properties":{"created":"09-06-2026","updated":"18-06-2026","tags":["feed","elbonLogs","developed"],"sessionDate":"31-05-2026"}}
 ---
 
 ## Session Notes
 
 **[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 40-3-596 - 42-3-596
 
-[AI Podcast Overview](https://drive.google.com/file/d/1X2i4-PLT6MwHo595DrESuRoFMvGo6jYn/view?usp=drive_link) (From [[Sources/NotebookLM\|NotebookLM]])
+[AI Podcast Overview](https://drive.google.com/file/d/1X2i4-PLT6MwHo595DrESuRoFMvGo6jYn/view?usp=drive_link) (From [[Sources/Gemini Notebook\|Gemini Notebook]])
 ### The Tomb
 **Where the Adventurers Explored in the Tomb:**
 ![ElephantkingExploration.jpeg](/img/user/z_assets/TTRPG/Place%20Pictures/Emerald%20Desert/ElephantkingExploration.jpeg)

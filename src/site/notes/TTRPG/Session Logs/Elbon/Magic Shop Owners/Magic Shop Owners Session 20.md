@@ -6,7 +6,7 @@
 
 **[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 37-3-596 - 39-3-596
 
-[AI Podcast Overview](https://drive.google.com/file/d/1UQ2hgWLa1uMMPWVsIU0HzUTyKUw_w2K9/view?usp=drive_link) (From [[Sources/NotebookLM\|NotebookLM]])
+[AI Podcast Overview](https://drive.google.com/file/d/1UQ2hgWLa1uMMPWVsIU0HzUTyKUw_w2K9/view?usp=drive_link) (From [[Sources/Gemini Notebook\|Gemini Notebook]])
 ### Travelling to Neverwell
 **Emerald Desert Map:**
 ![Emerald Desert.png](/img/user/z_assets/TTRPG/Place%20Pictures/Emerald%20Desert/Emerald%20Desert.png)

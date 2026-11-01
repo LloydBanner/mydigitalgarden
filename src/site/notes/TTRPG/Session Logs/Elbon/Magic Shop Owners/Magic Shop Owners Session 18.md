@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-18/","tags":["feed","elbonLogs","developed"],"created":"13-01-2026","updated":"02-03-2026","dg-note-properties":{"created":"13-01-2026","updated":"02-03-2026","tags":["feed","elbonLogs","developed"],"sessionDate":"13-01-2026"}}
+{"dg-publish":true,"permalink":"/ttrpg/session-logs/elbon/magic-shop-owners/magic-shop-owners-session-18/","tags":["feed","elbonLogs","developed"],"created":"13-01-2026","updated":"08-03-2026","dg-note-properties":{"created":"13-01-2026","updated":"08-03-2026","tags":["feed","elbonLogs","developed"],"sessionDate":"13-01-2026"}}
 ---
 
 ## Session Notes
 
 **[[TTRPG/Elbon Setting/Calendar/Elbon Calendar\|Calendar]] Date:** 34-3-596
 
-[AI Podcast Overview](https://drive.google.com/file/d/1E1pgCsJ2jTI8hNmKq7MV3qEUcaVvyS-J/view?usp=drive_link) (From [[Sources/NotebookLM\|NotebookLM]])
+[AI Podcast Overview](https://drive.google.com/file/d/1E1pgCsJ2jTI8hNmKq7MV3qEUcaVvyS-J/view?usp=drive_link) (From [[Sources/Gemini Notebook\|Gemini Notebook]])
 ### A Week in the Life of a Magic Shop Owner
 ![Stagbrook.png](/img/user/z_assets/TTRPG/Place%20Pictures/Stagbrook/Stagbrook.png)
 - After a full week of rest the party was fully recovered
