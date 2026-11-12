@@ -6,6 +6,7 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Developing Feed (Sorted by Last Update)
+- [[Main Notes/Writing About All My Media Consumption\|Writing About All My Media Consumption]]: 08-11-2026
 - [[My Forever Games\|My Forever Games]]: 27-09-2026
 - [[Main Notes/Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 27-06-2026
 - [[Reviews/A Parade of Horribles Review\|A Parade of Horribles Review]]: 18-06-2026
@@ -28,8 +29,8 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 - [[Reviews/Siddhartha Review\|Siddhartha Review]]: 28-11-2025
 - [[Reviews/Old Moon Quarterly Issue 1 Review\|Old Moon Quarterly Issue 1 Review]]: 28-11-2025
 - [[Main Notes/Recommended TTRPG Resources\|Recommended TTRPG Resources]]: 28-11-2025
-- [[Main Notes/Appendix N\|Appendix N]]: 11-11-2025
 - [[Sources/Gemini Notebook\|Gemini Notebook]]: 11-11-2025
+- [[Main Notes/Appendix N\|Appendix N]]: 11-11-2025
 - [[Main Notes/My Favourite Video Games\|My Favourite Video Games]]: 04-10-2025
 - [[Main Notes/Permadeath In Games\|Permadeath In Games]]: 03-09-2025
 - [[Main Notes/My Star Wars Watch Order\|My Star Wars Watch Order]]: 22-06-2025

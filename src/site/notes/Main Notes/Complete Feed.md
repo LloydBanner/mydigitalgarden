@@ -7,14 +7,16 @@ If you only want to see pages at certain levels of development, which are define
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Feed (a Bit of Everything) (Sorted by Last Update)
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 24\|Magic Shop Owners Session 24]]: 10-11-2026
+- [[Main Notes/Writing About All My Media Consumption\|Writing About All My Media Consumption]]: 08-11-2026
+- [[Journaling Method\|Journaling Method]]: 01-11-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 23\|Magic Shop Owners Session 23]]: 01-11-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 22\|Magic Shop Owners Session 22]]: 28-10-2026
-- [[Journaling Method\|Journaling Method]]: 28-10-2026
 - [[My Forever Games\|My Forever Games]]: 27-09-2026
 - [[Main Notes/Convert XCOM 2 into a Star Wars Game\|Convert XCOM 2 into a Star Wars Game]]: 27-06-2026
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 21\|Magic Shop Owners Session 21]]: 18-06-2026
 - [[Reviews/A Parade of Horribles Review\|A Parade of Horribles Review]]: 18-06-2026
 - [[Main Notes/Good Words\|Good Words]]: 18-06-2026
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 21\|Magic Shop Owners Session 21]]: 18-06-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 20\|Magic Shop Owners Session 20]]: 17-06-2026
 - [[Reviews/This Inevitable Ruin Review\|This Inevitable Ruin Review]]: 20-04-2026
 - [[Reviews/Project Hail Mary Review\|Project Hail Mary Review]]: 20-04-2026
@@ -24,12 +26,12 @@ If you only want to see pages at certain levels of development, which are define
 - [[Main Notes/Values I Live By\|Values I Live By]]: 20-03-2026
 - [[Main Notes/Recommended Mario Maker 2 Levels\|Recommended Mario Maker 2 Levels]]: 20-03-2026
 - [[Reviews/Resident Evil 9 - Requiem Review\|Resident Evil 9 - Requiem Review]]: 14-03-2026
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 08-03-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 19\|Magic Shop Owners Session 19]]: 08-03-2026
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 08-03-2026
 - [[Reviews/The Eye of the Bedlam Bride Review\|The Eye of the Bedlam Bride Review]]: 06-03-2026
 - [[Reviews/The Butcher's Masquerade Review\|The Butcher's Masquerade Review]]: 06-03-2026
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 16\|Magic Shop Owners Session 16]]: 02-03-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 02-03-2026
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 16\|Magic Shop Owners Session 16]]: 02-03-2026
 - [[Reviews/Black Mesa Review\|Black Mesa Review]]: 28-01-2026
 - [[Main Notes/MMC Invitational 2026\|MMC Invitational 2026]]: 16-01-2026
 - [[Reviews/The Gate of the Feral Gods Review\|The Gate of the Feral Gods Review]]: 12-01-2026
@@ -65,8 +67,8 @@ If you only want to see pages at certain levels of development, which are define
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 15\|Magic Shop Owners Session 15]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 12\|Magic Shop Owners Session 12]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 10\|Magic Shop Owners Session 10]]: 11-11-2025
-- [[Main Notes/Appendix N\|Appendix N]]: 11-11-2025
 - [[Sources/Gemini Notebook\|Gemini Notebook]]: 11-11-2025
+- [[Main Notes/Appendix N\|Appendix N]]: 11-11-2025
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 14\|Magic Shop Owners Session 14]]: 09-11-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 3\|Cursed Ones Session 3]]: 09-11-2025
 - [[TTRPG/Session Logs/Elbon/Cursed Ones/Cursed Ones Session 2\|Cursed Ones Session 2]]: 09-11-2025
@@ -100,8 +102,8 @@ If you only want to see pages at certain levels of development, which are define
 - [[Cooking Recipes/Chicken Pilaf Recipe\|Chicken Pilaf Recipe]]: 25-04-2025
 - [[Reviews/Prey (2017) Review\|Prey (2017) Review]]: 22-04-2025
 - [[Reviews/Morrowind Review\|Morrowind Review]]: 22-04-2025
-- [[Reviews/Middle Earth Shadow of Mordor Review\|Middle Earth Shadow of Mordor Review]]: 22-04-2025
 - [[Reviews/Jedi Survivor Review\|Jedi Survivor Review]]: 22-04-2025
+- [[Reviews/Middle Earth Shadow of Mordor Review\|Middle Earth Shadow of Mordor Review]]: 22-04-2025
 - [[Reviews/Jedi Knight Jedi Academy Review\|Jedi Knight Jedi Academy Review]]: 22-04-2025
 - [[Reviews/Jedi Knight II Jedi Outcast Review\|Jedi Knight II Jedi Outcast Review]]: 22-04-2025
 - [[Reviews/Jedi Fallen Order Review\|Jedi Fallen Order Review]]: 22-04-2025

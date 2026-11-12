@@ -6,7 +6,7 @@ This is the feed of all my draft pages that I thought were feed worthy. If you o
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Draft Feed (Sorted by Last Update)
-- [[Journaling Method\|Journaling Method]]: 28-10-2026
+- [[Journaling Method\|Journaling Method]]: 01-11-2026
 - [[Main Notes/Good Words\|Good Words]]: 18-06-2026
 - [[Main Notes/The Best Christmas Films\|The Best Christmas Films]]: 23-12-2025
 - [[Main Notes/Fantasy Should be Weird\|Fantasy Should be Weird]]: 23-12-2025

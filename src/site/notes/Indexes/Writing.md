@@ -16,7 +16,8 @@ A page to collect all the things I have written. This will include, but is not l
 
 { .block-language-dataview}
 ## Thoughts (Sorted by Last Update)
-- [[Journaling Method\|Journaling Method]]: 28-10-2026
+- [[Main Notes/Writing About All My Media Consumption\|Writing About All My Media Consumption]]: 08-11-2026
+- [[Journaling Method\|Journaling Method]]: 01-11-2026
 - [[Does Adventure Have To Involve Combat\|Does Adventure Have To Involve Combat]]: 28-09-2026
 - [[Main Notes/Good Words\|Good Words]]: 18-06-2026
 - [[Main Notes/Values I Live By\|Values I Live By]]: 20-03-2026

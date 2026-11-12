@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journaling-method/","tags":["thoughts","draft","feed"],"created":"28-10-2026","updated":"28-10-2026","dg-note-properties":{"created":"28-10-2026","updated":"28-10-2026","category":"[[Thoughts]]","tags":["thoughts","draft","feed"]}}
+{"dg-publish":true,"permalink":"/journaling-method/","tags":["thoughts","draft","feed"],"created":"28-10-2026","updated":"01-11-2026","dg-note-properties":{"created":"28-10-2026","updated":"01-11-2026","category":"[[Thoughts]]","tags":["thoughts","draft","feed"]}}
 ---
 
 Recently I have been trying to get my thoughts in order. I have never been very good at journaling. I have tried dream journaling, daily Obsidian notes, just writing down my thoughts and gratitude journaling. None of them have stuck.
@@ -37,6 +37,20 @@ I want a method that I can use to capture what I need in the moment and nothing 
 - Divide in to six
 - Title each with a month
 - Record things happening and tasks for each month
+
+## Reflection
+### Morning
+- With breakfast write down any thoughts bubbling up
+- Review Pages of current month and check open tasks
+### Evening
+- Before bed scan what you have logged through the day
+- Tick off completed tasks
+- Write down anything you may have missed
+- Assess why things are important and if they are a priority
+- Cross out tasks you think are irrelevant
+- No screens between evening and morning reflections
+## Meaning
+- If you are ever feeling a little lost, try the exercise of pg148 of [[Sources/Books/Notes/The Bullet Journal Method\|The Bullet Journal Method]]
 
 ## References 
 - [[Sources/Books/Notes/The Bullet Journal Method\|The Bullet Journal Method]]

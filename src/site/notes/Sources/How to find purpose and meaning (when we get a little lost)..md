@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/sources/how-to-find-purpose-and-meaning-when-we-get-a-little-lost/","tags":["sources","videos"],"created":"08-11-2026","updated":"08-11-2026","dg-note-properties":{"created":"08-11-2026","updated":"08-11-2026","category":"[[Videos]]","tags":["sources","videos"],"creators":["IMBeggar"],"released":"08-08-2019","last":"08-11-2026","first":"08-11-2026","owned":"no"}}
+---
+
+First Watched: 08-11-2026
+Last Watched: 08-11-2026
+Creators: IMBeggar
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZFsXLyey-sM?si=JdBmAhLn6FhZduPp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+I have been somewhat introspective recently. I now I need to find some purpose. I know I a liking something to really drive me like I used to have. So I typed purpose into YouTube and this was the first result. I liked the first idea that helping people was a purpose, because I do thing that helping others makes you feel better and that if everyone was doing it the world would be a better place. Then this video lost me when it started talking about opening up to god. For one I do not believe in god in this sense, I certainly don't believe there is an all powerful being that loves us. This is a nice idea, but I see no evidence. I think this encourages us to defer our purpose to ideas someone else has written down in a book a long time ago. Some of these ideas may be good but others are clearly dated. The video says at the end you cannot find purpose through reasoning, but I believe this to be false. For so long I had this goal of achieving independence, buying my own home and being able to do all the things I wanted. This was my purpose, but now I realise I achieved that and I am floating, lost. I just need to find my next goal.

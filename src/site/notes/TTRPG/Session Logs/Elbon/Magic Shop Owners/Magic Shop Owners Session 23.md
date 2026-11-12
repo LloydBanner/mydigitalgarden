@@ -66,7 +66,7 @@
 - The chief welcomed them and then they slept in some spare rolls of fur in the camp which the neanderthals said came from apes and lions. They were aware of the risks but were also outnumbered and the people seemed friendly so the slept there anyway 
 
 ##### XP
-2000 xp = 200 x Goblin
+2000 xp = 200 x Orc
 750 xp = 10 x Gargoyle 
 1100 xp = Fire Giant
 50 xp = Giant Spider

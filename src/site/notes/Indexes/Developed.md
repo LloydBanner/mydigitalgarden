@@ -6,6 +6,7 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 
 **[[Indexes/Developed\|Developed]] - [[Indexes/Developing\|Developing]] - [[Indexes/Draft\|Draft]]**
 ## Developed Feed (Sorted by Last Update)
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 24\|Magic Shop Owners Session 24]]: 10-11-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 23\|Magic Shop Owners Session 23]]: 01-11-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 22\|Magic Shop Owners Session 22]]: 28-10-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 21\|Magic Shop Owners Session 21]]: 18-06-2026
@@ -15,12 +16,12 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 - [[Reviews/Blue Prince Review\|Blue Prince Review]]: 29-03-2026
 - [[Reviews/Spec Ops - The Line Review\|Spec Ops - The Line Review]]: 28-03-2026
 - [[Reviews/Resident Evil 9 - Requiem Review\|Resident Evil 9 - Requiem Review]]: 14-03-2026
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 08-03-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 19\|Magic Shop Owners Session 19]]: 08-03-2026
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 18\|Magic Shop Owners Session 18]]: 08-03-2026
 - [[Reviews/The Eye of the Bedlam Bride Review\|The Eye of the Bedlam Bride Review]]: 06-03-2026
 - [[Reviews/The Butcher's Masquerade Review\|The Butcher's Masquerade Review]]: 06-03-2026
-- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 16\|Magic Shop Owners Session 16]]: 02-03-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 17\|Magic Shop Owners Session 17]]: 02-03-2026
+- [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 16\|Magic Shop Owners Session 16]]: 02-03-2026
 - [[Reviews/Black Mesa Review\|Black Mesa Review]]: 28-01-2026
 - [[Main Notes/2025 Reading One Book a Month\|2025 Reading One Book a Month]]: 04-01-2026
 - [[TTRPG/Session Logs/Elbon/Magic Shop Owners/Magic Shop Owners Session 1\|Magic Shop Owners Session 1]]: 22-12-2025
@@ -58,8 +59,8 @@ This is the feed of all my developed pages that I thought were feed worthy. If y
 - [[Cooking Recipes/Chicken Pilaf Recipe\|Chicken Pilaf Recipe]]: 25-04-2025
 - [[Reviews/Prey (2017) Review\|Prey (2017) Review]]: 22-04-2025
 - [[Reviews/Morrowind Review\|Morrowind Review]]: 22-04-2025
-- [[Reviews/Middle Earth Shadow of Mordor Review\|Middle Earth Shadow of Mordor Review]]: 22-04-2025
 - [[Reviews/Jedi Survivor Review\|Jedi Survivor Review]]: 22-04-2025
+- [[Reviews/Middle Earth Shadow of Mordor Review\|Middle Earth Shadow of Mordor Review]]: 22-04-2025
 - [[Reviews/Jedi Knight Jedi Academy Review\|Jedi Knight Jedi Academy Review]]: 22-04-2025
 - [[Reviews/Jedi Knight II Jedi Outcast Review\|Jedi Knight II Jedi Outcast Review]]: 22-04-2025
 - [[Reviews/Jedi Fallen Order Review\|Jedi Fallen Order Review]]: 22-04-2025
